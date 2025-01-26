@@ -1,23 +1,23 @@
-# Sea Serpent (Lesser)
+# נחש ים (קטן)
 
-20’–30’ long, serpent-like sea monsters with rows of many fins.
+אורך 20'–30', מפלצות ים דמויות נחש עם שורות של סנפירים רבים.
 
 ------
 
-| Armor Class     | 5 [14]                                           |
+| מחלקת שריון     | 5 [14]                                           |
 | ---------------- | ------------------------------------------------ |
-| Hit Dice         | 6 (27hp)                                         |
-| Attacks          | 1 × bite (2d6) or 1 × squeeze (1d10 hull damage) |
+| קוביות פגיעה     | 6 (27 נק"פ)                                      |
+| התקפות           | 1 × נשיכה (2d6) או 1 × לחיצה (1d10 נזק לגוף הספינה) |
 | THAC0            | 14 [+5]                                          |
-| Movement         | 150’ (50’)                                       |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)                          |
-| Morale           | 8                                                |
-| Alignment        | Neutral                                          |
-| XP               | 275                                              |
-| Number Appearing | 0 (2d6)                                          |
-| Treasure Type    | None                                             |
+| תנועה            | 150’ (50’)                                       |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (3)                          |
+| מורל             | 8                                                |
+| נטייה            | ניטרלי                                           |
+| נק"נ             | 275                                              |
+| מספר מופיעים     | 0 (2d6)                                          |
+| סוג אוצר         | אין                                              |
 
 ------
 
-- **Lunge:** Up to 20’ out of the water to use a bite attack.
-- **Squeeze:** Coil around and crush a vessel (of equal size or smaller).
+- **הסתערות:** עד 20’ מחוץ למים כדי להשתמש בהתקפת נשיכה.
+- **לחיצה:** מתלפף ומועך כלי שיט (בגודל שווה או קטן יותר).

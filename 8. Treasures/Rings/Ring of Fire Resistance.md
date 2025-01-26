@@ -1,7 +1,7 @@
-# Ring of Fire Resistance
+# טבעת עמידות לאש
 
-Grants the wearer protection against fire.
+מעניקה ללובש הגנה מפני אש.
 
-- **Normal fire:** Unharmed by non-magical fire.
-- **Save bonus:** Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
-- **Fire-based damage:** Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
+- **אש רגילה:** לא ניזוק מאש לא קסומה.
+- **בונוס הצלה:** מקבל בונוס של +2 לכל גלגולי ההצלה נגד התקפות קסומות או נשיפה מבוססות אש.
+- **נזק מבוסס אש:** מופחת בנקודה אחת לכל קוביית נזק מגולגלת. (כל קובייה גורמת לנזק מינימלי של נקודת פגיעה אחת.)

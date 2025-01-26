@@ -1,22 +1,22 @@
-# Skeleton
+# שלד
 
-Skeletal remains of humanoids reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places.
+שרידי שלדים של דמויי אדם שהוקמו מחדש כשומרים על ידי משתמשי קסם או כמרים רבי עוצמה. לעיתים קרובות נתקלים בהם בבתי קברות, קריפטות או מקומות נטושים אחרים.
 
 ------
 
-| Armor Class     | 7 [12]                        |
+| מחלקת שריון     | 7 [12]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות           | 1 × נשק (1ק6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 60’ (20’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 12                            |
-| Alignment        | Chaotic                       |
-| XP               | 10                            |
-| Number Appearing | 3d4 (3d10)                    |
-| Treasure Type    | None                          |
+| תנועה            | 60’ (20’)                     |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 12                            |
+| נטייה            | כאוטי                         |
+| נק"נ             | 10                            |
+| מספר מופיעים     | 3ק4 (3ק10)                    |
+| סוג אוצר         | אין                           |
 
 ------
 
-- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
+- **אל-מתים:** אינם משמיעים רעש עד שהם תוקפים. חסינים להשפעות המשפיעות על יצורים חיים (למשל, רעל). חסינים לכשפים המשפיעים על המוח או קוראים מחשבות (למשל, *קסם*, *החזקה*, *שינה*).

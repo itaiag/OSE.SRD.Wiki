@@ -1,12 +1,12 @@
-# Staff of Wizardry
+# מטה הקוסמות
 
-An item of supreme wizardly power, this staff may be used as a weapon in melee, and may evoke a dozen different magical effects.
+חפץ בעל עוצמה קוסמית עליונה, מטה זה עשוי לשמש כנשק בקרב פנים אל פנים, ויכול לעורר תריסר אפקטים קסומים שונים.
 
-- **Arcane magic:** Usable by arcane spell casters only.
-- **In melee:** Treated as a staff with a +1 magic bonus to attack and damage rolls.
-- **Striking:** Expending one charge, inflicts 2d6 damage on a successful hit.
-- **Cone of cold:** Conjures a cone of freezing energy, 60’ long and 30’ wide at the far end. Creatures caught in the cone suffer 8d6 damage, with a successful **save versus spells** indicating half damage.
-- **Paralysation:** Conjures a cone of magical energy, 60’ long and 30’ wide at the far end. Creatures caught in the cone are paralyzed for 6 turns (**save versus spells** to avoid).
-- **Spells:** Can cast: conjure elemental (8 HD), continual light, fire ball (8d6 damage), invisibility, lightning bolt (8d6 damage), pass-wall, telekinesis (up to 2,400 coins of weight), web.
-- **Whirlwind:** Conjures a whirlwind 70’ tall, 20’ wide at the top, and 10’ wide at the base. The whirlwind lasts for 3 rounds and moves at 120’ (40’) as the staff's wielder directs. All in its path suffer 2d6 damage. Creatures with less than 2HD are swept aside (**save versus death** to avoid).
-- **Sacrifice:** The wielder may sacrifice the staff by breaking it in two. Doing so unleashes a 30’ radius fireball that inflicts 8 points of damage per remaining charge in the staff. The wielder of the staff also suffers this damage.
+- **קסם ארקני:** ניתן לשימוש על ידי מטילי לחשים ארקניים בלבד.
+- **בקרב פנים אל פנים:** נחשב כמטה עם בונוס קסם של +1 לגלגולי התקפה ונזק.
+- **מכה:** הוצאת מטען אחד, גורמת 2d6 נזק בפגיעה מוצלחת.
+- **חרוט קור:** מזמן חרוט של אנרגיה קפואה, באורך 60’ וברוחב 30’ בקצה הרחוק. יצורים שנתפסים בחרוט סובלים מ-8d6 נזק, עם **הצלה מול לחשים** מוצלחת שמצביעה על חצי נזק.
+- **שיתוק:** מזמן חרוט של אנרגיה קסומה, באורך 60’ וברוחב 30’ בקצה הרחוק. יצורים שנתפסים בחרוט משותקים ל-6 סיבובים (**הצלה מול לחשים** כדי להימנע).
+- **לחשים:** יכול להטיל: זימון יסודן (8 HD), אור מתמשך, כדור אש (8d6 נזק), היעלמות, ברק (8d6 נזק), מעבר-קיר, טלקינזיס (עד 2,400 מטבעות משקל), קורים.
+- **סופת טורנדו:** מזמן סופת טורנדו בגובה 70’, ברוחב 20’ בחלק העליון, וברוחב 10’ בבסיס. סופת הטורנדו נמשכת 3 סיבובים ונעה במהירות 120’ (40’) כפי שמכוון נושא המטה. כל הנמצאים בדרכה סובלים מ-2d6 נזק. יצורים עם פחות מ-2HD נשטפים הצידה (**הצלה מול מוות** כדי להימנע).
+- **הקרבה:** הנושא יכול להקריב את המטה על ידי שבירתו לשניים. פעולה זו משחררת כדור אש ברדיוס 30’ שגורם 8 נקודות נזק לכל מטען שנותר במטה. נושא המטה גם סובל מנזק זה.

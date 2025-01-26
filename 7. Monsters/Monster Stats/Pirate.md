@@ -1,29 +1,29 @@
-# Pirate
+# פיראט
 
-Sailors who make a living by raiding coastal settlements, robbing other ships, and illegal slaving. Typically ply the open seas. Renowned for their ruthless and evil ways.
+מלחים שמתפרנסים מפשיטות על יישובים חופיים, שוד ספינות אחרות ועבדות בלתי חוקית. בדרך כלל פועלים בימים הפתוחים. ידועים בדרכיהם האכזריות והרעות.
 
 ------
 
-| Armor Class     | 7 [12] or 5 [14]              |
+| מחלקת שריון     | 7 [12] או 5 [14]              |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות           | 1 × נשק (1d6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 7                             |
-| Alignment        | Chaotic                       |
-| XP               | 10                            |
-| Number Appearing | 0 (see below)                 |
-| Treasure Type    | A                             |
+| תנועה            | 120’ (40’)                    |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 7                             |
+| נטייה            | כאוטי                         |
+| נק"נ             | 10                            |
+| מספר מופיעים     | 0 (ראה למטה)                 |
+| סוג אוצר         | A                             |
 
 ------
 
-- **Ships and crew:** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 × 10 pirates each); Coastal waters: 1d6 small galleys (1d3+1 × 10 pirates each); Any: 1d4 longships (1d3+2 × 10 pirates each); Ocean: 1d3 small warships (1d5+3 × 10 pirates each). (See *Water Vessels* for details on ships.)
-- **Arms:** 50% of the group have: leather armor, and sword; 35% have: leather armor, sword, and crossbow; 15% have: chainmail and sword.
-- **Leaders:** For every 30 pirates, there is a 4th-level fighter. For every 50 pirates and for each ship, there is a 5th-level fighter. For every 100 pirates and per fleet, there is an 8th-level fighter.
-- **Fleet commander:** Fleets of 300 or more pirates are led by a pirate lord (11th-level fighter). 75% chance of a magic-user (level 1d2+8).
-- **Treacherous:** Will attack other pirates, if they can profit from it.
-- **Prisoners:** 25% chance of 1d3 prisoners to be ransomed.
-- **Treasure:** Divided between vessels. Instead of carrying it with them, they may have a map of where it is buried.
-- **Havens:** Lawless, fortified, coastal towns may act as a haven for pirates.
+- **ספינות וצוות:** תלוי היכן נתקלים בהם. נהרות או אגמים: 1d8 סירות נהר (1d2 × 10 פיראטים כל אחת); מים חופיים: 1d6 גליאות קטנות (1d3+1 × 10 פיראטים כל אחת); כל מקום: 1d4 ספינות ארוכות (1d3+2 × 10 פיראטים כל אחת); אוקיינוס: 1d3 ספינות מלחמה קטנות (1d5+3 × 10 פיראטים כל אחת). (ראה *כלי שיט* לפרטים על ספינות.)
+- **נשק:** 50% מהקבוצה יש: שריון עור וחרב; 35% יש: שריון עור, חרב ורובה קשת; 15% יש: שריון שרשראות וחרב.
+- **מנהיגים:** לכל 30 פיראטים, יש לוחם בדרגה 4. לכל 50 פיראטים ולכל ספינה, יש לוחם בדרגה 5. לכל 100 פיראטים ולכל צי, יש לוחם בדרגה 8.
+- **מפקד צי:** ציים של 300 פיראטים או יותר מונהגים על ידי אדון פיראטים (לוחם בדרגה 11). 75% סיכוי למשתמש קסם (דרגה 1d2+8).
+- **בוגדניים:** יתקפו פיראטים אחרים אם יוכלו להרוויח מכך.
+- **שבויים:** 25% סיכוי ל-1d3 שבויים שיינתנו לפדיון.
+- **אוצר:** מחולק בין כלי השיט. במקום לשאת אותו איתם, ייתכן שיש להם מפה למקום שבו הוא קבור.
+- **מקומות מקלט:** עיירות חוף מבוצרות וחסרות חוק עשויות לשמש כמקלט לפיראטים.

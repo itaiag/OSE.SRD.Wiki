@@ -1,9 +1,9 @@
-# Detect Magic (MU)
+# גילוי קסם (MU)
 
-*1st Level Magic-User Spell*
+*לחשים למשתמש קסם ברמה 1*
 
-**Duration:** 2 turns
+**משך:** 2 סיבובים
 
-**Range:** 60’
+**טווח:** 60’
 
-Enchanted objects, areas, or creatures are caused to glow. Both permanent and temporary enchantments are revealed.
+חפצים מכושפים, אזורים או יצורים גורמים לזהור. גם כישופים קבועים וגם זמניים נחשפים.

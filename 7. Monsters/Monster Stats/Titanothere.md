@@ -1,23 +1,23 @@
-# Titanothere
+# טיטנוטרה
 
-Giant (12’ at the shoulder), ancient relatives of the rhinoceros, with massive, blunt horns. Eat grass and tree leaves. Dwell in small herds in Lost World grasslands.
+קרובי משפחה ענקיים (12 רגל בכתף) ועתיקים של הקרנף, עם קרניים מסיביות וקהות. אוכלים עשב ועלי עצים. חיים בעדרים קטנים במישורי העולם האבוד.
 
 ------
 
-| Armor Class     | 5 [14]                              |
+| מחלקת שריון     | 5 [14]                              |
 | ---------------- | ----------------------------------- |
-| Hit Dice         | 12 (54hp)                           |
-| Attacks          | 1 × butt (2d6) or 1 × trample (3d8) |
+| קוביות פגיעה    | 12 (54 נק"פ)                        |
+| התקפות          | 1 × נגיחה (2ק6) או 1 × דריסה (3ק8) |
 | THAC0            | 10 [+9]                             |
-| Movement         | 120’ (40’)                          |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)             |
-| Morale           | 7                                   |
-| Alignment        | Neutral                             |
-| XP               | 1,100                               |
-| Number Appearing | 0 (1d6)                             |
-| Treasure Type    | None                                |
+| תנועה           | 120’ (40’)                          |
+| גלגולי הצלה     | ד10 ו11 פ12 ב13 ס14 (6)             |
+| מורל            | 7                                   |
+| נטייה           | נייטרלי                             |
+| נק"נ            | 1,100                               |
+| מספר מופיעים    | 0 (1ק6)                             |
+| סוג אוצר        | אין                                 |
 
 ------
 
-- **Peaceful grazers:** Will not attack if left alone.
-- **Trample:** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
+- **אוכלי עשב שלווים:** לא יתקפו אם יושארו לבד.
+- **דריסה:** סיכוי של 3 מתוך 4 לדרוס כל סיבוב. +4 לפגיעה ביצורים בגודל אדם או קטנים יותר.

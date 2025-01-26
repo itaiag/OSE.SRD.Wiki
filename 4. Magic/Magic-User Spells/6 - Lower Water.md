@@ -1,9 +1,9 @@
-# Lower Water
+# הורדת מים
 
-*6th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 6*
 
-**Duration:** 10 turns
+**משך:** 10 תורות
 
-**Range:** 240’
+**טווח:** 240’
 
-This spell reduces the depth of a body of water by half for the duration. An area of up to 10,000 square feet may be affected.
+לחש זה מפחית את עומק גוף המים בחצי למשך הזמן. ניתן להשפיע על שטח של עד 10,000 רגל רבוע.

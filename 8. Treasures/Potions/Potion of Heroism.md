@@ -1,13 +1,13 @@
-# Potion of Heroism
+# שיקוי גבורה
 
-Normal humans and characters of a combat-focused, non-magic-using class (e.g., dwarf, fighter, halfling who drinks a *potion of heroism*) temporarily gain additional levels. The number of levels gained depends on the character’s normal experience level:
+בני אדם רגילים ודמויות ממעמד קרבי שאינו משתמש בקסם (למשל, גמד, לוחם, חצי-אדם ששותה *שיקוי גבורה*) מקבלים זמנית רמות נוספות. מספר הרמות הנוספות תלוי ברמת הניסיון הרגילה של הדמות:
 
-- **Normal human:** Gain the abilities of a 4th-level fighter.
-- **1st–3rd level:** Gain 3 levels.
-- **4th–7th level:** Gain 2 levels.
-- **8th–10th level:** Gain 1 level.
-- **11th level+:** No effect.
+- **אדם רגיל:** מקבל את היכולות של לוחם ברמה 4.
+- **רמה 1–3:** מקבל 3 רמות.
+- **רמה 4–7:** מקבל 2 רמות.
+- **רמה 8–10:** מקבל רמה אחת.
+- **רמה 11+:** אין השפעה.
 
-**Effects:** All abilities of the additional levels are gained, including extra hit points.
+**השפעות:** כל היכולות של הרמות הנוספות מתקבלות, כולל נקודות פגיעה נוספות.
 
-**Damage:** Damage suffered while under the effects of this potion is first deducted from the pool of additional hit points granted.
+**נזק:** נזק שנגרם בזמן השפעת השיקוי מופחת תחילה ממאגר נקודות הפגיעה הנוספות שניתנו.

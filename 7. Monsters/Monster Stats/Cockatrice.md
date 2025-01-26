@@ -1,22 +1,22 @@
-# Cockatrice
+# קוקרטריס
 
-Small, magical, bird/reptile hybrids with long serpent tails and the head, legs, and wings of a cockerel. Live in all environments.
+היברידים קטנים, קסומים, של ציפורים/זוחלים עם זנבות נחש ארוכים וראש, רגליים וכנפיים של תרנגול. חיים בכל הסביבות.
 
 ------
 
-| Armor Class     | 6 [13]                         |
+| מחלקת שריון     | 6 [13]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 5** (22hp)                     |
-| Attacks          | 1 × beak (1d6 + petrification) |
+| קוביות פגיעה     | 5** (22 נק"פ)                  |
+| התקפות           | 1 × מקור (1ק6 + התאבנות)       |
 | THAC0            | 15 [+4]                        |
-| Movement         | 90’ (30’) / 180’ (60’) flying  |
-| Saving Throws    | D10 W11 P12 B13 S14 (5)        |
-| Morale           | 7                              |
-| Alignment        | Neutral                        |
-| XP               | 425                            |
-| Number Appearing | 1d4 (1d8)                      |
-| Treasure Type    | D                              |
+| תנועה            | 90’ (30’) / 180’ (60’) מעוף    |
+| גלגולי הצלה      | D10 W11 P12 B13 S14 (5)        |
+| מורל             | 7                              |
+| נטייה            | נייטרלי                        |
+| נק"נ             | 425                            |
+| מספר מופיעים     | 1ק4 (1ק8)                      |
+| סוג אוצר         | D                              |
 
 ------
 
-- **Petrification:** Anyone touched is turned to stone (**save versus petrify**).
+- **התאבנות:** כל מי שנוגע הופך לאבן (**הצלה נגד התאבנות**).

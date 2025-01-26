@@ -1,6 +1,6 @@
-# Wand of Paralyzation
+# שרביט השיתוק
 
-Conjures a cone of paralyzing energy.
+מזמן חרוט של אנרגיה משתקת.
 
-- **Area:** The cone is 60’ long and 30’ wide at the far end.
-- **Creatures caught in the cone:** Are paralyzed for 6 turns, with a successful **save versus wands** negating the effect.
+- **שטח:** החרוט הוא באורך 60 רגל וברוחב 30 רגל בקצה הרחוק.
+- **יצורים שנתפסים בחרוט:** משותקים למשך 6 תורות, עם **הצלה מוצלחת נגד שרביטים** מבטלת את ההשפעה.

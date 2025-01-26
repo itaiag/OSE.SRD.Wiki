@@ -1,25 +1,25 @@
-# Elf (Monster)
+# אלף (מפלצת)
 
-Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings.
+דמויי אדם רזים ופיים עם אוזניים מחודדות. חיים בהרמוניה עם הטבע, בסביבות טבעיות יפות.
 
 ------
 
-| Armor Class     | 5 [14]                        |
+| מחלקת שריון     | 5 [14]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1+1* (5hp)                    |
-| Attacks          | 1 × weapon (1d8 or by weapon) |
+| קוביות פגיעה     | 1+1* (5 נק"פ)                 |
+| התקפות          | 1 × נשק (1d8 או לפי נשק)      |
 | THAC0            | 18 [+1]                       |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | D12 W13 P13 B15 S15 (Elf 1)   |
-| Morale           | 8 (10 with leader)            |
-| Alignment        | Neutral                       |
-| XP               | 19                            |
-| Number Appearing | 1d4 (2d12)                    |
-| Treasure Type    | E                             |
+| תנועה            | 120’ (40’)                    |
+| גלגולי הצלה     | D12 W13 P13 B15 S15 (אלף 1)   |
+| מורל             | 8 (10 עם מנהיג)               |
+| נטייה            | נייטרלי                      |
+| נק"נ             | 19                            |
+| מספר מופיעים    | 1d4 (2d12)                    |
+| סוג אוצר        | E                             |
 
 ------
 
-- **Spells:** Each individual has one random 1st-level arcane spell.
-- **Leader:** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see Magic Items).
+- **לחשים:** לכל פרט יש לחש אקראי אחד מדרגה ראשונה.
+- **מנהיג:** קבוצות של 15+ מונהגות על ידי אלף בדרגה 1d6 + 1. למנהיג עשויים להיות פריטים קסומים: סיכוי של 5% לכל דרגה עבור כל טבלת פריטים קסומים (ראה פריטים קסומים).
 
-*See Elf for the character class.*
+*ראה אלף עבור מחלקת הדמות.*

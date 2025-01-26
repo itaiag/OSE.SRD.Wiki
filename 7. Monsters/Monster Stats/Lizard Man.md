@@ -1,23 +1,23 @@
-# Lizard Man
+# איש הלטאה
 
-Semi-intelligent, tribal, aquatic humanoids with reptilian heads and tails. Often encountered in swamps and dungeons, or along rivers and coastlines.
+יצורים חצי-אינטליגנטיים, שבטיים, דמויי אדם מימיים עם ראשים וזנבות של זוחלים. לעיתים קרובות נתקלים בהם בביצות ובמבוכים, או לאורך נהרות וחופים.
 
 ------
 
-| Armor Class     | 5 [14]                              |
+| מחלקת שריון     | 5 [14]                              |
 | ---------------- | ----------------------------------- |
-| Hit Dice         | 2+1 (10hp)                          |
-| Attacks          | 1 × weapon (1d6+1 or by weapon + 1) |
+| קוביות פגיעה     | 2+1 (10hp)                          |
+| התקפות           | 1 × נשק (1d6+1 או על ידי נשק + 1)   |
 | THAC0            | 17 [+2]                             |
-| Movement         | 60’ (20’) / 120’ (40’) in water     |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)             |
-| Morale           | 12                                  |
-| Alignment        | Neutral                             |
+| תנועה            | 60’ (20’) / 120’ (40’) במים         |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)             |
+| מורל             | 12                                  |
+| נטייה            | נייטרלי                             |
 | XP               | 25                                  |
-| Number Appearing | 2d4 (6d6)                           |
-| Treasure Type    | D                                   |
+| מספר מופיעים     | 2d4 (6d6)                           |
+| סוג אוצר         | D                                   |
 
 ------
 
-- **Weapons:** Favour spears or large clubs.
-- **Man-eaters:** Kidnap humans and demihumans, whose flesh they regard as a delicacy.
+- **נשקים:** מעדיפים חניתות או אלות גדולות.
+- **אוכלי אדם:** חוטפים בני אדם ודמויי אדם, שאת בשרם הם רואים כמעדן.

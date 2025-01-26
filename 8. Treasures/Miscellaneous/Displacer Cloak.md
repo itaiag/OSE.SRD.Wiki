@@ -1,6 +1,6 @@
-# Displacer Cloak
+# גלימת העתקה
 
-A cloak that bends light makes one who wears it appear 5’ away from their true location.
+גלימה שמכופפת אור גורמת למי שלובש אותה להיראות 5 רגל ממיקומו האמיתי.
 
-- **Save bonus:** The wearer gains a +2 bonus to saving throws against petrification, rods, spells, staves, and wands.
-- **Melee attacks:** Against the wearer are penalized by -2.
+- **בונוס הצלה:** הלובש מקבל בונוס של +2 לגלגולי הצלה נגד התאבנות, מטות, לחשים, מקלות ושרביטים.
+- **התקפות קרב פנים אל פנים:** נגד הלובש נענשות ב-2-.

@@ -1,9 +1,9 @@
-# Helm of Teleportation
+# קסדת הטלפורטציה
 
-A magical helm that gives an arcane spell caster the ability to cast the *teleport* spell.
+קסדה קסומה שנותנת למטיל לחשים ארקני את היכולת להטיל את לחש *טלפורטציה*.
 
-- **Subject:** The wearer may teleport themselves, another creature, or an object.
-- **Resisting:** If used on another creature or object, a **save versus spells** can resist being teleported.
-- **When first found:** The helm’s power is usable only once.
-- **Recharging:** To be used again, a teleport spell must be cast upon the helm.
-- **Once recharged:** The wearer may use the helm an unlimited number of times (at most once per round). If the helm is used on an unwilling subject, it once again loses its power and must be recharged, as above, to be used again.
+- **נושא:** הלובש יכול לטלפרט את עצמו, יצור אחר או חפץ.
+- **התנגדות:** אם משתמשים בזה על יצור או חפץ אחר, **הצלה מול לחשים** יכולה להתנגד לטלפורטציה.
+- **כאשר נמצאת לראשונה:** הכוח של הקסדה ניתן לשימוש רק פעם אחת.
+- **טעינה מחדש:** כדי להשתמש שוב, יש להטיל לחש טלפורטציה על הקסדה.
+- **לאחר טעינה מחדש:** הלובש יכול להשתמש בקסדה מספר בלתי מוגבל של פעמים (במקסימום פעם אחת לסיבוב). אם הקסדה משמשת על נושא לא רצוי, היא שוב מאבדת את כוחה ויש לטעון אותה מחדש, כפי שתואר לעיל, כדי להשתמש בה שוב.

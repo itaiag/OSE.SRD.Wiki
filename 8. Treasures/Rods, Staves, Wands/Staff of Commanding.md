@@ -1,27 +1,27 @@
-# Staff of Commanding
+# מטה הפיקוד
 
-Grants the power to control animals, humans, and plants.
+מעניק את הכוח לשלוט בבעלי חיים, בני אדם וצמחים.
 
-## Commanding Animals
+## פיקוד על בעלי חיים
 
-- **Affects:** 1d6 normal animals or 1 giant animal (but not magical or intelligent animals).
-- **Resisting:** No saving throw is allowed.
-- **Visual range:** The character can only control animals that they can see.
-- **Concentration:** Control is broken if the staff user moves or attacks.
-- **When concentration ends:** The referee should make a reaction roll with a -1 penalty (see Encounters to determine the animals’ behavior.
-- **Usage frequency:** This staff power may be used up to once per turn.
+- **משפיע על:** 1d6 בעלי חיים רגילים או בעל חיים ענק אחד (אך לא בעלי חיים קסומים או אינטליגנטיים).
+- **התנגדות:** לא ניתן לבצע גלגול הצלה.
+- **טווח ראייה:** הדמות יכולה לשלוט רק בבעלי חיים שהיא יכולה לראות.
+- **ריכוז:** השליטה נשברת אם משתמש המטה זז או תוקף.
+- **כאשר הריכוז מסתיים:** השופט צריך לבצע גלגול תגובה עם עונש של -1 (ראה מפגשים כדי לקבוע את התנהגות בעלי החיים).
+- **תדירות שימוש:** ניתן להשתמש בכוח המטה עד פעם אחת לכל תור.
 
-## Commanding Humans
+## פיקוד על בני אדם
 
-- **Usage:** A charm may be placed upon a human within 60’. One target may be charmed per round.
-- **Resisting:** The subject may **save versus spells (with a -2 penalty)** to resist.
-- **Maximum subjects:** Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.
-- **Charmed individuals:** Regard the character as a trusted friend, and will come to their defense. They will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.
-- **Duration:** The charm lasts indefinitely but ends if canceled by the staff's wielder or when dispelled.
+- **שימוש:** ניתן להטיל קסם על בן אדם בטווח של 60’. ניתן להקסים מטרה אחת בכל סיבוב.
+- **התנגדות:** הנושא יכול **להציל מול לחשים (עם עונש של -2)** כדי להתנגד.
+- **מקסימום נושאים:** עד 6 קוביות פגיעה של בני אדם יכולים להיות מוקסמים בדרך זו. בני אדם רגילים נחשבים כ-½ קוביית פגיעה.
+- **אנשים מוקסמים:** רואים את הדמות כחבר מהימן, ויבואו להגנתה. הם יצייתו לפקודות הדמות, כל עוד אלו אינן מזיקות באופן ברור ואינן סותרות את נטיית הנושא.
+- **משך זמן:** הקסם נמשך ללא הגבלת זמן אך מסתיים אם מבוטל על ידי נושא המטה או כאשר מבוטל.
 
-## Commanding Plants
+## פיקוד על צמחים
 
-- **Affects:** All plants (including plant monsters) in a 10’ square area.
-- **Range:** The area may be up to 60’ distant.
-- **Commands:** Affected plants may be commanded to move around as the character wishes.
-- **Concentration:** The effect lasts as long as the staff's wielder concentrates.
+- **משפיע על:** כל הצמחים (כולל מפלצות צמחים) באזור של 10’ ריבועי.
+- **טווח:** האזור יכול להיות במרחק של עד 60’.
+- **פקודות:** ניתן לפקד על הצמחים המושפעים לנוע כרצון הדמות.
+- **ריכוז:** ההשפעה נמשכת כל עוד נושא המטה מרוכז.

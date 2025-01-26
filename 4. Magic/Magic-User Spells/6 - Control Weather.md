@@ -1,31 +1,31 @@
-# Control Weather
+# שליטה במזג האוויר
 
-*6th Level Magic-User Spell*
+*לחשים של מכשף דרגה 6*
 
-**Duration:** Concentration
+**משך:** ריכוז
 
-**Range:** 240 yards around the caster
+**טווח:** 240 יארד סביב המטיל
 
-By concentrating (no movement allowed), the caster causes one of the following conditions to manifest in the surrounding area. This spell only functions outdoors.
+על ידי ריכוז (אין תנועה מותרת), המטיל גורם לאחת מהתנאים הבאים להופיע באזור הסובב. לחש זה פועל רק בחוץ.
 
-- **Calm:** Clears bad weather (though side-effects—e.g. mud after rain—remain.)
-- **Extreme heat:** Dries up snow or mud (including *transmute rock to mud. Creatures in the area move at half normal rate.
-- **Fog:** Visibility drops to 20’. Creatures in the fog move at half their normal rate. At the referee’s option, they may also have a chance of getting lost.
-- **High winds:** Movement rates are halved. Missile fire and flight are impossible. High winds may be used to increase the sailing speed of ships by 50%, if they travel with the wind. In sandy areas, may cause a sandstorm, reducing visibility to 20’.
-- **Rain:** -2 penalty to missile attacks. Mud forms in 3 turns, halving movement rates.
-- **Snow:** Visibility drops to 20’. Movement rates are halved. Bodies of water may freeze. After the snow thaws, mud remains and still impedes movement.
-- **Tornado:** Conjures a whirlwind that the caster directs, moving 120’ per round and attacking as directed (see stats below). Ships caught in a tornado have a 75% chance of suffering 12 points of hull damage.
+- **רוגע:** מנקה מזג אוויר רע (אם כי תופעות לוואי—למשל בוץ לאחר גשם—נשארות.)
+- **חום קיצוני:** מייבש שלג או בוץ (כולל *הפיכת סלע לבוץ. יצורים באזור נעים במחצית מהקצב הרגיל.
+- **ערפל:** הראות יורדת ל-20 רגל. יצורים בערפל נעים במחצית מהקצב הרגיל שלהם. לפי שיקול דעת השופט, ייתכן שגם יש להם סיכוי ללכת לאיבוד.
+- **רוחות חזקות:** קצבי התנועה מחולקים לשניים. ירי טילים וטיסה אינם אפשריים. רוחות חזקות עשויות לשמש להגדלת מהירות השיט של ספינות ב-50%, אם הן נוסעות עם הרוח. באזורים חוליים, עשויות לגרום לסופת חול, המפחיתה את הראות ל-20 רגל.
+- **גשם:** עונש של -2 להתקפות טילים. בוץ נוצר תוך 3 סיבובים, מחצית קצבי התנועה.
+- **שלג:** הראות יורדת ל-20 רגל. קצבי התנועה מחולקים לשניים. גופי מים עשויים לקפוא. לאחר שהשלג נמס, בוץ נשאר ועדיין מעכב תנועה.
+- **טורנדו:** מזמן מערבולת שהמטיל מכוון, נעה 120 רגל לסיבוב ותוקפת לפי הכוונה (ראה נתונים למטה). ספינות שנתפסות בטורנדו יש להן סיכוי של 75% לסבול 12 נקודות נזק לגוף הספינה.
 
-#### Tornado
+#### טורנדו
 
-A whirling column of air, 24’ high and 6’ across, that wreaks havoc for flying creatures and ships.
-
-------
-
-**AC** 0 [19], **HD** 12* (54hp), **Att** 1 × blow (2d8), **THAC0** 10 [+9], **MV** 360’ (120’) flying, **SV** D6 W7 P8 B8 S10 (12), **ML** 10, **AL** Neutral, **XP** 1,900
+עמוד אוויר מסתובב, בגובה 24 רגל ורוחב 6 רגל, שגורם להרס ליצורים מעופפים ולספינות.
 
 ------
 
-- **Whirlwind:** Creatures with less than 2HD swept aside (**save versus death**).
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Harm flying creatures:** Inflict extra 1d8 damage.
+**שריון** 0 [19], **נק"פ** 12* (54 נק"פ), **התקפה** 1 × מכה (2ק8), **THAC0** 10 [+9], **מהירות** 360’ (120’) מעופף, **הצלה** D6 W7 P8 B8 S10 (12), **מוסר** 10, **נטייה** ניטרלית, **נק"נ** 1,900
+
+------
+
+- **מערבולת:** יצורים עם פחות מ-2 נק"פ נסחפים הצידה (**הצלה מול מוות**).
+- **חסינות לנזק רגיל:** ניתן לפגוע רק על ידי התקפות קסומות.
+- **פגיעה ביצורים מעופפים:** גורם נזק נוסף של 1ק8.

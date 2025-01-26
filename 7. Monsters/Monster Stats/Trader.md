@@ -1,23 +1,23 @@
-# Trader
+# סוחר
 
-1st level fighters who live by trading in borderland areas.
+לוחמים ברמה 1 שחיים ממסחר באזורים גבוליים.
 
 ------
 
-| Armor Class     | 6 [13]                        |
+| מחלקת שריון     | 6 [13]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות          | 1 × נשק (1ק6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 7                             |
-| Alignment        | Any                           |
-| XP               | 10                            |
-| Number Appearing | 1d8 (3d6)                     |
-| Treasure Type    | U + V                         |
+| תנועה           | 120’ (40’)                    |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1)       |
+| מורל            | 7                             |
+| נטייה           | כלשהי                         |
+| נק"נ            | 10                            |
+| מספר מופיעים    | 1ק8 (3ק6)                     |
+| סוג אוצר        | U + V                         |
 
 ------
 
-- **Arms:** Usually carry: hand-axe, sword, shield, furs (equivalent to leather armor).
-- **Mules:** In the wilderness, have 1d4 mules loaded with trade goods (e.g., carved wooden items, furs, spices).
+- **נשק:** בדרך כלל נושאים: גרזן יד, חרב, מגן, פרוות (שוות ערך לשריון עור).
+- **פרדות:** בטבע, יש להם 1ק4 פרדות עמוסות בסחורות מסחר (למשל, פריטים מעץ מגולף, פרוות, תבלינים).

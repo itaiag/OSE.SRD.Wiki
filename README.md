@@ -1,81 +1,80 @@
-
 ![OSE Logo](OSE.Logo.Black.png)
 
 ---
 
-# REorganized. REpublished. REmastered!
+# מאורגן מחדש. פורסם מחדש. משוחזר מחדש!
 
-### What is OSE SRD REmastered?
+### מהו OSE SRD משוחזר מחדש?
 
-This is an "Americanized" adaptation of the Old-School Essentials (OSE) SRD REformatted in Markdown (.MD) for easy export to other publishing formats. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
+זוהי התאמה "אמריקאית" של ה-Old-School Essentials (OSE) SRD שעוצבה מחדש ב-Markdown (.MD) לייצוא קל לפורמטים אחרים של פרסום. אנא דווחו על כל בעיה או אי-התאמה בחומר עצמו; ראו דיונים ונושאים למטה.
 
-The material contained herein was REmastered line-by-line into Markdown format to be utilized in your own OSE projects. I have painstakingly converted the original [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) to markdown, plus all current errata. In addition, I have converted all British spellings to American spellings. For example, armour to armor, colour to color, etc. Also, I have taken the liberty of grammar-checking all material and rewording some sentences for clarity. For more information, please visit the [SRD Wiki](https://srd.wiki).
+החומר הכלול כאן שוחזר מחדש שורה אחר שורה לפורמט Markdown לשימוש בפרויקטים שלכם של OSE. אני המרה בקפידה את ה-[OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) המקורי ל-Markdown, כולל כל התיקונים הנוכחיים. בנוסף, המרה את כל האיות הבריטי לאיות אמריקאי. לדוגמה, armour ל-armor, colour ל-color, וכו'. כמו כן, לקחתי את החירות לבדוק את הדקדוק של כל החומר ולנסח מחדש כמה משפטים לשם בהירות. למידע נוסף, בקרו ב-[SRD Wiki](https://srd.wiki).
 
-**The Systems Reference Document (SRD)** contains guidelines for publishing contains guidelines for publishing content under the Open-Gaming License [OGL](https://oldschoolessentials.necroticgnome.com/srd/index.php/Open_Game_License) or [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”).
+**מסמך ההתייחסות למערכות (SRD)** מכיל הנחיות לפרסום תוכן תחת רישיון המשחק הפתוח [OGL](https://oldschoolessentials.necroticgnome.com/srd/index.php/Open_Game_License) או [רישיון Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”).
 
 <details>
- <summary>Why Markdown format?</summary>
+ <summary>למה פורמט Markdown?</summary>
 
-Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). By its very nature, being a plain text file, it is designed to add future-proofing to any set of documents while still maintaining basic text and table formatting options. In addition, Markdown may be exported to HTML and many other formats using a number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs, and messages, or to simply create rich text using plain text in a Markdown editor.
+Markdown היא שפת סימון קלה עם תחביר עיצוב טקסט פשוט שנוצרה על ידי [John Gruber](https://daringfireball.net). מטבעה, כקובץ טקסט פשוט, היא נועדה להוסיף עמידות לעתיד לכל סט של מסמכים תוך שמירה על אפשרויות עיצוב טקסט וטבלה בסיסיות. בנוסף, Markdown ניתן לייצוא ל-HTML ולפורמטים רבים אחרים באמצעות מספר עורכי Markdown שונים. Markdown משמשת לעיתים קרובות לעיצוב קבצי readme, לכתיבת ספרים, בלוגים והודעות, או פשוט ליצירת טקסט עשיר באמצעות טקסט פשוט בעורך Markdown.
 
 </details>
 
 <details>
- <summary>Export Options</summary>
+ <summary>אפשרויות ייצוא</summary>
 
-I recommend using the following Markdown applications to edit the material:
+אני ממליץ להשתמש ביישומי Markdown הבאים לעריכת החומר:
 
-* [Typora](https://typora.io): $15 (Pay Once)
-* [Visual Studio Code](https://code.visualstudio.com/Download): FREE!
+* [Typora](https://typora.io): $15 (תשלום חד פעמי)
+* [Visual Studio Code](https://code.visualstudio.com/Download): חינם!
 
-To export Markdown to various publishing formats, I recommend using Typora (listed above), as it has many good export options that will satisfy the majority of users. Most good Markdown editors will offer basic exports. However, if you want more options, [PanWriter](https://panwriter.com) is the best solution. However, for PanWiter to function properly, the following applications must also be installed to maximize your export options:
+לייצוא Markdown לפורמטים שונים של פרסום, אני ממליץ להשתמש ב-Typora (המוזכר לעיל), שכן יש לו אפשרויות ייצוא רבות וטובות שיספקו את רוב המשתמשים. רוב עורכי Markdown הטובים יציעו ייצוא בסיסי. עם זאת, אם אתם רוצים יותר אפשרויות, [PanWriter](https://panwriter.com) הוא הפתרון הטוב ביותר. עם זאת, כדי ש-PanWriter יפעל כראוי, יש להתקין גם את היישומים הבאים כדי למקסם את אפשרויות הייצוא שלכם:
 
-* [Download PanDoc](https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-macOS.pkg)
+* [הורד PanDoc](https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-macOS.pkg)
 
-Alternatively, you can install pandoc using Homebrew:
+לחילופין, תוכלו להתקין pandoc באמצעות Homebrew:
 
 `brew install pandoc`
 
-Homebrew can also install other software that integrates with Pandoc. For example, to install librsvg (its rsvg-convert covers formats without SVG support), Python (to use Pandoc filters), and BasicTeX (to typeset PDFs with LaTeX):
+Homebrew יכול גם להתקין תוכנה אחרת שמשתלבת עם Pandoc. לדוגמה, כדי להתקין librsvg (ה-rsvg-convert שלו מכסה פורמטים ללא תמיכה ב-SVG), Python (לשימוש במסנני Pandoc), ו-BasicTeX (לסידור PDF עם LaTeX):
 
 `brew install librsvg python homebrew/cask/basictex`
 
-Note: On unsupported versions of macOS (more than three releases old), Homebrew installs from the source, which takes additional time and disk space for the ghc compiler and dependent Haskell libraries.
+הערה: בגרסאות לא נתמכות של macOS (יותר משלוש גרסאות ישנות), Homebrew מתקין מהמקור, מה שלוקח זמן נוסף ומקום בדיסק עבור המהדר ghc וספריות Haskell התלויות.
 
-There is a zip file containing the binaries and man pages, for those who prefer not to use the installer. Simply unzip the file and move the binaries and man pages to whatever directory you like.
+יש קובץ zip המכיל את הבינאריים ודפי המדריך, למי שמעדיף לא להשתמש במתקין. פשוט חלצו את הקובץ והעבירו את הבינאריים ודפי המדריך לכל ספרייה שתרצו.
 
-By default, Pandoc creates PDFs using LaTeX. Because a full MacTeX installation uses four gigabytes of disk space, we recommend BasicTeX or TinyTeX and using the tlmgr tool to install additional packages as needed. If you receive error warnings of fonts not found:
+כברירת מחדל, Pandoc יוצר PDF באמצעות LaTeX. מכיוון שהתקנה מלאה של MacTeX משתמשת בארבעה ג'יגה-בייט של מקום בדיסק, אנו ממליצים על BasicTeX או TinyTeX ושימוש בכלי tlmgr להתקנת חבילות נוספות לפי הצורך. אם אתם מקבלים אזהרות שגיאה של גופנים שלא נמצאו:
 
 `tlmgr install collection-fontsrecommended`
 
 </details>
 
 <details>
- <summary>Obsidian Friendly</summary>
+ <summary>ידידותי ל-Obsidian</summary>
 
-This adaption of the OSE SRD is designed specifically for PKM applications like Obsidian. [Obsidian.md](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files. That definition sounds simple; however, Obsidian is much, much more. Visit [Josh Plunket's YouTube Channel](https://www.youtube.com/c/JoshPlunkett/videos) to learn more about using Obsidian for your roleplaying game campaign management.
-
-</details>
-
-<details>
- <summary>Discussions & Issues</summary>
-
-Feel free to visit our [discussion](https://github.com/OldManUmby/OSE.SRD.Wiki/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/OldManUmby/OSE.SRD.Wiki/issues) you find through Github. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/OSE.SRD.Wiki/pulls).
+ההתאמה הזו של ה-OSE SRD מיועדת במיוחד ליישומי PKM כמו Obsidian. [Obsidian.md](https://obsidian.md) היא בסיס ידע חזק על גבי תיקיית קבצי טקסט פשוטים Markdown מקומית. ההגדרה הזו נשמעת פשוטה; עם זאת, Obsidian היא הרבה, הרבה יותר. בקרו בערוץ היוטיוב של [Josh Plunkett](https://www.youtube.com/c/JoshPlunkett/videos) כדי ללמוד עוד על שימוש ב-Obsidian לניהול קמפיין משחק התפקידים שלכם.
 
 </details>
 
 <details>
- <summary>Get Downloads</summary>
+ <summary>דיונים ונושאים</summary>
 
-* Download the latest [Release](https://github.com/OldManUmby/OSE.SRD.Wiki/releases).
-* Download OSE official [Basic Rules](https://necroticgnome.com/products/old-school-essentials-basic-rules).
-* Download OSE official [Errata](https://docs.google.com/document/d/1dzQnig4CNET8-1yLJgOfYdssc70oUp5rGfGUZuBZBQE/edit#heading=h.8u1si328qbpn).
-* Download OSE official [Characters Sheets]([http://dnd.wizards.com/articles/features/character_sheets](https://necroticgnome.com/collections/free-downloads)).
+אל תהססו לבקר בפורום ה-[דיון](https://github.com/OldManUmby/OSE.SRD.Wiki/discussions) שלנו כדי לבחון רעיונות לפרסום בנוגע ל-D&D SRD. אנא **דווחו** על כל [נושא](https://github.com/OldManUmby/OSE.SRD.Wiki/issues) שתמצאו דרך Github. כחלופה, תוכלו **לשכפל מחדש ולהשתמש מחדש** בפרויקט זה דרך [בקשת משיכה](https://github.com/OldManUmby/OSE.SRD.Wiki/pulls) ב-GitHub.
+
+</details>
+
+<details>
+ <summary>קבלו הורדות</summary>
+
+* הורידו את ה-[גרסה האחרונה](https://github.com/OldManUmby/OSE.SRD.Wiki/releases).
+* הורידו את ה-[חוקים בסיסיים](https://necroticgnome.com/products/old-school-essentials-basic-rules) הרשמיים של OSE.
+* הורידו את ה-[תיקונים](https://docs.google.com/document/d/1dzQnig4CNET8-1yLJgOfYdssc70oUp5rGfGUZuBZBQE/edit#heading=h.8u1si328qbpn) הרשמיים של OSE.
+* הורידו את ה-[גיליונות דמויות](https://necroticgnome.com/collections/free-downloads) הרשמיים של OSE.
 
 </details>
 
 ---
 
-**Disclaimer:** Old-School Essentials is a trademark of Necrotic Gnome. The trademark and Old-School Essentials logo are used with permission of Necrotic Gnome, under license. For more information about Old-School Essentials or other intellectual property, please visit their website at [www.necroticgnome.com](http://www.necroticgnome.com).
+**הצהרת אחריות:** Old-School Essentials הוא סימן מסחרי של Necrotic Gnome. הסימן המסחרי ולוגו Old-School Essentials משמשים באישור של Necrotic Gnome, תחת רישיון. למידע נוסף על Old-School Essentials או על קניין רוחני אחר, אנא בקרו באתר האינטרנט שלהם ב-[www.necroticgnome.com](http://www.necroticgnome.com).
 
-Website, markdown conversion, and extended formats by [Old Man Umby](http://www.oldmanumby.com).
+אתר אינטרנט, המרת Markdown, ופורמטים מורחבים על ידי [Old Man Umby](http://www.oldmanumby.com).

@@ -1,15 +1,15 @@
-# Remove Fear (Cause Fear)
+# הסרת פחד (גרימת פחד)
 
-*1st Level Cleric Spell*
+*לחשי כוהן דרגה 1*
 
-**Duration:** 2 turns
+**משך:** 2 סיבובים
 
-**Range:** The caster or a creature touched
+**טווח:** המטיל או יצור שנגעו בו
 
-The creature touched is calmed and purged of fear.
+היצור שנגעו בו נרגע ונפטר מפחד.
 
-- **Magically induced fear:** Is dispelled if the subject makes a **saving throw versus spells**, with a +1 bonus per level of the caster.
+- **פחד שנגרם באופן קסום:** מתבטל אם הנושא מצליח ב**הצלת לחשים**, עם בונוס של +1 לכל דרגה של המטיל.
 
-## Reversed: Cause Fear
+## הפוך: גרימת פחד
 
-Causes a target within 120’ to flee for the duration unless they **save versus spells**.
+גורם למטרה בטווח של 120’ לברוח למשך הזמן אלא אם כן הם **מצילים נגד לחשים**.

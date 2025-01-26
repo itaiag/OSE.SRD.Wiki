@@ -1,24 +1,24 @@
-# Magic Jar
+# צנצנת קסם
 
-*5th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 5*
 
-**Duration:** Special
+**משך:** מיוחד
 
-**Range:** The caster
+**טווח:** המטיל
 
-The caster’s body enters a comatose trance as their life force is transferred into a receptacle (any inanimate object within 30’), known as a *magic jar*. From there, the caster may attempt to possess the bodies of other creatures.
+גופו של המטיל נכנס לטראנס קומה כאשר כוח החיים שלו מועבר לכלי קיבול (כל חפץ דומם בטווח של 30'), הידוע כ-*צנצנת קסם*. משם, המטיל יכול לנסות להשתלט על גופם של יצורים אחרים.
 
-**When the caster’s life force is in the magic jar:**
+**כאשר כוח החיים של המטיל נמצא בצנצנת הקסם:**
 
-- **Possession:** The caster may attempt to possess the body of another creature within 120’. The victim may **save versus spells** to resist possession. If the save is successful, the caster may not make another attempt to possess that victim for one turn. If the save fails, the caster’s life force leaves the magic jar and enters the victim, possessing it.
-- **Returning:** The caster may choose to return to their own body at any time, ending the spell.
-- **If the magic jar is destroyed:** The caster dies.
-- **If the caster’s own body is destroyed:** Their life force is stranded in the magic jar.
+- **השתלטות:** המטיל יכול לנסות להשתלט על גופו של יצור אחר בטווח של 120'. הקורבן יכול **להציל מול לחשים** כדי להתנגד להשתלטות. אם ההצלה מצליחה, המטיל לא יכול לנסות להשתלט על אותו קורבן למשך סיבוב אחד. אם ההצלה נכשלת, כוח החיים של המטיל עוזב את צנצנת הקסם ונכנס לקורבן, משתלט עליו.
+- **חזרה:** המטיל יכול לבחור לחזור לגופו בכל עת, מה שמסיים את הלחש.
+- **אם צנצנת הקסם נהרסת:** המטיל מת.
+- **אם גופו של המטיל נהרס:** כוח החיים שלו נתקע בצנצנת הקסם.
 
-**When the caster’s life-force is possessing a victim:**
+**כאשר כוח החיים של המטיל משתלט על קורבן:**
 
-- **Control:** The caster gains full control over the victim’s body, but is not able to make the victim cast spells.
-- **If the magic jar is destroyed:** The spell ends and the caster’s life force is trapped in the possessed body.
-- **If the possessed victim is killed:** The caster’s life force returns to the magic jar.
-- **Dispelling:** *Dispel evil* forces the caster’s life force back into the magic jar.
-- **If the caster’s own body is destroyed:** Their life force is stranded in the body of the creature being possessed.
+- **שליטה:** המטיל מקבל שליטה מלאה על גופו של הקורבן, אך אינו יכול לגרום לקורבן להטיל לחשים.
+- **אם צנצנת הקסם נהרסת:** הלחש מסתיים וכוח החיים של המטיל נלכד בגוף המוחזק.
+- **אם הקורבן המוחזק נהרג:** כוח החיים של המטיל חוזר לצנצנת הקסם.
+- **ביטול:** *ביטול רוע* מחזיר את כוח החיים של המטיל לצנצנת הקסם.
+- **אם גופו של המטיל נהרס:** כוח החיים שלו נתקע בגופו של היצור המוחזק.

@@ -1,6 +1,6 @@
-# Bag of Devouring
+# שק הבליעה
 
-A normal-looking, small sack that devours objects placed inside it.
+שק קטן שנראה רגיל, שבולע חפצים שמונחים בתוכו.
 
-- **Objects:** Anything placed inside the bag vanishes from existence after 1d6+6 turns.
-- **Living creatures:** May be affected, but only if the entire creature fits inside the bag.
+- **חפצים:** כל דבר שמונח בתוך השק נעלם מהקיום לאחר 1d6+6 תורות.
+- **יצורים חיים:** עשויים להיות מושפעים, אך רק אם כל היצור נכנס לתוך השק.

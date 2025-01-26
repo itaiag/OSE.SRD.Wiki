@@ -1,23 +1,23 @@
-# Unicorn
+# חד קרן
 
-Fantastic creatures that appear as elegant horses with a long horn. Unicorns are timid but proud and wilful.
+יצורים פנטסטיים המופיעים כסוסים אלגנטיים עם קרן ארוכה. חד קרן הם ביישנים אך גאים ועקשנים.
 
 ------
 
-| Armor Class     | 2 [17]                         |
+| מחלקת שריון     | 2 [17]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 4* (18hp)                      |
-| Attacks          | 2 × hoof (1d8), 1 × horn (1d8) |
+| קוביות פגיעה     | 4* (18hp)                      |
+| התקפות           | 2 × פרסה (1d8), 1 × קרן (1d8)  |
 | THAC0            | 16 [+3]                        |
-| Movement         | 240’ (80’)                     |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)          |
-| Morale           | 7                              |
-| Alignment        | Lawful                         |
+| תנועה            | 240’ (80’)                     |
+| גלגולי הצלה      | D8 W9 P10 B10 S12 (8)          |
+| מורל             | 7                              |
+| נטייה            | חוקי                           |
 | XP               | 125                            |
-| Number Appearing | 1d6 (1d8)                      |
-| Treasure Type    | None                           |
+| מספר מופיעים     | 1d6 (1d8)                      |
+| סוג אוצר         | אין                            |
 
 ------
 
-- **Empathy with maidens:** A pure-hearted maiden can communicate with and ride a unicorn.
-- **Teleport:** Once per day, up to 360’ (including rider).
+- **אמפתיה עם עלמות:** עלמה טהורת לב יכולה לתקשר עם חד קרן ולרכוב עליו.
+- **טלפורט:** פעם ביום, עד 360’ (כולל רוכב).

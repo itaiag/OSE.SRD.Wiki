@@ -1,6 +1,6 @@
-# Wand of Cold
+# שרביט הקור
 
-Conjures a cone of freezing energy.
+מזמן חרוט של אנרגיה מקפיאה.
 
-- **Area:** The cone is 60’ long and 30’ wide at the far end.
-- **Creatures caught in the cone:** Suffer 6d6 damage, with a successful **save versus wands** indicating half damage.
+- **שטח:** החרוט הוא באורך 60 רגל וברוחב 30 רגל בקצה הרחוק.
+- **יצורים שנתפסים בחרוט:** סובלים 6d6 נזק, עם **הצלה מוצלחת נגד שרביטים** מציינת חצי נזק.

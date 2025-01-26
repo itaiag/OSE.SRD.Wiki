@@ -1,27 +1,27 @@
-# Goblin
+# גובלין
 
-Small, grotesque humanoids with pallid, earth-colored skin and glowing, red eyes. Dwell underground.
+יצורים קטנים ומכוערים עם עור חיוור בצבע אדמה ועיניים אדומות זוהרות. חיים מתחת לאדמה.
 
 ------
 
-| Armor Class     | 6 [13]                        |
+| מחלקת שריון     | 6 [13]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1-1 (3hp)                     |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1-1 (3 נק"פ)                  |
+| התקפות           | 1 × נשק (1d6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 60’ (20’)                     |
-| Saving Throws    | D14 W15 P16 B17 S18 (NH)      |
-| Morale           | 7 (9 with king)               |
-| Alignment        | Chaotic                       |
-| XP               | 5 (bodyguard: 20, king: 35)   |
-| Number Appearing | 2d4 (6d10)                    |
-| Treasure Type    | R (C)                         |
+| תנועה            | 60’ (20’)                     |
+| גלגולי הצלה      | D14 W15 P16 B17 S18 (NH)      |
+| מורל             | 7 (9 עם מלך)                  |
+| נטייה            | כאוטי                         |
+| XP               | 5 (שומר ראש: 20, מלך: 35)    |
+| מספר מופיעים     | 2d4 (6d10)                    |
+| סוג אוצר         | R (C)                         |
 
 ------
 
-- **Infravision:** 90’.
-- **Hate the sun:** -1 to-hit in full daylight.
-- **Wolf riders:** 20% of goblin groups encountered have wolf riders: ¼ of the group mounted on dire wolves.
-- **Hate dwarves:** Attack on sight.
-- **Goblin king and bodyguards:** A 3HD (15hp) king and 2d6 2HD (2d6hp) bodyguards live in the goblin lair. They do not suffer attack penalties in daylight. The king gains a +1 bonus to damage.
-- **Hoard:** Only have treasure type C when encountered in the wilderness or in their lair.
+- **ראיית לילה:** 90’.
+- **שונאים את השמש:** -1 לפגיעה באור יום מלא.
+- **רוכבי זאבים:** 20% מקבוצות הגובלינים שנתקלים בהן כוללות רוכבי זאבים: ¼ מהקבוצה רכובים על זאבים אימתניים.
+- **שונאים גמדים:** תוקפים במראה עין.
+- **מלך הגובלינים ושומרי ראש:** מלך עם 3HD (15 נק"פ) ו-2d6 שומרי ראש עם 2HD (2d6 נק"פ) חיים במאורת הגובלינים. הם לא סובלים מעונשי התקפה באור יום. המלך מקבל בונוס של +1 לנזק.
+- **אוצר:** יש להם רק סוג אוצר C כאשר נתקלים בהם בטבע או במאורתם.

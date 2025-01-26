@@ -1,14 +1,14 @@
 # Locate Object (MU)
 
-*2nd Level Magic-User Spell*
+*כישוף מכשף דרגה 2*
 
-**Duration:** 2 turns
+**משך:** 2 סיבובים
 
-**Range:** 60’ +10’ per level
+**טווח:** 60’ +10’ לכל דרגה
 
-The caster can sense the direction (but not the distance) of an object. One of two types of object may be located:
+המטיל יכול לחוש את הכיוון (אך לא את המרחק) של חפץ. ניתן לאתר אחד משני סוגי חפצים:
 
-1. **General class:** An object of a general class (e.g. a stairway, an altar, etc). In this case, the nearest object of the type is located.
-2. **Specific object:** A specific object known to the caster.
+1. **סוג כללי:** חפץ מסוג כללי (למשל, מדרגות, מזבח, וכו'). במקרה זה, החפץ הקרוב ביותר מסוג זה מאותר.
+2. **חפץ ספציפי:** חפץ ספציפי הידוע למטיל.
 
-**Restrictions:** This spell cannot be used to locate creatures.
+**הגבלות:** לא ניתן להשתמש בכישוף זה כדי לאתר יצורים.

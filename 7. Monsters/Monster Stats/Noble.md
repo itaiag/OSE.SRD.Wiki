@@ -1,23 +1,23 @@
-# Noble
+# אציל
 
-Powerful humans with noble titles (e.g. Count, Duke, Knight, etc.). Dwell in castles.
+בני אדם חזקים עם תארים אצילים (למשל רוזן, דוכס, אביר וכו'). מתגוררים בטירות.
 
 ------
 
-| Armor Class     | 2 [17]                        |
+| מחלקת שריון     | 2 [17]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 3 (13hp)                      |
-| Attacks          | 1 × weapon (1d8 or by weapon) |
+| קוביות פגיעה     | 3 (13 נק"פ)                   |
+| התקפות          | 1 × נשק (1d8 או לפי נשק)      |
 | THAC0            | 17 [+2]                       |
-| Movement         | 60’ (20’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)       |
-| Morale           | 8                             |
-| Alignment        | Any                           |
+| תנועה           | 60’ (20’)                     |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3)       |
+| מורל            | 8                             |
+| נטייה           | כלשהי                         |
 | XP               | 35                            |
-| Number Appearing | 2d6 (2d6)                     |
-| Treasure Type    | V × 3                         |
+| מספר מופיעים    | 2d6 (2d6)                     |
+| סוג אוצר        | V × 3                         |
 
 ------
 
-- **Class:** Usually treated as 3rd-level fighters, but may be of any class and level.
-- **Squire and retainers:** Accompanied by a 2nd-level fighter (a squire) and up to ten 1st-level fighters (retainers).
+- **מחלקה:** בדרך כלל נחשבים כלוחמים בדרגה 3, אך יכולים להיות מכל מחלקה ורמה.
+- **נושא כלים ומשרתים:** מלווים על ידי לוחם בדרגה 2 (נושא כלים) ועד עשרה לוחמים בדרגה 1 (משרתים).

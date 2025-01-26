@@ -1,24 +1,24 @@
-# Warp Beast
+# חיית עיוות
 
-Large, black, six-legged, semi-intelligent monsters. Look similar to panthers, with a tentacle growing from each front shoulder. Tentacles are ridged with razor-sharp edges.
+מפלצות גדולות, שחורות, בעלות שש רגליים וחצי אינטליגנציה. נראות דומות לפנתרים, עם זרוע צומחת מכל כתף קדמית. הזרועות מחורצות עם קצוות חדים כתער.
 
 ------
 
-| Armor Class     | 4 [15]                  |
+| מחלקת שריון     | 4 [15]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 6* (27hp)               |
-| Attacks          | 2 × tentacle (2d4)      |
+| קוביות פגיעה     | 6* (27hp)               |
+| התקפות           | 2 × זרוע (2d4)         |
 | THAC0            | 14 [+5]                 |
-| Movement         | 150’ (50’)              |
-| Saving Throws    | D10 W11 P12 B13 S14 (6) |
-| Morale           | 8                       |
-| Alignment        | Neutral                 |
+| תנועה            | 150’ (50’)              |
+| גלגולי הצלה      | D10 W11 P12 B13 S14 (6) |
+| מורל             | 8                       |
+| נטייה            | נייטרלי                |
 | XP               | 500                     |
-| Number Appearing | 1d4 (1d4)               |
-| Treasure Type    | D                       |
+| מספר מופיעים     | 1d4 (1d4)               |
+| סוג אוצר         | D                       |
 
 ------
 
-- **Displacement:** Appear 3’ from actual location: attackers suffer -2 to hit.
-- **Save bonus:** +2 to all saves.
-- **Hate blink dogs:** Always attack them and their companions.
+- **הסטה:** מופיעים 3 רגל מהמיקום האמיתי: תוקפים סובלים מ-2- לפגיעה.
+- **בונוס הצלה:** +2 לכל ההצלות.
+- **שונאים כלבי הבהוב:** תמיד תוקפים אותם ואת חבריהם.

@@ -1,24 +1,24 @@
-# Stirge
+# סטריג'
 
-Feathered, bird-like creatures with long, sharp beaks.
+יצורים מנוצים, דמויי ציפור עם מקור ארוך וחד.
 
 ------
 
-| Armor Class     | 7 [12]                         |
+| מחלקת שריון     | 7 [12]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 1* (4hp)                       |
-| Attacks          | 1 × beak (1d3 + blood sucking) |
+| קוביות פגיעה     | 1* (4 נק"פ)                    |
+| התקפות           | 1 × מקור (1d3 + מציצת דם)      |
 | THAC0            | 19 [0]                         |
-| Movement         | 30’ (10’) / 180’ (60’) flying  |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)        |
-| Morale           | 9                              |
-| Alignment        | Neutral                        |
-| XP               | 13                             |
-| Number Appearing | 1d10 (3d12)                    |
-| Treasure Type    | L                              |
+| תנועה            | 30’ (10’) / 180’ (60’) מעוף    |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)        |
+| מורל             | 9                              |
+| נטייה            | נייטרלי                        |
+| נק"נ             | 13                             |
+| מספר מופיעים     | 1d10 (3d12)                    |
+| סוג אוצר         | L                              |
 
 ------
 
-- **Dive attack:** The first attack is at +2 to hit.
-- **Blood sucking:** Upon a successful attack, attaches and drains the victim’s blood: 1d3 automatic damage per round.
-- **Detach:** If stirge or victim dies.
+- **התקפת צלילה:** ההתקפה הראשונה היא עם +2 לפגיעה.
+- **מציצת דם:** לאחר התקפה מוצלחת, נצמד ומנקז את דם הקורבן: 1d3 נזק אוטומטי לכל סיבוב.
+- **התנתקות:** אם הסטריג' או הקורבן מתים.

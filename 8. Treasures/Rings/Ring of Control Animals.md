@@ -1,10 +1,10 @@
-# Ring of Controlling Animals
+# טבעת שליטה על בעלי חיים
 
-Grants the power to control the actions of animals.
+מעניקה את הכוח לשלוט בפעולות של בעלי חיים.
 
-- **Affects:** 1d6 normal animals or 1 giant animal (not magical or intelligent animals).
-- **Resisting:** No saving throw is allowed.
-- **Visual range:** The character can only control animals that they can see.
-- **Concentration:** Control is broken if the user of the ring moves or attacks.
-- **When concentration ends:** The referee should make a reaction roll with a -1 penalty (see ***Encounters*** to determine the animals’ behavior.
-- **Usage frequency:** May be used up to once per turn.
+- **משפיע על:** 1d6 בעלי חיים רגילים או בעל חיים ענק (לא בעלי חיים קסומים או אינטליגנטיים).
+- **התנגדות:** לא ניתן להציל.
+- **טווח ראייה:** הדמות יכולה לשלוט רק בבעלי חיים שהיא יכולה לראות.
+- **ריכוז:** השליטה נשברת אם המשתמש בטבעת זז או תוקף.
+- **כאשר הריכוז מסתיים:** השופט צריך לבצע גלגול תגובה עם עונש של -1 (ראה ***מפגשים*** כדי לקבוע את התנהגות בעלי החיים).
+- **תדירות שימוש:** ניתן להשתמש עד פעם אחת לכל תור.

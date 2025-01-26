@@ -1,14 +1,14 @@
-# Hold Person (MU)
+# החזקת אדם (MU)
 
-*3rd Level Magic-User Spell*
+*לחשים של דרגה 3 למשתמשי קסם*
 
-**Duration:** 1 turn per level
+**משך:** 1 תור לכל דרגה
 
-**Range:** 120’
+**טווח:** 120’
 
-This spell causes one or more humans, demihumans, or human-like monsters (*see **Persons***) to be paralyzed if they fail a **saving throw versus spells**. It may be cast in two ways:
+לחיש זה גורם לאדם אחד או יותר, חצי-אדם, או מפלצות דמויות אדם (*ראה **אישים***) להיות משותקים אם הם נכשלים ב**הצלת לחשים נגד קסמים**. ניתן להטיל אותו בשתי דרכים:
 
-1. **Against an individual:** The target’s saving throw is penalized by -2.
-2. **Against a group:** 1d4 individuals in the group are targeted.
+1. **נגד יחיד:** ההצלה של המטרה נענשת ב-2-.
+2. **נגד קבוצה:** 1d4 יחידים בקבוצה הם המטרות.
 
-**Restrictions:** Undead and human-like monsters of greater than 4+1 HD (see ***Hit Point Modifiers*** are not affected.
+**הגבלות:** אל-מתים ומפלצות דמויות אדם עם יותר מ-4+1 נק"פ (ראה ***שינויי נקודות פגיעה***) לא מושפעים.

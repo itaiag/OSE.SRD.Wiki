@@ -1,23 +1,23 @@
-# Manticore
+# מנתיור
 
-Monstrosities with the face of a man, the body of a lion, bat-like wings, and a tail bristling with spikes. Love eating humans. Dwell in wild, mountainous regions.
+מפלצות עם פנים של אדם, גוף של אריה, כנפיים דמויות עטלף, וזנב מלא בקוצים. אוהבות לאכול בני אדם. שוכנות באזורים פראיים והרריים.
 
 ------
 
-| Armor Class     | 4 [15]                                                   |
+| מחלקת שריון     | 4 [15]                                                   |
 | ---------------- | -------------------------------------------------------- |
-| Hit Dice         | 6+1 (28hp)                                               |
-| Attacks          | [2 × claw (1d4), 1 × bite (2d4)] or 6 × tail spike (1d6) |
+| קוביות פגיעה    | 6+1 (28 נק"פ)                                            |
+| התקפות          | [2 × טפר (1d4), 1 × נשיכה (2d4)] או 6 × קוץ זנב (1d6)   |
 | THAC0            | 13 [+6]                                                  |
-| Movement         | 120’ (40’) / 180’ (60’) flying                           |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)                                  |
-| Morale           | 9                                                        |
-| Alignment        | Chaotic                                                  |
+| תנועה           | 120’ (40’) / 180’ (60’) מעוף                              |
+| גלגולי הצלה     | D10 W11 P12 B13 S14 (6)                                  |
+| מורל            | 9                                                        |
+| נטייה           | כאוטי                                                    |
 | XP               | 350                                                      |
-| Number Appearing | 1d2 (1d4)                                                |
-| Treasure Type    | D                                                        |
+| מספר מופיעים    | 1d2 (1d4)                                                |
+| סוג אוצר        | D                                                        |
 
 ------
 
-- **Tail spikes:** 180’ range. 24 in total; 2 regrow each day.
-- **Track and ambush:** Follow humans and attack with tail spikes when they stop to rest.
+- **קוצי זנב:** טווח 180’. סך הכל 24; 2 צומחים מחדש כל יום.
+- **מעקב ומארב:** עוקבים אחרי בני אדם ותוקפים עם קוצי זנב כשהם עוצרים לנוח.

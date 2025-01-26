@@ -1,18 +1,18 @@
-# Boar
+# חזיר בר
 
-Omnivorous wild boars that dwell primarily in forests. Can be irascible and dangerous, if disturbed.
+חזירי בר אוכלי כל החיים בעיקר ביערות. יכולים להיות רגזניים ומסוכנים אם מופרעים.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3 (13hp)                |
-| Attacks          | 1 × tusk (2d4)          |
+| קוביות פגיעה     | 3 (13 נק"פ)             |
+| התקפות           | 1 × ניב (2ק4)           |
 | THAC0            | 17 [+2]                 |
-| Movement         | 150’ (50’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 9                       |
-| Alignment        | Neutral                 |
-| XP               | 35                      |
-| Number Appearing | 1d6 (1d6)               |
-| Treasure Type    | None                    |
+| תנועה            | 150’ (50’)              |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2) |
+| מורל             | 9                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 35                      |
+| מספר מופיעים     | 1ק6 (1ק6)               |
+| סוג אוצר         | אין                     |

@@ -1,12 +1,12 @@
-# Speak with Animals
+# לדבר עם חיות
 
-*2nd Level Cleric Spell*
+*לחשים דרגה 2 לכוהן*
 
-**Duration:** 6 turns
+**משך:** 6 תורות
 
-**Range:** 30’
+**טווח:** 30’
 
-The caster can communicate with one type of animal within range when the spell is cast.
+המטיל יכול לתקשר עם סוג אחד של חיה בטווח כאשר הלחש מוטל.
 
-- **Type of animal:** Normal or giant animal species may be selected. Intelligent animals and fantastic monsters may not.
-- **Services:** Animals that are friendly towards the caster may be persuaded to perform a service. The service must be within an animal’s comprehension and capabilities.
+- **סוג החיה:** ניתן לבחור במין חיה רגיל או ענק. חיות אינטליגנטיות ומפלצות פנטסטיות אינן נכללות.
+- **שירותים:** חיות הידידותיות כלפי המטיל עשויות להשתכנע לבצע שירות. השירות חייב להיות במסגרת ההבנה והיכולות של החיה.

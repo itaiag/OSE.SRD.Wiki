@@ -1,9 +1,9 @@
 # Feeblemind
 
-*5th Level Magic-User Spell*
+*קסם משתמש ברמה 5*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 240’
+**טווח:** 240’
 
-An arcane spell caster (e.g. a magic-user or elf within range must **save versus spells (at a -4 penalty)** or become an imbecile, unable to think clearly or cast spells.
+מטיל לחשים ארקני (למשל, משתמש בקסם או אלף בטווח חייב **להציל מול לחשים (עם עונש של -4)** או להפוך לאידיוט, לא מסוגל לחשוב בבהירות או להטיל לחשים.

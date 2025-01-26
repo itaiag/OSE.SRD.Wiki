@@ -1,6 +1,6 @@
-# Potion of Clairvoyance
+# שיקוי ראיית הנולד
 
-Enables the character to see through the eyes of another creature.
+מאפשר לדמות לראות דרך עיניו של יצור אחר.
 
-- **Range:** The other creature must be within 60’.
-- **Obstructions:** Lead blocks the effect.
+- **טווח:** היצור האחר חייב להיות בטווח של 60’.
+- **מכשולים:** עופרת חוסמת את ההשפעה.

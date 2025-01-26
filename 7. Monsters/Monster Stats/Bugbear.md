@@ -1,6 +1,6 @@
-# Bugbear
+# בוגביר
 
-Large, hairy goblins with an ungainly gait. Favour attacking by surprise.
+גובלינים גדולים ושעירים עם הליכה מגושמת. מעדיפים לתקוף בהפתעה.
 
 ------
 
@@ -12,11 +12,11 @@ Large, hairy goblins with an ungainly gait. Favour attacking by surprise.
 | Movement         | 90’ (30’)                        |
 | Saving Throws    | D12 W13 P14 B15 S16 (3)          |
 | Morale           | 9                                |
-| Alignment        | Chaotic                          |
+| Alignment        | כאוטי                           |
 | XP               | 50                               |
 | Number Appearing | 2d4 (5d4)                        |
 | Treasure Type    | B                                |
 
 ------
 
-- **Surprise:** On a 1–3, due to stealth.
+- **הפתעה:** על 1–3, בשל התגנבות.

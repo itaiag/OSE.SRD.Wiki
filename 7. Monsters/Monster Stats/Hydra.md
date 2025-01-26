@@ -1,24 +1,24 @@
-# Hydra
+# הידרה
 
-Large, dragon-like creatures with multiple serpentine heads. Sea hydras (adapted to water, with fins) also exist.
+יצורים גדולים דמויי דרקון עם מספר ראשים נחשיים. קיימות גם הידרות ים (מותאמות למים, עם סנפירים).
 
 ------
 
-| Armor Class     | 5 [14]                                            |
+| מחלקת שריון     | 5 [14]                                            |
 | ---------------- | ------------------------------------------------- |
-| Hit Dice         | 5 to 12 (8hp per **HD**)                          |
-| Attacks          | 5 to 12 × bite (1d10)                             |
-| THAC0            | By **HD** (15 [+4] to 10 [+9])                    |
-| Movement         | 120’ (40’)                                        |
-| Saving Throws    | By **HD**                                         |
-| Morale           | 9                                                 |
-| Alignment        | Neutral                                           |
-| XP               | 175 / 275 / 450 / 650 / 900 / 900 / 1,100 / 1,100 |
-| Number Appearing | 1 (1)                                             |
-| Treasure Type    | B                                                 |
+| קוביות פגיעה     | 5 עד 12 (8 נק"פ לכל **קפ**)                       |
+| התקפות           | 5 עד 12 × נשיכה (1ק10)                            |
+| THAC0            | לפי **קפ** (15 [+4] עד 10 [+9])                   |
+| תנועה            | 120’ (40’)                                        |
+| גלגולי הצלה      | לפי **קפ**                                        |
+| מורל             | 9                                                 |
+| נטייה            | נייטרלי                                           |
+| נק"נ             | 175 / 275 / 450 / 650 / 900 / 900 / 1,100 / 1,100 |
+| מספר מופיעים     | 1 (1)                                             |
+| סוג אוצר         | B                                                 |
 
 ------
 
-- **Heads:** 1d8+4 heads; 1HD per head.
-- **Disabling heads:** For every 8hp damage taken, one head is disabled (cannot attack).
-- **Variants:** Special hydras are sometimes found with venom, fiery breath, etc.
+- **ראשים:** 1ק8+4 ראשים; 1קפ לכל ראש.
+- **נטרול ראשים:** על כל 8 נק"פ נזק שנגרם, ראש אחד מנוטרל (לא יכול לתקוף).
+- **וריאנטים:** לפעמים נמצאות הידרות מיוחדות עם ארס, נשימת אש, וכו'.

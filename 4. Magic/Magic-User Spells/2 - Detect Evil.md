@@ -1,12 +1,12 @@
-# Detect Evil (MU)
+# גילוי רשע (MU)
 
-*2nd Level Magic-User Spell*
+*לחשים של קוסם דרגה 2*
 
-**Duration:** 2 turns
+**משך:** 2 סיבובים
 
-**Range:** 60’
+**טווח:** 60’
 
-Objects under an evil enchantment and living beings with evil intentions are caused to magically glow.
+חפצים תחת כישוף רשע ויצורים חיים עם כוונות רשע יגרמו לזהור באופן קסום.
 
-- **Intent only:** The caster cannot read the thoughts of creatures with evil intent.
-- **Definition of evil:** The referee must judge what is classified as evil. Beings of chaotic alignment do not always have evil intent. Traps and poisons, while potentially harmful, are not evil.
+- **רק כוונה:** המטיל אינו יכול לקרוא את מחשבותיהם של יצורים עם כוונות רשע.
+- **הגדרת רשע:** השופט חייב להחליט מה מסווג כרשע. יצורים עם נטייה כאוטית אינם תמיד בעלי כוונות רשע. מלכודות ורעלים, למרות שהם עלולים להזיק, אינם רשעים.

@@ -1,12 +1,12 @@
-# Knock
+# דפיקה
 
-*2nd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 2*
 
-**Duration:** 1 round
+**משך:** סיבוב אחד
 
-**Range:** 60’
+**טווח:** 60’
 
-Causes locked, barred, secured, or stuck doors, gates, chests, and so forth to open.
+גורם לדלתות, שערים, תיבות וכדומה נעולים, חסומים, מאובטחים או תקועים להיפתח.
 
-- **Magically held doors:** Are affected (e.g. *hold portal*, *wizard lock*).
-- **Secret doors:** May be opened, but they must be known to the caster.
+- **דלתות מוחזקות בקסם:** מושפעות (למשל *החזקת פורטל*, *מנעול קוסם*).
+- **דלתות סודיות:** ניתן לפתוח, אך הן חייבות להיות ידועות למטיל הלחש.

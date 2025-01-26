@@ -1,22 +1,22 @@
-# Charm Person
+# קסם חן
 
-*1st Level Magic-User Spell*
+*לחשים של רמת קסם ראשונה*
 
-**Duration:** One or more days (see below)
+**משך:** יום אחד או יותר (ראה למטה)
 
-**Range:** 120’
+**טווח:** 120’
 
-A single human, demihuman, or human-like monster (see **Persons must save versus spells**) or be charmed, as follows:
+אדם יחיד, חצי-אדם, או מפלצת דמוית-אדם (ראה **אנשים חייבים להציל מול לחשים**) או להיות מוקסם, כדלקמן:
 
-- **Friendship:** The subject regards the caster as a close friend and will come to the caster’s defense.
-- **Commands:** If they share a language, the caster may give the charmed creature commands, which they will obey.
-- **Subject’s nature:** The subject may resist commands that contradict their habits or alignment.
-- **Suicidal commands:** Are always refused.
+- **חברות:** הנושא רואה במטיל הקסם כחבר קרוב ויבוא להגנתו.
+- **פקודות:** אם הם חולקים שפה, המטיל יכול לתת לנושא המוקסם פקודות, והם יצייתו להן.
+- **טבע הנושא:** הנושא עשוי להתנגד לפקודות שסותרות את הרגליו או נטייתו.
+- **פקודות התאבדותיות:** תמיד מסורבות.
 
-**Restrictions:** Undead and human-like monsters of greater than 4+1 HD (see ***Hit Point Modifiers***) are not affected.
+**הגבלות:** אל-מתים ומפלצות דמויות-אדם עם יותר מ-4+1 HD (ראה ***שינויי נקודות פגיעה***) אינם מושפעים.
 
-**Duration:** The charm lasts indefinitely, but the subject is allowed to make further **saves versus spells** at intervals, depending on their INT score. If one of these saves succeeds, the spell ends.
+**משך:** הקסם נמשך ללא הגבלת זמן, אך הנושא יכול לבצע **הצלה מול לחשים** במרווחים, בהתאם לציון ה-INT שלהם. אם אחת מההצלות מצליחה, הקסם מסתיים.
 
-- **INT 3–8:** New save once every month.
-- **INT 9–12:** New save each week.
-- **INT 13–18:** New save once every day.
+- **INT 3–8:** הצלה חדשה פעם בחודש.
+- **INT 9–12:** הצלה חדשה כל שבוע.
+- **INT 13–18:** הצלה חדשה פעם ביום.

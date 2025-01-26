@@ -1,10 +1,10 @@
-# Ring of Protection
+# טבעת הגנה
 
-Grants a measure of protection from harm:
+מעניקה מידה של הגנה מפני נזק:
 
-- **Armor Class:** A +1 AC bonus.
-- **Saving throws:** A +1 bonus to all saves.
+- **מחלקת שריון:** בונוס +1 ל-AC.
+- **גלגולי הצלה:** בונוס +1 לכל הגלגולים.
 
-## Ring of Protection, 5’ Radius
+## טבעת הגנה, רדיוס 5’
 
-Allies within 5’ of the wearer also benefit from the ring’s protective power. For example, two characters fighting beside the ring's wearer would gain the protective benefit.
+בני ברית בתוך 5’ מהלובש גם נהנים מכוח ההגנה של הטבעת. לדוגמה, שני דמויות הנלחמות לצד הלובש של הטבעת יקבלו את היתרון ההגנתי.

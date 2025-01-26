@@ -1,26 +1,26 @@
-# Camel
+# גמל
 
-Irascible animals that are adapted to life in dry climates. Often used for transportation in deserts.
+בעלי חיים רגזניים המותאמים לחיים באקלים יבש. משמשים לעיתים קרובות לתחבורה במדבריות.
 
 ------
 
-| Armor Class     | 7 [12]                       |
+| מחלקת שריון     | 7 [12]                       |
 | ---------------- | ---------------------------- |
-| Hit Dice         | 2 (9hp)                      |
-| Attacks          | 1 × bite (1), 1 × hoof (1d4) |
+| קוביות פגיעה     | 2 (9 נק"פ)                   |
+| התקפות           | 1 × נשיכה (1), 1 × פרסה (1ק4) |
 | THAC0            | 18 [+1]                      |
-| Movement         | 150’ (50’)                   |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)      |
-| Morale           | 7                            |
-| Alignment        | Neutral                      |
-| XP               | 20                           |
-| Number Appearing | 0 (2d4)                      |
-| Treasure Type    | None                         |
+| תנועה            | 150’ (50’)                   |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)      |
+| מורל             | 7                            |
+| נטייה            | נייטרלי                      |
+| נק"נ             | 20                           |
+| מספר מופיעים     | 0 (2ק4)                      |
+| סוג אוצר         | אין                          |
 
 ------
 
-- **Ill-tempered:** Bite or kick creatures in their way, including owners.
-- **Water:** After drinking well, can survive 2 weeks without water.
-- **Desert travel:** Move at full speed through broken lands and deserts.
-- **Carry loads:** Up to 3,000 coins unencumbered; up to 6,000 at half speed.
-- **Charge attacks:** These are not possible, when mounted on a camel.
+- **רגזני:** נושכים או בועטים ביצורים בדרכם, כולל בעליהם.
+- **מים:** לאחר שתייה טובה, יכולים לשרוד שבועיים ללא מים.
+- **נסיעה במדבר:** נעים במהירות מלאה דרך שטחים שבורים ומדבריות.
+- **נשיאת משאות:** עד 3,000 מטבעות ללא עומס; עד 6,000 בחצי מהירות.
+- **התקפות טעינה:** לא אפשריות כאשר רוכבים על גמל.

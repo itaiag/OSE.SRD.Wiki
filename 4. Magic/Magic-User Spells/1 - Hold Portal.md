@@ -1,12 +1,12 @@
-# Hold Portal
+# החזקת שער
 
-*1st Level Magic-User Spell*
+*לחישת קוסם דרגה 1*
 
-**Duration:** 2d6 turns
+**משך:** 2d6 תורות
 
-**Range:** 10’
+**טווח:** 10’
 
-Magically prevents a portal (e.g. door, gate, etc.) from being opened.
+מונע באופן קסום פתיחה של שער (למשל דלת, שער, וכו').
 
-- **Opening by magic:** A *knock* spell opens the held portal instantly.
-- **Opening by force:** Creatures with at least 3 Hit Dice more than the caster can open the held portal with one round of effort.
+- **פתיחה באמצעות קסם:** לחישת *נקישה* פותחת את השער המוחזק באופן מיידי.
+- **פתיחה בכוח:** יצורים עם לפחות 3 קוביות פגיעה יותר מהמטיל יכולים לפתוח את השער המוחזק עם מאמץ של סיבוב אחד.

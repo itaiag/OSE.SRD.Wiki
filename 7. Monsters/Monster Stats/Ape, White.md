@@ -1,22 +1,22 @@
-# Ape, White
+# קוף, לבן
 
-Albino, herbivorous, gorilla-like apes that live in caves and emerge at night to forage.
+קופים לבקנים, צמחוניים, דמויי גורילה שחיים במערות ויוצאים בלילה לחפש מזון.
 
 ------
 
-| Armor Class     | 6 [13]                                  |
+| מחלקת שריון     | 6 [13]                                  |
 | ---------------- | --------------------------------------- |
-| Hit Dice         | 4 (18hp)                                |
-| Attacks          | 2 × claw (1d4) or 1 × thrown rock (1d6) |
+| קוביות פגיעה    | 4 (18 נק"פ)                             |
+| התקפות          | 2 × טפר (1d4) או 1 × אבן נזרקת (1d6)   |
 | THAC0            | 16 [+3]                                 |
-| Movement         | 120’ (40’)                              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)                 |
-| Morale           | 7                                       |
-| Alignment        | Neutral                                 |
-| XP               | 75                                      |
-| Number Appearing | 1d6 (2d4)                               |
-| Treasure Type    | None                                    |
+| תנועה           | 120’ (40’)                              |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (2)                 |
+| מורל            | 7                                       |
+| נטייה           | נייטרלי                                 |
+| נק"נ            | 75                                      |
+| מספר מופיעים    | 1d6 (2d4)                               |
+| סוג אוצר        | אין                                     |
 
 ------
 
-- **Territorial:** Defend their lair with threats and, if this is ignored, violence.
+- **טריטוריאלי:** מגנים על המאורה שלהם עם איומים ואם זה מתעלם, באלימות.

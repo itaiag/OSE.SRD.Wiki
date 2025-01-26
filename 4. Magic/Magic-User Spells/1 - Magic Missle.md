@@ -1,13 +1,13 @@
-# Magic Missile
+# קליע קסם
 
-*1st Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 1*
 
-**Duration:** 1 turn
+**משך:** 1 תור
 
-**Range:** 150’
+**טווח:** 150’
 
-This spell conjures a glowing dart of energy that the caster may choose to shoot at a visible target within range.
+לחיש זה מזמן חץ זוהר של אנרגיה שהמטיל יכול לבחור לירות על מטרה נראית בטווח.
 
-- **Hit:** The missile hits unerringly (no attack roll or saving throw is required).
-- **Damage:** The missile inflicts 1d6+1 damage.
-- **Higher level casters:** May conjure more missiles: two additional missiles are conjured per five experience levels the caster has gained (i.e. three missiles at 6th–10th level, five missiles at 11th–15th level, etc.). Multiple missiles may be directed at a single target.
+- **פגיעה:** הקליע פוגע ללא כשל (אין צורך בגלגול התקפה או גלגול הצלה).
+- **נזק:** הקליע גורם לנזק של 1d6+1.
+- **מטילים ברמה גבוהה יותר:** יכולים לזמן יותר קליעים: שני קליעים נוספים מזומנים לכל חמש רמות ניסיון שהמטיל צבר (כלומר, שלושה קליעים ברמה 6–10, חמישה קליעים ברמה 11–15, וכו'). ניתן לכוון מספר קליעים על מטרה אחת.

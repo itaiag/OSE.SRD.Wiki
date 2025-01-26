@@ -1,7 +1,7 @@
-# Potion of Giant Strength
+# שיקוי כוח ענק
 
-Grants the strength of a frost giant.
+מעניק את כוחו של ענק כפור.
 
-- **Attacks with weapons:** Inflict double damage.
-- **Throw boulders:** The character may throw boulders for 3d6 damage, with a range of up to 200’.
-- **Non-cumulative:** The effects of this potion are not cumulative with other magic items that augment strength (e.g., a *girdle of giant strength*).
+- **התקפות עם נשקים:** גורמות נזק כפול.
+- **זריקת סלעים:** הדמות יכולה לזרוק סלעים לנזק של 3d6, עם טווח של עד 200’.
+- **לא מצטבר:** ההשפעות של שיקוי זה אינן מצטברות עם פריטים קסומים אחרים שמגבירים כוח (למשל, *חגורת כוח ענק*).

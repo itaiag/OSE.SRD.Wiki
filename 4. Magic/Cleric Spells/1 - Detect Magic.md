@@ -1,9 +1,9 @@
-# Detect Magic (C)
+# גילוי קסם (C)
 
-*1st Level Cleric Spell*
+*לחשים לדרגה 1 של כוהן*
 
-**Duration:** 2 turns
+**משך:** 2 תורות
 
-**Range:** 60’
+**טווח:** 60’
 
-Enchanted objects, areas, or creatures are caused to glow. Both permanent and temporary enchantments are revealed.
+חפצים מכושפים, אזורים או יצורים גורמים להאיר. גם כישופים קבועים וגם זמניים נחשפים.

@@ -1,6 +1,6 @@
-# Potion of Healing
+# שיקוי ריפוי
 
-Has one of two effects on the character who drinks it:
+יש לו אחד משני ההשפעות על הדמות ששותה אותו:
 
-- **Healing a living subject:** Restores 1d6+1 hit points of damage. This cannot grant more hit points than the subject’s normal maximum.
-- **Curing paralysis:** Paralysing effects are negated.
+- **ריפוי נושא חי:** משחזר 1d6+1 נקודות פגיעה של נזק. זה לא יכול להעניק יותר נקודות פגיעה מהמקסימום הנורמלי של הנושא.
+- **ריפוי שיתוק:** השפעות משתקות מבוטלות.

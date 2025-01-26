@@ -1,12 +1,12 @@
-# Hallucinatory Terrain
+# שטח הזייתי
 
-*4th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 4*
 
-**Duration:** Until touched
+**משך:** עד למגע
 
-**Range:** 240’
+**טווח:** 240’
 
-*Hallucinatory terrain* either conjures an illusory terrain feature (e.g. a hill, wood, marsh, etc.) or hides an existing terrain feature.
+*שטח הזייתי* או מזמן תכונת שטח אשלייתית (למשל גבעה, יער, ביצה וכו') או מסתיר תכונת שטח קיימת.
 
-- **Area:** The illusion must fit completely within the spell’s range.
-- **Touching:** If an intelligent being touches the illusion, it vanishes, ending the spell.
+- **שטח:** האשליה חייבת להתאים לחלוטין בתוך טווח הלחש.
+- **מגע:** אם יצור אינטליגנטי נוגע באשליה, היא נעלמת והלחש מסתיים.

@@ -1,3 +1,3 @@
-# Wand of Trap Detection
+# שרביט גילוי מלכודות
 
-Reveals the location of all traps within 20’.
+מגלה את מיקום כל המלכודות בטווח של 20 רגל.

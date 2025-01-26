@@ -1,6 +1,6 @@
-# Ring of Invisibility
+# טבעת היעלמות
 
-The wearer of this ring becomes invisible.
+הלובש את הטבעת הזו הופך לבלתי נראה.
 
-- **Attacking:** If the character attacks or casts a spell, the invisibility is broken.
-- **Usage frequency:** May be used up to once per turn.
+- **תקיפה:** אם הדמות תוקפת או מטילה לחש, ההיעלמות נשברת.
+- **תדירות שימוש:** ניתן להשתמש עד פעם אחת בתור.

@@ -1,7 +1,7 @@
-# Elven Cloak and Boots
+# גלימה ומגפיים אלפיים
 
-A set of enchanted boots and a matching cloak of elven origin.
+סט של מגפיים מכושפים וגלימה תואמת ממוצא אלפי.
 
-- **Stealth:** The wearer of the boots can move silently.
-- **Near invisibility:** The wearer of the cloak is rendered almost invisible: there is only a 1-in-6 chance of them being spotted.
-- **Attacking:** The cloak’s power of invisibility is nullified for one turn, if the wearer attacks.
+- **התגנבות:** הלובש את המגפיים יכול לנוע בשקט.
+- **כמעט בלתי נראות:** הלובש את הגלימה הופך לכמעט בלתי נראה: יש רק סיכוי של 1 מתוך 6 להבחין בו.
+- **תקיפה:** כוח הבלתי נראות של הגלימה מתבטל למשך תור אחד, אם הלובש תוקף.

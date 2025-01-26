@@ -1,12 +1,12 @@
-# Speak with Plants
+# דיבור עם צמחים
 
-*4th Level Cleric Spell*
+*לחשים של כוהן ברמה 4*
 
-**Duration:** 3 turns
+**משך:** 3 תורות
 
-**Range:** 30’
+**טווח:** 30’
 
-This spell has two usages:
+ללחשים אלו יש שני שימושים:
 
-1. **Normal plants:** Communication with normal plants. The caster may ask for simple favors and plants may comply if the request is within their comprehension and capabilities. For example, densely overgrown plants may clear a passageway through which the caster and party may travel.
-2. **Monstrous plants:** Communication with plant-like or plant-based monsters.
+1. **צמחים רגילים:** תקשורת עם צמחים רגילים. המטיל יכול לבקש טובות פשוטות והצמחים עשויים להיענות אם הבקשה היא במסגרת הבנתם ויכולותיהם. לדוגמה, צמחים צפופים עשויים לפנות מעבר דרכו המטיל והקבוצה יכולים לעבור.
+2. **צמחים מפלצתיים:** תקשורת עם מפלצות דמויות צמחים או מבוססות צמחים.

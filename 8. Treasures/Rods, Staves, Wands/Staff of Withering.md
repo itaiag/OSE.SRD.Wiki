@@ -1,8 +1,8 @@
-# Staff of Withering
+# מטה הכמישה
 
-Creatures hit by the staff are magically aged:
+יצורים שנפגעים מהמקל מזדקנים באופן קסום:
 
-- **Divine magic:** Usable by divine spell casters only.
-- **Effect:** The target is aged 10 years. Living creatures die upon reaching their natural life span.
-- **Especially long-lived species:** Ignore the effects of a certain amount of aging. (For example, elves may ignore up to 200 years of aging, dwarves ignore up to 50 years, and so on.)
-- **Undead creatures:** Are unaffected by the power of this staff.
+- **קסם אלוהי:** ניתן לשימוש על ידי מטילי לחשים אלוהיים בלבד.
+- **השפעה:** המטרה מזדקנת ב-10 שנים. יצורים חיים מתים כאשר הם מגיעים לתוחלת החיים הטבעית שלהם.
+- **מינים בעלי תוחלת חיים ארוכה במיוחד:** מתעלמים מהשפעות של כמות מסוימת של הזדקנות. (לדוגמה, אלפים יכולים להתעלם עד 200 שנות הזדקנות, גמדים מתעלמים עד 50 שנים, וכך הלאה.)
+- **יצורים אל-מתים:** אינם מושפעים מכוחו של מטה זה.

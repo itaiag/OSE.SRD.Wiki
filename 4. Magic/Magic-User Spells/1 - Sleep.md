@@ -1,21 +1,21 @@
-# Sleep
+# שינה
 
-*1st Level Magic-User Spell*
+*לחשים של קוסם ברמה 1*
 
-**Duration:** 4d4 turns
+**משך:** 4d4 סיבובים
 
-**Range:** 240’
+**טווח:** 240’
 
-It causes creatures (except undead to fall into a magical slumber. The spell may target either:
+זה גורם ליצורים (למעט אל-מתים) ליפול לתוך שינה קסומה. הלחש יכול לכוון אל:
 
-1. A single creature with 4+1 Hit Dice (see ***Hit Point Modifiers***).
-2. A total of 2d8 Hit Dice of creatures of 4 HD or lower each.
+1. יצור יחיד עם 4+1 קוביות פגיעה (ראה ***שינויי נקודות פגיעה***).
+2. סך של 2d8 קוביות פגיעה של יצורים עם 4 קוביות פגיעה או פחות כל אחד.
 
-When targeting creatures of 4 HD or less, the following rules apply:
+כאשר מכוונים ליצורים עם 4 קוביות פגיעה או פחות, חלים הכללים הבאים:
 
-- **Weakest first:** Targets with the least HD are affected first.
-- **HD:** Treat monsters with less than 1 HD as having 1 HD and monsters with a fixed hit point bonus as having the flat HD. (For example, a 3+2 HD monster would be treated as having 3 HD.)
+- **החלשים תחילה:** מטרות עם הכי פחות קוביות פגיעה מושפעות תחילה.
+- **קוביות פגיעה:** יש להתייחס למפלצות עם פחות מ-1 קוביית פגיעה כאילו יש להן 1 קוביית פגיעה ולמפלצות עם בונוס נקודות פגיעה קבוע כאלו שיש להן קוביות פגיעה שטוחות. (לדוגמה, מפלצת עם 3+2 קוביות פגיעה תיחשב כאילו יש לה 3 קוביות פגיעה.)
 
-**Killing:** A single attack with a bladed weapon can kill a creature enchanted by this spell.
+**הרג:** התקפה יחידה עם נשק חד יכולה להרוג יצור מכושף על ידי לחש זה.
 
-**Awakening:** Enchanted creatures can be forcefully awakened (e.g., by slapping).
+**התעוררות:** יצורים מכושפים יכולים להתעורר בכוח (למשל, על ידי סטירה).

@@ -1,43 +1,43 @@
-# Pterosaur
+# פטרוזאור
 
-Predatory, winged reptiles that live in warm climates, hunting creatures on the ground by gliding on air currents. Often found in Lost World regions.
+זוחלים טורפים ומעופפים שחיים באקלים חם, צדים יצורים על הקרקע על ידי גלישה בזרמי אוויר. לעיתים קרובות נמצאים באזורים של עולמות אבודים.
 
-## Pteranodon
+## פטרנודון
 
-Wingspan of up to 50’. Highly aggressive; often prey on humanoids.
+מוטת כנפיים של עד 50 רגל. אגרסיביים מאוד; לעיתים קרובות טורפים דמויי אדם.
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 5 (22hp)                |
-| Attacks          | 1 × bite (1d12)         |
+| קוביות פגיעה    | 5 (22 נק"פ)             |
+| התקפות          | 1 × נשיכה (1ק12)        |
 | THAC0            | 15 [+4]                 |
-| Movement         | 240’ (80’) flying       |
-| Saving Throws    | D12 W13 P14 B15 S16 (3) |
-| Morale           | 8                       |
-| Alignment        | Neutral                 |
-| XP               | 175                     |
-| Number Appearing | 0 (1d4)                 |
-| Treasure Type    | V                       |
+| תנועה           | 240’ (80’) מעופף        |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3) |
+| מורל            | 8                       |
+| נטייה           | נייטרלי                |
+| נק"נ            | 175                     |
+| מספר מופיעים    | 0 (1ק4)                 |
+| סוג אוצר        | V                       |
 
 ------
 
-## Pterodactyl
+## פטרודקטיל
 
-8–10’ wingspan. Prey on small to medium animals, but will attack humanoids, if very hungry.
+מוטת כנפיים של 8–10 רגל. טורפים בעלי חיים קטנים עד בינוניים, אך יתקפו דמויי אדם אם רעבים מאוד.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 1 (4hp)                 |
-| Attacks          | 1 × bite (1d3)          |
+| קוביות פגיעה    | 1 (4 נק"פ)              |
+| התקפות          | 1 × נשיכה (1ק3)         |
 | THAC0            | 19 [0]                  |
-| Movement         | 180’ (60’) flying       |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 10                      |
-| Number Appearing | 0 (2d4)                 |
-| Treasure Type    | None                    |
+| תנועה           | 180’ (60’) מעופף        |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1) |
+| מורל            | 7                       |
+| נטייה           | נייטרלי                |
+| נק"נ            | 10                      |
+| מספר מופיעים    | 0 (2ק4)                 |
+| סוג אוצר        | אין                     |

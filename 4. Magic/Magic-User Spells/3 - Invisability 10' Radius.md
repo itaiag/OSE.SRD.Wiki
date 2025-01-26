@@ -1,15 +1,15 @@
-# Invisibility 10’ Radius
+# אי-נראות ברדיוס 10’
 
-*3rd Level Magic-User Spell*
+*לחשים של דרגה 3 למשתמשי קסם*
 
-**Duration:** Permanent (but may be broken; see below)
+**משך:** קבוע (אך יכול להישבר; ראו למטה)
 
-**Range:** 120’
+**טווח:** 120’
 
-A selected creature and all creatures within 10’ of it become invisible:
+יצור נבחר וכל היצורים ברדיוס של 10’ ממנו הופכים לבלתי נראים:
 
-- **Area:** The 10’ radius area of the spell’s effect moves with the chosen creature.
-- **Exiting the area:** Subjects that move more than 10’ away from the chosen creature become visible.
-- **Entering the area:** Creatures that move into the area after the spell is cast do not become invisible.
-- **Gear:** Any gear a subject is carrying is also rendered invisible. Items subsequently put down become visible. Carried light sources become invisible, but the emitted light does not.
-- **Breaking the invisibility:** If a subject attacks or casts a spell, the invisibility is broken for that subject.
+- **אזור:** אזור ברדיוס 10’ של השפעת הלחש נע עם היצור הנבחר.
+- **יציאה מהאזור:** נושאים שמתרחקים יותר מ-10’ מהיצור הנבחר הופכים לנראים.
+- **כניסה לאזור:** יצורים שנכנסים לאזור לאחר שהלחש הוטל אינם הופכים לבלתי נראים.
+- **ציוד:** כל ציוד שנושא הופך גם הוא לבלתי נראה. חפצים שמונחים לאחר מכן הופכים לנראים. מקורות אור שנישאים הופכים לבלתי נראים, אך האור הנפלט מהם לא.
+- **שבירת אי-הנראות:** אם נושא תוקף או מטיל לחש, אי-הנראות נשברת עבור אותו נושא.

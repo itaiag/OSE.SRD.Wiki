@@ -1,12 +1,12 @@
-# Neutralize Poison
+# נטרול רעל
 
-*4th Level Cleric Spell*
+*לחישת כוהן דרגה 4*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** The caster or a creature or object touched
+**טווח:** המטיל או יצור או חפץ שנגעו בו
 
-This spell has two usages:
+ללחישה זו יש שני שימושים:
 
-1. **Characters:** Neutralize the effects of poison on a character. A character who has died from poisoning can be revived, if *neutralize poison* is cast within ten rounds.
-2. **Items:** Remove poison from an item.
+1. **דמויות:** נטרול השפעות הרעל על דמות. דמות שמתה מהרעלה יכולה להיות מוחזרת לחיים, אם *נטרול רעל* מוטל בתוך עשרה סיבובים.
+2. **חפצים:** הסרת רעל מחפץ.

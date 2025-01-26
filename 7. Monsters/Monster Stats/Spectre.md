@@ -1,24 +1,24 @@
-# Spectre
+# ספקטר
 
-Incorporeal phantoms; one of the most powerful undead monsters.
+רוחות רפאים חסרות גוף; אחד המפלצות המתות החזקות ביותר.
 
 ------
 
-| Armor Class     | 2 [17]                          |
+| מחלקת שריון     | 2 [17]                          |
 | ---------------- | ------------------------------- |
-| Hit Dice         | 6** (27hp)                      |
-| Attacks          | 1 × touch (1d8 + energy drain)  |
+| קוביות פגיעה     | 6** (27 נק"פ)                   |
+| התקפות           | 1 × מגע (1ק8 + ניקוז אנרגיה)    |
 | THAC0            | 14 [+5]                         |
-| Movement         | 150’ (50’) / 300’ (100’) flying |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)         |
-| Morale           | 11                              |
-| Alignment        | Chaotic                         |
+| תנועה            | 150’ (50’) / 300’ (100’) מעופף  |
+| הצלות            | D10 W11 P12 B13 S14 (6)         |
+| מורל             | 11                              |
+| נטייה            | כאוטי                           |
 | XP               | 725                             |
-| Number Appearing | 1d4 (1d8)                       |
-| Treasure Type    | E                               |
+| מספר מופיעים     | 1ק4 (1ק8)                       |
+| סוג אוצר         | E                               |
 
 ------
 
-- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Energy drain:** A successfully hit target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g., spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a spectre next night, under the control of the spectre that killed them.
+- **מתים-חיים:** אינם משמיעים רעש עד שהם תוקפים. חסינים להשפעות המשפיעות על יצורים חיים (למשל, רעל). חסינים לכישופים המשפיעים על המוח או קוראים מחשבות (למשל, *קסם*, *החזקה*, *שינה*).
+- **חסינות לנזק רגיל:** ניתן לפגוע בהם רק באמצעות התקפות קסומות.
+- **ניקוז אנרגיה:** מטרה שנפגעה בהצלחה מאבדת לצמיתות שתי רמות ניסיון (או קוביות פגיעה). זה גורם לאובדן של שתי קוביות פגיעה של נקודות פגיעה, כמו גם כל יתרון אחר הנובע מהרמות שנוקזו (למשל, כישופים, הצלות וכו'). הניסיון של הדמות מופחת לכמות הנמוכה ביותר עבור הרמה החדשה. אדם שנוקזו ממנו כל הרמות הופך לספקטר בלילה הבא, תחת שליטת הספקטר שהרג אותו.

@@ -1,26 +1,26 @@
-# Black Pudding
+# פודינג שחור
 
-Huge (5’–30’ across), mindless blobs of amorphous black jelly. Driven by ravenous hunger.
+ענק (5’–30’ לרוחב), גושים חסרי תודעה של ג'לי שחור אמורפי. מונעים על ידי רעב חסר מעצורים.
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 10* (45hp)              |
-| Attacks          | 1 × touch (3d8)         |
+| קוביות פגיעה     | 10* (45hp)              |
+| התקפות           | 1 × מגע (3d8)           |
 | THAC0            | 11 [+8]                 |
-| Movement         | 60’ (20’)               |
-| Saving Throws    | D10 W11 P12 B13 S14 (5) |
-| Morale           | 12                      |
-| Alignment        | Neutral                 |
+| תנועה            | 60’ (20’)               |
+| גלגולי הצלה      | D10 W11 P12 B13 S14 (5) |
+| מורל             | 12                      |
+| נטייה            | נייטרלי                |
 | XP               | 1,600                   |
-| Number Appearing | 1 (0)                   |
-| Treasure Type    | None                    |
+| מספר מופיעים     | 1 (0)                   |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Immunity:** Only harmed by fire-based attacks.
-- **Division:** Non-fire attacks (including spells cause the pudding to divide. Each hit creates a 2HD pudding that does 1d8 damage.
-- **Erode wood and metal:** Can dissolve wood or metal in one turn.
-- **Cling:** Can move across walls and ceilings.
-- **Seep:** Can squeeze through small holes and cracks.
+- **חסינות:** נפגעים רק מהתקפות מבוססות אש.
+- **חלוקה:** התקפות שאינן מבוססות אש (כולל לחשים) גורמות לפודינג להתחלק. כל פגיעה יוצרת פודינג של 2HD שעושה נזק של 1d8.
+- **שחיקת עץ ומתכת:** יכול להמיס עץ או מתכת בתור אחד.
+- **היצמדות:** יכול לנוע על קירות ותקרות.
+- **חלחול:** יכול להידחק דרך חורים וסדקים קטנים.

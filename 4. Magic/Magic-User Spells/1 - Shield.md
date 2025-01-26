@@ -1,12 +1,12 @@
-# Shield
+# מגן
 
-*1st Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 1*
 
-**Duration:** 2 turns
+**משך:** 2 תורות
 
-**Range:** The caster
+**טווח:** המטיל
 
-Conjures a barrier of magic that gives the caster an improved AC:
+מזמן מחסום קסם שנותן למטיל שיפור ב-AC:
 
-- **Against missile attacks:** AC 2 [17].
-- **Against other attacks:** AC 4 [15].
+- **נגד התקפות טילים:** AC 2 [17].
+- **נגד התקפות אחרות:** AC 4 [15].

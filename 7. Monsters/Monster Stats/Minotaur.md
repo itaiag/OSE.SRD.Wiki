@@ -1,6 +1,6 @@
-# Minotaur
+# מינוטאור
 
-Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes and labyrinths.
+אנשים גדולים, ברוטליים, עם ראש שור ותשוקה לבשר אדם. חיים במבוכים ולבירינתים.
 
 ------
 
@@ -19,5 +19,5 @@ Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes a
 
 ------
 
-- **Weapons:** Prefer axes, clubs, or spears.
-- **Aggressive:** Attack the same size or smaller creatures on sight. Pursue until the victims are out of sight.
+- **נשקים:** מעדיפים גרזנים, אלות או חניתות.
+- **אגרסיביים:** תוקפים יצורים בגודל זהה או קטן יותר במראה ראשון. רודפים עד שהקורבנות נעלמים מהעין.

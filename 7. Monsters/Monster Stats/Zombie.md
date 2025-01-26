@@ -1,24 +1,24 @@
-# Zombie
+# זומבי
 
-Listless, humanoid corpses, reanimated as guardians by powerful clerics or wizards.
+גופות חסרות חיים, דמויי אדם, שהוחזרו לחיים כשומרים על ידי כוהנים או קוסמים רבי עוצמה.
 
 ------
 
-| Armor Class     | 8 [11]                        |
+| מחלקת שריון     | 8 [11]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 2 (9hp)                       |
-| Attacks          | 1 × weapon (1d8 or by weapon) |
+| קוביות פגיעה     | 2 (9 נק"פ)                    |
+| התקפות          | 1 × נשק (1ק8 או לפי נשק)      |
 | THAC0            | 18 [+1]                       |
-| Movement         | 60’ (20’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 12                            |
-| Alignment        | Chaotic                       |
-| XP               | 20                            |
-| Number Appearing | 2d4 (4d6)                     |
-| Treasure Type    | None                          |
+| תנועה            | 60’ (20’)                     |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 12                            |
+| נטייה           | כאוטי                         |
+| נק"נ             | 20                            |
+| מספר מופיעים    | 2ק4 (4ק6)                     |
+| סוג אוצר        | אין                           |
 
 ------
 
-- **Guardians:** Always attack on sight.
-- **Initiative:** Always lose (no roll).
-- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
+- **שומרים:** תמיד תוקפים ברגע שרואים.
+- **יוזמה:** תמיד מפסידים (ללא גלגול).
+- **אל-מתים:** אינם משמיעים קול עד שהם תוקפים. חסינים להשפעות המשפיעות על יצורים חיים (למשל, רעל). חסינים לכשפים המשפיעים על המוח או קוראים מחשבות (למשל, *קסם*, *החזקה*, *שינה*).

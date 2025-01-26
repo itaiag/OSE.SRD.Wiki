@@ -1,77 +1,77 @@
-# Shark
+# כריש
 
-Aggressive, predatory fish of low intelligence and unpredictable behavior. Live in saltwater.
+דג תוקפני וטורף בעל אינטליגנציה נמוכה והתנהגות בלתי צפויה. חי במים מלוחים.
 
-- **Blood scent:** Can detect blood in water up to 300’ away.
-- **Feeding frenzy:** Triggered by the scent of blood: always attack; no morale checks.
+- **ריח דם:** יכול לזהות דם במים עד למרחק של 300 רגל.
+- **טירוף אכילה:** מופעל על ידי ריח דם: תמיד תוקף; אין בדיקות מורל.
 
-## Bull Shark
+## כריש שור
 
-8’ long; brown coloration. Attack by ramming, then biting the stunned prey.
+אורך 8 רגל; צבע חום. תוקף על ידי נגיחה ואז נשיכה של הטרף המום.
 
 ------
 
-| Armor Class     | 4 [15]                           |
+| מחלקת שריון     | 4 [15]                           |
 | ---------------- | -------------------------------- |
-| Hit Dice         | 2 (9hp)                          |
-| Attacks          | 1 × bite (2d4) or 1 × ram (stun) |
+| קוביות פגיעה    | 2 (9 נק"פ)                       |
+| התקפות          | 1 × נשיכה (2ק4) או 1 × נגיחה (הלם) |
 | THAC0            | 18 [+1]                          |
-| Movement         | 180’ (60’)                       |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)          |
-| Morale           | 7                                |
-| Alignment        | Neutral                          |
-| XP               | 20                               |
-| Number Appearing | 0 (3d6)                          |
-| Treasure Type    | None                             |
+| תנועה           | 180’ (60’)                       |
+| הצלות           | D12 W13 P14 B15 S16 (1)          |
+| מורל            | 7                                |
+| נטייה           | נייטרלי                          |
+| נק"נ            | 20                               |
+| מספר מופיעים    | 0 (3ק6)                          |
+| סוג אוצר        | אין                              |
 
 ------
 
-- **Blood scent; Feeding frenzy:** See main entry.
-- **Ram:** Stunned for 3 rounds (**save versus paralysis**).
+- **ריח דם; טירוף אכילה:** ראה ערך ראשי.
+- **נגיחה:** המום ל-3 סיבובים (**הצלה מול שיתוק**).
 
-## Great White Shark
+## כריש לבן גדול
 
-30’ long (or bigger!); grey coloration with a white belly. Sometimes attack small boats.
+אורך 30 רגל (או יותר!); צבע אפור עם בטן לבנה. לפעמים תוקף סירות קטנות.
 
 ------
 
-| Armor Class     | 4 [15]                  |
+| מחלקת שריון     | 4 [15]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 8 (36hp)                |
-| Attacks          | 1 × bite (2d10)         |
+| קוביות פגיעה    | 8 (36 נק"פ)             |
+| התקפות          | 1 × נשיכה (2ק10)        |
 | THAC0            | 12 [+7]                 |
-| Movement         | 180’ (60’)              |
-| Saving Throws    | D10 W11 P12 B13 S14 (4) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 650                     |
-| Number Appearing | 0 (1d4)                 |
-| Treasure Type    | None                    |
+| תנועה           | 180’ (60’)              |
+| הצלות           | D10 W11 P12 B13 S14 (4) |
+| מורל            | 7                       |
+| נטייה           | נייטרלי                 |
+| נק"נ            | 650                     |
+| מספר מופיעים    | 0 (1ק4)                 |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Blood scent; Feeding frenzy:** See main entry.
+- **ריח דם; טירוף אכילה:** ראה ערך ראשי.
 
-## Mako Shark
+## כריש מאקו
 
-15’ long; bluish-grey or tan coloration.
+אורך 15 רגל; צבע כחול-אפור או חום.
 
 ------
 
-| Armor Class     | 4 [15]                  |
+| מחלקת שריון     | 4 [15]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 4 (18hp)                |
-| Attacks          | 1 × bite (2d6)          |
+| קוביות פגיעה    | 4 (18 נק"פ)             |
+| התקפות          | 1 × נשיכה (2ק6)         |
 | THAC0            | 16 [+3]                 |
-| Movement         | 180’ (60’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 75                      |
-| Number Appearing | 0 (2d6)                 |
-| Treasure Type    | None                    |
+| תנועה           | 180’ (60’)              |
+| הצלות           | D12 W13 P14 B15 S16 (2) |
+| מורל            | 7                       |
+| נטייה           | נייטרלי                 |
+| נק"נ            | 75                      |
+| מספר מופיעים    | 0 (2ק6)                 |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Blood scent; Feeding frenzy:** See main entry.
-- **Unpredictable:** May ignore other creatures, only to attack moments later.
+- **ריח דם; טירוף אכילה:** ראה ערך ראשי.
+- **בלתי צפוי:** עשוי להתעלם מיצורים אחרים, רק כדי לתקוף רגעים לאחר מכן.

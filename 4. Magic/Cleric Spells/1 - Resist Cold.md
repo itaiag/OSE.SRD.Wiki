@@ -1,13 +1,13 @@
-# Resist Cold
+# התנגדות לקור
 
-*1st Level Cleric Spell*
+*לחישת כוהן ברמה 1*
 
-**Duration:** 6 turns
+**משך:** 6 תורות
 
-**Range:** 30’
+**טווח:** 30’
 
-All creatures within range are protected from cold, as follows:
+כל היצורים בטווח מוגנים מפני קור, כדלקמן:
 
-- **Normal cold:** Unharmed by non-magical freezing temperatures.
-- **Save bonus:** Gain a +2 bonus to saving throws versus cold-based effects (e.g. magic or breath attacks).
-- **Cold-based damage:** Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 damage.)
+- **קור רגיל:** אינם נפגעים מטמפרטורות קיפאון לא קסומות.
+- **בונוס הצלה:** מקבלים בונוס של +2 לגלגולי הצלה כנגד השפעות מבוססות קור (למשל קסם או התקפות נשיפה).
+- **נזק מבוסס קור:** מופחת בנקודה אחת לכל קוביית נזק מגולגלת. (כל קובייה גורמת לנזק מינימלי של 1.)

@@ -1,13 +1,13 @@
-# Stone to Flesh (Flesh to Stone)
+# אבן לבשר (בשר לאבן)
 
-*6th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 6*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 120’
+**טווח:** 120’
 
-Transforms stone into living flesh. It is especially useful for restoring a magically petrified creature to life.
+הופך אבן לבשר חי. זה שימושי במיוחד להחזרת יצור מאובן באופן קסום לחיים.
 
-## Reversed: Flesh to Stone
+## הפוך: בשר לאבן
 
-Transforms a living creature (including equipment) into stone. The victim may **save versus paralysis** to resist.
+הופך יצור חי (כולל ציוד) לאבן. הקורבן יכול **להציל נגד שיתוק** כדי להתנגד.

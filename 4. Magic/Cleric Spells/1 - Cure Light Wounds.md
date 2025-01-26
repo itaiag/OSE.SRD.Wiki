@@ -1,16 +1,16 @@
-# Cure Light Wounds (Cause Light Wounds)
+# ריפוי פצעים קלים (גרימת פצעים קלים)
 
-*1st Level Cleric Spell*
+*לחשים לדרגה 1 של כוהן*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** The caster or a creature touched
+**טווח:** המטיל או יצור שנגעו בו
 
-This spell has two usages:
+ללחשים אלו יש שני שימושים:
 
-1. **Healing a living subject:** Restores 1d6+1 hit points of damage. This cannot raise the subject’s hit points above their normal maximum.
-2. **Curing paralysis:** Paralysing effects are negated.
+1. **ריפוי נושא חי:** משחזר 1d6+1 נקודות פגיעה של נזק. זה לא יכול להעלות את נקודות הפגיעה של הנושא מעל המקסימום הרגיל שלו.
+2. **ריפוי שיתוק:** אפקטים משתקים מבוטלים.
 
-## Reversed: Cause Light Wounds
+## הפוך: גרימת פצעים קלים
 
-Inflicts 1d6+1 hit points of damage to a touched creature. In combat, a melee attack roll is required.
+גורם 1d6+1 נקודות פגיעה של נזק לייצור שנגעו בו. בקרב, נדרש גלגול התקפה במגע.

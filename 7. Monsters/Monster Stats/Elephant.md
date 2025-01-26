@@ -1,24 +1,24 @@
-# Elephant
+# פיל
 
-Massive, tusked animals that dwell near subtropical forests. Wandering individuals or whole herds may be encountered.
+חיות עצומות עם חטים השוכנות ליד יערות סובטרופיים. ניתן להיתקל בפרטים בודדים או בעדרים שלמים.
 
 ------
 
-| Armor Class     | 5 [14]                              |
+| מחלקת שריון     | 5 [14]                              |
 | ---------------- | ----------------------------------- |
-| Hit Dice         | 9 (40hp)                            |
-| Attacks          | 2 × tusk (2d4) or 1 × trample (4d8) |
+| קוביות פגיעה     | 9 (40 נק"פ)                         |
+| התקפות          | 2 × חט (2ק4) או 1 × דריסה (4ק8)     |
 | THAC0            | 12 [+7]                             |
-| Movement         | 120’ (40’)                          |
-| Saving Throws    | D10 W11 P12 B13 S14 (5)             |
-| Morale           | 8                                   |
-| Alignment        | Neutral                             |
-| XP               | 900                                 |
-| Number Appearing | 0 (1d20)                            |
-| Treasure Type    | Tusks                               |
+| תנועה           | 120’ (40’)                          |
+| גלגולי הצלה     | D10 W11 P12 B13 S14 (5)             |
+| מורל            | 8                                   |
+| נטייה           | נייטרלי                             |
+| נק"נ            | 900                                 |
+| מספר מופיעים    | 0 (1ק20)                            |
+| סוג אוצר        | חטים                                |
 
 ------
 
-- **Charge:** In the first round of combat, when not in melee. Requires a clear run of at least 20 yards. Tusks inflict double damage.
-- **Trample:** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
-- **Ivory:** Each tusk is worth 1d6 × 100gp.
+- **הסתערות:** בסיבוב הראשון של הקרב, כאשר לא בקרב פנים אל פנים. דורש ריצה ברורה של לפחות 20 יארד. החטים גורמים לנזק כפול.
+- **דריסה:** סיכוי של 3 מתוך 4 לדרוס בכל סיבוב. +4 לפגיעה ביצורים בגודל אדם או קטנים יותר.
+- **שנהב:** כל חט שווה 1ק6 × 100 מ"ז.

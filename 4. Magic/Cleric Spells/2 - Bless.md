@@ -1,16 +1,16 @@
-# Bless (Blight)
+# ברכה (קללה)
 
-*2nd Level Cleric Spell*
+*כישוף כוהן ברמה 2*
 
-**Duration:** 6 turns
+**משך:** 6 תורות
 
-**Range:** 60’
+**טווח:** 60’
 
-May be used in one of two situations:
+ניתן להשתמש באחת משתי סיטואציות:
 
-1. **Battle:** Allies within a 20’ square area who are not yet in melee gain a +1 bonus to attack and damage rolls and a +1 bonus to morale.
-2. **Ritual:** Casting *bless* may also form part of rituals of purification or consecration, at the referee’s discretion.
+1. **קרב:** בעלי ברית בתוך שטח של 20’ רגל מרובע שעדיין לא נמצאים בקרב פנים אל פנים מקבלים בונוס של +1 לגלגולי התקפה ונזק ובונוס של +1 למורל.
+2. **טקס:** הטלת *ברכה* יכולה גם להיות חלק מטקסי טיהור או הקדשה, לפי שיקול דעתו של השופט.
 
-## Reversed: Blight
+## הפוך: קללה
 
-Incurs a -1 penalty to morale checks, attack rolls, and damage rolls of enemies within a 20’ square area. A **save versus spells** is allowed to resist the *blight*.
+גורם לעונש של -1 לבדיקות מורל, גלגולי התקפה וגלגולי נזק של אויבים בתוך שטח של 20’ רגל מרובע. **הצלה מול כישופים** מותרת כדי להתנגד ל*קללה*.

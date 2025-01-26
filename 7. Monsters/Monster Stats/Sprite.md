@@ -1,23 +1,23 @@
-# Sprite
+# ספרייט
 
-1’ tall, winged humanoids related to pixies and elves. They are shy but driven by curiosity and their odd sense of humor.
+דמויות אנושיות מכונפות בגובה של 1 רגל, קשורות לפיקסיות ואלפים. הם ביישנים אך מונעים על ידי סקרנות והומור מוזר.
 
 ------
 
-| Armor Class     | 5 [14]                        |
+| מחלקת שריון     | 5 [14]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | ½* (2hp)                      |
-| Attacks          | 1 × spell (curse)             |
+| קוביות פגיעה     | ½* (2hp)                      |
+| התקפות           | 1 × לחש (קללה)               |
 | THAC0            | 19 [0]                        |
-| Movement         | 60’ (20’) / 180’ (60’) flying |
-| Saving Throws    | D12 W13 P13 B15 S15 (Elf 1)   |
-| Morale           | 7                             |
-| Alignment        | Neutral                       |
+| תנועה            | 60’ (20’) / 180’ (60’) מעופף |
+| גלגולי הצלה      | D12 W13 P13 B15 S15 (אלף 1)  |
+| מורל             | 7                             |
+| נטייה            | נייטרלי                      |
 | XP               | 6                             |
-| Number Appearing | 3d6 (5d8)                     |
-| Treasure Type    | S                             |
+| מספר מופיעים     | 3d6 (5d8)                     |
+| סוג אוצר         | S                             |
 
 ------
 
-- **Curse:** Five sprites can collectively curse a target (no attack roll; **save versus spells**). The referee determines the effect but will always be used to comical effect (e.g., target trips, target’s nose grows).
-- **Pranksters:** Even if attacked, sprites have no interest in killing, merely in making practical jokes.
+- **קללה:** חמישה ספרייטים יכולים לקלל מטרה במשותף (ללא גלגול התקפה; **הצלה מול לחשים**). המנחה קובע את האפקט אך תמיד ישמש לאפקט קומי (למשל, המטרה נופלת, האף של המטרה גדל).
+- **שובבים:** גם אם הותקפו, לספרייטים אין עניין להרוג, אלא רק לעשות מתיחות מעשיות.

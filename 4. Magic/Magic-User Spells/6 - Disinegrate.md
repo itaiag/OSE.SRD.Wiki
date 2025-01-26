@@ -1,12 +1,12 @@
-# Disintegrate
+# התפוררות
 
-*6th Level Magic-User Spell*
+*לחשים של מכשף ברמה 6*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** 60’
+**טווח:** 60’
 
-The material form of a single, non-magical creature or object is instantly and permanently destroyed.
+הצורה החומרית של יצור או חפץ יחיד ולא קסום נהרסת באופן מיידי וקבוע.
 
-- **If a creature is targeted:** It may **save versus death** to resist *disintegration*.
-- **Examples of objects:** The following might be targeted: a tree, a ship, a 10’ section of wall.
+- **אם יצור הוא המטרה:** הוא יכול **להציל מול מוות** כדי להתנגד ל*התפוררות*.
+- **דוגמאות לחפצים:** ניתן לכוון על הדברים הבאים: עץ, ספינה, קטע קיר באורך 10’.

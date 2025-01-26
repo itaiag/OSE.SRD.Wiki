@@ -1,5 +1,5 @@
-# Potion of Growth
+# שיקוי גדילה
 
-The character doubles in size.
+הדמות מכפילה את גודלה.
 
-- **Melee attacks:** The character’s increased strength means that their melee attacks deal double damage.
+- **התקפות קרב פנים אל פנים:** הכוח המוגבר של הדמות אומר שהתקפות הקרב פנים אל פנים שלהן גורמות לנזק כפול.

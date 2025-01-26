@@ -1,3 +1,3 @@
-# Potion of Longevity
+# שיקוי הארכת חיים
 
-Instantly and permanently causes the character to become 10 years younger.
+גורם לדמות להפוך צעירה ב-10 שנים באופן מיידי וקבוע.

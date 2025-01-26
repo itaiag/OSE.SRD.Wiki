@@ -1,12 +1,12 @@
-# Wall of Stone
+# קיר אבן
 
-*5th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 5*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 60’
+**טווח:** 60’
 
-A wall of solid rock appears.
+קיר של סלע מוצק מופיע.
 
-- **Size:** The wall may be of whatever shape the caster desires and is 1,000 cubic feet in volume. (For example, a 2’ thick wall, 50’ long and 10’ high.)
-- **Location:** The wall must be supported (e.g. by the ground) and cannot be created in an area occupied by objects.
+- **גודל:** הקיר יכול להיות בכל צורה שהמטיל רוצה והוא בנפח של 1,000 רגל מעוקב. (לדוגמה, קיר בעובי 2’, אורך 50’ וגובה 10’.)
+- **מיקום:** הקיר חייב להיות נתמך (למשל על ידי הקרקע) ולא ניתן ליצור אותו באזור שתפוס על ידי חפצים.

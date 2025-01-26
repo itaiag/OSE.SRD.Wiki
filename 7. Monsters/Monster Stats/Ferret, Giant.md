@@ -1,6 +1,6 @@
-# Ferret, Giant
+# חמוס, ענק
 
-3’ long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude.
+חמוסים באורך 3 רגל שצדים חולדות ענק במאורות שלהן. לפעמים מוחזקים על ידי בני אדם בשל כישוריהם.
 
 ------
 
@@ -19,4 +19,4 @@
 
 ------
 
-- **Volatile:** Unpredictable temper; may turn on trainers or other people.
+- **נפיץ:** מזג בלתי צפוי; עשוי לפנות נגד מאמנים או אנשים אחרים.

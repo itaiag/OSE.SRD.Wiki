@@ -1,13 +1,13 @@
 # Massmorph
 
-*4th Level Magic-User Spell*
+*קסם משתמש ברמה 4*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 240’
+**טווח:** 240’
 
-Up to 100 human-sized creatures within a 120’ radius area are veiled by illusion to appear as a copse of trees or orchards.
+עד 100 יצורים בגודל אדם בתוך שטח ברדיוס של 120’ מוסתרים על ידי אשליה להיראות כחורשת עצים או מטעים.
 
-- **Moving through:** Once the illusion is in place, even creatures moving among the veiled subjects are deceived.
-- **Subjects who leave the affected area:** Cease to be veiled.
-- **Dismissing:** The caster may dismiss the illusion in its entirety at any time.
+- **תנועה דרך:** ברגע שהאשליה קיימת, אפילו יצורים הנעים בין הנושאים המוסתרים מתעתעים.
+- **נושאים שעוזבים את האזור המושפע:** מפסיקים להיות מוסתרים.
+- **ביטול:** המטיל יכול לבטל את האשליה בשלמותה בכל עת.

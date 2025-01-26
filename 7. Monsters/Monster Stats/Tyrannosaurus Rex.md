@@ -1,22 +1,22 @@
-# Tyrannosaurus Rex
+# טירנוזאורוס רקס
 
-Great (over 20’ tall), two-legged, predatory dinosaurs with huge jaws. Hunt human-sized or larger prey. Dwell in Lost World regions.
+דינוזאורים טורפים גדולים (מעל 20 רגל), דו-רגליים, עם לסתות ענקיות. צדים טרף בגודל אדם או גדול יותר. שוכנים באזורים של עולם אבוד.
 
 ------
 
-| Armor Class     | 3 [16]               |
+| מחלקת שריון     | 3 [16]               |
 | ---------------- | -------------------- |
-| Hit Dice         | 20 (90hp)            |
-| Attacks          | 1 × bite (6d6)       |
+| קוביות פגיעה     | 20 (90hp)            |
+| התקפות           | 1 × נשיכה (6d6)      |
 | THAC0            | 6 [+13]              |
-| Movement         | 120’ (40’)           |
-| Saving Throws    | D6 W7 P8 B8 S10 (10) |
-| Morale           | 11                   |
-| Alignment        | Neutral              |
+| תנועה            | 120’ (40’)           |
+| גלגולי הצלה      | D6 W7 P8 B8 S10 (10) |
+| מורל             | 11                   |
+| נטייה            | ניטרלי               |
 | XP               | 2,000                |
-| Number Appearing | 0 (1)                |
-| Treasure Type    | V × 3                |
+| מספר מופיעים     | 0 (1)                |
+| סוג אוצר         | V × 3                |
 
 ------
 
-- **Large prey:** Attack the largest target first.
+- **טרף גדול:** תוקף את המטרה הגדולה ביותר תחילה.

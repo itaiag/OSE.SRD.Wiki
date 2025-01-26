@@ -1,8 +1,8 @@
-# Potion of Gaseous Form
+# שיקוי צורת גז
 
-The character’s body becomes a cloud of vapor. This has the following effects:
+גופו של הדמות הופך לענן של אדים. יש לכך את ההשפעות הבאות:
 
-- **Equipment and clothing:** Drops to the floor.
-- **Movement:** The character may move, as a cloud of gas, through small cracks in stone walls, wooden objects, etc.
-- **Attacking:** Is not possible, while in gaseous form.
-- **Invulnerability:** The character’s AC is -2 [21]. Non-magical weapons cannot harm the character.
+- **ציוד וביגוד:** נופלים לרצפה.
+- **תנועה:** הדמות יכולה לנוע, כענן גז, דרך סדקים קטנים בקירות אבן, חפצים מעץ וכו'.
+- **תקיפה:** אינה אפשרית, בזמן צורת גז.
+- **חסינות:** ה-AC של הדמות הוא -2 [21]. כלי נשק לא קסומים אינם יכולים לפגוע בדמות.

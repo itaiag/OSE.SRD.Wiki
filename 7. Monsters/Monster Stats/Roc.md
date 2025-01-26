@@ -1,71 +1,71 @@
 # Roc
 
-Gigantic birds of prey that nest in the highest peaks of isolated mountain ranges. Will attack intruders, if approached carelessly.
+ציפורי טרף ענקיות שמקננות בפסגות הגבוהות ביותר של רכסי הרים מבודדים. יתקפו פולשים אם יתקרבו בחוסר זהירות.
 
-- **Alignment reaction:** -1 to reaction rolls versus Neutral characters; -2 versus Chaotic characters.
-- **Swoop:** Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
-- **Eggs:** 1d6 eggs or chicks in 50% of nests.
-- **Trainable:** Can be trained if captured when young.
+- **תגובה ליישור:** -1 לגלגולי תגובה מול דמויות נייטרליות; -2 מול דמויות כאוטיות.
+- **צלילה:** יכולות לצלול על קורבנות הנראים מלמעלה. אם הקורבן מופתע, ההתקפה גורמת לנזק כפול. בגלגול התקפה של 18 או יותר, הקורבן יכול להילקח (אם הוא בגודל מתאים).
+- **ביצים:** 1d6 ביצים או אפרוחים ב-50% מהקנים.
+- **ניתן לאילוף:** ניתן לאלף אם נתפסים כשהם צעירים.
 
-## Giant Roc
+## Roc ענק
 
 ------
 
-| Armor Class     | 0 [19]                         |
+| מחלקת שריון     | 0 [19]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 36 (162hp)                     |
-| Attacks          | 2 × claw (3d6), 1 × bite (8d6) |
+| קוביות פגיעה    | 36 (162 נק"פ)                  |
+| התקפות          | 2 × טופר (3d6), 1 × נשיכה (8d6) |
 | THAC0            | 5 [+14]                        |
-| Movement         | 60’ (20’) / 480’ (160’) flying |
-| Saving Throws    | D2 W3 P4 B3 S6 (18)            |
-| Morale           | 10 (12 in lair)                |
-| Alignment        | Lawful                         |
-| XP               | 6,250                          |
-| Number Appearing | 0 (1)                          |
-| Treasure Type    | I                              |
+| תנועה           | 60’ (20’) / 480’ (160’) מעופף  |
+| גלגולי הצלה     | D2 W3 P4 B3 S6 (18)            |
+| מורל            | 10 (12 בקן)                    |
+| יישור           | חוקי                           |
+| נק"נ            | 6,250                          |
+| מספר מופיעים    | 0 (1)                          |
+| סוג אוצר        | I                              |
 
 ------
 
-- **Alignment reaction; Swoop:** See main entry.
+- **תגובה ליישור; צלילה:** ראה ערך ראשי.
 
-## Large Roc
+## Roc גדול
 
 ------
 
-| Armor Class     | 2 [17]                          |
+| מחלקת שריון     | 2 [17]                          |
 | ---------------- | ------------------------------- |
-| Hit Dice         | 12 (54hp)                       |
-| Attacks          | 2 × claw (1d8), 1 × bite (2d10) |
+| קוביות פגיעה    | 12 (54 נק"פ)                    |
+| התקפות          | 2 × טופר (1d8), 1 × נשיכה (2d10) |
 | THAC0            | 10 [+9]                         |
-| Movement         | 60’ (20’) / 480’ (160’) flying  |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)         |
-| Morale           | 9 (12 in lair)                  |
-| Alignment        | Lawful                          |
-| XP               | 1,100                           |
-| Number Appearing | 0 (1d8)                         |
-| Treasure Type    | I                               |
+| תנועה           | 60’ (20’) / 480’ (160’) מעופף   |
+| גלגולי הצלה     | D10 W11 P12 B13 S14 (6)         |
+| מורל            | 9 (12 בקן)                      |
+| יישור           | חוקי                            |
+| נק"נ            | 1,100                           |
+| מספר מופיעים    | 0 (1d8)                         |
+| סוג אוצר        | I                               |
 
 ------
 
-- **Alignment reaction; Swoop:** See main entry.
+- **תגובה ליישור; צלילה:** ראה ערך ראשי.
 
-## Small Roc
+## Roc קטן
 
 ------
 
-| Armor Class     | 4 [15]                           |
+| מחלקת שריון     | 4 [15]                           |
 | ---------------- | -------------------------------- |
-| Hit Dice         | 6 (27hp)                         |
-| Attacks          | 2 × claw (1d4+1), 1 × bite (2d6) |
+| קוביות פגיעה    | 6 (27 נק"פ)                      |
+| התקפות          | 2 × טופר (1d4+1), 1 × נשיכה (2d6) |
 | THAC0            | 14 [+5]                          |
-| Movement         | 60’ (20’) / 480’ (160’) flying   |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)          |
-| Morale           | 8 (12 in lair)                   |
-| Alignment        | Lawful                           |
-| XP               | 275                              |
-| Number Appearing | 0 (1d12)                         |
-| Treasure Type    | I                                |
+| תנועה           | 60’ (20’) / 480’ (160’) מעופף    |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3)          |
+| מורל            | 8 (12 בקן)                       |
+| יישור           | חוקי                             |
+| נק"נ            | 275                              |
+| מספר מופיעים    | 0 (1d12)                         |
+| סוג אוצר        | I                                |
 
 ------
 
-- **Alignment reaction; Swoop:** See main entry.
+- **תגובה ליישור; צלילה:** ראה ערך ראשי.

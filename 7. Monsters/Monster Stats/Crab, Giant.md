@@ -1,22 +1,22 @@
-# Crab, Giant
+# סרטן, ענק
 
-Unintelligent crustaceans that lurk in coastal waters and creep along beaches. Cannot swim.
+סרטנים חסרי תבונה שמסתתרים במים החופיים וזוחלים לאורך החופים. אינם יכולים לשחות.
 
 ------
 
-| Armor Class     | 2 [17]                  |
+| מחלקת שריון     | 2 [17]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3 (13hp)                |
-| Attacks          | 2 × pincer (2d6)        |
+| קוביות פגיעה     | 3 (13 נק"פ)             |
+| התקפות           | 2 × צבת (2ק6)           |
 | THAC0            | 17 [+2]                 |
-| Movement         | 60’ (20’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 35                      |
-| Number Appearing | 1d2 (1d6)               |
-| Treasure Type    | None                    |
+| תנועה            | 60’ (20’)               |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2) |
+| מורל             | 7                       |
+| נטייה            | ניטרלי                 |
+| נק"נ             | 35                      |
+| מספר מופיעים     | 1ק2 (1ק6)               |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Ravenous:** Attack any moving creature.
+- **רעבתני:** תוקף כל יצור נע.

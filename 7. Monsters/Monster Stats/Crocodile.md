@@ -1,64 +1,64 @@
-# Crocodile
+# תנין
 
-Large reptiles that are ungainly on land and live primarily in water, lurking just beneath the surface of subtropical swamps and lazy rivers. If hungry, attack any creatures that venture into the water.
+זוחלים גדולים שמגושמים על היבשה וחיים בעיקר במים, אורבים ממש מתחת לפני השטח של ביצות סובטרופיות ונהרות עצלים. אם רעבים, תוקפים כל יצור שנכנס למים.
 
-- **Feeding frenzy:** Attracted to the scent of blood or violent movement in the water.
+- **טירוף האכלה:** נמשכים לריח הדם או לתנועה אלימה במים.
 
-## Giant Crocodile
+## תנין ענק
 
-More than 50’ long. Usually encountered in Lost World regions. Will attack small ships.
+יותר מ-50 רגל אורך. בדרך כלל נתקלים בהם באזורים של עולם אבוד. יתקוף ספינות קטנות.
 
 ------
 
-| Armor Class     | 1 [18]                         |
+| מחלקת שריון     | 1 [18]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 15 (67hp)                      |
-| Attacks          | 1 × bite (3d8)                 |
+| קוביות פגיעה    | 15 (67 נק"פ)                   |
+| התקפות          | 1 × נשיכה (3ק8)                |
 | THAC0            | 9 [+10]                        |
-| Movement         | 90’ (30’) / 90’ (30’) swimming |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)          |
-| Morale           | 9                              |
-| Alignment        | Neutral                        |
-| XP               | 1,350                          |
-| Number Appearing | 0 (1d3)                        |
-| Treasure Type    | None                           |
+| תנועה           | 90’ (30’) / 90’ (30’) שחייה    |
+| גלגולי הצלה     | D8 W9 P10 B10 S12 (8)          |
+| מורל            | 9                              |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 1,350                          |
+| מספר מופיעים    | 0 (1ק3)                        |
+| סוג אוצר        | אין                            |
 
 ------
 
-## Large Crocodile
+## תנין גדול
 
-20’ or more long. May attack small watercraft (canoes, rafts).
+20 רגל או יותר אורך. עשוי לתקוף כלי שיט קטנים (קאנו, רפסודות).
 
 ------
 
-| Armor Class     | 3 [16]                         |
+| מחלקת שריון     | 3 [16]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 6 (27hp)                       |
-| Attacks          | 1 × bite (2d8)                 |
+| קוביות פגיעה    | 6 (27 נק"פ)                    |
+| התקפות          | 1 × נשיכה (2ק8)                |
 | THAC0            | 14 [+5]                        |
-| Movement         | 90’ (30’) / 90’ (30’) swimming |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)        |
-| Morale           | 7                              |
-| Alignment        | Neutral                        |
-| XP               | 275                            |
-| Number Appearing | 0 (1d4)                        |
-| Treasure Type    | None                           |
+| תנועה           | 90’ (30’) / 90’ (30’) שחייה    |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3)        |
+| מורל            | 7                              |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 275                            |
+| מספר מופיעים    | 0 (1ק4)                        |
+| סוג אוצר        | אין                            |
 
 ------
 
-## Normal Crocodile
+## תנין רגיל
 
 ------
 
-| Armor Class     | 5 [14]                         |
+| מחלקת שריון     | 5 [14]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 2 (9hp)                        |
-| Attacks          | 1 × bite (1d8)                 |
+| קוביות פגיעה    | 2 (9 נק"פ)                     |
+| התקפות          | 1 × נשיכה (1ק8)                |
 | THAC0            | 18 [+1]                        |
-| Movement         | 90’ (30’) / 90’ (30’) swimming |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)        |
-| Morale           | 7                              |
-| Alignment        | Neutral                        |
-| XP               | 20                             |
-| Number Appearing | 0 (1d8)                        |
-| Treasure Type    | None                           |
+| תנועה           | 90’ (30’) / 90’ (30’) שחייה    |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1)        |
+| מורל            | 7                              |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 20                             |
+| מספר מופיעים    | 0 (1ק8)                        |
+| סוג אוצר        | אין                            |

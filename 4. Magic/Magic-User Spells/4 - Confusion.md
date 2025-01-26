@@ -1,19 +1,19 @@
-# Confusion
+# בלבול
 
-*4th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 4*
 
-**Duration:** 12 rounds
+**משך:** 12 סיבובים
 
-**Range:** 120’
+**טווח:** 120’
 
-3d6 creatures within a 30’ radius area are stricken with delusions and become unable to control their actions.
+3d6 יצורים בתוך שטח ברדיוס של 30’ נפגעים מהזיות והופכים לא מסוגלים לשלוט בפעולותיהם.
 
-- **Subjects of 2+1 HD or greater:** May **save versus spells** each round to resist the spell’s effect, acting with free will that round if they make the save.
-- **Subjects of 2 HD or lower:** May not make a saving throw.
-- **Behavior:** Roll on the following table separately for each affected subject each round to determine how that subject acts that round:
+- **נבדקים עם 2+1 HD או יותר:** יכולים **להציל מול לחשים** בכל סיבוב כדי להתנגד להשפעת הלחש, ולפעול עם רצון חופשי באותו סיבוב אם הם מצליחים בהצלה.
+- **נבדקים עם 2 HD או פחות:** לא יכולים לבצע הצלת לחשים.
+- **התנהגות:** גלגלו בטבלה הבאה בנפרד עבור כל נבדק מושפע בכל סיבוב כדי לקבוע כיצד הנבדק פועל באותו סיבוב:
 
-| 2d6  | Behaviour              |
+| 2d6  | התנהגות               |
 | :--: | :--------------------- |
-| 2-5  | Attack caster’s group  |
-| 6-8  | No action              |
-| 9-12 | Attack subject’s group |
+| 2-5  | תוקף את קבוצת המטיל  |
+| 6-8  | אין פעולה             |
+| 9-12 | תוקף את קבוצת הנבדק  |

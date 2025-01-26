@@ -1,8 +1,8 @@
-# Staff of Power
+# מטה הכוח
 
-An item of great wizardly power, this staff may be used as a weapon in melee, and may evoke five different magical effects.
+חפץ בעל עוצמה קוסמית רבה, מטה זה יכול לשמש כנשק בקרב פנים אל פנים, ויכול לעורר חמישה אפקטים קסומים שונים.
 
-- **Arcane magic:** Usable by arcane spell casters only.
-- **Melee:** Expending one charge inflicts 2d6 damage on a successful hit.
-- **Cone of cold:** Conjures a cone of freezing energy, 60’ long and 30’ wide at the far end. Creatures caught in the cone suffer 8d6 damage (**save versus spells** for half damage).
-- **Spells:** Can cast: *continual light*, *fire ball* (8d6 damage), *lightning bolt* (8d6 damage), *telekinesis* (up to 2,400 coins of weight).
+- **קסם ארקני:** ניתן לשימוש על ידי מטילי לחשים ארקניים בלבד.
+- **קרב פנים אל פנים:** שימוש בטעינה אחת גורם ל-2d6 נזק בפגיעה מוצלחת.
+- **חרוט קור:** מזמן חרוט של אנרגיה קפואה, באורך 60 רגל ורוחב 30 רגל בקצה הרחוק. יצורים שנלכדים בחרוט סובלים מ-8d6 נזק (**הצלה מול לחשים** לחצי נזק).
+- **לחשים:** יכול להטיל: *אור תמידי*, *כדור אש* (8d6 נזק), *ברק* (8d6 נזק), *טלכנזיס* (עד 2,400 מטבעות משקל).

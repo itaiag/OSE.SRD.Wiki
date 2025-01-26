@@ -1,7 +1,7 @@
-# Efreeti Bottle
+# בקבוק אפריטי
 
-A 3’ tall, weighty jug with a sealed stopper. Breaking the seal and removing the stopper releases a trapped efreeti (see ***Efreeti***), who will serve the character.
+כד בגובה 3 רגל, כבד עם פקק אטום. שבירת החותם והסרת הפקק משחררת אפריטי כלוא (ראו ***אפריטי***), שישרת את הדמות.
 
-- **Frequency of service:** The efreeti will serve the one who freed it (and only that character) once per day.
-- **Duration:** After 101 days, its service ends. The creature then returns to its home—the legendary City of Brass.
-- **If the efreeti is killed:** Its service ends.
+- **תדירות השירות:** האפריטי ישרת את מי ששחרר אותו (ורק את הדמות הזו) פעם ביום.
+- **משך הזמן:** לאחר 101 ימים, השירות מסתיים. היצור אז חוזר לביתו - העיר האגדית של נחושת.
+- **אם האפריטי נהרג:** השירות שלו מסתיים.

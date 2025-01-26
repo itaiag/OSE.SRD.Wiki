@@ -1,9 +1,9 @@
-# Protection from Normal Missiles
+# הגנה מפני טילים רגילים
 
-*3rd Level Magic-User Spell*
+*לחשים של מכשף ברמה 3*
 
-**Duration:** 12 turns
+**משך:** 12 סיבובים
 
-**Range:** 30’
+**טווח:** 30’
 
-A single subject in range gains complete immunity to small, non-magical missiles (e.g., no protection is granted against hurled boulders or enchanted missiles).
+נושא יחיד בטווח מקבל חסינות מוחלטת לטילים קטנים ולא קסומים (למשל, לא ניתנת הגנה מפני סלעים מושלכים או טילים מכושפים).

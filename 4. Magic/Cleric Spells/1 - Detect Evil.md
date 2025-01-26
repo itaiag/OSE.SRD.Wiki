@@ -1,12 +1,12 @@
-# Detect Evil (C)
+# גילוי רשע (C)
 
-*1st Level Cleric Spell*
+*לחשים לדרגה 1 של כוהן*
 
-**Duration:** 6 turns
+**משך:** 6 תורות
 
-**Range:** 120’
+**טווח:** 120’
 
-Objects under an evil enchantment and living beings with evil intentions are caused to magically glow.
+חפצים תחת כישוף רשע ויצורים חיים עם כוונות רשע יגרמו לזהור באופן קסום.
 
-- **Intent only:** The caster cannot read the thoughts of creatures with evil intent.
-- **Definition of evil:** The referee must judge what is classified as evil. Beings of chaotic alignment do not always have evil intent. Traps and poisons, while potentially harmful, are not evil.
+- **כוונה בלבד:** המטיל אינו יכול לקרוא את מחשבותיהם של יצורים עם כוונות רשע.
+- **הגדרת רשע:** השופט חייב להחליט מה מסווג כרשע. יצורים עם נטייה כאוטית אינם תמיד בעלי כוונות רשע. מלכודות ורעלים, למרות שהם עלולים להזיק, אינם רשעים.

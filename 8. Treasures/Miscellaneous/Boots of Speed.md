@@ -1,6 +1,6 @@
-# Boots of Speed
+# מגפי מהירות
 
-The wearer can move at up to 240’ (80’)—the speed of a riding horse.
+הלובש יכול לנוע במהירות של עד 240’ (80’)—מהירות של סוס רכיבה.
 
-- **Duration:** This can be maintained for up to 12 hours.
-- **Rest:** Afterwards, the wearer must rest for 1 day.
+- **משך זמן:** ניתן לשמור על זה עד 12 שעות.
+- **מנוחה:** לאחר מכן, הלובש חייב לנוח למשך יום אחד.

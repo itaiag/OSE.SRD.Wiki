@@ -1,14 +1,14 @@
-# Wizard Lock
+# מנעול קוסם
 
-*2nd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 2*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 10’
+**טווח:** 10’
 
-A *wizard lock* spell magically locks a door, gate, similar portal, or any item that has a lock. The magical lock is permanent but may be bypassed as follows:
+לחישת *מנעול קוסם* נועלת באופן קסום דלת, שער, פורטל דומה או כל פריט שיש לו מנעול. המנעול הקסום הוא קבוע אך ניתן לעקוף אותו בדרכים הבאות:
 
-- **The caster:** Can freely pass through any portals locked by their own spell.
-- **A \*knock\* spell:** Allows passage.
-- **Higher level casters:** Magic-using characters 3 or more levels higher than the caster of *wizard lock* may pass.
-- **Temporary:** Bypassing does not destroy a *wizard lock*.
+- **המטיל:** יכול לעבור בחופשיות דרך כל פורטל שננעל על ידי הלחש שלו.
+- **לחישת \*נקישה\*:** מאפשרת מעבר.
+- **מטילים ברמה גבוהה יותר:** דמויות המשתמשות בקסם שהן 3 רמות או יותר גבוהות מהמטיל של *מנעול קוסם* יכולות לעבור.
+- **זמני:** עקיפה אינה הורסת את *מנעול הקוסם*.

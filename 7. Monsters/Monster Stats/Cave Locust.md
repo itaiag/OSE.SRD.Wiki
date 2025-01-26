@@ -1,26 +1,26 @@
-# Cave Locust
+# חגב מערות
 
-2–3’ long, herbivorous, giant crickets that dwell in caverns.
+חגבים ענקיים, אוכלי עשב, באורך של 2–3 רגל, השוכנים במערות.
 
 ------
 
-| Armor Class     | 4 [15]                                                |
+| מחלקת שריון     | 4 [15]                                                |
 | ---------------- | ----------------------------------------------------- |
-| Hit Dice         | 2 (9hp)                                               |
-| Attacks          | 1 × bite (1d2) or 1 × jump (1d4) or 1 × spit (stench) |
+| קוביות פגיעה     | 2 (9 נק"פ)                                            |
+| התקפות           | 1 × נשיכה (1ק2) או 1 × קפיצה (1ק4) או 1 × יריקה (סירחון) |
 | THAC0            | 18 [+1]                                               |
-| Movement         | 60’ (20’) / 180’ (60’) flying                         |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)                               |
-| Morale           | 5                                                     |
-| Alignment        | Neutral                                               |
-| XP               | 20                                                    |
-| Number Appearing | 2d10 (1d10)                                           |
-| Treasure Type    | None                                                  |
+| תנועה            | 60’ (20’) / 180’ (60’) מעופף                          |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)                               |
+| מורל             | 5                                                     |
+| נטייה            | נייטרלי                                               |
+| נק"נ             | 20                                                    |
+| מספר מופיעים     | 2ק10 (1ק10)                                           |
+| סוג אוצר         | אין                                                   |
 
 ------
 
-- **Blend in with stone:** May be overlooked or mistaken for statues, due to their stony coloration.
-- **Shriek:** If attacked or frightened, shriek to warn others. This may attract wandering monsters (20% chance per round).
-- **Jump:** Very skittish. If attacked, usually flee by jumping up to 60’ and then flying away. 50% chance of jumping at a random opponent, in which case treat the jump as an attack.
-- **Spit:** Used defensively. 10’ range. Target treated as AC 9 [10]. The affected character is covered in stinking spittle: and unable to act for 1 turn (**save versus poison**). Until the goo is washed off, others who come within 5’ must also **save versus poison** or be violently sick.
-- **Poison immunity:** Immune to yellow mold and most poisons, due to their habit of eating fungi.
+- **השתלבות עם אבן:** עשויים להיעלם או להיחשב לפסלים, בשל צבעם האבן.
+- **צרחה:** אם מותקפים או מפוחדים, צורחים כדי להזהיר אחרים. זה עשוי למשוך מפלצות נודדות (סיכוי של 20% לכל סיבוב).
+- **קפיצה:** מאוד חששנים. אם מותקפים, בדרך כלל בורחים בקפיצה עד 60’ ואז עפים. סיכוי של 50% לקפוץ על יריב אקראי, ובמקרה כזה יש להתייחס לקפיצה כהתקפה.
+- **יריקה:** משמשת להגנה. טווח של 10’. המטרה נחשבת כ-AC 9 [10]. הדמות המושפעת מכוסה ברוק מסריח: ואינה יכולה לפעול למשך סיבוב אחד (**הצלה מול רעל**). עד שהרוק נשטף, אחרים שמתקרבים בטווח של 5’ חייבים גם הם **להציל מול רעל** או להיות חולים באופן חמור.
+- **חסינות לרעל:** חסינים לעובש צהוב ולרוב הרעלים, בשל הרגלם לאכול פטריות.

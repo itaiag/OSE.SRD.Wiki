@@ -1,14 +1,14 @@
-# Cloudkill
+# ענן מוות
 
-*5th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 5*
 
-**Duration:** 6 turns
+**משך:** 6 סיבובים
 
-**Range:** 30’
+**טווח:** 30’
 
-A poisonous fog streams from the caster’s fingertips, filling a 30’ diameter area.
+ערפל רעיל זורם מקצות אצבעותיו של המטיל, ממלא שטח בקוטר של 30’.
 
-- **Movement:** The fog moves at 60’ (20’), driven by the wind or, in still conditions, away from the caster.
-- **Sinking:** Because the fog is denser than air, it sinks to the lowest point, flowing down hills, into holes, and so forth.
-- **Damage:** All creatures in contact with the fog suffer 1 damage per round.
-- **Creatures with less than 5 Hit Dice:** Must also **save versus death** (once per round of contact) or die.
+- **תנועה:** הערפל נע במהירות של 60’ (20’), מונע על ידי הרוח או, בתנאים שקטים, מתרחק מהמטיל.
+- **שקיעה:** מכיוון שהערפל צפוף יותר מהאוויר, הוא שוקע לנקודה הנמוכה ביותר, זורם במורד גבעות, לתוך חורים וכדומה.
+- **נזק:** כל היצורים שבמגע עם הערפל סובלים מנזק של 1 לכל סיבוב.
+- **יצורים עם פחות מ-5 קוביות פגיעה:** חייבים גם **להציל מול מוות** (פעם אחת לכל סיבוב של מגע) או למות.

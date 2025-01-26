@@ -1,55 +1,55 @@
-# Salamander
+# סלמנדרה
 
-Giant, magical reptiles with an affinity for extreme heat or cold.
+זוחלים ענקיים ומאגיים עם זיקה לחום או קור קיצוניים.
 
-## Flame Salamander
+## סלמנדרת להבה
 
-12’–16’ long, intelligent serpents with lizard-like heads and legs. Bright orange/yellow/red scales. Natives of the plane of elemental fire but also live in volcanoes and scorching deserts.
+נחשים אינטליגנטיים באורך 12’–16’ עם ראשים ורגליים דמויי לטאה. קשקשים בצבע כתום/צהוב/אדום בוהק. ילידי מישור האש האלמנטרי אך גם חיים בהר געש ובמדבריות לוהטים.
 
 ------
 
-| Armor Class     | 2 [17]                                              |
+| מחלקת שריון     | 2 [17]                                              |
 | ---------------- | --------------------------------------------------- |
-| Hit Dice         | 8* (36hp)                                           |
-| Attacks          | 2 × claw (1d4), 1 × bite (1d8), 1 × heat aura (1d8) |
+| קוביות פגיעה    | 8* (36hp)                                           |
+| התקפות          | 2 × טופר (1d4), 1 × נשיכה (1d8), 1 × הילה חום (1d8) |
 | THAC0            | 12 [+7]                                             |
-| Movement         | 120’ (40’)                                          |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)                               |
-| Morale           | 8                                                   |
-| Alignment        | Neutral                                             |
+| תנועה           | 120’ (40’)                                          |
+| הצלות           | D8 W9 P10 B10 S12 (8)                               |
+| מורל            | 8                                                   |
+| נטייה           | נייטרלי                                             |
 | XP               | 1,200                                               |
-| Number Appearing | 1d4+1 (2d4)                                         |
-| Treasure Type    | F                                                   |
+| מספר מופיעים    | 1d4+1 (2d4)                                         |
+| סוג אוצר        | F                                                   |
 
 ------
 
-- **Heat aura:** All creatures within 20’ suffer 1d8 damage per round.
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Fire immunity:** Unharmed by fire.
-- **Hate frost salamanders:** Will attack on sight.
+- **הילה חום:** כל היצורים בטווח 20’ סובלים 1d8 נזק לכל סיבוב.
+- **חסינות לנזק רגיל:** ניתן לפגוע רק על ידי התקפות קסומות.
+- **חסינות לאש:** לא נפגעים מאש.
+- **שונאים סלמנדרות קרח:** יתקפו מיד כשרואים.
 
-## Frost Salamander
+## סלמנדרת קרח
 
-Giant, 6-legged lizards with blue/white scales. Dwell in icy, wilderness regions.
+לטאות ענקיות עם 6 רגליים וקשקשים כחולים/לבנים. שוכנות באזורים קפואים ומבודדים.
 
 ------
 
-| Armor Class     | 3 [16]                                              |
+| מחלקת שריון     | 3 [16]                                              |
 | ---------------- | --------------------------------------------------- |
-| Hit Dice         | 12* (54hp)                                          |
-| Attacks          | 4 × claw (1d6), 1 × bite (2d6), 1 × cold aura (1d8) |
+| קוביות פגיעה    | 12* (54hp)                                          |
+| התקפות          | 4 × טופר (1d6), 1 × נשיכה (2d6), 1 × הילה קור (1d8) |
 | THAC0            | 10 [+9]                                             |
-| Movement         | 120’ (40’)                                          |
-| Saving Throws    | D6 W7 P8 B8 S10 (12)                                |
-| Morale           | 9                                                   |
-| Alignment        | Chaotic                                             |
+| תנועה           | 120’ (40’)                                          |
+| הצלות           | D6 W7 P8 B8 S10 (12)                                |
+| מורל            | 9                                                   |
+| נטייה           | כאוטי                                               |
 | XP               | 1,900                                               |
-| Number Appearing | 1d3 (1d3)                                           |
-| Treasure Type    | E                                                   |
+| מספר מופיעים    | 1d3 (1d3)                                           |
+| סוג אוצר        | E                                                   |
 
 ------
 
-- **Cold aura:** All creatures within 20’ suffer 1d8 damage per round.
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Cold immunity:** Unharmed by cold-based attacks.
-- **Hate flame salamanders:** Will attack on sight.
+- **הילה קור:** כל היצורים בטווח 20’ סובלים 1d8 נזק לכל סיבוב.
+- **חסינות לנזק רגיל:** ניתן לפגוע רק על ידי התקפות קסומות.
+- **חסינות לקור:** לא נפגעים מהתקפות מבוססות קור.
+- **שונאים סלמנדרות להבה:** יתקפו מיד כשרואים.

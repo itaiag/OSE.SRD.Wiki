@@ -1,17 +1,17 @@
-# Continual Light (Continual Darkness) (MU)
+# אור מתמשך (חושך מתמשך) (MU)
 
-*2nd Level Magic-User Spell*
+*כישוף ברמה 2 למשתמש קסם*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 120’
+**טווח:** 120’
 
-This spell has three usages:
+לכישוף זה יש שלושה שימושים:
 
-1. **Conjuring light:** In a 30’ radius. The magical light is sufficient for reading but is not as bright as daylight. The spell may be cast upon an object, in which case the light moves with the object.
-2. **Blinding a creature:** By casting the spell upon its eyes. If the target fails a **saving throw versus spells**, it is blinded. A blind creature cannot attack.
-3. **Cancelling darkness:** *Continual light* may cancel a *continual darkness* spell (see below).
+1. **זימון אור:** ברדיוס של 30’. האור הקסום מספיק לקריאה אך אינו בהיר כמו אור יום. הכישוף יכול להיות מוטל על חפץ, ובמקרה זה האור נע עם החפץ.
+2. **סינוור יצור:** על ידי הטלת הכישוף על עיניו. אם המטרה נכשלת ב**הצלת קסם נגד כישופים**, היא מסונוורת. יצור עיוור אינו יכול לתקוף.
+3. **ביטול חושך:** *אור מתמשך* יכול לבטל כישוף *חושך מתמשך* (ראה למטה).
 
-## Reversed: Continual Darkness
+## הפוך: חושך מתמשך
 
-Creates a 30’ radius area of magical blackness, preventing both normal sight and infravision. Light sources brought within the area of darkness do not illuminate it. Like *continual light*, it may alternatively be used to blind creatures or to dispel a *continual light* spell.
+יוצר אזור של 30’ רדיוס של שחור קסום, המונע ראייה רגילה ואינפרה-ראייה. מקורות אור המובאים לתוך אזור החושך אינם מאירים אותו. כמו *אור מתמשך*, ניתן להשתמש בו לסינוור יצורים או לביטול כישוף *אור מתמשך*.

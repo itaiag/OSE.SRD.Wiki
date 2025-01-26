@@ -1,9 +1,9 @@
-# Detect Invisible
+# גילוי בלתי נראה
 
-*2nd Level Magic-User Spell*
+*לחישת קוסם דרגה 2*
 
-**Duration:** 6 turns
+**משך:** 6 סיבובים
 
-**Range:** 10’ per level
+**טווח:** 10’ לכל דרגה
 
-Invisible creatures or items in range are revealed to the caster.
+יצורים או חפצים בלתי נראים בטווח מתגלים למטיל הלחש.

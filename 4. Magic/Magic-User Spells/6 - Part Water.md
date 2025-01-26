@@ -1,12 +1,12 @@
-# Part Water
+# חלק מים
 
-*6th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 6*
 
-**Duration:** 6 turns
+**משך:** 6 סיבובים
 
-**Range:** 120’
+**טווח:** 120’
 
-A body of water parts, revealing a pathway across the bottom.
+גוף מים נפרד, חושף שביל בתחתית.
 
-- **Size:** The path is 10’ wide and up to 120’ long.
-- **Dismissing:** The caster may end the spell any time they wish.
+- **גודל:** השביל הוא ברוחב 10’ ובאורך של עד 120’.
+- **ביטול:** המטיל יכול לסיים את הלחש בכל עת שירצה.

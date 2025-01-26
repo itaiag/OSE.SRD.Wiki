@@ -1,15 +1,15 @@
-# Quest (Remove Quest)
+# משימה (הסרת משימה)
 
-*5th Level Cleric Spell*
+*לחשים לדרגה 5 לכוהן*
 
-**Duration:** Until quest is completed / Instant (*remove quest*)
+**משך:** עד להשלמת המשימה / מיידי (*הסרת משימה*)
 
-**Range:** 30’
+**טווח:** 30’
 
-The caster commands a single subject to perform a specific quest or task.
+המטיל מצווה על נושא יחיד לבצע משימה או מטלה ספציפית.
 
-- **Examples:** Rescuing a prisoner, killing a specific monster, bringing a magic item to the caster, or going on a journey to a holy site.
-- **Suicidal quests:** The prescribed quest must not be obviously suicidal.
-- **Saving throw:** The subject may **save versus spells**, with success indicating that the *quest* has no effect.
-- **Refusal:** Otherwise, the subject must undertake the quest or fall under a curse (per the *curse* spell, with the exact nature of the curse determined by the referee.
-- **Completion:** Once the task is completed, the spell ends.
+- **דוגמאות:** הצלת אסיר, הריגת מפלצת מסוימת, הבאת חפץ קסום למטיל, או יציאה למסע לאתר קדוש.
+- **משימות התאבדותיות:** המשימה המוצעת לא חייבת להיות התאבדותית באופן ברור.
+- **הצלת גלגול:** הנושא יכול **להציל מול לחשים**, עם הצלחה שמצביעה על כך של*משימה* אין השפעה.
+- **סירוב:** אחרת, הנושא חייב לבצע את המשימה או ליפול תחת קללה (כמו בלחש *קללה*, עם טבע הקללה המדויק שנקבע על ידי השופט).
+- **השלמה:** ברגע שהמטלה הושלמה, הלחש מסתיים.

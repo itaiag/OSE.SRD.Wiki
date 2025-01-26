@@ -1,29 +1,29 @@
-# Orc
+# אורק
 
-Ugly, bad-tempered, animalistic humanoids who live underground and are active at night. Sadistic bullies who hate other living creatures and delight in killing.
+יצורים מכוערים, רעי מזג, דמויי חיה שחיים מתחת לאדמה ופעילים בלילה. בריונים סדיסטיים ששונאים יצורים חיים אחרים ושמחים להרוג.
 
 ------
 
-| Armor Class     | 6 [13]                         |
+| מחלקת שריון     | 6 [13]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 1 (4hp)                        |
-| Attacks          | 1 × weapon (1d6 or by weapon)  |
+| קוביות פגיעה     | 1 (4 נק"פ)                     |
+| התקפות          | 1 × נשק (1ק6 או לפי נשק)       |
 | THAC0            | 19 [0]                         |
-| Movement         | 120’ (40’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)        |
-| Morale           | 6 (8 with leader)              |
-| Alignment        | Chaotic                        |
-| XP               | 10 (leader: 10, chieftain: 75) |
-| Number Appearing | 2d4 (1d6 × 10)                 |
-| Treasure Type    | D                              |
+| תנועה            | 120’ (40’)                     |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)        |
+| מורל             | 6 (8 עם מנהיג)                 |
+| נטייה            | כאוטי                          |
+| נק"נ             | 10 (מנהיג: 10, צ'יף: 75)      |
+| מספר מופיעים     | 2ק4 (1ק6 × 10)                 |
+| סוג אוצר         | D                              |
 
 ------
 
-- **Hate the sun:** -1 to-hit in full daylight.
-- **Weapons:** Prefer axes, clubs, spears, or swords. Only leaders can use mechanical weapons (e.g., crossbows, catapults).
-- **Craven:** Afraid of larger or stronger-looking creatures, though leaders may force them to fight.
-- **Leader:** Groups are led by an orc with 8 hit points. The leader gains a +1 bonus to damage rolls. Leaders have defeated other orcs in combat to gain their position.
-- **Orc chieftain:** A 4HD (15hp) chieftain rules an orc tribe. The chieftain gains a +2 bonus to damage rolls.
-- **Giant companions:** For every 20 orcs, there is a 1-in-6 chance of an ogre accompanying them. There is a 1-in-10 chance of a troll living in the lair.
-- **Tribal:** Orcs of different tribes may fight among themselves, unless their leaders command them not to. Each tribe has its own lair and has as many females as males, and two whelps per two adults.
-- **Mercenaries:** Orcs may be hired to fight in Chaotic armies. They delight in wanton killing and razing of settlements.
+- **שונאים את השמש:** -1 לפגיעה באור יום מלא.
+- **נשקים:** מעדיפים גרזנים, אלות, חניתות או חרבות. רק מנהיגים יכולים להשתמש בנשקים מכניים (למשל, קשתות מוצלבות, קטפולטות).
+- **פחדנים:** מפחדים מיצורים גדולים או חזקים למראה, אם כי מנהיגים עשויים להכריח אותם להילחם.
+- **מנהיג:** קבוצות מונהגות על ידי אורק עם 8 נקודות פגיעה. המנהיג מקבל בונוס של +1 לגלגולי נזק. מנהיגים ניצחו אורקים אחרים בקרב כדי להשיג את מעמדם.
+- **צ'יף אורקים:** צ'יף עם 4 קוביות פגיעה (15 נק"פ) שולט בשבט אורקים. הצ'יף מקבל בונוס של +2 לגלגולי נזק.
+- **חברים ענקיים:** לכל 20 אורקים, יש סיכוי של 1 מתוך 6 שאוגר ילווה אותם. יש סיכוי של 1 מתוך 10 שטרול יחיה במאורה.
+- **שבטיים:** אורקים משבטים שונים עשויים להילחם ביניהם, אלא אם כן המנהיגים שלהם מורים להם שלא. לכל שבט יש מאורה משלו ויש בו מספר נקבות כמו זכרים, ושני גורים לכל שני מבוגרים.
+- **שכירי חרב:** אורקים עשויים להישכר להילחם בצבאות כאוטיים. הם שמחים בהרג חסר הבחנה ובהרס יישובים.

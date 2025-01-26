@@ -1,16 +1,16 @@
-# Polymorph Others
+# שינוי צורת אחרים
 
-*4th Level Magic-User Spell*
+*לחשים של מכשף ברמה 4*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 60’
+**טווח:** 60’
 
-A living subject is changed into another type of creature, as chosen by the caster:
+נושא חי משתנה לסוג אחר של יצור, כפי שנבחר על ידי המטיל:
 
-- **HD:** The spell fails if the new form’s HD is more than twice the subject’s HD.
-- **Hit points:** The transformation does not alter the subject’s hit points.
-- **Abilities:** The subject truly becomes the new form: all special abilities are acquired, along with behavioral patterns, tendencies, and intelligence.
-- **Specific individuals:** The spell cannot be used to duplicate a specific individual.
-- **Reversion:** If the subject dies, it returns to its original form.
-- **An unwilling subject:** May **save versus spells** to negate the effect.
+- **HD:** הלחש נכשל אם ה-HD של הצורה החדשה הוא יותר מכפול ה-HD של הנושא.
+- **נקודות פגיעה:** השינוי אינו משנה את נקודות הפגיעה של הנושא.
+- **יכולות:** הנושא באמת הופך לצורה החדשה: כל היכולות המיוחדות נרכשות, יחד עם דפוסי התנהגות, נטיות ואינטליגנציה.
+- **יחידים ספציפיים:** הלחש לא יכול לשמש לשכפול יחיד ספציפי.
+- **חזרה:** אם הנושא מת, הוא חוזר לצורתו המקורית.
+- **נושא שאינו רוצה:** יכול **להציל מול לחשים** כדי לבטל את ההשפעה.

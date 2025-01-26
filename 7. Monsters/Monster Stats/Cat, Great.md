@@ -1,123 +1,123 @@
-# Cat, Great
+# חתול, גדול
 
-Cautious hunters that usually avoid combat with humans unless starving or cornered. Great cats may be playful, but are quick to anger. They remain outdoors, rarely venturing deep underground.
+ציידים זהירים שבדרך כלל נמנעים מעימות עם בני אדם אלא אם הם רעבים או לכודים. חתולים גדולים עשויים להיות שובבים, אך מתעצבנים במהירות. הם נשארים בחוץ, לעיתים רחוקות מעזים להיכנס עמוק מתחת לאדמה.
 
-- **Pursuit:** Always pursue prey that flees.
-- **Favoured prey:** Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference.
-- **Inquisitive:** May follow PCs out of curiosity.
+- **מרדף:** תמיד רודפים אחרי טרף שנמלט.
+- **טרף מועדף:** לעיתים קרובות מפתחים טעם לסוג מסוים של בשר (זה עשוי לכלול בני אדם!), וצדים את היצור הזה בהעדפה.
+- **סקרנים:** עשויים לעקוב אחרי דמויות שחקן מתוך סקרנות.
 
-## Lion
+## אריה
 
-Hunt in groups called “prides”. Live in hot regions, typically in savannah or scrublands close to deserts.
+צדים בקבוצות הנקראות "להקות". חיים באזורים חמים, בדרך כלל בסוואנה או בשיחים קרובים למדבריות.
 
 ------
 
-| Armor Class     | 6 [13]                            |
+| מחלקת שריון     | 6 [13]                            |
 | ---------------- | --------------------------------- |
-| Hit Dice         | 5 (22hp)                          |
-| Attacks          | 2 × claw (1d4+1), 1 × bite (1d10) |
+| קוביות פגיעה    | 5 (22 נק"פ)                       |
+| התקפות          | 2 × טופר (1d4+1), 1 × נשיכה (1d10) |
 | THAC0            | 15 [+4]                           |
-| Movement         | 150’ (50’)                        |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)           |
-| Morale           | 9                                 |
-| Alignment        | Neutral                           |
-| XP               | 175                               |
-| Number Appearing | 1d4 (1d8)                         |
-| Treasure Type    | U                                 |
+| תנועה           | 150’ (50’)                        |
+| הצלות           | D12 W13 P14 B15 S16 (3)           |
+| מורל            | 9                                 |
+| נטייה           | נייטרלי                           |
+| נק"נ            | 175                               |
+| מספר מופיעים    | 1d4 (1d8)                         |
+| סוג אוצר        | U                                 |
 
 ------
 
-- **Pursuit:** See main entry.
+- **מרדף:** ראו ערך ראשי.
 
-## Mountain Lion
+## פומה
 
-Have yellow-brown fur and favor mountains, deserts, and forests. Will occasionally venture into dungeons.
+בעלי פרווה חום-צהבהב ומעדיפים הרים, מדבריות ויערות. לעיתים יכנסו למבוכים.
 
 ------
 
-| Armor Class     | 6 [13]                         |
+| מחלקת שריון     | 6 [13]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 3+2 (15hp)                     |
-| Attacks          | 2 × claw (1d3), 1 × bite (1d6) |
+| קוביות פגיעה    | 3+2 (15 נק"פ)                  |
+| התקפות          | 2 × טופר (1d3), 1 × נשיכה (1d6) |
 | THAC0            | 16 [+3]                        |
-| Movement         | 150’ (50’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)        |
-| Morale           | 8                              |
-| Alignment        | Neutral                        |
-| XP               | 50                             |
-| Number Appearing | 1d4 (1d4)                      |
-| Treasure Type    | U                              |
+| תנועה           | 150’ (50’)                     |
+| הצלות           | D12 W13 P14 B15 S16 (2)        |
+| מורל            | 8                              |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 50                             |
+| מספר מופיעים    | 1d4 (1d4)                      |
+| סוג אוצר        | U                              |
 
 ------
 
-- **Pursuit:** See main entry.
+- **מרדף:** ראו ערך ראשי.
 
-## Panther
+## פנתר
 
-High-speed hunters that live in plains and forests.
+ציידים מהירים החיים במישורים וביערות.
 
 ------
 
-| Armor Class     | 4 [15]                         |
+| מחלקת שריון     | 4 [15]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 4 (18hp)                       |
-| Attacks          | 2 × claw (1d4), 1 × bite (1d8) |
+| קוביות פגיעה    | 4 (18 נק"פ)                    |
+| התקפות          | 2 × טופר (1d4), 1 × נשיכה (1d8) |
 | THAC0            | 16 [+3]                        |
-| Movement         | 210’ (70’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)        |
-| Morale           | 8                              |
-| Alignment        | Neutral                        |
-| XP               | 75                             |
-| Number Appearing | 1d2 (1d6)                      |
-| Treasure Type    | U                              |
+| תנועה           | 210’ (70’)                     |
+| הצלות           | D12 W13 P14 B15 S16 (2)        |
+| מורל            | 8                              |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 75                             |
+| מספר מופיעים    | 1d2 (1d6)                      |
+| סוג אוצר        | U                              |
 
 ------
 
-- **Pursuit:** See main entry.
+- **מרדף:** ראו ערך ראשי.
 
-## Sabre-Toothed Tiger
+## טיגריס שן חרב
 
-Huge, aggressive cats with foot-long fangs. Normally only found in Lost World regions.
+חתולים ענקיים ותוקפניים עם ניבים באורך רגל. בדרך כלל נמצאים רק באזורים של עולם אבוד.
 
 ------
 
-| Armor Class     | 6 [13]                         |
+| מחלקת שריון     | 6 [13]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 8 (36hp)                       |
-| Attacks          | 2 × claw (1d8), 1 × bite (2d8) |
+| קוביות פגיעה    | 8 (36 נק"פ)                    |
+| התקפות          | 2 × טופר (1d8), 1 × נשיכה (2d8) |
 | THAC0            | 12 [+7]                        |
-| Movement         | 150’ (50’)                     |
-| Saving Throws    | D10 W11 P12 B13 S14 (4)        |
-| Morale           | 10                             |
-| Alignment        | Neutral                        |
-| XP               | 650                            |
-| Number Appearing | 1d4 (1d4)                      |
-| Treasure Type    | V                              |
+| תנועה           | 150’ (50’)                     |
+| הצלות           | D10 W11 P12 B13 S14 (4)        |
+| מורל            | 10                             |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 650                            |
+| מספר מופיעים    | 1d4 (1d4)                      |
+| סוג אוצר        | V                              |
 
 ------
 
-- **Pursuit:** See main entry.
+- **מרדף:** ראו ערך ראשי.
 
-## Tiger
+## טיגריס
 
-Large, solitary hunters with striped camouflage markings. Favor woodlands and cooler regions.
+ציידים גדולים ובודדים עם סימני הסוואה מפוספסים. מעדיפים יערות ואזורים קרירים יותר.
 
 ------
 
-| Armor Class     | 6 [13]                         |
+| מחלקת שריון     | 6 [13]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 6 (27hp)                       |
-| Attacks          | 2 × claw (1d6), 1 × bite (2d6) |
+| קוביות פגיעה    | 6 (27 נק"פ)                    |
+| התקפות          | 2 × טופר (1d6), 1 × נשיכה (2d6) |
 | THAC0            | 14 [+5]                        |
-| Movement         | 150’ (50’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)        |
-| Morale           | 9                              |
-| Alignment        | Neutral                        |
-| XP               | 275                            |
-| Number Appearing | 1 (1d3)                        |
-| Treasure Type    | U                              |
+| תנועה           | 150’ (50’)                     |
+| הצלות           | D12 W13 P14 B15 S16 (3)        |
+| מורל            | 9                              |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 275                            |
+| מספר מופיעים    | 1 (1d3)                        |
+| סוג אוצר        | U                              |
 
 ------
 
-- **Pursuit:** See main entry.
-- **Surprise:** On a 1–4, in woodland, due to camouflage.
+- **מרדף:** ראו ערך ראשי.
+- **הפתעה:** על 1–4, ביער, בשל הסוואה.

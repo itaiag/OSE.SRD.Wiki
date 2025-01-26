@@ -1,26 +1,26 @@
 # Nixie
 
-3’ tall sprites that appear as attractive women with blueish, greenish, or greyish skin. Lair in the deepest parts of rivers and lakes.
+שדונים בגובה 3 רגל שמופיעים כנשים מושכות עם עור כחלחל, ירקרק או אפרפר. מקננים בחלקים העמוקים ביותר של נהרות ואגמים.
 
 ------
 
-| Armor Class     | 7 [12]                                      |
+| מחלקת שריון     | 7 [12]                                      |
 | ---------------- | ------------------------------------------- |
-| Hit Dice         | 1 (4hp)                                     |
-| Attacks          | 1 × weapon (1d4) or 1 × group spell (charm) |
+| קוביות פגיעה     | 1 (4 נק"פ)                                  |
+| התקפות           | 1 × נשק (1d4) או 1 × לחש קבוצתי (קסם)       |
 | THAC0            | 19 [0]                                      |
-| Movement         | 120’ (40’)                                  |
-| Saving Throws    | D12 W13 P13 B15 S15 (Elf 1)                 |
-| Morale           | 6                                           |
-| Alignment        | Neutral                                     |
-| XP               | 10                                          |
-| Number Appearing | 0 (2d20)                                    |
-| Treasure Type    | B                                           |
+| תנועה            | 120’ (40’)                                  |
+| הצלות           | D12 W13 P13 B15 S15 (אלף 1)                 |
+| מורל             | 6                                           |
+| נטייה           | ניטרלי                                      |
+| נק"נ             | 10                                          |
+| מספר מופיעים    | 0 (2d20)                                    |
+| סוג אוצר        | B                                           |
 
 ------
 
-- **Shy:** Will try to charm intruders rather than entering combat.
-- **Weapons:** Daggers and small tridents (as spears).
-- **Charm:** 10 nixies together can cast a charm to enchant a victim to serve them for one year. **Save versus spells** or be charmed: move towards the nixies (resisting those who try to prevent it); defend the nixies; obey the nixies’ commands (if understood); unable to cast spells or use magic items; unable to harm the nixies. Killing the nixies breaks the charm.
-- **Summon giant bass:** Each nixie can summon one fish to aid in combat (see ***Giant Bass***).
-- **Bestow water breathing:** Can cast upon charmed slaves. Lasts for one day, then must be refreshed.
+- **ביישניות:** ינסו להקסים פולשים במקום להיכנס לקרב.
+- **נשקים:** פגיונות וקלשונים קטנים (כחניתות).
+- **קסם:** 10 ניקסיות יחד יכולות להטיל קסם להקסים קורבן לשרת אותן למשך שנה. **הצלה מול לחשים** או להיות מוקסם: לנוע לעבר הניקסיות (להתנגד לאלה שמנסים למנוע זאת); להגן על הניקסיות; לציית לפקודות הניקסיות (אם מובנות); לא מסוגל להטיל לחשים או להשתמש בפריטים קסומים; לא מסוגל לפגוע בניקסיות. הריגת הניקסיות שוברת את הקסם.
+- **זימון בס ענק:** כל ניקסית יכולה לזמן דג אחד לעזור בקרב (ראה ***בס ענק***).
+- **הענקת נשימת מים:** יכולה להטיל על עבדים מוקסמים. נמשך ליום אחד, ואז יש לחדש.

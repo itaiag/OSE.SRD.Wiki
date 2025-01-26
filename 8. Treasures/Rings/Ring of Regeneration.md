@@ -1,8 +1,8 @@
-# Ring of Regeneration
+# טבעת התחדשות
 
-The wearer heals at an accelerated rate.
+הלובש מתרפא בקצב מואץ.
 
-- **Rate:** The wearer regains 1 hit point per round.
-- **Severed limbs:** Will also regrow. The rate depends on the size of the limb (e.g., a finger may regrow in one day, while a whole limb may take a week).
-- **Fire or acid damage:** Cannot be regenerated.
-- **Death:** The ring does not function if the wearer is reduced to 0 or fewer hit points.
+- **קצב:** הלובש משיב לעצמו נקודת פגיעה אחת בכל סיבוב.
+- **גפיים כרותות:** גם יצמחו מחדש. הקצב תלוי בגודל הגפה (למשל, אצבע עשויה לצמוח מחדש ביום אחד, בעוד שגפה שלמה עשויה לקחת שבוע).
+- **נזק מאש או חומצה:** לא ניתן להתחדש.
+- **מוות:** הטבעת אינה פועלת אם הלובש מופחת ל-0 נקודות פגיעה או פחות.

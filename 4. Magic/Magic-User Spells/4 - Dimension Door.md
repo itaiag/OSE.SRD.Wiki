@@ -1,17 +1,17 @@
-# Dimension Door
+# דלת ממד
 
-*4th Level Magic-User Spell*
+*לחשים שלב 4 למשתמש קסם*
 
-**Duration:** 1 round
+**משך:** סיבוב אחד
 
-**Range:** 10’
+**טווח:** 10’
 
-The caster or a single creature is instantly transferred to another location up to 360’ distance. The destination may be selected in two ways:
+המטיל או יצור יחיד מועברים באופן מיידי למיקום אחר עד למרחק של 360’. ניתן לבחור את היעד בשתי דרכים:
 
-1. **Known location:** A location, within 360’, known to the caster.
-2. **An unknown location:** Specified by a series of offsets (e.g. 120’ north, 160’ east, 80’ up) totaling not more than 360’.
+1. **מיקום ידוע:** מיקום, בתוך 360’, הידוע למטיל.
+2. **מיקום לא ידוע:** מוגדר על ידי סדרת הזזות (למשל 120’ צפונה, 160’ מזרחה, 80’ למעלה) בסך הכל לא יותר מ-360’.
 
-**Stipulations:** The following apply:
+**הגבלות:** ההגבלות הבאות חלות:
 
-- **Occupied destination:** The spell has no effect if the destination is occupied by a solid object.
-- **If the target is unwilling:** It may **save versus spells** to resist the teleportation.
+- **יעד תפוס:** הלחש אינו משפיע אם היעד תפוס על ידי עצם מוצק.
+- **אם המטרה אינה מסכימה:** היא עשויה **להציל מול לחשים** כדי להתנגד לטלפורטציה.

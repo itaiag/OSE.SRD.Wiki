@@ -1,14 +1,14 @@
-# Wall of Ice
+# קיר קרח
 
-*4th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 4*
 
-**Duration:** 12 turns
+**משך:** 12 סיבובים
 
-**Range:** 120’
+**טווח:** 120’
 
-Conjures a semi-transparent sheet of ice, shaped as the caster wishes.
+מזמן יריעת קרח חצי שקופה, מעוצבת כפי שהמטיל רוצה.
 
-- **Size:** The wall can be any length, height, and shape the caster wishes, up to 1,200 sq. ft total. For example, it may be a straight wall 10’ high and 120’ long or a ring 20’ high and 10’ radius.
-- **Location:** The wall must be supported (e.g. by the ground) and cannot be created in an area occupied by objects.
-- **Monsters with fewer than 4 HD:** Cannot pass the wall of ice.
-- **Monsters with 4 or more HD:** Can break through through the wall, but suffer 1d6 damage. Fire-based creatures (e.g. flame salamanders) suffer double damage.
+- **גודל:** הקיר יכול להיות בכל אורך, גובה וצורה שהמטיל רוצה, עד 1,200 רגל מרובע בסך הכל. לדוגמה, זה יכול להיות קיר ישר בגובה 10’ ואורך 120’ או טבעת בגובה 20’ ורדיוס 10’.
+- **מיקום:** הקיר חייב להיות נתמך (למשל על ידי הקרקע) ולא יכול להיווצר באזור תפוס על ידי חפצים.
+- **מפלצות עם פחות מ-4 HD:** אינן יכולות לעבור את קיר הקרח.
+- **מפלצות עם 4 HD או יותר:** יכולות לפרוץ דרך הקיר, אך סובלות 1d6 נזק. יצורים מבוססי אש (למשל סלמנדרות להבה) סובלים נזק כפול.

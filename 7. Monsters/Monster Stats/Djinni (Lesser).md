@@ -1,36 +1,36 @@
-# Djinni (Lesser)
+# ג'יני (קטן)
 
-Highly magical, free-willed, intelligent beings from the elemental plane of air. Tall humanoids wreathed in clouds.
+יצורים קסומים מאוד, בעלי רצון חופשי ואינטליגנציה גבוהה ממישור היסודות של האוויר. דמויות אנושיות גבוהות עטופות בעננים.
 
 ------
 
-| Armor Class     | 5 [14]                        |
+| מחלקת שריון     | 5 [14]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 7+1* (32hp)                   |
-| Attacks          | 1 × fists (2d8), magic        |
+| קוביות פגיעה     | 7+1* (32 נק"פ)               |
+| התקפות           | 1 × אגרופים (2ק8), קסם       |
 | THAC0            | 12 [+7]                       |
-| Movement         | 90’ (30’) / 240’ (80’) flying |
-| Saving Throws    | D4 W5 P6 B5 S8 (14)           |
-| Morale           | 12                            |
-| Alignment        | Neutral                       |
-| XP               | 850                           |
-| Number Appearing | 1 (1)                         |
-| Treasure Type    | None                          |
+| תנועה            | 90’ (30’) / 240’ (80’) מעוף  |
+| הצלות            | D4 W5 P6 B5 S8 (14)          |
+| מורל             | 12                            |
+| נטייה            | ניטרלי                       |
+| נק"נ             | 850                           |
+| מספר מופיעים     | 1 (1)                         |
+| סוג אוצר         | אין                           |
 
 ------
 
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
+- **חסינות לנזק רגיל:** ניתן לפגוע בהם רק באמצעות התקפות קסומות.
 
-- **Magic powers:** Each can be used three times per day:
+- **כוחות קסם:** כל אחד מהם ניתן לשימוש שלוש פעמים ביום:
 
-  - **Whirlwind form:** 5 rounds to transform (or change back). 70’ tall, 20’ wide at top, 10’ wide at base. Moves at 120’ (40’). 2d6 damage to all in the path. Creatures with less than 2HD swept aside (**save versus death**).
-  - **Gaseous form**
-  - **Invisibility**
-  - **Illusion:** Visual and audial. No concentration is required. Remains until touched or dispelled.
-  - **Create food and drink:** For 12 humans and mounts for one day.
-  - **Conjure metallic objects:** Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
-  - **Conjure soft goods / wooden objects:** Up to 1,000 coins weight. Permanent.
+  - **צורת סופת טורנדו:** 5 סיבובים לשינוי (או חזרה). גובה 70’, רוחב 20’ בחלק העליון, רוחב 10’ בבסיס. נע במהירות 120’ (40’). 2ק6 נזק לכל הנמצאים בדרך. יצורים עם פחות מ-2HD נשטפים הצידה (**הצלה נגד מוות**).
+  - **צורת גז**
+  - **בלתי נראות**
+  - **אשליה:** חזותית וקולית. לא נדרשת ריכוז. נשארת עד שנוגעים בה או מבטלים אותה.
+  - **יצירת מזון ומשקה:** עבור 12 בני אדם והרכבים ליום אחד.
+  - **זימון חפצים מתכתיים:** עד משקל של 1,000 מטבעות. זמני: הקשיות קובעת את משך הזמן (זהב: יום אחד; ברזל: סיבוב אחד).
+  - **זימון סחורות רכות / חפצים מעץ:** עד משקל של 1,000 מטבעות. קבוע.
 
-- **Carrying capacity:** 6,000 coins without fatigue. Up to 12,000 coins for 3 turns walking / 1 turn flying. Must rest 1 turn afterward.
+- **יכולת נשיאה:** 6,000 מטבעות ללא עייפות. עד 12,000 מטבעות ל-3 סיבובים בהליכה / סיבוב אחד במעוף. חייב לנוח סיבוב אחד לאחר מכן.
 
-- **If killed:** Returns to the plane of air.
+- **אם נהרג:** חוזר למישור האוויר.

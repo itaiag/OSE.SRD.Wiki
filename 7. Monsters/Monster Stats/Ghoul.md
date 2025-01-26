@@ -1,6 +1,6 @@
 # Ghoul
 
-Grotesque, animalistic, undead humans that crave the flesh of the living.
+בני אדם מתים-חיים, גרוטסקיים ובעלי תכונות חייתיות, המשתוקקים לבשר החיים.
 
 ------
 
@@ -19,5 +19,5 @@ Grotesque, animalistic, undead humans that crave the flesh of the living.
 
 ------
 
-- **Paralysis:** For 2d4 turns (**save versus paralysis**). Elves and creatures larger than ogres are unaffected. After paralyzing a target, ghouls will attack others.
-- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. *charm*, *hold*, *sleep*).
+- **Paralysis:** למשך 2d4 סיבובים (**הצלה נגד שיתוק**). אלפים ויצורים גדולים מאוגרים אינם מושפעים. לאחר שיתוק מטרה, הגולים יתקפו אחרים.
+- **Undead:** אינם משמיעים רעש, עד שהם תוקפים. חסינים להשפעות המשפיעות על יצורים חיים (למשל, רעל). חסינים לכישופים המשפיעים על המוח או קוראים מחשבות (למשל, *קסם*, *החזקה*, *שינה*).

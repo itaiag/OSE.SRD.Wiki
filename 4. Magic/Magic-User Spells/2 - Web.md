@@ -1,18 +1,18 @@
-# Web
+# רשת
 
-*2nd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 2*
 
-**Duration:** 48 turns
+**משך:** 48 תורות
 
-**Range:** 10’
+**טווח:** 10’
 
-Conjures a volume of sticky webbing, blocking a 10’ cube area.
+מזמן נפח של רשת דביקה, חוסם אזור של קובייה בגודל 10’.
 
-- **Entanglement:** Creatures caught within a web become entangled among the gluey fibers. Entangled creatures can’t move, but can break free depending on their strength (see below).
-- **Flammable:** The web can be destroyed by fire in two rounds. All creatures caught within flaming webs suffer 1d6 damage from the flames.
+- **הסתבכות:** יצורים שנתפסים בתוך רשת הופכים למסתבכים בין הסיבים הדביקים. יצורים מסתבכים לא יכולים לזוז, אך יכולים להשתחרר בהתאם לכוחם (ראה למטה).
+- **דליק:** ניתן להשמיד את הרשת על ידי אש בשני תורות. כל היצורים שנתפסים בתוך רשתות בוערות סובלים 1d6 נזק מהלהבות.
 
-**Breaking free:** Depends on STR:
+**השתחררות:** תלוי ב-STR:
 
-- **Normal human range:** The creature can break free in 2d4 turns.
-- **Magically augmented STR above 18:** The creature can break free in 4 rounds.
-- **Giant strength:** The creature can break free in 2 rounds.
+- **טווח אנושי רגיל:** היצור יכול להשתחרר ב-2d4 תורות.
+- **STR מוגבר קסם מעל 18:** היצור יכול להשתחרר ב-4 תורות.
+- **כוח ענק:** היצור יכול להשתחרר ב-2 תורות.

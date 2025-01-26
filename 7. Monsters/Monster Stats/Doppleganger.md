@@ -1,25 +1,25 @@
-# Doppelgänger
+# כפיל
 
-Intelligent, human-sized shape-shifters of wicked character and highly magical nature.
+משני צורה אינטליגנטיים בגודל אדם בעלי אופי מרושע וטבע קסום מאוד.
 
 ------
 
-| Armor Class     | 5 [14]               |
+| מחלקת שריון     | 5 [14]               |
 | ---------------- | -------------------- |
-| Hit Dice         | 4* (18hp)            |
-| Attacks          | 1 × bite (1d12)      |
+| קוביות פגיעה     | 4* (18 נק"פ)         |
+| התקפות          | 1 × נשיכה (1ק12)     |
 | THAC0            | 16 [+3]              |
-| Movement         | 90’ (30’)            |
-| Saving Throws    | D6 W7 P8 B8 S10 (10) |
-| Morale           | 10                   |
-| Alignment        | Chaotic              |
-| XP               | 125                  |
-| Number Appearing | 1d6 (1d6)            |
-| Treasure Type    | E                    |
+| תנועה           | 90’ (30’)            |
+| גלגולי הצלה     | D6 W7 P8 B8 S10 (10) |
+| מורל            | 10                   |
+| נטייה           | כאוטי                |
+| נק"נ            | 125                  |
+| מספר מופיעים    | 1ק6 (1ק6)            |
+| סוג אוצר        | E                    |
 
 ------
 
-- **Shape stealing:** Can adopt the form of any human-like creature (7’ tall or less) observed. Then proceed to attack the person mimicked.
-- **Trickery:** Will attempt to kill a PC, take on their role, and then attack the party by surprise (e.g. during a battle).
-- **Reversion:** If killed, reverts to its original form.
-- **Spell immunity:** Unaffected by *sleep* and *charm* spells.
+- **גניבת צורה:** יכול לאמץ את הצורה של כל יצור דמוי אדם (בגובה 7 רגל או פחות) שנצפה. לאחר מכן תוקף את האדם המחקה.
+- **תחבולה:** ינסה להרוג דמות שחקן, לקחת את תפקידו, ואז לתקוף את הקבוצה בהפתעה (למשל במהלך קרב).
+- **חזרה:** אם נהרג, חוזר לצורתו המקורית.
+- **חסינות לכישופים:** לא מושפע מכישופי *שינה* ו*קסם*.

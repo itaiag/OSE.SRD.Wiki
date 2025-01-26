@@ -1,13 +1,13 @@
 # Levitate
 
-*2nd Level Magic-User Spell*
+*כישוף מכשף דרגה 2*
 
-**Duration:** 6 turns +1 per level
+**משך:** 6 סיבובים +1 לכל דרגה
 
-**Range:** The caster
+**טווח:** המכשף
 
-This enchantment allows the caster to move up and down through the air:
+כישוף זה מאפשר למכשף לנוע למעלה ולמטה באוויר:
 
-- **Vertical:** Vertical movement as desired, at up to 20’ per round.
-- **Horizontal:** The caster can move laterally by pushing against solid objects.
-- **Weight:** A normal amount of weight can be carried while levitating.
+- **אנכי:** תנועה אנכית לפי רצון, עד 20 רגל לכל סיבוב.
+- **אופקי:** המכשף יכול לנוע לרוחב על ידי דחיפה נגד חפצים מוצקים.
+- **משקל:** ניתן לשאת כמות משקל רגילה בזמן ריחוף.

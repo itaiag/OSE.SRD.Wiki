@@ -1,6 +1,6 @@
-# Boots of Travelling and Leaping
+# מגפי מסע וקפיצה
 
-The wearer can travel without tiring and leap great distances.
+הלובש יכול לנסוע ללא עייפות ולזנק למרחקים גדולים.
 
-- **Tirelessness:** The normal need for rest when traveling may be ignored (see ***Wilderness Adventuring***).
-- **Jumping:** The wearer can leap up to 10’ high and 30’ horizontally.
+- **חוסר עייפות:** הצורך הרגיל במנוחה בעת נסיעה יכול להתעלם ממנו (ראה ***הרפתקאות בטבע***).
+- **קפיצה:** הלובש יכול לזנק עד לגובה של 10 רגל ולמרחק אופקי של 30 רגל.

@@ -1,3 +1,3 @@
-# Ring of Water Walking
+# טבעת הליכה על מים
 
-Grants the power to walk on the water's surface without sinking.
+מעניקה את הכוח ללכת על פני המים מבלי לשקוע.

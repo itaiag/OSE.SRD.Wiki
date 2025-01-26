@@ -1,66 +1,66 @@
-# Beetle, Giant
+# חיפושית, ענקית
 
-## Fire Beetle
+## חיפושית אש
 
-2½’ long. Commonly found underground.
+אורך 2½ רגל. נפוצה מתחת לאדמה.
 
 ------
 
-| Armor Class     | 4 [15]                  |
+| מחלקת שריון     | 4 [15]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 1+2 (6hp)               |
-| Attacks          | 1 × bite (2d4)          |
+| קוביות פגיעה     | 1+2 (6 נק"פ)            |
+| התקפות           | 1 × נשיכה (2ק4)         |
 | THAC0            | 18 [+1]                 |
-| Movement         | 120’ (40’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 15                      |
-| Number Appearing | 1d8 (2d6)               |
-| Treasure Type    | None                    |
+| תנועה            | 120’ (40’)              |
+| הצלות            | D12 W13 P14 B15 S16 (1) |
+| מורל             | 7                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 15                      |
+| מספר מופיעים     | 1ק8 (2ק6)               |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Glowing nodules:** Three glowing glands (two above the eyes, one on the abdomen) cast light in a 10’ radius. If removed, keep glowing for 1d6 days.
+- **בלוטות זוהרות:** שלוש בלוטות זוהרות (שתיים מעל העיניים, אחת על הבטן) מפיצות אור ברדיוס של 10 רגל. אם מוסרות, ממשיכות לזהור למשך 1ק6 ימים.
 
-## Oil Beetle
+## חיפושית שמן
 
-3’ long, burrowing beetles are sometimes encountered below ground.
+אורך 3 רגל, חיפושיות חופרות נתקלות לפעמים מתחת לאדמה.
 
 ------
 
-| Armor Class     | 4 [15]                                     |
+| מחלקת שריון     | 4 [15]                                     |
 | ---------------- | ------------------------------------------ |
-| Hit Dice         | 2* (9hp)                                   |
-| Attacks          | 1 × bite (1d6), 1 × oil spray (blistering) |
+| קוביות פגיעה     | 2* (9 נק"פ)                                |
+| התקפות           | 1 × נשיכה (1ק6), 1 × ריסוס שמן (שלפוחיות) |
 | THAC0            | 18 [+1]                                    |
-| Movement         | 120’ (40’)                                 |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)                    |
-| Morale           | 8                                          |
-| Alignment        | Neutral                                    |
-| XP               | 25                                         |
-| Number Appearing | 1d8 (2d6)                                  |
-| Treasure Type    | None                                       |
+| תנועה            | 120’ (40’)                                 |
+| הצלות            | D12 W13 P14 B15 S16 (1)                    |
+| מורל             | 8                                          |
+| נטייה            | נייטרלי                                   |
+| נק"נ             | 25                                         |
+| מספר מופיעים     | 1ק8 (2ק6)                                  |
+| סוג אוצר         | אין                                        |
 
 ------
 
-- **Oil spray:** Use when attacked. Targets one opponent within 5’. A hit causes painful blistering: -2 to attack rolls for 24 hours. Cure light wounds can be used to cure this, instead of restoring hit points.
+- **ריסוס שמן:** משתמשת כאשר מותקפת. מכוונת ליריב אחד בטווח של 5 רגל. פגיעה גורמת לשלפוחיות כואבות: -2 לגלגולי התקפה למשך 24 שעות. ריפוי פצעים קלים יכול לשמש לריפוי זה, במקום לשחזר נקודות פגיעה.
 
-## Tiger Beetle
+## חיפושית נמר
 
-Carnivorous, 4’ long, tiger-striped beetles with powerful, crushing mandibles. Hunt robber flies, but sometimes eat humans.
+חיפושיות טורפות באורך 4 רגל, מפוספסות כמו נמר, עם לסתות חזקות ומוחצות. צדות זבובי שודדים, אך לפעמים אוכלות בני אדם.
 
 ------
 
-| Armor Class     | 3 [16]                  |
+| מחלקת שריון     | 3 [16]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3+1 (14hp)              |
-| Attacks          | 1 × bite (2d6)          |
+| קוביות פגיעה     | 3+1 (14 נק"פ)           |
+| התקפות           | 1 × נשיכה (2ק6)         |
 | THAC0            | 16 [+3]                 |
-| Movement         | 150’ (50’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 9                       |
-| Alignment        | Neutral                 |
-| XP               | 50                      |
-| Number Appearing | 1d6 (2d4)               |
-| Treasure Type    | U                       |
+| תנועה            | 150’ (50’)              |
+| הצלות            | D12 W13 P14 B15 S16 (1) |
+| מורל             | 9                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 50                      |
+| מספר מופיעים     | 1ק6 (2ק4)               |
+| סוג אוצר         | U                       |

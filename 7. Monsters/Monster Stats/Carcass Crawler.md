@@ -1,23 +1,23 @@
-# Carcass Crawler
+# זוחל גוויות
 
-9’ long, 3’ high, many-legged, segmented worms with a ring of 2’ long tentacles around their mouths.
+9 רגל אורך, 3 רגל גובה, תולעים מרובות רגליים ומחולקות עם טבעת של זרועות באורך 2 רגל סביב פיותיהם.
 
 ------
 
-| Armor Class     | 7 [12]                   |
+| מחלקת שריון     | 7 [12]                   |
 | ---------------- | ------------------------ |
-| Hit Dice         | 3+1* (14hp)              |
-| Attacks          | 8 × tentacle (paralysis) |
+| קוביות פגיעה     | 3+1* (14 נק"פ)           |
+| התקפות           | 8 × זרוע (שיתוק)         |
 | THAC0            | 16 [+3]                  |
-| Movement         | 120’ (40’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)  |
-| Morale           | 9                        |
-| Alignment        | Neutral                  |
-| XP               | 75                       |
-| Number Appearing | 1d3 (1d3)                |
-| Treasure Type    | B                        |
+| תנועה            | 120’ (40’)               |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)  |
+| מורל             | 9                        |
+| נטייה            | נייטרלי                  |
+| נק"נ             | 75                       |
+| מספר מופיעים     | 1d3 (1d3)                |
+| סוג אוצר         | B                        |
 
 ------
 
-- **Paralysis:** A hit by a tentacle causes paralysis for 2d4 turns (**save versus paralysis**). Paralyzed victims will be devoured if the crawler is left in peace.
-- **Cling:** Can walk on walls and ceilings.
+- **שיתוק:** פגיעה על ידי זרוע גורמת לשיתוק למשך 2d4 סיבובים (**הצלה מול שיתוק**). קורבנות משותקים ייטרפו אם הזוחל יישאר בשקט.
+- **היצמדות:** יכול ללכת על קירות ותקרות.

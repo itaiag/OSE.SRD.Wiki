@@ -1,51 +1,51 @@
-# Wolf
+# זאב
 
-Carnivorous relatives of dogs that hunt in packs.
+קרובי משפחה טורפים של כלבים שצדים בלהקות.
 
-## Dire Wolf
+## זאב אימתני
 
-Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests.
+זאבים גדולים, פראיים וחצי-אינטליגנטיים. חיים במערות, הרים ויערות.
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 4+1 (19hp)              |
-| Attacks          | 1 × bite (2d4)          |
+| קוביות פגיעה     | 4+1 (19 נק"פ)           |
+| התקפות           | 1 × נשיכה (2d4)         |
 | THAC0            | 15 [+4]                 |
-| Movement         | 150’ (50’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 8                       |
-| Alignment        | Neutral                 |
-| XP               | 125                     |
-| Number Appearing | 1d4 (2d4)               |
-| Treasure Type    | None                    |
+| תנועה            | 150’ (50’)              |
+| הצלות            | D12 W13 P14 B15 S16 (2) |
+| מורל             | 8                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 125                     |
+| מספר מופיעים     | 1d4 (2d4)               |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Training:** At the referee’s discretion, captured cubs may be trained like dogs. Dire wolves are ferocious and extremely difficult to train.
-- **Mounts:** Sometimes trained as mounts by goblins.
+- **אילוף:** לפי שיקול דעת השופט, גורים שנלכדו עשויים להיות מאולפים כמו כלבים. זאבים אימתניים הם פראיים וקשה מאוד לאלף אותם.
+- **רכיבה:** לפעמים מאולפים כרכבים על ידי גובלינים.
 
-## Normal Wolf
+## זאב רגיל
 
-Dwell primarily in wild lands but occasionally lair in caves.
+חיים בעיקר באזורים פראיים אך לעיתים מקננים במערות.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 2+2 (11hp)              |
-| Attacks          | 1 × bite (1d6)          |
+| קוביות פגיעה     | 2+2 (11 נק"פ)           |
+| התקפות           | 1 × נשיכה (1d6)         |
 | THAC0            | 17 [+2]                 |
-| Movement         | 180’ (60’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 6 (8 in larger packs)   |
-| Alignment        | Neutral                 |
-| XP               | 25                      |
-| Number Appearing | 2d6 (3d6)               |
-| Treasure Type    | None                    |
+| תנועה            | 180’ (60’)              |
+| הצלות            | D12 W13 P14 B15 S16 (1) |
+| מורל             | 6 (8 בלהקות גדולות יותר)|
+| נטייה            | נייטרלי                |
+| נק"נ             | 25                      |
+| מספר מופיעים     | 2d6 (3d6)               |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Training:** At the referee’s discretion, captured cubs may be trained like dogs. Wolves are difficult to train.
-- **Strength in numbers:** Packs of 4 or more wolves have morale 8. If the pack is reduced to less than 50% of its original size, this morale bonus is lost.
+- **אילוף:** לפי שיקול דעת השופט, גורים שנלכדו עשויים להיות מאולפים כמו כלבים. זאבים קשה לאלף.
+- **כוח במספרים:** להקות של 4 או יותר זאבים יש מורל 8. אם הלהקה מצטמצמת לפחות מ-50% מגודלה המקורי, הבונוס למורל אובד.

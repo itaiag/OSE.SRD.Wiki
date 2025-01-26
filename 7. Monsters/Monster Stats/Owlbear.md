@@ -1,22 +1,22 @@
-# Owl Bear
+# דוב ינשוף
 
-Huge (8’ tall, 1,500 pounds), ill-tempered, carnivorous bear-like creature with the face of an owl. Owl bears are found in dense forests and underground.
+יצור ענק (גובה 8 רגל, 1,500 פאונד), בעל מזג רע, טורף, דמוי דוב עם פנים של ינשוף. דובי ינשוף נמצאים ביערות צפופים ובמחתרת.
 
 ------
 
-| Armor Class     | 5 [14]                         |
+| מחלקת שריון     | 5 [14]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 5 (22hp)                       |
-| Attacks          | 2 × claw (1d8), 1 × bite (1d8) |
+| קוביות פגיעה     | 5 (22 נק"פ)                    |
+| התקפות           | 2 × טפר (1d8), 1 × נשיכה (1d8) |
 | THAC0            | 15 [+4]                        |
-| Movement         | 120’ (40’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)        |
-| Morale           | 9                              |
-| Alignment        | Neutral                        |
-| XP               | 175                            |
-| Number Appearing | 1d4 (1d4)                      |
-| Treasure Type    | C                              |
+| תנועה            | 120’ (40’)                     |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (3)        |
+| מורל             | 9                              |
+| נטייה            | נייטרלי                        |
+| נק"נ             | 175                            |
+| מספר מופיעים     | 1d4 (1d4)                      |
+| סוג אוצר         | C                              |
 
 ------
 
-- **Bear hug:** If both paws hit a victim in the same round, the owl bear hugs for an extra 2d8 automatic damage.
+- **חיבוק דוב:** אם שני הטפרים פוגעים בקורבן באותו סיבוב, דוב הינשוף מחבק לנזק אוטומטי נוסף של 2d8.

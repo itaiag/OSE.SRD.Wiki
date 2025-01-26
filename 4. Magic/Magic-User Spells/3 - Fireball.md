@@ -1,11 +1,11 @@
-# Fire Ball
+# כדור אש
 
-*3rd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 3*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** 240’
+**טווח:** 240’
 
-Flame streaks towards a point within range and detonates in a 20’ radius sphere.
+להבה נעה לעבר נקודה בטווח ומתפוצצת בכדור ברדיוס של 20’.
 
-- **Damage:** Creatures caught in the *fire ball* suffer 1d6 damage per level of the caster, with a successful **save versus spells** indicating half damage.
+- **נזק:** יצורים שנלכדים ב*כדור האש* סובלים מנזק של 1ק6 לכל רמת מטיל, כאשר **הצלה מוצלחת נגד לחשים** מציינת חצי נזק.

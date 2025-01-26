@@ -1,7 +1,7 @@
-# Wand of Metal Detection
+# שרביט גילוי מתכת
 
-Grants the power to detect masses of metal of any type.
+מעניק את הכוח לגלות מסות של מתכת מכל סוג.
 
-- **Expending a charge:** Causes the wand to point towards metal within 20’.
-- **Type:** The type of metal is revealed.
-- **Minimum mass:** Only masses of metal of at least 1,000 coins in weight are detected.
+- **שימוש בטעינה:** גורם לשרביט להצביע לכיוון מתכת בטווח של 20 רגל.
+- **סוג:** סוג המתכת נחשף.
+- **מסה מינימלית:** רק מסות של מתכת במשקל של לפחות 1,000 מטבעות מתגלות.

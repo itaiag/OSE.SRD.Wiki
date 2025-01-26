@@ -1,9 +1,9 @@
-# Infravision
+# ראיית לילה
 
-*3rd Level Magic-User Spell*
+*לחישת קוסם ברמה 3*
 
-**Duration:** 1 day
+**משך:** 1 יום
 
-**Range:** The caster or a creature touched
+**טווח:** המטיל או יצור שנגע בו
 
-Grants infravision to 60’.
+מעניק ראיית לילה עד 60 רגל.

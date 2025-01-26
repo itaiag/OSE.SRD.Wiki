@@ -1,24 +1,24 @@
-# Mule
+# פרד
 
-Stubborn horse/donkey cross-breeds used as beasts of burden.
+הכלאות עקשניות של סוס/חמור המשמשות כבהמות משא.
 
 ------
 
-| Armor Class     | 7 [12]                           |
+| מחלקת שריון     | 7 [12]                           |
 | ---------------- | -------------------------------- |
-| Hit Dice         | 2 (9hp)                          |
-| Attacks          | 1 × kick (1d4) or 1 × bite (1d3) |
+| קוביות פגיעה     | 2 (9 נק"פ)                       |
+| התקפות          | 1 × בעיטה (1ק4) או 1 × נשיכה (1ק3) |
 | THAC0            | 18 [+1]                          |
-| Movement         | 120’ (40’)                       |
-| Saving Throws    | D14 W15 P16 B17 S18 (NH)         |
-| Morale           | 8                                |
-| Alignment        | Neutral                          |
-| XP               | 20                               |
-| Number Appearing | 1d8 (2d6)                        |
-| Treasure Type    | None                             |
+| תנועה           | 120’ (40’)                       |
+| גלגולי הצלה     | D14 W15 P16 B17 S18 (NH)         |
+| מורל            | 8                                |
+| נטייה           | ניטרלי                           |
+| נק"נ            | 20                               |
+| מספר מופיעים    | 1ק8 (2ק6)                        |
+| סוג אוצר        | אין                              |
 
 ------
 
-- **Tenacious:** Can be taken underground if the referee allows it.
-- **Defensive:** May attack if threatened, but cannot be trained to attack on command.
-- **Carry loads:** Up to 2,000 coins unencumbered; up to 4,000 at half speed.
+- **עקשן:** ניתן לקחת מתחת לאדמה אם השופט מאפשר זאת.
+- **הגנתי:** עשוי לתקוף אם מאוים, אך לא ניתן לאלף לתקוף לפי פקודה.
+- **נשיאת משאות:** עד 2,000 מטבעות ללא הכבדה; עד 4,000 בחצי מהירות.

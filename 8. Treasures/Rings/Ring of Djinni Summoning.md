@@ -1,7 +1,7 @@
-# Ring of Djinni Summoning
+# טבעת זימון ג'יני
 
-This ring grants the power to summon a djinni (see ***Djinni***).
+טבעת זו מעניקה את הכוח לזמן ג'יני (ראה ***ג'יני***).
 
-- **Duration of service:** The djinni will serve the character who summoned it for up to 24 hours.
-- **Commands:** The djinni only obeys the one who summoned it—another character who takes the ring has no power over the djinni.
-- **Usage frequency:** The ring may be used up to once per day.
+- **משך השירות:** הג'יני ישרת את הדמות שזימנה אותו למשך עד 24 שעות.
+- **פקודות:** הג'יני מציית רק למי שזימן אותו—דמות אחרת שלוקחת את הטבעת אין לה כוח על הג'יני.
+- **תדירות שימוש:** ניתן להשתמש בטבעת עד פעם אחת ביום.

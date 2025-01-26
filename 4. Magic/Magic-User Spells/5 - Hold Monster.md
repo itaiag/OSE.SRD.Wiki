@@ -1,14 +1,14 @@
-# Hold Monster
+# החזקת מפלצת
 
-*5th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 5*
 
-**Duration:** 6 turns +1 per level
+**משך:** 6 סיבובים +1 לכל רמה
 
-**Range:** 120’
+**טווח:** 120’
 
-This spell causes one or more creatures to be paralyzed if they fail a *saving throw versus spells*. It may be cast in two ways:
+לחש זה גורם לאחת או יותר יצורים להיות משותקים אם הם נכשלים ב*גלגול הצלה נגד לחשים*. ניתן להטיל אותו בשתי דרכים:
 
-1. **Against an individual:** The target’s saving throw is penalized by -2.
-2. **Against a group:** 1d4 individuals in the group are targeted.
+1. **נגד יחיד:** גלגול ההצלה של המטרה נענש ב-2-.
+2. **נגד קבוצה:** 1d4 יחידים בקבוצה נבחרים כמטרה.
 
-**Restrictions:** Undead are not affected.
+**מגבלות:** אל-מתים אינם מושפעים.

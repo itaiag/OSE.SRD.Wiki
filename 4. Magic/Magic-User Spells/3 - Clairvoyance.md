@@ -1,14 +1,14 @@
-# Clairvoyance
+# ראיית הנולד
 
-*3rd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 3*
 
-**Duration:** 12 turns
+**משך:** 12 תורות
 
-**Range:** 60’
+**טווח:** 60’
 
-The caster gains the ability to see through the eyes of other living creatures.
+המטיל מקבל את היכולת לראות דרך עיניהם של יצורים חיים אחרים.
 
-- **Focus for 1 turn:** To establish a connection with a creature, the caster must focus their concentration in one particular direction for one turn.
-- **After this turn:** The visual perceptions of one creature within range in that direction are relayed to the caster.
-- **Switching:** Once a connection is established, the caster may choose to maintain it or to change to another subject.
-- **Obstructions:** *Clairvoyance* is obstructed by a thin layer of lead or by rock 2’ thick or greater.
+- **מיקוד למשך תור אחד:** כדי ליצור קשר עם יצור, המטיל חייב למקד את ריכוזו בכיוון מסוים למשך תור אחד.
+- **לאחר תור זה:** התפיסות הוויזואליות של יצור אחד בטווח בכיוון זה מועברות למטיל.
+- **החלפה:** לאחר שנוצר קשר, המטיל יכול לבחור לשמור עליו או לעבור לנושא אחר.
+- **מכשולים:** *ראיית הנולד* נחסמת על ידי שכבה דקה של עופרת או על ידי סלע בעובי 2’ או יותר.

@@ -1,7 +1,7 @@
-# Potion of Levitation
+# שיקוי ריחוף
 
-The character gains the ability to move up and down through the air at will.
+הדמות מקבלת את היכולת לנוע למעלה ולמטה באוויר כרצונה.
 
-- **Vertical:** The character mentally directs vertical movement at up to 60’ per round.
-- **Horizontal:** The character can push against solid objects to move laterally.
-- **Weight:** A normal amount of weight can be carried while levitating.
+- **אנכי:** הדמות מכוונת תנועה אנכית מנטלית עד ל-60 רגל לסיבוב.
+- **אופקי:** הדמות יכולה לדחוף כנגד עצמים מוצקים כדי לנוע לרוחב.
+- **משקל:** ניתן לשאת כמות משקל רגילה בזמן ריחוף.

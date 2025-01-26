@@ -1,9 +1,9 @@
-# Cure Serious Wounds (Cause Serious Wounds)
+# ריפוי פצעים חמורים (גרימת פצעים חמורים)
 
-*4th Level Cleric Spell*
+*לחישת כוהן מדרגה 4*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** The caster or a creature touched
+**טווח:** המטיל או יצור שנגעו בו
 
-The caster’s touch heals 2d6+2 hit points of damage in one living subject. This cannot raise the subject’s hit points above their normal maximum.
+המגע של המטיל מרפא 2ק6+2 נקודות פגיעה של נזק בנושא חי אחד. זה לא יכול להעלות את נקודות הפגיעה של הנושא מעל המקסימום הרגיל שלהם.

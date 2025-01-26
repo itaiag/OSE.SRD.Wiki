@@ -1,11 +1,11 @@
-# Death Spell
+# לחש מוות
 
-*6th Level Magic-User Spell*
+*לחש מכשף דרגה 6*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** 240’
+**טווח:** 240’
 
-Up to 4d8 Hit Dice of creatures within a 60’ cube area must **save versus death** or die, instantly.
+עד 4d8 קוביות פגיעה של יצורים בתוך אזור קובייה של 60’ חייבים **להציל נגד מוות** או למות, מיידית.
 
-**Restrictions:** Undead and creatures with greater than 7 Hit Dice are unaffected.
+**הגבלות:** אל-מתים ויצורים עם יותר מ-7 קוביות פגיעה אינם מושפעים.

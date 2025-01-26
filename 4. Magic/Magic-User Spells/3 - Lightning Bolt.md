@@ -1,12 +1,12 @@
-# Lightning Bolt
+# ברק
 
-*3rd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 3*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** 180’
+**טווח:** 180’
 
-A bolt of lightning 60’ long and 5’ wide blasts from a point within range.
+ברק באורך 60’ ורוחב 5’ מתפרץ מנקודה בטווח.
 
-- **Damage:** Creatures caught in the *lightning bolt* suffer 1d6 damage per level of the caster, with a successful **save versus spells** indicating half damage.
-- **Bouncing:** If the *lightning bolt* hits a solid barrier before its full length is reached, it is reflected and travels for any remaining distance of its full length in the direction of the caster.
+- **נזק:** יצורים שנלכדים ב*ברק* סובלים מנזק של 1d6 לכל רמה של המטיל, כאשר **הצלה מוצלחת נגד לחשים** מציינת חצי נזק.
+- **הקפצה:** אם ה*ברק* פוגע במחסום מוצק לפני שהגיע לאורך המלא שלו, הוא מוחזר ונע למרחק הנותר של אורכו המלא בכיוון המטיל.

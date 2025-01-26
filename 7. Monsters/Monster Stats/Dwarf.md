@@ -1,25 +1,25 @@
-# Dwarf (Monster)
+# גמד (מפלצת)
 
-Short, stocky, bearded demihumans who dwell in mountains and subterranean realms.
+דמויי אדם נמוכים, מוצקים ומזוקנים השוכנים בהרים ובממלכות תת-קרקעיות.
 
 ------
 
-| Armor Class     | 4 [15]                        |
+| מחלקת שריון     | 4 [15]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d8 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות          | 1 × נשק (1ק8 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 60’ (20’)                     |
-| Saving Throws    | D8 W9 P10 B13 S12 (Dwarf 1)   |
-| Morale           | 8 (10 with leader)            |
-| Alignment        | Lawful or Neutral             |
-| XP               | 10                            |
-| Number Appearing | 1d6 (5d8)                     |
-| Treasure Type    | G                             |
+| תנועה           | 60’ (20’)                     |
+| גלגולי הצלה     | D8 W9 P10 B13 S12 (גמד 1)     |
+| מורל            | 8 (10 עם מנהיג)               |
+| נטייה           | חוקי או נייטרלי               |
+| נק"נ            | 10                            |
+| מספר מופיעים    | 1ק6 (5ק8)                     |
+| סוג אוצר        | G                             |
 
 ------
 
-- **Leader:** A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have magic items: 5% chance per level for each magic item table (except Scrolls and Wands/Staves/Rods) — see Magic Items.
-- **Hate goblins:** Normally attack on sight.
+- **מנהיג:** מנהיג ברמה 1ק6 + 2 נוכח עבור כל 20 גמדים. למנהיג עשויים להיות חפצי קסם: סיכוי של 5% לכל רמה עבור כל טבלת חפצי קסם (למעט מגילות ומקלות/מטות/שרביטים) — ראו חפצי קסם.
+- **שונאים גובלינים:** בדרך כלל תוקפים במראה ראשון.
 
-*See Dwarf for the character class.*
+*ראו גמד עבור מקצוע הדמות.*

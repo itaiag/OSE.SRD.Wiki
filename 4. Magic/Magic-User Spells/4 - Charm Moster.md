@@ -1,22 +1,22 @@
-# Charm Monster
+# קסם מפלצת
 
-*4th Level Magic-User Spell*
+*לחשים של מכשף דרגה 4*
 
-**Duration:** One or more days (see below)
+**משך:** יום אחד או יותר (ראה למטה)
 
-**Range:** 120’
+**טווח:** 120’
 
-This spell places a charm upon either 3d6 creatures of 3 HD or less or a single creature of more than 3 HD. Each subject must make a **save versus spells** or be charmed as follows:
+לחיש זה מטיל קסם על 3d6 יצורים של 3 HD או פחות או על יצור יחיד של יותר מ-3 HD. כל נושא חייב לבצע **הצלה נגד לחשים** או להיות מוקסם כדלקמן:
 
-- **Friendship:** Charmed creatures regard the caster as a close friend and will come to the caster’s defense.
-- **Commands:** If they share a language, the caster may give charmed creatures commands, which they will obey.
-- **Subject’s nature:** Charmed creatures may resist commands that contradict their habits or alignment.
-- **Suicidal commands:** Are always refused.
+- **חברות:** יצורים מוקסמים רואים במטיל הלחש כחבר קרוב ויבואו להגן עליו.
+- **פקודות:** אם הם חולקים שפה, המטיל יכול לתת ליצורים המוקסמים פקודות, והם יצייתו להן.
+- **טבע הנושא:** יצורים מוקסמים עשויים להתנגד לפקודות שסותרות את הרגליהם או נטייתם.
+- **פקודות התאבדותיות:** תמיד מסורבות.
 
-**Restrictions:** Undead are not affected.
+**הגבלות:** אל-מתים אינם מושפעים.
 
-**Duration:** The charm lasts indefinitely, but the subject is allowed to make further **saves versus spells** at intervals, depending on its INT score. If one of these saves succeeds, the spell ends.
+**משך:** הקסם נמשך ללא הגבלת זמן, אך הנושא רשאי לבצע **הצלה נגד לחשים** נוספת במרווחים, בהתאם לציון ה-INT שלו. אם אחת מההצלות מצליחה, הלחש מסתיים.
 
-- **INT 3–8:** New save once every month.
-- **INT 9–12:** New save each week.
-- **INT 13–18:** New save once every day.
+- **INT 3–8:** הצלה חדשה פעם בחודש.
+- **INT 9–12:** הצלה חדשה כל שבוע.
+- **INT 13–18:** הצלה חדשה פעם ביום.

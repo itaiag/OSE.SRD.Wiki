@@ -1,7 +1,7 @@
-# Scarab of Protection
+# חיפושית ההגנה
 
-Protects the bearer from baleful magic.
+מגנה על הנושא מפני קסם מזיק.
 
-- **Curses:** Of all kinds are nullified.
-- **Finger of death:** is nullified. See *Raise Dead (Finger of Death)*.
-- **Charges:** The scarab’s enchantment works 2d6 times before it is spent.
+- **קללות:** מכל הסוגים מבוטלות.
+- **אצבע המוות:** מבוטלת. ראו *החייאת מתים (אצבע המוות)*.
+- **מטענים:** הכישוף של החיפושית פועל 2d6 פעמים לפני שהוא מתכלה.

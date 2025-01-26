@@ -1,14 +1,14 @@
-# Telekinesis
+# טלקינזיס
 
-*5th Level Magic-User Spell*
+*לחשים של מכשף ברמה 5*
 
-**Duration:** Concentration (up to 6 rounds)
+**משך:** ריכוז (עד 6 סיבובים)
 
-**Range:** 120’
+**טווח:** 120’
 
-By concentrating, the caster is able to move objects or creatures by the power of thought.
+על ידי ריכוז, המטיל יכול להזיז חפצים או יצורים בכוח המחשבה.
 
-- **Weight:** Up to 200 coins of weight per level of the caster may be targeted.
-- **Movement:** The target may be moved up to 20’ per round, in whatever direction the caster wishes (including vertically).
-- **Save:** If a creature is targeted, it may **save versus spells** to resist the spell.
-- **Concentration:** If the caster’s concentration is broken, the target will fall.
+- **משקל:** עד 200 מטבעות משקל לכל רמה של המטיל יכולים להיות ממוקדים.
+- **תנועה:** המטרה יכולה להיות מוזזת עד 20’ לכל סיבוב, בכל כיוון שהמטיל רוצה (כולל אנכית).
+- **הצלה:** אם יצור ממוקד, הוא יכול **להציל מול לחשים** כדי להתנגד ללחש.
+- **ריכוז:** אם ריכוז המטיל נשבר, המטרה תיפול.

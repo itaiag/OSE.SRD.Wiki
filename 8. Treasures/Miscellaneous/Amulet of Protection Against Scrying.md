@@ -1,6 +1,6 @@
-# Amulet of Protection Against Scrying
+# קמע הגנה מפני חיזוי
 
-An amulet that provides protection against remote viewing and mind-reading.
+קמע המספק הגנה מפני צפייה מרחוק וקריאת מחשבות.
 
-- **Crystal balls:** The person wearing this amulet cannot be viewed in a crystal ball.
-- **ESP:** The wearer is immune to all forms of ESP.
+- **כדורי בדולח:** האדם הלובש את הקמע הזה לא ניתן לצפייה בכדור בדולח.
+- **ESP:** הלובש חסין לכל הצורות של ESP.

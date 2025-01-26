@@ -1,15 +1,15 @@
-# Wall of Fire
+# חומת אש
 
-*4th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 4*
 
-**Duration:** Concentration
+**משך:** ריכוז
 
-**Range:** 60’
+**טווח:** 60’
 
-Conjures an opaque curtain of raging flame, shaped as the caster wishes.
+מזמן וילון אטום של להבות משתוללות, מעוצב כרצון המטיל.
 
-- **Size:** The wall can be any length, height, and shape the caster wishes, up to 1,200 sq. ft total. For example, it may be a straight wall 10’ high and 120’ long or a ring 20’ high and 10’ radius.
-- **Location:** The wall cannot be created in an area occupied by objects.
-- **Monsters with fewer than 4 HD:** Cannot pass the wall of flames.
-- **Monsters with 4 or more HD:** Can pass through the wall, but suffer 1d6 damage. Undead and cold-based creatures (e.g. frost salamanders) suffer double damage.
-- **Concentration:** The wall persists as long as the caster concentrates on the spell and does not move.
+- **גודל:** החומה יכולה להיות בכל אורך, גובה וצורה שהמטיל רוצה, עד 1,200 רגל מרובע בסך הכל. לדוגמה, היא יכולה להיות חומה ישרה בגובה 10’ ואורך 120’ או טבעת בגובה 20’ ורדיוס 10’.
+- **מיקום:** החומה לא יכולה להיווצר באזור תפוס על ידי חפצים.
+- **מפלצות עם פחות מ-4 HD:** אינן יכולות לעבור את חומת הלהבות.
+- **מפלצות עם 4 HD או יותר:** יכולות לעבור דרך החומה, אך סובלות 1d6 נזק. אל-מתים ויצורים מבוססי קור (למשל סלמנדרות קרח) סובלים נזק כפול.
+- **ריכוז:** החומה נמשכת כל עוד המטיל מרוכז בלחש ואינו זז.

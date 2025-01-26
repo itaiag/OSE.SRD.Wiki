@@ -1,7 +1,7 @@
-# Helm of Alignment Changing
+# קסדת שינוי יישור
 
-A beautifully crafted but cursed helmet.
+קסדה מעוצבת להפליא אך מקוללת.
 
-- **Putting on the helmet:** Instantly causes the wearer’s alignment to change. The new alignment is determined at random.
-- **Removing:** The curse is such that the wearer cannot remove the helmet, once in place, and will resist attempts to remove it.
-- **Dispelling:** The curse can be removed by magic (e.g., *remove curse*), or (at the referee’s option) by performing a special quest.
+- **לבישת הקסדה:** גורמת מיד לשינוי ביישור של הלובש. היישור החדש נקבע באופן אקראי.
+- **הסרה:** הקללה היא כזו שהלובש אינו יכול להסיר את הקסדה, ברגע שהיא במקומה, ויתנגד לניסיונות להסירה.
+- **ביטול:** ניתן להסיר את הקללה באמצעות קסם (למשל, *הסרת קללה*), או (לפי בחירת השופט) על ידי ביצוע משימה מיוחדת.

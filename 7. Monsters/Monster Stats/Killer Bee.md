@@ -1,28 +1,28 @@
-# Killer Bee
+# דבורת רוצח
 
-Giant (1’ long) bees of aggressive temperament. Build hives underground.
+דבורים ענקיות (באורך של 1 רגל) בעלות מזג תוקפני. בונות כוורות מתחת לאדמה.
 
 ------
 
-| Armor Class     | 7 [12]                                    |
+| מחלקת שריון     | 7 [12]                                    |
 | ---------------- | ----------------------------------------- |
-| Hit Dice         | ½* (2hp)                                  |
-| Attacks          | 1 × sting (1d3 + poison + lodged stinger) |
+| קוביות פגיעה     | ½* (2 נק"פ)                               |
+| התקפות          | 1 × עקיצה (1d3 + רעל + עוקץ תקוע)         |
 | THAC0            | 19 [0]                                    |
-| Movement         | 150’ (50’) flying                         |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)                   |
-| Morale           | 9                                         |
-| Alignment        | Neutral                                   |
-| XP               | 6 (guard: 13, queen: 25)                  |
-| Number Appearing | 1d6 (5d6)                                 |
-| Treasure Type    | Honey                                     |
+| תנועה           | 150’ (50’) מעופף                           |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1)                   |
+| מורל            | 9                                         |
+| נטייה           | נייטרלי                                   |
+| נק"נ            | 6 (שומר: 13, מלכה: 25)                    |
+| מספר מופיעים    | 1d6 (5d6)                                 |
+| סוג אוצר        | דבש                                       |
 
 ------
 
-- **Aggressive:** Usually attack on sight. Always attack intruders within 30’ of their hive.
-- **Die after attacking:** On a successful sting attack, a killer bee dies.
-- **Poison:** Causes death (**save versus poison**).
-- **Lodged stinger:** Inflicts 1 damage per round, as the stinger works its way in. A round can be spent to remove it.
-- **Queen:** A 2HD queen lives in the hive. The queen does not die when she stings.
-- **Guards:** At least 10 bees (4 or more of which have 1HD) remain in or near the hive to protect the queen.
-- **Honey:** Magical honey (around 2 pints) may be found in the hive. It heals 1d4 hit points if eaten (in its entirety).
+- **תוקפני:** בדרך כלל תוקפות במבט ראשון. תמיד תוקפות פולשים בטווח של 30 רגל מהכוורת שלהן.
+- **מתות לאחר התקפה:** בעקיצה מוצלחת, דבורת רוצח מתה.
+- **רעל:** גורם למוות (**הצלה מול רעל**).
+- **עוקץ תקוע:** גורם לנזק של 1 בכל סיבוב, כשהעוקץ חודר פנימה. ניתן להקדיש סיבוב להוצאתו.
+- **מלכה:** מלכה בעלת 2HD חיה בכוורת. המלכה לא מתה כשהיא עוקצת.
+- **שומרים:** לפחות 10 דבורים (4 או יותר מהן בעלות 1HD) נשארות בכוורת או בסמוך לה כדי להגן על המלכה.
+- **דבש:** דבש קסום (כ-2 פיינטים) עשוי להימצא בכוורת. הוא מרפא 1d4 נקודות פגיעה אם נאכל (במלואו).

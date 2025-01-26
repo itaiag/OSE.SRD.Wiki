@@ -1,25 +1,25 @@
-# Merman
+# איש דג
 
-Aquatic humanoids with fish tails in place of legs. Live in coastal waters, farming seaweed, and hunting fish.
+אנשי מים עם זנבות דגים במקום רגליים. חיים במים חופיים, מגדלים אצות ים וצדים דגים.
 
 ------
 
-| Armor Class     | 6 [13]                        |
+| מחלקת שריון     | 6 [13]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות           | 1 × נשק (1d6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 8                             |
-| Alignment        | Neutral                       |
-| XP               | 10 (leader: 20/75)            |
-| Number Appearing | 0 (1d20)                      |
-| Treasure Type    | A                             |
+| תנועה            | 120’ (40’)                    |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 8                             |
+| נטייה            | נייטרלי                      |
+| נק"נ             | 10 (מנהיג: 20/75)             |
+| מספר מופיעים     | 0 (1d20)                      |
+| סוג אוצר         | A                             |
 
 ------
 
-- **Weapons:** Spears, tridents, or daggers.
-- **Leaders:** For every 10 in a group, there is a 2HD leader. For every 50, there is a 4HD leader (saves: D10 W11 P12 B13 S14 (4)).
-- **Underwater villages:** Home to 1d3 × 100 individuals.
-- **Guardians:** Use trained sea creatures or monsters to guard their homes.
+- **נשקים:** חניתות, קלשונים או פגיונות.
+- **מנהיגים:** עבור כל 10 בקבוצה, יש מנהיג עם 2 קוביות פגיעה. עבור כל 50, יש מנהיג עם 4 קוביות פגיעה (גלגולי הצלה: D10 W11 P12 B13 S14 (4)).
+- **כפרים תת-מימיים:** בית ל-1d3 × 100 פרטים.
+- **שומרים:** משתמשים ביצורים ימיים מאולפים או מפלצות לשמירה על בתיהם.

@@ -1,7 +1,7 @@
-# Flying Carpet
+# שטיח מעופף
 
-An enchanted carpet that can fly through the air, carrying up to three passengers (and their gear). The movement rate depends on the number of passengers:
+שטיח מכושף שיכול לעוף באוויר, נושא עד שלושה נוסעים (והציוד שלהם). קצב התנועה תלוי במספר הנוסעים:
 
-- **1 passenger:** 300’ (100’).
-- **2 passengers:** 240’ (80’).
-- **3 passengers:** 180’ (60’).
+- **נוסע אחד:** 300’ (100’).
+- **2 נוסעים:** 240’ (80’).
+- **3 נוסעים:** 180’ (60’).

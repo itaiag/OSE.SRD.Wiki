@@ -1,12 +1,12 @@
-# Dispel Magic
+# ביטול קסם
 
-*3rd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 3*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** 120’
+**טווח:** 120’
 
-*Dispel magic* ends spell effects within a 20’ cube area.
+*ביטול קסם* מסיים את השפעות הלחשים בתוך אזור של קובייה בגודל 20’.
 
-- **Caster levels:** Effects created by lower-level casters are automatically dispelled. Effects created by higher-level casters have a 5% chance per level difference of not being dispelled.
-- **Magic items:** Are unaffected.
+- **רמות מטיל:** השפעות שנוצרו על ידי מטילים ברמה נמוכה יותר מבוטלות אוטומטית. השפעות שנוצרו על ידי מטילים ברמה גבוהה יותר יש להן סיכוי של 5% לכל הבדל ברמה לא להתבטל.
+- **חפצי קסם:** אינם מושפעים.

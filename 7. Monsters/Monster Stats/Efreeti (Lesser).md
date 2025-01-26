@@ -1,38 +1,38 @@
-# Efreeti (Lesser)
+# אפריטי (נחות)
 
-Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds.
+יצורים קסומים מאוד, בעלי רצון חופשי ואינטליגנציה גבוהה ממישור האש האלמנטרי. מתגלמים כאנשים ענקיים עם פנים דמוניות והילה של חום ועשן. מתמצקים מתוך ענני עשן מתנפנפים.
 
 ------
 
-| Armor Class     | 3 [16]                        |
+| מחלקת שריון     | 3 [16]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 10* (45hp)                    |
-| Attacks          | 1 × fists (2d8), magic        |
+| קוביות פגיעה     | 10* (45 נק"פ)                 |
+| התקפות           | 1 × אגרופים (2ק8), קסם        |
 | THAC0            | 11 [+8]                       |
-| Movement         | 90’ (30’) / 240’ (80’) flying |
-| Saving Throws    | D4 W5 P6 B5 S8 (15)           |
-| Morale           | 12                            |
-| Alignment        | Chaotic                       |
-| XP               | 1,600                         |
-| Number Appearing | 1 (1)                         |
-| Treasure Type    | None                          |
+| תנועה            | 90’ (30’) / 240’ (80’) מעופף  |
+| הצלות            | D4 W5 P6 B5 S8 (15)           |
+| מורל             | 12                            |
+| נטייה            | כאוטי                         |
+| נק"נ             | 1,600                         |
+| מספר מופיעים     | 1 (1)                         |
+| סוג אוצר         | אין                           |
 
 ------
 
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
+- **חסינות לנזק רגיל:** ניתן לפגוע בהם רק באמצעות התקפות קסומות.
 
-- **Magic powers:** Each can be used three times per day:
+- **כוחות קסם:** כל אחד מהם ניתן לשימוש שלוש פעמים ביום:
 
-  - **Pillar of flame:** Transform into a column of fire for up to 3 rounds. Flammable items within 5’ are ignited. Attacks do an additional 1d8 damage (3d8 total).
-  - **Invisibility**
-  - **Illusion:** Visual and audial. No concentration is required. Remains until touched or dispelled.
-  - **Create wall of fire**
-  - **Create food and drink:** For 12 humans and mounts for one day.
-  - **Conjure metallic objects:** Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
-  - **Conjure soft goods / wooden objects:** Up to 1,000 coins weight. Permanent.
+  - **עמוד להבה:** הופך לעמוד אש למשך עד 3 סיבובים. פריטים דליקים בטווח של 5’ נדלקים. התקפות גורמות לנזק נוסף של 1ק8 (3ק8 בסך הכל).
+  - **היעלמות**
+  - **אשליה:** חזותית ושמיעתית. לא נדרשת ריכוז. נשארת עד שנוגעים בה או מבטלים אותה.
+  - **יצירת קיר אש**
+  - **יצירת מזון ומשקה:** עבור 12 בני אדם והרכבים ליום אחד.
+  - **זימון חפצים מתכתיים:** עד משקל של 1,000 מטבעות. זמני: הקשיות קובעת את משך הזמן (זהב: יום אחד; ברזל: סיבוב אחד).
+  - **זימון סחורות רכות / חפצים מעץ:** עד משקל של 1,000 מטבעות. קבוע.
 
-- **Carrying capacity:** Up to 10,000 coins (flying).
+- **יכולת נשיאה:** עד 10,000 מטבעות (מעופף).
 
-- **Hate djinn:** Attack on sight.
+- **שונאים ג'ינים:** תוקפים במראה.
 
-- **Bound servitor:** Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet is treacherous and will follow commands to the letter while subverting the intent.
+- **משרת כבול:** לחשים לזימון אפריטים יכולים להיחקר על ידי משתמשי קסם ברמה גבוהה. ניתן לכבול לשירות למשך 101 ימים. האפריט הוא בוגדני ויבצע את הפקודות בדיוק תוך כדי חתרנות הכוונה.

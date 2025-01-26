@@ -1,77 +1,77 @@
-# Conjure Elemental
+# לזמן יסודן
 
-*5th Level Magic-User Spell*
+*לחשים של קוסם ברמה 5*
 
-**Duration:** Permanent (until dismissed or slain)
+**משך:** קבוע (עד שיבוטל או ייהרג)
 
-**Range:** 240’
+**טווח:** 240’
 
-A 16 Hit Dice elemental—a being formed of pure elemental matter—is summoned from an elemental plane of the caster’s choice (air, earth, fire, water) to do the caster’s bidding.
+יסודן של 16 קוביות פגיעה—ישות שנוצרה מחומר יסודני טהור—מוזמן ממישור יסודני לפי בחירת המטיל (אוויר, אדמה, אש, מים) כדי לבצע את רצון המטיל.
 
-- **Materials:** The summons require a large volume of the appropriate element.
-- **Concentration:** Is required to command an elemental.
-- **Dismissing:** While control over the elemental is maintained, the caster may dismiss it at any time, sending it back to its plane of origin.
-- **Disruption:** If the caster moves at more than half speed or their concentration is disturbed, the command over the elemental ends. It is, henceforth, a free-willed entity and will immediately try to kill the caster and any who get in its way.
-- **Dispelling:** A conjured elemental may be dispelled by *dispel magic* or *dispel evil*.
+- **חומרים:** הזימון דורש נפח גדול של היסוד המתאים.
+- **ריכוז:** נדרש כדי לפקד על יסודן.
+- **ביטול:** כל עוד השליטה על היסודן נשמרת, המטיל יכול לבטל אותו בכל עת, ולשלוח אותו חזרה למישור המקור שלו.
+- **הפרעה:** אם המטיל נע במהירות של יותר מחצי או שהריכוז שלו מופרע, השליטה על היסודן מסתיימת. הוא הופך לישות חופשית וינסה מיד להרוג את המטיל וכל מי שיעמוד בדרכו.
+- **ביטול:** יסודן מוזמן יכול להיות מבוטל על ידי *ביטול קסם* או *ביטול רוע*.
 
-**Restrictions:** The caster may summon at most one elemental from each plane in a single day.
+**הגבלות:** המטיל יכול לזמן לכל היותר יסודן אחד מכל מישור ביום אחד.
 
-#### Air Elemental
+#### יסודן אוויר
 
-Huge vortexes of whirling air.
-
-------
-
-**AC** -2 [21], **HD** 16* (72hp), **Att** 1 × blow (3d8), **THAC0** 8 [+11], **MV** 360’ (120’) flying, **SV** D2 W3 P4 B3 S6 (16), **ML** 10, **AL** Neutral, **XP** 2,300
+מערבולות ענק של אוויר מסתובב.
 
 ------
 
-- **Size:** 32’ tall, 8’ across.
-- **Whirlwind:** Creatures with less than 2HD swept aside (**save versus death**).
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Harm flying creatures:** Inflict extra 1d8 damage.
-
-#### Earth Elemental
-
-Huge, humanoid figures of earth or stone.
+**שריון** -2 [21], **קוביות פגיעה** 16* (72 נק"פ), **התקפה** 1 × מכה (3ק8), **THAC0** 8 [+11], **מהירות** 360’ (120’) מעופף, **הצלה** D2 W3 P4 B3 S6 (16), **מורל** 10, **נטייה** נייטרלי, **נק"נ** 2,300
 
 ------
 
-**AC** -2 [21], **HD** 16* (72hp), **Att** 1 × blow (3d8), **THAC0** 8 [+11], **MV** 60’ (20’), **SV** D2 W3 P4 B3 S6 (16), **ML** 10, **AL** Neutral, **XP** 2,300
+- **גודל:** 32’ גובה, 8’ רוחב.
+- **מערבולת:** יצורים עם פחות מ-2 קוביות פגיעה נסחפים הצידה (**הצלה נגד מוות**).
+- **חסינות לנזק רגיל:** ניתן לפגוע רק על ידי התקפות קסומות.
+- **פגיעה ביצורים מעופפים:** גורם נזק נוסף של 1ק8.
+
+#### יסודן אדמה
+
+דמויות ענקיות של אדמה או אבן.
 
 ------
 
-- **Size:** 16’ tall.
-- **Blocked by water:** Cannot cross a channel wider than own height.
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Harm creatures on the ground:** Inflict extra 1d8 damage.
-
-#### Fire Elemental
-
-Whirling columns of fire.
+**שריון** -2 [21], **קוביות פגיעה** 16* (72 נק"פ), **התקפה** 1 × מכה (3ק8), **THAC0** 8 [+11], **מהירות** 60’ (20’), **הצלה** D2 W3 P4 B3 S6 (16), **מורל** 10, **נטייה** נייטרלי, **נק"נ** 2,300
 
 ------
 
-**AC** -2 [21], **HD** 16* (72hp), **Att** 1 × blow (3d8), **THAC0** 8 [+11], **MV** 120’ (40’), **SV** D2 W3 P4 B3 S6 (16), **ML** 10, **AL** Neutral, **XP** 2,300
+- **גודל:** 16’ גובה.
+- **חסום על ידי מים:** לא יכול לחצות תעלה רחבה יותר מגובהו.
+- **חסינות לנזק רגיל:** ניתן לפגוע רק על ידי התקפות קסומות.
+- **פגיעה ביצורים על הקרקע:** גורם נזק נוסף של 1ק8.
+
+#### יסודן אש
+
+עמודי אש מסתובבים.
 
 ------
 
-- **Size:** 16’ tall, 16’ across.
-- **Blocked by water:** Cannot cross a channel wider than own diameter.
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Harm cold-based creatures:** Inflict extra 1d8 damage.
-
-#### Water Elemental
-
-Huge waves of water.
+**שריון** -2 [21], **קוביות פגיעה** 16* (72 נק"פ), **התקפה** 1 × מכה (3ק8), **THAC0** 8 [+11], **מהירות** 120’ (40’), **הצלה** D2 W3 P4 B3 S6 (16), **מורל** 10, **נטייה** נייטרלי, **נק"נ** 2,300
 
 ------
 
-**AC** -2 [21], **HD** 16* (72hp), **Att** 1 × blow (3d8), **THAC0** 8 [+11], **MV** 60’ (20’) / 180’ (60’) swimming, **SV** D2 W3 P4 B3 S6 (16), **ML** 10, **AL** Neutral, **XP** 2,300
+- **גודל:** 16’ גובה, 16’ רוחב.
+- **חסום על ידי מים:** לא יכול לחצות תעלה רחבה יותר מקוטרו.
+- **חסינות לנזק רגיל:** ניתן לפגוע רק על ידי התקפות קסומות.
+- **פגיעה ביצורים מבוססי קור:** גורם נזק נוסף של 1ק8.
+
+#### יסודן מים
+
+גלי ענק של מים.
 
 ------
 
-- **Size:** 8’ tall, 32’ across.
-- **Water-bound:** Must remain within 60’ of water.
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Harm creatures in water:** Inflict extra 1d8 damage.
+**שריון** -2 [21], **קוביות פגיעה** 16* (72 נק"פ), **התקפה** 1 × מכה (3ק8), **THAC0** 8 [+11], **מהירות** 60’ (20’) / 180’ (60’) שחייה, **הצלה** D2 W3 P4 B3 S6 (16), **מורל** 10, **נטייה** נייטרלי, **נק"נ** 2,300
+
+------
+
+- **גודל:** 8’ גובה, 32’ רוחב.
+- **קשור למים:** חייב להישאר בתוך 60’ ממים.
+- **חסינות לנזק רגיל:** ניתן לפגוע רק על ידי התקפות קסומות.
+- **פגיעה ביצורים במים:** גורם נזק נוסף של 1ק8.

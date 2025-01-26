@@ -1,9 +1,9 @@
-# Ring of Controlling Humans
+# טבעת לשליטה בבני אדם
 
-Grants the power to charm humans.
+מעניקה את הכוח להקסים בני אדם.
 
-- **Usage:** A charm may be placed upon a human within 60’. One target may be charmed per round.
-- **Resisting:** The subject may **save versus spells (with a -2 penalty)** to resist.
-- **Maximum subjects:** Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.
-- **Charmed individuals:** Regard the character as a trusted friend and will come to their defense. They will obey the character’s commands as long as these are not obviously harmful and do not contradict the subject’s alignment.
-- **Duration:** The charm lasts until dispelled, until the ring is removed, or until the wearer cancels it.
+- **שימוש:** ניתן להטיל קסם על אדם בטווח של 60 רגל. ניתן להקסים מטרה אחת בכל סיבוב.
+- **התנגדות:** הנושא יכול **להציל מול לחשים (עם עונש של -2)** כדי להתנגד.
+- **מקסימום נושאים:** עד 6 קוביות פגיעה של בני אדם יכולים להיות מוקסמים בדרך זו. בני אדם רגילים נחשבים כ-½ קוביית פגיעה.
+- **אנשים מוקסמים:** רואים את הדמות כחבר נאמן ויבואו להגנתה. הם יצייתו לפקודות הדמות כל עוד אלו אינן מזיקות באופן ברור ואינן סותרות את היישור של הנושא.
+- **משך:** הקסם נמשך עד שיבוטל, עד שהטבעת תוסר, או עד שהלובש יבטל אותו.

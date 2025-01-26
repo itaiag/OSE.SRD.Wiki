@@ -1,13 +1,13 @@
-# Dispel Evil
+# גירוש רוע
 
-*5th Level Cleric Spell*
+*לחשים של כוהן ברמה 5*
 
-**Duration:** Concentration (up to 1 turn) or instant (see below)
+**משך:** ריכוז (עד 1 תור) או מיידי (ראה למטה)
 
-**Range:** 30’
+**טווח:** 30’
 
-This spell has three uses:
+ללחשים אלו יש שלושה שימושים:
 
-1. **Ward:** By concentrating and remaining stationary, enchanted or undead monsters that come within range may be banished or destroyed. Each monster may **save versus spells** to avoid banishment or destruction. If a monster’s save succeeds, it flees the affected area.
-2. **Target single monster:** Instantly banish or destroy a single enchanted or undead monster within range. The monster may **save versus spells (with a -2 penalty)** to avoid banishment or destruction. If the monster’s save succeeds, it flees the affected area.
-3. **Dispel curse:** Instantly dispel the hold that a cursed item has over a being within range.
+1. **הגנה:** על ידי ריכוז והישארות במקום, מפלצות מכושפות או אל-מתות שמתקרבות לטווח עשויות להיות מגורשות או מושמדות. כל מפלצת יכולה **להציל מול לחשים** כדי להימנע מגירוש או השמדה. אם ההצלה של המפלצת מצליחה, היא בורחת מהאזור המושפע.
+2. **מטרה מפלצת יחידה:** לגרש או להשמיד מיידית מפלצת מכושפת או אל-מתה יחידה בטווח. המפלצת יכולה **להציל מול לחשים (עם עונש של -2)** כדי להימנע מגירוש או השמדה. אם ההצלה של המפלצת מצליחה, היא בורחת מהאזור המושפע.
+3. **ביטול קללה:** לבטל מיידית את האחיזה שיש לפריט מקולל על ישות בטווח.

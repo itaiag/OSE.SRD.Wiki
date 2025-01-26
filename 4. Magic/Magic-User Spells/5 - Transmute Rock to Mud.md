@@ -1,16 +1,16 @@
-# Transmute Rock to Mud (Mud to Rock)
+# שינוי סלע לבוץ (בוץ לסלע)
 
-*5th Level Magic-User Spell*
+*לחשים של מכשף ברמה 5*
 
-**Duration:** 3d6 days / Permanent (*transmute mud to rock*)
+**משך זמן:** 3d6 ימים / קבוע (*שינוי בוץ לסלע*)
 
-**Range:** 120’
+**טווח:** 120’
 
-Changes an area of rock into thick mud.
+משנה אזור של סלע לבוץ סמיך.
 
-- **Area:** Up to 3,000 square feet, 10’ deep.
-- **Movement:** Creatures in the mud move at 10% of their normal movement rate and may become stuck.
+- **אזור:** עד 3,000 רגל מרובע, 10’ עומק.
+- **תנועה:** יצורים בבוץ נעים ב-10% מקצב התנועה הרגיל שלהם ועלולים להיתקע.
 
-## Reversed: Transmute Mud to Rock
+## הפוך: שינוי בוץ לסלע
 
-Permanently changes an area of mud—up to 3,000 square feet and up to 10’ deep—into rock.
+משנה באופן קבוע אזור של בוץ—עד 3,000 רגל מרובע ועד 10’ עומק—לסלע.

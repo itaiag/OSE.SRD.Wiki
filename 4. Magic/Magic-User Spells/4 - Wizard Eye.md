@@ -1,15 +1,15 @@
-# Wizard Eye
+# עין הקוסם
 
-*4th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 4*
 
-**Duration:** 6 turns
+**משך:** 6 סיבובים
 
-**Range:** 240’
+**טווח:** 240’
 
-An invisible, magical eye is conjured that allows the caster to see at a distance.
+עין קסומה בלתי נראית מזומנת ומאפשרת למטיל הלחש לראות מרחוק.
 
-- **Movement:** The eye can be directed to move within range at up to 120’ per turn.
-- **Seeing through the eye:** By concentrating, the caster can see through the eye.
-- **Types of vision:** The magical eye grants infravision to 60’ as well as normal vision.
-- **Barriers**: Though invisible, the eye is tangible and cannot pass through solid barriers.
-- **Size**: The eye is as big as a normal human eye.
+- **תנועה:** ניתן להנחות את העין לנוע בטווח של עד 120’ לסיבוב.
+- **ראייה דרך העין:** על ידי ריכוז, המטיל יכול לראות דרך העין.
+- **סוגי ראייה:** העין הקסומה מעניקה ראיית אינפרא אדום עד 60’ וכן ראייה רגילה.
+- **מחסומים**: למרות שהיא בלתי נראית, העין מוחשית ואינה יכולה לעבור דרך מחסומים מוצקים.
+- **גודל**: העין בגודל של עין אנושית רגילה.

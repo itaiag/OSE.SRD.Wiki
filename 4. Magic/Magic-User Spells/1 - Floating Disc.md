@@ -1,14 +1,14 @@
-# Floating Disc
+# דיסק מרחף
 
-*1st Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 1*
 
-**Duration:** 6 turns
+**משך:** 6 סיבובים
 
-**Range:** 6’
+**טווח:** 6’
 
-Conjures an invisible disc of magical force that can be used to carry loads.
+מזמן דיסק בלתי נראה של כוח קסום שניתן להשתמש בו לנשיאת מטענים.
 
-- **Dimensions:** The disc is shaped like a round shield: around 3 feet across and slightly concave.
-- **Load:** It can hold a maximum load of 5,000 coins (500 pounds).
-- **Motion:** The disc floats at waist height, following the caster as it moves.
-- **End:** Anything placed on the disc is dropped when it disappears at the end of the spell’s duration.
+- **ממדים:** הדיסק מעוצב כמו מגן עגול: בקוטר של כ-3 רגל וקמור מעט.
+- **משקל:** הוא יכול לשאת משקל מקסימלי של 5,000 מטבעות (500 פאונד).
+- **תנועה:** הדיסק מרחף בגובה המותן, עוקב אחרי המטיל כשהוא נע.
+- **סיום:** כל דבר שמונח על הדיסק נופל כשהוא נעלם בסוף משך הלחש.

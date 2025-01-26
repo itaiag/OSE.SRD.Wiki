@@ -1,23 +1,23 @@
-# Rust Monster
+# מפלצת חלודה
 
-Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feed on rusted metal.
+יצורים קסומים, דמויי ארמדיל עם זנבות ארוכים ושני מחושים ארוכים. ניזונים ממתכת חלודה.
 
 ------
 
-| Armor Class     | 2 [17]                  |
+| מחלקת שריון     | 2 [17]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 5 (22hp)                |
-| Attacks          | 1 × feeler (rusting)    |
+| קוביות פגיעה     | 5 (22 נק"פ)             |
+| התקפות          | 1 × מחוש (החלדה)       |
 | THAC0            | 15 [+4]                 |
-| Movement         | 120’ (40’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (3) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 175                     |
-| Number Appearing | 1d4 (1d4)               |
-| Treasure Type    | None                    |
+| תנועה           | 120’ (40’)              |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3) |
+| מורל            | 7                       |
+| נטייה           | נייטרלי                 |
+| נק"נ            | 175                     |
+| מספר מופיעים    | 1d4 (1d4)               |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Rusting:** Metal that touches a rust monster (e.g., weapons that hit it, or armor struck by a feeler) crumbles instantly to rust. Magic items have a 10% chance per “plus”, to be unaffected on each successful hit. Each time a magic item is affected, it loses one “plus”.
-- **Smell metal:** Attracted by the scent.
+- **החלדה:** מתכת שנוגעת במפלצת חלודה (למשל, נשק שפוגע בה, או שריון שנפגע על ידי מחוש) מתפוררת מיד לחלודה. לפריטים קסומים יש סיכוי של 10% לכל "פלוס", לא להיות מושפעים בכל פגיעה מוצלחת. כל פעם שפריט קסום מושפע, הוא מאבד "פלוס" אחד.
+- **ריח מתכת:** נמשכים על ידי הריח.

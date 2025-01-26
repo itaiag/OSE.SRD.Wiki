@@ -1,14 +1,14 @@
-# Projected Image
+# תמונת השלכה
 
-*6th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 6*
 
-**Duration:** 6 turns
+**משך:** 6 סיבובים
 
-**Range:** 240’
+**טווח:** 240’
 
-An illusory duplicate of the caster appears within range.
+כפול אשלייתי של המטיל מופיע בטווח.
 
-- **Duplicate:** The image is an exact duplicate of the caster that can only be differentiated by touch.
-- **Subsequent spells cast:** Appear to originate from the image. (Targets must still be visible to the caster, however.)
-- **Spells and missiles:** The image appears unaffected by spells or missile weapons.
-- **Melee or touch:** If the image is touched or hit in melee, it disappears.
+- **כפול:** התמונה היא כפול מדויק של המטיל שניתן להבחין בו רק במגע.
+- **לחשים שנשלחים לאחר מכן:** נראים כאילו הם מגיעים מהתמונה. (המטרות עדיין חייבות להיות נראות למטיל, עם זאת.)
+- **לחשים וטילים:** התמונה נראית כלא מושפעת מלחשים או כלי נשק טילים.
+- **קרב פנים או מגע:** אם התמונה נוגעת או נפגעת בקרב פנים, היא נעלמת.

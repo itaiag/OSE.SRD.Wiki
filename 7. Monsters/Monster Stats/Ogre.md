@@ -1,23 +1,23 @@
-# Ogre
+# אוגר
 
-Frightful humanoids, 8–10’ tall, dressed in animal hides. Often dwell in caves.
+דמויי אדם מפחידים, בגובה 8–10 רגל, לבושים בעורות בעלי חיים. לעיתים קרובות מתגוררים במערות.
 
 ------
 
-| Armor Class     | 5 [14]                  |
+| מחלקת שריון     | 5 [14]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 4+1 (19hp)              |
-| Attacks          | 1 × club (1d10)         |
+| קוביות פגיעה    | 4+1 (19 נק"פ)           |
+| התקפות          | 1 × אלה (1ק10)          |
 | THAC0            | 15 [+4]                 |
-| Movement         | 90’ (30’)               |
-| Saving Throws    | D10 W11 P12 B13 S14 (4) |
-| Morale           | 10                      |
-| Alignment        | Chaotic                 |
-| XP               | 125                     |
-| Number Appearing | 1d6 (2d6)               |
-| Treasure Type    | C + 1,000gp             |
+| תנועה           | 90’ (30’)               |
+| גלגולי הצלה     | D10 W11 P12 B13 S14 (4) |
+| מורל            | 10                      |
+| נטייה           | כאוטי                   |
+| נק"נ            | 125                     |
+| מספר מופיעים    | 1ק6 (2ק6)               |
+| סוג אוצר        | C + 1,000 זהב           |
 
 ------
 
-- **Sack:** Outside of the lair, carry a sack containing 1d6 × 100gp.
-- **Hate neanderthals:** Attack on sight.
+- **שק:** מחוץ למאורה, נושא שק המכיל 1ק6 × 100 זהב.
+- **שונאים ניאנדרטלים:** תוקפים במראה.

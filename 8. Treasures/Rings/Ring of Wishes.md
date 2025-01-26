@@ -1,5 +1,5 @@
-# Ring of Wishes
+# טבעת המשאלות
 
-Grants the wearer’s wishes (see ***Wishes***).
+מעניקה למשתמש את משאלותיו (ראה ***משאלות***).
 
-- **Charges:** The number of wishes granted is noted in the ***Rings*** table. Once all wishes have been used, the ring’s magic is spent.
+- **מטענים:** מספר המשאלות המוענקות מצוין בטבלת ה***טבעות***. לאחר שכל המשאלות נוצלו, הקסם של הטבעת מתכלה.

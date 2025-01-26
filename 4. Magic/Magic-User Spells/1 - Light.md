@@ -1,17 +1,17 @@
-# Light (Darkness) (MU)
+# אור (חושך) (MU)
 
-*1st Level Magic-User Spell*
+*כישוף משתמש-קסם ברמה 1*
 
-**Duration:** 6 turns +1 per level
+**משך:** 6 סיבובים +1 לכל רמה
 
-**Range:** 120’
+**טווח:** 120’
 
-This spell has three usages:
+לכישוף זה יש שלושה שימושים:
 
-1. **Conjuring light:** In a 15’ radius. The magical light is sufficient for reading but is not as bright as daylight. The spell may be cast upon an object, in which case the light moves with the object.
-2. **Blinding a creature:** By casting the spell upon its eyes. If the target fails a **saving throw versus spells**, it is blinded for the duration. A blind creature cannot attack.
-3. **Cancelling darkness:** *Light* may cancel a *darkness* spell (see below).
+1. **זימון אור:** ברדיוס של 15’. האור הקסום מספיק לקריאה אך אינו בהיר כמו אור יום. הכישוף יכול להיות מוטל על חפץ, ובמקרה זה האור נע עם החפץ.
+2. **עיוורון יצור:** על ידי הטלת הכישוף על עיניו. אם המטרה נכשלת ב**הצלת כישוף נגד כישופים**, היא עיוורת למשך הזמן. יצור עיוור אינו יכול לתקוף.
+3. **ביטול חושך:** *אור* יכול לבטל כישוף *חושך* (ראה למטה).
 
-## Reversed: Darkness
+## הפוך: חושך
 
-Creates a 15’ radius area of magical blackness, preventing normal sight (but not infravision. Like *light*, it may alternatively be used to blind creatures or to dispel a *light* spell.
+יוצר אזור של 15’ רדיוס של שחור קסום, המונע ראייה רגילה (אך לא אינפרא-ויזיה). כמו *אור*, ניתן להשתמש בו גם לעיוור יצורים או לבטל כישוף *אור*.

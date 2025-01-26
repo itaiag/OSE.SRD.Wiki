@@ -1,25 +1,25 @@
-# Cyclops
+# קיקלופ
 
-20’ tall humanoids with a single, central eye. Dwell in caves, alone or in small groups. Cultivate grapes and raise sheep.
+דמויות אנושיות בגובה 20 רגל עם עין אחת מרכזית. מתגוררים במערות, לבד או בקבוצות קטנות. מגדלים ענבים ומגדלים כבשים.
 
 ------
 
-| Armor Class     | 5 [14]                            |
+| מחלקת שריון     | 5 [14]                            |
 | ---------------- | --------------------------------- |
-| Hit Dice         | 13* (58hp)                        |
-| Attacks          | 1 × club (3d10) or 1 × rock (3d6) |
+| קוביות פגיעה     | 13* (58 נק"פ)                     |
+| התקפות           | 1 × אלה (3d10) או 1 × אבן (3d6)   |
 | THAC0            | 10 [+9]                           |
-| Movement         | 90’ (30’)                         |
-| Saving Throws    | D4 W5 P6 B5 S8 (13)               |
-| Morale           | 9                                 |
-| Alignment        | Chaotic                           |
-| XP               | 2,300                             |
-| Number Appearing | 1 (1d4)                           |
-| Treasure Type    | E + 5,000gp                       |
+| תנועה            | 90’ (30’)                         |
+| גלגולי הצלה      | D4 W5 P6 B5 S8 (13)               |
+| מורל             | 9                                 |
+| נטייה            | כאוטי                             |
+| נק"נ             | 2,300                             |
+| מספר מופיעים     | 1 (1d4)                           |
+| סוג אוצר         | E + 5,000 זהב                     |
 
 ------
 
-- **Attack penalty:** -2 penalty on all hit rolls, due to limited depth perception.
-- **Rock throwing:** Up to 200’.
-- **Slow-witted:** Can be tricked by clever PCs.
-- **Curse:** 1-in-20 cyclops can place a curse on a character once a week. **Save versus spells** or be afflicted by a curse of the referee’s choosing. (Maximum possible effects: -2 penalty to saves, -4 penalty to hit, an ability score reduced by 50%.)
+- **עונש התקפה:** עונש של -2 לכל גלגולי הפגיעה, בשל תפיסת עומק מוגבלת.
+- **זריקת אבנים:** עד 200 רגל.
+- **איטיות מחשבה:** ניתן להטעות על ידי דמויות שחקן חכמות.
+- **קללה:** 1 מתוך 20 קיקלופים יכול להטיל קללה על דמות פעם בשבוע. **גלגל הצלה נגד לחשים** או להיות מושפע מקללה לפי בחירת השופט. (השפעות מקסימליות אפשריות: עונש של -2 לגלגולי הצלה, עונש של -4 לפגיעה, הפחתת תכונה ב-50%.)

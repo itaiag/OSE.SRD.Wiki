@@ -1,8 +1,8 @@
-# Helm of Telepathy
+# קסדת טלפתיה
 
-A beautifully crafted helmet that grants the magical ability of telepathy: reading and sending thoughts.
+קסדה מעוצבת להפליא שמעניקה את היכולת הקסומה של טלפתיה: קריאה ושליחת מחשבות.
 
-- **Range:** The range of the power is 90’.
-- **Concentration:** To read a creature’s thoughts, the wearer must remain still and concentrate on that creature.
-- **Comprehension:** The creature’s thoughts are made comprehensible to the wearer of the helm.
-- **Bidirectional communication:** The wearer may initiate bidirectional, telepathic communication though the creature.
+- **טווח:** הטווח של הכוח הוא 90’.
+- **ריכוז:** כדי לקרוא את מחשבותיו של יצור, הלובש חייב להישאר במקום ולהתרכז ביצור זה.
+- **הבנה:** מחשבותיו של היצור נעשות מובנות ללובש הקסדה.
+- **תקשורת דו-כיוונית:** הלובש יכול ליזום תקשורת טלפתית דו-כיוונית דרך היצור.

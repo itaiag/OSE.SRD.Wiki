@@ -1,13 +1,13 @@
-# Resist Fire
+# עמידות לאש
 
-*2nd Level Cleric Spell*
+*לחשים דרגה 2 לכוהן*
 
-**Duration:** 2 turns
+**משך:** 2 סיבובים
 
-**Range:** 30’
+**טווח:** 30’
 
-A single creature is bestowed with supernatural resistance to fire, as follows:
+יצור יחיד מקבל עמידות על-טבעית לאש, כדלקמן:
 
-- **Normal heat:** Unharmed by non-magical heat or fire.
-- **Save bonus:** Gain a +2 bonus to saving throws versus fire-based effects (e.g. magic or breath attacks).
-- **Fire-based damage:** Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 damage.)
+- **חום רגיל:** אינו נפגע מחום או אש לא קסומים.
+- **בונוס להצלה:** מקבל בונוס של +2 לגלגולי הצלה נגד השפעות מבוססות אש (למשל, קסם או התקפות נשימה).
+- **נזק מבוסס אש:** מופחת בנקודה אחת לכל קוביית נזק מגולגלת. (כל קובייה גורמת לנזק מינימלי של 1.)

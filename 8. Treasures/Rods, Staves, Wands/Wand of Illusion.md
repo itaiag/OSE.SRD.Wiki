@@ -1,5 +1,5 @@
-# Wand of Illusion
+# שרביט האשליה
 
-Expending a charge, an illusion of the character’s choosing manifests. This works in the same way as the magic-user spell **phantasmal force**, except:
+בהוצאת מטען, אשליה לפי בחירת הדמות מתגשמת. זה פועל באותו אופן כמו הלחש של משתמש הקסם **כוח פנטסמלי**, למעט:
 
-- **Concentration:** Is required to maintain the illusion. The wielder of the wand may move at up to half the normal movement rate while concentrating. Concentration is broken if the wielder attacks, casts a spell, or is successfully attacked (damaged, targeted by a malicious spell, etc.).
+- **ריכוז:** נדרש כדי לשמור על האשליה. נושא השרביט יכול לנוע עד חצי מקצב התנועה הרגיל בזמן ריכוז. הריכוז נשבר אם נושא השרביט תוקף, מטיל לחש, או מותקף בהצלחה (נפגע, ממוקד על ידי לחש זדוני, וכו').

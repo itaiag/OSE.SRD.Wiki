@@ -1,25 +1,25 @@
-# Hellhound
+# כלב גיהנום
 
-Monstrous, cunning, and very intelligent hounds, the size of a small pony. Breathe fire and love heat. Dwell in dungeons or near volcanoes.
+כלבים מפלצתיים, ערמומיים ואינטליגנטיים מאוד, בגודל של פוני קטן. נושפים אש ואוהבים חום. שוכנים במבוכים או ליד הרי געש.
 
 ------
 
-| Armor Class     | 4 [15]                                        |
+| מחלקת שריון     | 4 [15]                                        |
 | ---------------- | --------------------------------------------- |
-| Hit Dice         | 3 to 7* (13 / 18 / 22 / 27 / 31hp)            |
-| Attacks          | 1 × bite (1d6) or 1 × breath (1d6 per **HD**) |
-| THAC0            | By **HD** (17 [+2] to 13 [+6])                |
-| Movement         | 120’ (40’)                                    |
-| Saving Throws    | By **HD**                                     |
-| Morale           | 9                                             |
-| Alignment        | Chaotic                                       |
-| XP               | 50 / 125 / 300 / 500 / 850                    |
-| Number Appearing | 2d4 (2d4)                                     |
-| Treasure Type    | C                                             |
+| קוביות פגיעה     | 3 עד 7* (13 / 18 / 22 / 27 / 31 נק"פ)         |
+| התקפות           | 1 × נשיכה (1d6) או 1 × נשיפה (1d6 לכל **קפ**) |
+| THAC0            | לפי **קפ** (17 [+2] עד 13 [+6])               |
+| תנועה            | 120’ (40’)                                    |
+| גלגולי הצלה      | לפי **קפ**                                     |
+| מורל             | 9                                             |
+| נטייה            | כאוטי                                        |
+| נק"נ             | 50 / 125 / 300 / 500 / 850                    |
+| מספר מופיעים     | 2d4 (2d4)                                     |
+| סוג אוצר         | C                                             |
 
 ------
 
-- **Fire breath:** 2-in-6 chance per round of breathing fire. One target. **Save versus breath** for half damage.
-- **Fire immunity:** Unharmed by non-magical fire.
-- **Detect invisible:** 75% chance per round. 60’ range.
-- **Pets:** Sometimes found with other creatures with an affinity for fire.
+- **נשיפת אש:** סיכוי של 2 מתוך 6 בכל סיבוב לנשוף אש. מטרה אחת. **הצלה מול נשיפה** לחצי נזק.
+- **חסינות לאש:** לא ניזוק מאש לא קסומה.
+- **גילוי בלתי נראה:** סיכוי של 75% בכל סיבוב. טווח של 60’.
+- **חיות מחמד:** לפעמים נמצאים עם יצורים אחרים בעלי זיקה לאש.

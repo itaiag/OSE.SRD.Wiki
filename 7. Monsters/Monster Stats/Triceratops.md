@@ -1,24 +1,24 @@
-# Triceratops
+# טריצרטופס
 
-Massive (12’ to the shoulder, almost 40’ long), aggressive, herbivorous dinosaurs with a protective crest behind the head, and three long horns. Dwell in Lost World grasslands.
+דינוזאורים עצומים (12 רגל עד הכתף, כמעט 40 רגל אורך), אגרסיביים, צמחוניים עם כרבולת מגן מאחורי הראש ושלושה קרניים ארוכות. חיים במישורי עשב של עולם אבוד.
 
 ------
 
-| Armor Class     | 2 [17]                              |
+| מחלקת שריון     | 2 [17]                              |
 | ---------------- | ----------------------------------- |
-| Hit Dice         | 11 (49hp)                           |
-| Attacks          | 1 × gore (3d6) or 1 × trample (3d6) |
+| קוביות פגיעה     | 11 (49 נק"פ)                        |
+| התקפות           | 1 × נגיחה (3ק6) או 1 × דריסה (3ק6) |
 | THAC0            | 11 [+8]                             |
-| Movement         | 90’ (30’)                           |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)             |
-| Morale           | 8                                   |
-| Alignment        | Neutral                             |
-| XP               | 1,100                               |
-| Number Appearing | 0 (1d4)                             |
-| Treasure Type    | None                                |
+| תנועה            | 90’ (30’)                           |
+| גלגולי הצלה      | D10 W11 P12 B13 S14 (6)             |
+| מורל             | 8                                   |
+| נטייה            | נייטרלי                             |
+| נק"נ             | 1,100                               |
+| מספר מופיעים     | 0 (1ק4)                             |
+| סוג אוצר         | אין                                 |
 
 ------
 
-- **Aggressive:** Normally attack on sight.
-- **Charge:** In the first round of combat, when not in melee. Requires a clear run of at least 20 yards. Horns inflict double damage.
-- **Trample:** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
+- **אגרסיבי:** בדרך כלל תוקפים במראה.
+- **הסתערות:** בסיבוב הראשון של הקרב, כאשר לא בקרב פנים אל פנים. דורש ריצה ברורה של לפחות 20 יארד. הקרניים גורמות לנזק כפול.
+- **דריסה:** סיכוי של 3 מתוך 4 לדריסה בכל סיבוב. +4 לפגיעה ביצורים בגודל אדם או קטנים יותר.

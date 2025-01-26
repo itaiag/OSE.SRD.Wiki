@@ -1,23 +1,23 @@
-# Contact Higher Plane
+# יצירת קשר עם מישור גבוה יותר
 
-*5th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 5*
 
-**Duration:** One conversation
+**משך:** שיחה אחת
 
-**Range:** The caster
+**טווח:** המטיל
 
-A communication channel is opened to a higher plane of existence, allowing the caster to ask powerful, otherworldly beings for advice and knowledge on any subject.
+נפתח ערוץ תקשורת למישור קיום גבוה יותר, המאפשר למטיל לשאול ישויות חזקות מעולמות אחרים עצות וידע בכל נושא.
 
-- **Plane:** The caster must choose which plane of existence to contact: communion with beings of the 3rd to 12th planes is possible via this spell. Higher-numbered planes are home to more powerful and knowledgeable beings.
-- **Questions:** The caster may then ask a number of simple yes/no questions equal to the number of the plane contacted. The referee plays the role of the contacted being, responding to the caster’s questions.
-- **Answers:** For each question asked, there is a chance of the contacted being not knowing the answer or of answering untruthfully: see the table below. It is impossible to detect whether the entity is lying.
+- **מישור:** המטיל חייב לבחור איזה מישור קיום ליצור איתו קשר: ניתן לתקשר עם ישויות מהמישורים ה-3 עד ה-12 באמצעות לחש זה. מישורים בעלי מספר גבוה יותר הם בית לישויות חזקות ובעלות ידע רב יותר.
+- **שאלות:** המטיל יכול לשאול מספר שאלות פשוטות של כן/לא השווה למספר המישור שנוצר איתו קשר. השופט משחק את תפקיד הישות שנוצר איתה קשר, ומשיב לשאלות המטיל.
+- **תשובות:** עבור כל שאלה שנשאלת, יש סיכוי שהישות שנוצר איתה קשר לא תדע את התשובה או שתענה בצורה לא אמיתית: ראו את הטבלה למטה. אי אפשר לזהות אם הישות משקרת.
 
-**Restrictions:** Casting *contact higher plane* is a great and perilous deed.
+**מגבלות:** הטלת *יצירת קשר עם מישור גבוה יותר* היא מעשה גדול ומסוכן.
 
-- **Usage limit:** It may be cast at most once per week. (The referee may limit the spell’s usage to even less frequently, if desired.)
-- **Insanity:** Communion with otherworldly beings of great power can shatter the caster’s sanity. The basic chance is shown in the table below. For every level of the caster above 11, this chance is reduced by 5%. If the caster is driven insane as a result of the communion, the recovery time is a number of weeks equal to the number of the plane contacted.
+- **מגבלת שימוש:** ניתן להטיל את הלחש לכל היותר פעם בשבוע. (השופט יכול להגביל את השימוש בלחש לתדירות נמוכה יותר, אם רצוי.)
+- **שיגעון:** תקשורת עם ישויות מעולמות אחרים בעלי כוח רב יכולה לשבור את שפיות המטיל. הסיכוי הבסיסי מוצג בטבלה למטה. עבור כל רמה של המטיל מעל 11, סיכוי זה מופחת ב-5%. אם המטיל משתגע כתוצאה מהתקשורת, זמן ההחלמה הוא מספר שבועות השווה למספר המישור שנוצר איתו קשר.
 
-| Plane | #Qs  | Don’t Know | Truth | Insanity |
+| מישור | #שאלות | לא יודע | אמת | שיגעון |
 | :---: | :--: | :--------: | :---: | :------: |
 |  3rd  |  3   |    75%     |  50%  |    5%    |
 |  4th  |  4   |    70%     |  55%  |   10%    |

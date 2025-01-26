@@ -1,26 +1,26 @@
-# Green Slime
+# רפש ירוק
 
-Dripping, green slime that clings to walls and ceilings.
+רפש ירוק מטפטף שנדבק לקירות ולתקרות.
 
 ------
 
-| Armor Class     | No hit roll required      |
+| מחלקת שריון     | לא נדרש גלגול פגיעה      |
 | ---------------- | ------------------------- |
-| Hit Dice         | 2* (9hp)                  |
-| Attacks          | 1 × touch (consume flesh) |
+| קוביות פגיעה     | 2* (9 נק"פ)               |
+| התקפות           | 1 × מגע (צריכת בשר)      |
 | THAC0            | 18 [+1]                   |
-| Movement         | 3’ (1’)                   |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)   |
-| Morale           | 12                        |
-| Alignment        | Neutral                   |
-| XP               | 25                        |
-| Number Appearing | 1 (0)                     |
-| Treasure Type    | None                      |
+| תנועה            | 3’ (1’)                   |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)   |
+| מורל             | 12                        |
+| נטייה            | נייטרלי                   |
+| נק"נ             | 25                        |
+| מספר מופיעים     | 1 (0)                     |
+| סוג אוצר         | אין                       |
 
 ------
 
-- **Surprise:** Drops down on surprised characters from above.
-- **Acid:** When in contact with a victim, sticks on and exudes acid. The acid destroys wood or metal (including armor) in 6 rounds, but cannot affect stone.
-- **Consume flesh:** Once in contact with flesh for 6 rounds, the victim is turned into green slime in a further 1d4 rounds.
-- **Removing:** Once stuck on a victim, can only be removed by fire. This inflicts half damage to the victim and half to the slime.
-- **Immunity:** Unharmed by all attacks except cold or fire.
+- **הפתעה:** נופל על דמויות מופתעות מלמעלה.
+- **חומצה:** כאשר במגע עם קורבן, נדבק ומפריש חומצה. החומצה הורסת עץ או מתכת (כולל שריון) ב-6 סיבובים, אך אינה יכולה להשפיע על אבן.
+- **צריכת בשר:** לאחר מגע עם בשר במשך 6 סיבובים, הקורבן הופך לרפש ירוק בעוד 1d4 סיבובים.
+- **הסרה:** לאחר שנדבק לקורבן, ניתן להסירו רק באמצעות אש. זה גורם לחצי נזק לקורבן ולחצי לרפש.
+- **חסינות:** אינו נפגע מכל התקפה מלבד קור או אש.

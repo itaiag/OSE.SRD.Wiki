@@ -1,9 +1,9 @@
-# Ventriloquism
+# ונטרילוקיזם
 
-*1st Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 1*
 
-**Duration:** 2 turns
+**משך:** 2 תורות
 
-**Range:** 60’
+**טווח:** 60 רגל
 
-Allows the caster to cause their voice to emanate from anywhere within range (e.g., a statue, a tapestry, an animal).
+מאפשר למטיל הקסם לגרום לקולו להישמע מכל מקום בטווח (למשל, פסל, שטיח קיר, חיה).

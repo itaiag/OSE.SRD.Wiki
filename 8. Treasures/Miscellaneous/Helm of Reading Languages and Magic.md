@@ -1,7 +1,7 @@
-# Helm of Reading Languages and Magic
+# קסדת קריאת שפות וקסם
 
-A fragile helmet that grants the wearer the ability to read writing of all kinds.
+קסדה שבירה המעניקה ללובש את היכולת לקרוא כתיבה מכל הסוגים.
 
-- **Normal text:** Text in any language can be understood.
-- **Magical text:** Even magical writing is comprehensible; this does not grant the ability to cast spells, however.
-- **Fragility:** Each time the wearer is hit, there is a 1-in-10 chance of the helm being destroyed. If the wearer is killed, the helm is destroyed.
+- **טקסט רגיל:** ניתן להבין טקסט בכל שפה.
+- **טקסט קסום:** אפילו כתיבה קסומה מובנת; עם זאת, זה לא מעניק את היכולת להטיל לחשים.
+- **שבירות:** בכל פעם שהלובש נפגע, יש סיכוי של 1 מתוך 10 שהקסדה תיהרס. אם הלובש נהרג, הקסדה נהרסת.

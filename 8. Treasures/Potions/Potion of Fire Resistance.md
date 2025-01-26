@@ -1,7 +1,7 @@
-# Potion of Fire Resistance
+# שיקוי עמידות לאש
 
-Grants protection against fire:
+מעניק הגנה מפני אש:
 
-- **Normal heat:** Unharmed by non-magical heat or fire.
-- **Save bonus:** Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
-- **Fire-based damage:** Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
+- **חום רגיל:** לא ניזוק מחום או אש שאינם קסומים.
+- **בונוס הצלה:** מקבל בונוס של +2 לכל גלגולי ההצלה נגד התקפות קסומות או נשיפה מבוססות אש.
+- **נזק מבוסס אש:** מופחת בנקודה אחת לכל קוביית נזק מגולגלת. (כל קובייה גורמת לנזק מינימלי של נקודת פגיעה אחת.)

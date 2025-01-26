@@ -1,6 +1,6 @@
-# Potion of Poison
+# שיקוי רעל
 
-Appears the same as any other potion.
+נראה כמו כל שיקוי אחר.
 
-- **Effect:** Causes death (**save vs. poison**).
-- **Sipping:** Even a sip has the full effect.
+- **השפעה:** גורם למוות (**הצלה נגד רעל**).
+- **לגימה:** אפילו לגימה אחת יש לה את ההשפעה המלאה.

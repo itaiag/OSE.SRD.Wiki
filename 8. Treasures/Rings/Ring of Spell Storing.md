@@ -1,10 +1,10 @@
-# Ring of Spell Storing
+# טבעת אחסון לחשים
 
-Stores a number of magical spells that the wearer can release on command.
+מאחסנת מספר לחשים קסומים שהלובש יכול לשחרר לפי פקודה.
 
-- **Capacity:** The ring contains 1d6 spells. (The spells can be triggered and recharged but cannot be changed.)
-- **Type of magic:** There is a 20% chance of divine spells; otherwise, they are arcane spells.
-- **Knowledge:** The wearer of the ring knows which spells it contains.
-- **Triggering:** The ring's wearer can trigger the spells at will (up to one spell per round).
-- **Caster level:** For spells whose effects vary by the caster's level, the ring's wearer is treated as a caster of the lowest level required to cast the spell.
-- **Recharging:** Once a spell is triggered, it may not be reused until it is recharged—the expired spell must be cast directly onto the ring.
+- **קיבולת:** הטבעת מכילה 1d6 לחשים. (ניתן להפעיל ולמלא מחדש את הלחשים אך לא ניתן לשנותם.)
+- **סוג הקסם:** יש סיכוי של 20% ללחשים אלוהיים; אחרת, הם לחשים ארקניים.
+- **ידע:** הלובש של הטבעת יודע אילו לחשים היא מכילה.
+- **הפעלה:** הלובש של הטבעת יכול להפעיל את הלחשים כרצונו (עד לחש אחד לסיבוב).
+- **רמת מטיל:** עבור לחשים שהשפעותיהם משתנות לפי רמת המטיל, הלובש של הטבעת נחשב כמטיל ברמה הנמוכה ביותר הנדרשת להטלת הלחש.
+- **מילוי מחדש:** לאחר שלחש מופעל, לא ניתן להשתמש בו שוב עד שהוא מתמלא מחדש—הלחש שפג תוקפו חייב להיות מוטל ישירות על הטבעת.

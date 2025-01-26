@@ -1,75 +1,75 @@
-# Bat
+# עטלף
 
-Nocturnal, flying mammals that roost in caves or ruins.
+יונקים מעופפים ליליים שמקננים במערות או חורבות.
 
-- **Echolocation:** Unaffected by effects that impair, modify, or rely on sight. Blinded by magical silence.
+- **אקולוקציה:** לא מושפעים מהשפעות שמפריעות, משנות או תלויות בראייה. עיוורים על ידי דממת קסם.
 
-## Giant Bat
+## עטלף ענק
 
-Carnivorous bats that may attack adventurers, if hungry. 1-in-20 groups of giant bats are vampiric (*see **Giant Vampire Bat***).
+עטלפים טורפים שעשויים לתקוף הרפתקנים אם הם רעבים. 1 מתוך 20 קבוצות של עטלפים ענקיים הם ערפדיים (*ראה **עטלף ערפד ענק***).
 
 ------
 
-| Armor Class     | 6 [13]                        |
+| מחלקת שריון     | 6 [13]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 2 (9hp)                       |
-| Attacks          | 1 × bite (1d4)                |
+| קוביות פגיעה    | 2 (9hp)                       |
+| התקפות          | 1 × נשיכה (1d4)               |
 | THAC0            | 18 [+1]                       |
-| Movement         | 30’ (10’) / 180’ (60’) flying |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 8                             |
-| Alignment        | Neutral                       |
+| תנועה           | 30’ (10’) / 180’ (60’) מעוף   |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1)       |
+| מורל            | 8                             |
+| נטייה           | נייטרלי                      |
 | XP               | 20                            |
-| Number Appearing | 1d10 (1d10)                   |
-| Treasure Type    | None                          |
+| מספר מופיעים    | 1d10 (1d10)                   |
+| סוג אוצר        | אין                           |
 
 ------
 
-- **Echolocation:** See main entry.
+- **אקולוקציה:** ראה ערך ראשי.
 
-## Giant Vampire Bat
+## עטלף ערפד ענק
 
 ------
 
-| Armor Class     | 6 [13]                           |
+| מחלקת שריון     | 6 [13]                           |
 | ---------------- | -------------------------------- |
-| Hit Dice         | 2 (9hp)                          |
-| Attacks          | 1 × bite (1d4 + unconsciousness) |
+| קוביות פגיעה    | 2 (9hp)                          |
+| התקפות          | 1 × נשיכה (1d4 + חוסר הכרה)     |
 | THAC0            | 18 [+1]                          |
-| Movement         | 30’ (10’) / 180’ (60’) flying    |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)          |
-| Morale           | 8                                |
-| Alignment        | Neutral                          |
+| תנועה           | 30’ (10’) / 180’ (60’) מעוף      |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1)          |
+| מורל            | 8                                |
+| נטייה           | נייטרלי                          |
 | XP               | 20                               |
-| Number Appearing | 1d10 (1d10)                      |
-| Treasure Type    | None                             |
+| מספר מופיעים    | 1d10 (1d10)                      |
+| סוג אוצר        | אין                               |
 
 ------
 
-- **Echolocation:** See main entry.
-- **Unconsciousness:** For 1d10 rounds (**save versus paralysis**).
-- **Blood drain:** A vampire bat may drain blood from an unconscious victim: 1d4 hit points automatic damage per round. A victim killed by blood drain becomes undead (possibly a vampire after 24 hours (**save versus spells**).
+- **אקולוקציה:** ראה ערך ראשי.
+- **חוסר הכרה:** למשך 1d10 סיבובים (**הצלה מול שיתוק**).
+- **ניקוז דם:** עטלף ערפד עשוי לנקז דם מקורבן מחוסר הכרה: 1d4 נקודות פגיעה נזק אוטומטי לכל סיבוב. קורבן שנהרג מניקוז דם הופך לבלתי מת (ייתכן שיהפוך לערפד לאחר 24 שעות (**הצלה מול לחשים**).
 
-## Normal Bat
+## עטלף רגיל
 
 ------
 
-| Armor Class     | 6 [13]                      |
+| מחלקת שריון     | 6 [13]                      |
 | ---------------- | --------------------------- |
-| Hit Dice         | 1hp                         |
-| Attacks          | 1 × swarm (confusion)       |
+| קוביות פגיעה    | 1hp                         |
+| התקפות          | 1 × נחיל (בלבול)            |
 | THAC0            | 20 [-1]                     |
-| Movement         | 9’ (3’) / 120’ (40’) flying |
-| Saving Throws    | D14 W15 P16 B17 S18 (NH)    |
-| Morale           | 6                           |
-| Alignment        | Neutral                     |
+| תנועה           | 9’ (3’) / 120’ (40’) מעוף   |
+| גלגולי הצלה     | D14 W15 P16 B17 S18 (NH)    |
+| מורל            | 6                           |
+| נטייה           | נייטרלי                    |
 | XP               | 5                           |
-| Number Appearing | 1d100 (1d100)               |
-| Treasure Type    | None                        |
+| מספר מופיעים    | 1d100 (1d100)               |
+| סוג אוצר        | אין                         |
 
 ------
 
-- **Echolocation:** See main entry.
-- **Swarm:** 10 bats can swarm around a target’s head, causing confusion: -2 to attack rolls and saves; unable to cast spells.
-- **Attacks:** As normal human.
-- **Flighty:** Unless magically summoned or controlled, normal bats check morale every round.
+- **אקולוקציה:** ראה ערך ראשי.
+- **נחיל:** 10 עטלפים יכולים להקיף את ראש המטרה, ולגרום לבלבול: -2 לגלגולי התקפה והצלה; לא מסוגל להטיל לחשים.
+- **התקפות:** כמו אדם רגיל.
+- **מעופף:** אלא אם כן זומנו או נשלטו באופן קסום, עטלפים רגילים בודקים מורל בכל סיבוב.

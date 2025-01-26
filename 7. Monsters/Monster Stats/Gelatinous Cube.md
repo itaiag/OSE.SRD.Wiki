@@ -1,25 +1,25 @@
-# Gelatinous Cube
+# קוביית ג'לטין
 
-10’ cubes of transparent jelly. Move through dungeons, absorbing debris and living creatures they come across.
+קוביות של 10 רגל של ג'לי שקוף. נעות דרך מבוכים, סופגות פסולת ויצורים חיים שהן נתקלות בהם.
 
 ------
 
-| Armor Class     | 8 [11]                      |
+| מחלקת שריון     | 8 [11]                      |
 | ---------------- | --------------------------- |
-| Hit Dice         | 4* (18hp)                   |
-| Attacks          | 1 × touch (2d4 + paralysis) |
+| קוביות פגיעה     | 4* (18 נק"פ)                |
+| התקפות          | 1 × מגע (2ק4 + שיתוק)       |
 | THAC0            | 16 [+3]                     |
-| Movement         | 60’ (20’)                   |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)     |
-| Morale           | 12                          |
-| Alignment        | Neutral                     |
-| XP               | 125                         |
-| Number Appearing | 1 (0)                       |
-| Treasure Type    | V                           |
+| תנועה           | 60’ (20’)                   |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (2)     |
+| מורל            | 12                          |
+| נטייה           | נייטרלי                     |
+| נק"נ            | 125                         |
+| מספר מופיעים    | 1 (0)                       |
+| סוג אוצר        | V                           |
 
 ------
 
-- **Surprise:** On a roll of 1–4, due to near-invisibility.
-- **Paralysis:** For 2d4 turns (**save versus paralysis**).
-- **Energy immunity:** Unharmed by cold or lightning.
-- **Embedded items:** Indigestible items (e.g. gems, coins) are carried around inside the cube.
+- **הפתעה:** בגלגול של 1–4, בשל כמעט-שקיפות.
+- **שיתוק:** למשך 2ק4 סיבובים (**הצלה מול שיתוק**).
+- **חסינות לאנרגיה:** לא ניזוקות מקור או ברק.
+- **חפצים משובצים:** חפצים בלתי ניתנים לעיכול (כגון אבני חן, מטבעות) נישאים בתוך הקובייה.

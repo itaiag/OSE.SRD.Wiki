@@ -1,7 +1,7 @@
-# Ring of Weakness
+# טבעת החולשה
 
-A cursed ring that weakens the wearer.
+טבעת מקוללת שמחלישה את הלובש.
 
-- **Effect:** Within 6 rounds of putting the ring on, the wearer’s STR is reduced to 3.
-- **Removing:** The ring cannot be removed once worn.
-- **Dispelling:** The curse can be removed by magic (e.g., *remove curse*) or (at the referee’s option) by performing a special quest.
+- **השפעה:** בתוך 6 סיבובים מהענדת הטבעת, כוחו של הלובש מופחת ל-3.
+- **הסרה:** הטבעת לא ניתנת להסרה לאחר שנענדה.
+- **ביטול:** הקללה יכולה להיות מוסרת באמצעות קסם (למשל, *הסרת קללה*) או (לפי בחירת השופט) על ידי ביצוע משימה מיוחדת.

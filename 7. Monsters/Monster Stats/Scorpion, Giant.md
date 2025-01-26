@@ -1,24 +1,24 @@
-# Scorpion, Giant
+# עקרב, ענק
 
-Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts.
+עכבישאים ענקיים, בגודל של סוס קטן, עם צבתות ועוקצים קטלניים. שוכנים במערות, חורבות ומדבריות.
 
 ------
 
-| Armor Class     | 2 [17]                                    |
+| מחלקת שריון     | 2 [17]                                    |
 | ---------------- | ----------------------------------------- |
-| Hit Dice         | 4* (18hp)                                 |
-| Attacks          | 2 × claw (1d10), 1 × sting (1d4 + poison) |
+| קוביות פגיעה     | 4* (18hp)                                 |
+| התקפות           | 2 × צבת (1d10), 1 × עוקץ (1d4 + רעל)      |
 | THAC0            | 16 [+3]                                   |
-| Movement         | 150’ (50’)                                |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)                   |
-| Morale           | 11                                        |
-| Alignment        | Chaotic                                   |
+| תנועה            | 150’ (50’)                                |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)                   |
+| מורל             | 11                                        |
+| נטייה            | כאוטי                                     |
 | XP               | 125                                       |
-| Number Appearing | 1d6 (1d6)                                 |
-| Treasure Type    | V                                         |
+| מספר מופיעים     | 1d6 (1d6)                                 |
+| סוג אוצר         | V                                         |
 
 ------
 
-- **Aggressive:** Normally attack on sight.
-- **Poison:** Causes death (**save versus poison**).
-- **Grab and sting:** +2 bonus to sting attack, if a claw hits.
+- **תוקפני:** בדרך כלל תוקפים במראה ראשון.
+- **רעל:** גורם למוות (**הצלה מול רעל**).
+- **תפיסה ועקיצה:** בונוס של +2 להתקפת עקיצה, אם צבת פוגעת.

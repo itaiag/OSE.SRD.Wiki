@@ -1,13 +1,13 @@
-# Protection from Evil 10’ Radius (MU)
+# הגנה מרוע ברדיוס 10 רגל (MU)
 
-*3rd Level Magic-User Spell*
+*לחשים של דרגה 3 למשתמשי קסם*
 
-**Duration:** 12 turns
+**משך:** 12 סיבובים
 
-**Range:** 10’ around the caster
+**טווח:** 10 רגל מסביב למטיל הלחש
 
-This spell wards the caster and all allies within 10’ from attacks by creatures of another alignment, as follows:
+לחש זה מגן על המטיל וכל בעלי הברית בטווח של 10 רגל מפני התקפות של יצורים בעלי יישור שונה, כדלקמן:
 
-- **Bonuses:** Those warded gain a +1 bonus to saving throws against attacks or special abilities of affected creatures.
-- **Affected creatures’ attacks:** Against those warded are penalized by -1.
-- **Enchanted, constructed, or summoned creatures:** The spell additionally prevents such creatures from making melee attacks against those warded, though they may still make ranged attacks. If any of the warded party engages such a creature in melee, this protection is broken (those warded still gain the save and attack bonuses mentioned above).
+- **בונוסים:** המוגנים מקבלים בונוס של +1 לגלגולי הצלה נגד התקפות או יכולות מיוחדות של יצורים מושפעים.
+- **התקפות של יצורים מושפעים:** נגד המוגנים נענשות ב-1-.
+- **יצורים מכושפים, בנויים או מזומנים:** הלחש מונע בנוסף מיצורים כאלה לבצע התקפות קרב מגע נגד המוגנים, אם כי הם עדיין יכולים לבצע התקפות מרחוק. אם אחד מהמוגנים תוקף יצור כזה בקרב מגע, ההגנה נשברת (המוגנים עדיין מקבלים את הבונוסים לגלגולי הצלה והתקפה שהוזכרו לעיל).

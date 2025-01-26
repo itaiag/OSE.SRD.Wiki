@@ -1,24 +1,24 @@
-# Purple Worm
+# תולעת סגולה
 
-Gigantic, slimy worms with bodies 100’ long and 8–10’ thick. Bore tunnels through the earth and come to the surface to eat other creatures.
+תולעים ענקיות וריריות עם גופים באורך 100 רגל ובעובי 8–10 רגל. חופרות מנהרות דרך האדמה ועולות לפני השטח כדי לאכול יצורים אחרים.
 
 ------
 
-| Armor Class     | 6 [13]                                   |
+| מחלקת שריון     | 6 [13]                                   |
 | ---------------- | ---------------------------------------- |
-| Hit Dice         | 15* (67hp)                               |
-| Attacks          | 1 × bite (2d8), 1 × sting (1d8 + poison) |
+| קוביות פגיעה     | 15* (67 נק"פ)                            |
+| התקפות           | 1 × נשיכה (2d8), 1 × עקיצה (1d8 + רעל)  |
 | THAC0            | 9 [+10]                                  |
-| Movement         | 60’ (20’)                                |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)                    |
-| Morale           | 10                                       |
-| Alignment        | Neutral                                  |
-| XP               | 2,300                                    |
-| Number Appearing | 1d2 (1d4)                                |
-| Treasure Type    | D                                        |
+| תנועה            | 60’ (20’)                                |
+| גלגולי הצלה      | D8 W9 P10 B10 S12 (8)                    |
+| מורל             | 10                                       |
+| נטייה            | נייטרלי                                  |
+| נק"נ             | 2,300                                    |
+| מספר מופיעים     | 1d2 (1d4)                                |
+| סוג אוצר         | D                                        |
 
 ------
 
-- **Swallow whole:** A bite attack roll of 20, or 4 or more than the target number required, indicates that a human-sized (or smaller) victim is swallowed. Inside the worm’s belly: suffer 3d6 damage per round (until the worm dies); may attack with sharp weapons at -4 to hit; body digested in 6 turns after death.
-- **Poison:** Causes death (**save versus poison**).
-- **In restricted spaces:** May not always be able to bite and sting at once.
+- **בליעה שלמה:** גלגול התקפת נשיכה של 20, או 4 או יותר מהמספר הנדרש, מציין שקרבן בגודל אדם (או קטן יותר) נבלע. בתוך הבטן של התולעת: סובל 3d6 נזק לכל סיבוב (עד שהתולעת מתה); יכול לתקוף עם נשקים חדים ב-4- לפגיעה; הגוף מתעכל ב-6 סיבובים לאחר המוות.
+- **רעל:** גורם למוות (**הצלה מול רעל**).
+- **במרחבים מוגבלים:** ייתכן שלא תמיד תוכל לנשוך ולעקוץ בו זמנית.

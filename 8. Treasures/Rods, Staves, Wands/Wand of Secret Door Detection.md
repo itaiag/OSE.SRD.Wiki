@@ -1,3 +1,3 @@
-# Wand of Secret Door Detection
+# שרביט גילוי דלתות סודיות
 
-Reveals the location of any secret door within 20’.
+מגלה את המיקום של כל דלת סודית בטווח של 20 רגל.

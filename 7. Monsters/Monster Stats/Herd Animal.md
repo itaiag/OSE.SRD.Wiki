@@ -1,76 +1,76 @@
-# Herd Animal
+# חיית עדר
 
-Wild animals that live in large, grazing herds. The exact type depends on the terrain.
+חיות בר שחיות בעדרים גדולים ורועים. הסוג המדויק תלוי בשטח.
 
-- **Stampede:** Herds of 20 or more can trample those in their path. 3-in-4 chance each round. +4 to hit human-sized or smaller creatures. 1d20 damage.
-- **Males:** In groups of 3 or more, only 1-in-4 are males. These have 1d4 extra hit points and protect the herd.
-- **Females and young:** Flee from danger. Females do not have a butt attack. Young have half-normal hit points.
+- **דריסה:** עדרים של 20 או יותר יכולים לדרוס את אלו שבדרכם. סיכוי של 3 מתוך 4 בכל סיבוב. +4 לפגיעה ביצורים בגודל אדם או קטנים יותר. 1d20 נזק.
+- **זכרים:** בקבוצות של 3 או יותר, רק 1 מתוך 4 הם זכרים. אלו יש להם 1d4 נקודות פגיעה נוספות ומגנים על העדר.
+- **נקבות וצעירים:** בורחים מסכנה. לנקבות אין התקפת נגיחה. לצעירים יש חצי מנקודות הפגיעה הרגילות.
 
-## Large Herd Animal
+## חיית עדר גדולה
 
-For example: elk or moose.
+לדוגמה: אייל או מוס.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 4 (18hp)                |
-| Attacks          | 1 × butt (1d8)          |
+| קוביות פגיעה    | 4 (18hp)                |
+| התקפות          | 1 × נגיחה (1d8)         |
 | THAC0            | 16 [+3]                 |
-| Movement         | 240’ (80’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 5                       |
-| Alignment        | Neutral                 |
+| תנועה           | 240’ (80’)              |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (2) |
+| מורל            | 5                       |
+| נטייה           | נייטרלי                |
 | XP               | 75                      |
-| Number Appearing | 0 (3d10)                |
-| Treasure Type    | None                    |
+| מספר מופיעים    | 0 (3d10)                |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Stampede:** See main entry.
+- **דריסה:** ראה ערך ראשי.
 
-## Medium Herd Animal
+## חיית עדר בינונית
 
-For example: caribou or oxen.
+לדוגמה: קריבו או שוורים.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3 (13hp)                |
-| Attacks          | 1 × butt (1d6)          |
+| קוביות פגיעה    | 3 (13hp)                |
+| התקפות          | 1 × נגיחה (1d6)         |
 | THAC0            | 17 [+2]                 |
-| Movement         | 240’ (80’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 5                       |
-| Alignment        | Neutral                 |
+| תנועה           | 240’ (80’)              |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (2) |
+| מורל            | 5                       |
+| נטייה           | נייטרלי                |
 | XP               | 35                      |
-| Number Appearing | 0 (3d10)                |
-| Treasure Type    | None                    |
+| מספר מופיעים    | 0 (3d10)                |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Stampede:** See main entry.
+- **דריסה:** ראה ערך ראשי.
 
-## Small Herd Animal
+## חיית עדר קטנה
 
-For example: antelope, deer, and goats.
+לדוגמה: אנטילופה, צבאים ועיזים.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 1 to 2 (4 / 9hp)        |
-| Attacks          | 1 × butt (1d4)          |
+| קוביות פגיעה    | 1 עד 2 (4 / 9hp)        |
+| התקפות          | 1 × נגיחה (1d4)         |
 | THAC0            | 19 [0] / 18 [+1]        |
-| Movement         | 240’ (80’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 5                       |
-| Alignment        | Neutral                 |
+| תנועה           | 240’ (80’)              |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1) |
+| מורל            | 5                       |
+| נטייה           | נייטרלי                |
 | XP               | 10 / 20                 |
-| Number Appearing | 0 (3d10)                |
-| Treasure Type    | None                    |
+| מספר מופיעים    | 0 (3d10)                |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Stampede:** See main entry.
+- **דריסה:** ראה ערך ראשי.

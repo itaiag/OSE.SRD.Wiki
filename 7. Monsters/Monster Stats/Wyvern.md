@@ -1,6 +1,6 @@
 # Wyvern
 
-Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous stinger. Dwell in any terrain, but favor cliffs and forests.
+מפלצות דמויות דרקון מכונפות עם שתי רגליים וזנב ארוך שבקצהו עוקץ רעיל. שוכנות בכל סוגי השטח, אך מעדיפות צוקים ויערות.
 
 ------
 
@@ -19,4 +19,4 @@ Winged, two-legged, dragon-like monsters with a long tail tipped with a venomous
 
 ------
 
-- **Poison:** Causes death (**save versus poison**).
+- **רעל:** גורם למוות (**הצלה מול רעל**).

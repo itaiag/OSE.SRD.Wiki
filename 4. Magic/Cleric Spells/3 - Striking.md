@@ -1,12 +1,12 @@
-# Striking
+# הכאה
 
-*3rd Level Cleric Spell*
+*לחשים לדרגה 3 של כוהן*
 
-**Duration:** 1 turn
+**משך:** 1 תור
 
-**Range:** 30’
+**טווח:** 30’
 
-A single weapon is enchanted:
+נשק יחיד מוקסם:
 
-- **Damage:** It deals an additional 1d6 damage.
-- **Treated as magical:** It is able to harm monsters which are normally only harmed by magical weapons.
+- **נזק:** הוא גורם לנזק נוסף של 1d6.
+- **נחשב כקסום:** הוא מסוגל לפגוע במפלצות שבדרך כלל נפגעות רק על ידי נשקים קסומים.

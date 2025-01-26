@@ -1,8 +1,8 @@
-# Boots of Levitation
+# מגפי ריחוף
 
-The wearer can move up and down through the air at will.
+הלובש יכול לנוע למעלה ולמטה דרך האוויר כרצונו.
 
-- **Vertical:** The caster mentally directs vertical movement at up to 20’ per round.
-- **Horizontal:** The caster can push against solid objects to move laterally.
-- **Weight:** A normal amount of weight can be carried while levitating.
-- **Usage:** The enchantment may be used without limit of frequency or duration.
+- **אנכי:** המטיל מכוון מנטלית את התנועה האנכית עד ל-20 רגל לסיבוב.
+- **אופקי:** המטיל יכול לדחוף כנגד עצמים מוצקים כדי לנוע לרוחב.
+- **משקל:** ניתן לשאת כמות משקל רגילה בזמן ריחוף.
+- **שימוש:** ניתן להשתמש בכישוף ללא הגבלה של תדירות או משך זמן.

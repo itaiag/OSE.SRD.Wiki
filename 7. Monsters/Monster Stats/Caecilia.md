@@ -1,22 +1,22 @@
-# Caecilia
+# קציליה
 
-Gigantic (30’ long), grey, worm-like amphibians, with huge, toothed maws.
+דו-חיים ענקיים (30 רגל אורך), אפורים, דמויי תולעת, עם פיות ענקיים ושיניים.
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 6* (27hp)               |
-| Attacks          | 1 × bite (1d8)          |
+| קוביות פגיעה     | 6* (27 נק"פ)            |
+| התקפות          | 1 × נשיכה (1ק8)         |
 | THAC0            | 14 [+5]                 |
-| Movement         | 60’ (20’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (3) |
-| Morale           | 9                       |
-| Alignment        | Neutral                 |
-| XP               | 500                     |
-| Number Appearing | 1d3 (1d3)               |
-| Treasure Type    | B                       |
+| תנועה           | 60’ (20’)               |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3) |
+| מורל            | 9                       |
+| נטייה           | נייטרלי                 |
+| נק"נ            | 500                     |
+| מספר מופיעים    | 1ק3 (1ק3)               |
+| סוג אוצר        | B                       |
 
 ------
 
-- **Swallow whole:** On a natural 19 or 20 attack roll. Inside the monster’s belly: suffer 1d8 damage per round (until the caecilia dies); may attack with a dagger at -4 to hit; body digested in 6 turns after death.
+- **בליעה שלמה:** בגלגול התקפה טבעי של 19 או 20. בתוך הבטן של המפלצת: סובלים 1ק8 נזק לכל סיבוב (עד שהקציליה מתה); ניתן לתקוף עם פגיון ב-4- לפגיעה; הגוף מתעכל ב-6 סיבובים לאחר המוות.

@@ -1,8 +1,8 @@
-# Staff of Healing
+# מטה הריפוי
 
-Has the power to heal those touched.
+בעל הכוח לרפא את אלו שנגע בהם.
 
-- **Divine magic:** Usable by divine spell casters only.
-- **Effect:** Heals 1d6+1 hit points with each usage.
-- **Usage limit:** Is effective on any individual at most once per day.
-- **No charges:** Does not use charges; may be used unlimited times.
+- **קסם אלוהי:** ניתן לשימוש על ידי מטילי לחשים אלוהיים בלבד.
+- **השפעה:** מרפא 1d6+1 נקודות פגיעה בכל שימוש.
+- **מגבלת שימוש:** יעיל על כל אדם לכל היותר פעם אחת ביום.
+- **ללא טעינות:** אינו משתמש בטעינות; ניתן לשימוש מספר בלתי מוגבל של פעמים.

@@ -1,18 +1,18 @@
-# Geas (Remove Geas)
+# גזירה (הסרת גזירה)
 
-*6th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 6*
 
-**Duration:** Permanent / Instant (*remove geas*)
+**משך:** קבוע / מיידי (*הסרת גזירה*)
 
-**Range:** 30’
+**טווח:** 30’
 
-The caster commands a subject to perform or avoid performing a specific action.
+המטיל מצווה על נושא לבצע או להימנע מביצוע פעולה מסוימת.
 
-- **Examples:** Bringing a specific item to the caster, eating or drinking without restraint, and keeping a certain fact secret.
-- **Impossible or deadly tasks:** The prescribed *geas* must not be impossible or directly deadly—if such a *geas* is cast, it affects the caster, instead.
-- **Saving throw:** The subject may **save versus spells**, to avoid coming under the spell’s effect.
-- **If the save fails:** The subject must follow the stipulated course of action or suffer gradually increasing (and eventually fatal) penalties determined by the referee (e.g. penalties to attack, ability score reductions, inability to memorize spells, physical torment and feebleness, etc.).
+- **דוגמאות:** הבאת פריט מסוים למטיל, אכילה או שתייה ללא הגבלה, ושמירת סוד מסוים.
+- **משימות בלתי אפשריות או קטלניות:** ה*גזירה* המוצעת לא חייבת להיות בלתי אפשרית או קטלנית ישירות—אם גזירה כזו מוטלת, היא משפיעה על המטיל במקום.
+- **הצלת קסם:** הנושא יכול **להציל מול לחשים**, כדי להימנע מהשפעת הלחש.
+- **אם ההצלה נכשלת:** הנושא חייב לפעול לפי הפעולה המצוינת או לסבול מעונשים הולכים וגוברים (ובסופו של דבר קטלניים) שנקבעים על ידי השופט (למשל, עונשים להתקפה, הפחתת ציוני יכולת, חוסר יכולת לזכור לחשים, עינוי פיזי וחולשה, וכו').
 
-## Reversed: Remove Geas
+## הפוך: הסרת גזירה
 
-Can dispel an active *geas* spell and any incurred penalties. A *geas* placed by a lower-level caster is automatically dispelled. A *geas* created by a higher level caster has a 5% chance per level difference of not being dispelled.
+יכול לבטל לחש *גזירה* פעיל וכל עונש שנגרם. *גזירה* שהוטלה על ידי מטיל ברמה נמוכה יותר מתבטלת אוטומטית. *גזירה* שנוצרה על ידי מטיל ברמה גבוהה יותר יש לה סיכוי של 5% לכל הבדל ברמה לא להתבטל.

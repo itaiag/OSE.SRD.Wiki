@@ -1,24 +1,24 @@
-# Invisible Stalker (Monster)
+# עוקב בלתי נראה (מפלצת)
 
-Highly intelligent, magical creatures summoned from another plane of existence to perform tasks for powerful magic-users.
+יצורים קסומים ואינטליגנטיים במיוחד, שמזומנים ממישור קיום אחר כדי לבצע משימות עבור משתמשי קסם חזקים.
 
 ------
 
-| Armor Class     | 3 [16]                |
+| מחלקת שריון     | 3 [16]                |
 | ---------------- | --------------------- |
-| Hit Dice         | 8* (36hp)             |
-| Attacks          | 1 × blow (4d4)        |
+| קוביות פגיעה     | 8* (36 נק"פ)          |
+| התקפות          | 1 × מכה (4d4)         |
 | THAC0            | 12 [+7]               |
-| Movement         | 120’ (40’)            |
-| Saving Throws    | D8 W9 P10 B10 S12 (8) |
-| Morale           | 12                    |
-| Alignment        | Neutral               |
-| XP               | 1,200                 |
-| Number Appearing | 1 (1)                 |
-| Treasure Type    | None                  |
+| תנועה            | 120’ (40’)            |
+| גלגולי הצלה     | D8 W9 P10 B10 S12 (8) |
+| מורל             | 12                    |
+| נטייה           | נייטרלי               |
+| נק"נ             | 1,200                 |
+| מספר מופיעים    | 1 (1)                 |
+| סוג אוצר        | אין                   |
 
 ------
 
-- **Tracking:** Without fault.
-- **Surprise:** On a 1–5, unless the target can detect invisibility.
-- **If killed:** Returns to the plane of origin.
+- **מעקב:** ללא טעות.
+- **הפתעה:** ב-1–5, אלא אם המטרה יכולה לזהות אי-נראות.
+- **אם נהרג:** חוזר למישור המקור.

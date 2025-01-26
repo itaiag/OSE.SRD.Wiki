@@ -1,8 +1,8 @@
-# Wand of Lightning Bolts
+# שרביט ברקי ברק
 
-Conjures strokes of powerful electricity:
+מזמן מכות חשמל חזקות:
 
-- **Point of origin:** A lightning bolt may emanate from a point up to 180’ distant.
-- **Area:** The bolt is 60’ long and 5’ wide.
-- **Creatures caught in the lightning bolt:** Suffer 6d6 damage, with a successful **save versus wands** indicating half damage.
-- **Bouncing:** If the lightning bolt hits a solid barrier before its full length is reached, it is reflected and travels for any remaining distance of its full length in the direction of the wielder of the wand.
+- **נקודת מוצא:** ברק יכול לצאת מנקודה במרחק של עד 180 רגל.
+- **שטח:** הברק הוא באורך 60 רגל וברוחב 5 רגל.
+- **יצורים שנתפסו בברק:** סובלים נזק של 6d6, עם **הצלה מוצלחת נגד שרביטים** מציינת חצי נזק.
+- **הקפצה:** אם הברק פוגע במחסום מוצק לפני שהגיע לאורך המלא שלו, הוא מוחזר ונע לכל מרחק שנותר מאורכו המלא בכיוון של מחזיק השרביט.

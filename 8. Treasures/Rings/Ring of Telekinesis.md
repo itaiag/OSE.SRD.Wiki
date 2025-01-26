@@ -1,8 +1,8 @@
-# Ring of Telekinesis
+# טבעת טלקינזיס
 
-Grants the power to move objects or creatures within 120’ by concentrating.
+מעניקה את הכוח להזיז חפצים או יצורים בטווח של 120 רגל על ידי ריכוז.
 
-- **Weight:** Up to 2,000 coins of weight may be targeted.
-- **Movement:** The target may be moved up to 20’ per round in whatever direction the wearer of the ring wishes (including vertically).
-- **Resisting:** A targeted creature may **save versus spells** to resist.
-- **Concentration:** If concentration is broken, the target falls.
+- **משקל:** ניתן למקד עד 2,000 מטבעות של משקל.
+- **תנועה:** המטרה יכולה להיות מוזזת עד 20 רגל לכל סיבוב בכל כיוון שהלובש את הטבעת רוצה (כולל אנכית).
+- **התנגדות:** יצור ממוקד יכול **להציל מול לחשים** כדי להתנגד.
+- **ריכוז:** אם הריכוז נשבר, המטרה נופלת.

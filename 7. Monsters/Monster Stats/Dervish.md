@@ -1,27 +1,27 @@
-# Dervish
+# דרוויש
 
-Fanatically religious, nomadic people who wander steppes and desert regions, living in tents.
+אנשים נוודים דתיים קנאים המשוטטים בערבות ובאזורים מדבריים, חיים באוהלים.
 
 ------
 
-| Armor Class     | 6 [13] or 4 [15]              |
+| מחלקת שריון     | 6 [13] או 4 [15]              |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות           | 1 × נשק (1ק6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 10                            |
-| Alignment        | Lawful                        |
-| XP               | 10                            |
-| Number Appearing | 0 (1d6+1 × 10)                |
-| Treasure Type    | A                             |
+| תנועה            | 120’ (40’)                    |
+| הצלות            | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 10                            |
+| נטייה            | חוקי                          |
+| נק"נ             | 10                            |
+| מספר מופיעים     | 0 (1ק6+1 × 10)                |
+| סוג אוצר         | A                             |
 
 ------
 
-- **Mounted:** On warhorses.
-- **Arms:** 50% of the group have: leather armor, shield, or lance; 25% have: leather armor, shield, shortbow, or sword; 25% have: chainmail, shield, and lance.
-- **Camps:** Groups commonly combine and live in a camp or tribe of up to 300 dervishes, plus women, children, and animals. 25% chance of a wood or brick enclosure.
-- **Camp leaders:** Led by a 10th-level cleric.
-- **Intolerant:** Of other religious views.
-- **Holy war:** Occasionally wage war against other religious factions. Will slay people of different faiths, or take them prisoner. Prisoners must convert; otherwise killed or used as slaves. Characters of Lawful alignment may be asked to join the holy war. Dervishes are highly suspicious of those who refuse (without good reason).
+- **רכובים:** על סוסי מלחמה.
+- **נשק:** ל-50% מהקבוצה יש: שריון עור, מגן או חנית; ל-25% יש: שריון עור, מגן, קשת קצרה או חרב; ל-25% יש: שריון שרשראות, מגן וחנית.
+- **מחנות:** קבוצות נוטות להתאחד ולחיות במחנה או שבט של עד 300 דרווישים, בנוסף לנשים, ילדים ובעלי חיים. סיכוי של 25% למתחם עץ או לבנים.
+- **מנהיגי מחנה:** מונהגים על ידי כוהן בדרגה 10.
+- **חוסר סובלנות:** כלפי דעות דתיות אחרות.
+- **מלחמת קודש:** לעיתים מנהלים מלחמה נגד פלגים דתיים אחרים. יהרגו אנשים מאמונות שונות, או ייקחו אותם בשבי. שבויים חייבים להתגייר; אחרת ייהרגו או ישמשו כעבדים. דמויות בנטייה חוקית עשויות להתבקש להצטרף למלחמת הקודש. דרווישים חשדנים מאוד כלפי אלו שמסרבים (ללא סיבה טובה).

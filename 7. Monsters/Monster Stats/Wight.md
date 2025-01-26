@@ -1,24 +1,24 @@
-# Wight
+# וייט
 
-Corpses of humans or demihumans, possessed by malevolent spirits.
+גופות של בני אדם או חצי-בני אדם, שנשלטות על ידי רוחות זדוניות.
 
 ------
 
-| Armor Class     | 5 [14]                   |
+| מחלקת שריון     | 5 [14]                   |
 | ---------------- | ------------------------ |
-| Hit Dice         | 3* (13hp)                |
-| Attacks          | 1 × touch (energy drain) |
+| קוביות פגיעה     | 3* (13 נק"פ)             |
+| התקפות           | 1 × מגע (ניקוז אנרגיה)   |
 | THAC0            | 17 [+2]                  |
-| Movement         | 90’ (30’)                |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)  |
-| Morale           | 12                       |
-| Alignment        | Chaotic                  |
-| XP               | 50                       |
-| Number Appearing | 1d6 (1d8)                |
-| Treasure Type    | B                        |
+| תנועה            | 90’ (30’)                |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (3)  |
+| מורל             | 12                       |
+| נטייה            | כאוטי                    |
+| נק"נ             | 50                       |
+| מספר מופיעים     | 1d6 (1d8)                |
+| סוג אוצר         | B                        |
 
 ------
 
-- **Undead:** Make no noise, until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
-- **Mundane damage immunity:** Only harmed by silver weapons or magic.
-- **Energy drain:** A successfully hit target permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the drained level (e.g., spells, saving throws, etc.). A character’s XP is reduced to halfway between the former and new levels. A person drained of all levels becomes a wight in 1d4 days, under the control of the wight that killed them.
+- **אל-מתים:** אינם משמיעים רעש, עד שהם תוקפים. חסינים להשפעות שמשפיעות על יצורים חיים (למשל, רעל). חסינים לכישופים המשפיעים על המוח או קוראים מחשבות (למשל, *קסם*, *החזקה*, *שינה*).
+- **חסינות לנזק רגיל:** נפגעים רק על ידי כלי נשק מכסף או קסם.
+- **ניקוז אנרגיה:** מטרה שנפגעה בהצלחה מאבדת לצמיתות רמת ניסיון אחת (או קוביית פגיעה). זה גורם לאובדן של קוביית פגיעה אחת של נקודות פגיעה, כמו גם כל היתרונות האחרים הנובעים מהרמה שנוקזה (למשל, כישופים, גלגולי הצלה, וכו'). נק"נ של דמות מופחת לחצי בין הרמה הקודמת לרמה החדשה. אדם שנוקזו ממנו כל הרמות הופך לוייט בתוך 1d4 ימים, תחת שליטתו של הוייט שהרג אותו.

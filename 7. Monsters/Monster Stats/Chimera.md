@@ -1,23 +1,23 @@
-# Chimera
+# כימרה
 
-Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarters of a goat, the wings of a dragon, and three heads: goat, lion, and dragon. Dwell in wild, hilly areas, or sometimes in dungeons.
+מפלצות היברידיות מחרידות עם חלק קדמי של אריה, חלק אחורי של עז, כנפיים של דרקון ושלושה ראשים: עז, אריה ודרקון. שוכנות באזורים פראיים וגבעותיים, או לפעמים במבוכים.
 
 ------
 
-| Armor Class     | 4 [15]                                                       |
+| מחלקת שריון     | 4 [15]                                                       |
 | ---------------- | ------------------------------------------------------------ |
-| Hit Dice         | 9** (40hp)                                                   |
-| Attacks          | 2 × claw (1d3), goat: 1 × gore (2d4), lion: 1 × bite (2d4), dragon: 1 × bite (3d4) or 1 × breath (3d6) |
+| קוביות פגיעה    | 9** (40 נק"פ)                                                |
+| התקפות          | 2 × טפר (1d3), עז: 1 × נגיחה (2d4), אריה: 1 × נשיכה (2d4), דרקון: 1 × נשיכה (3d4) או 1 × נשיפה (3d6) |
 | THAC0            | 12 [+7]                                                      |
-| Movement         | 120’ (40’) / 180’ (60’) flying                               |
-| Saving Throws    | D8 W9 P10 B10 S12 (9)                                        |
-| Morale           | 9                                                            |
-| Alignment        | Chaotic                                                      |
-| XP               | 2,300                                                        |
-| Number Appearing | 1d2 (1d4)                                                    |
-| Treasure Type    | F                                                            |
+| תנועה           | 120’ (40’) / 180’ (60’) מעופף                                 |
+| הצלות           | D8 W9 P10 B10 S12 (9)                                        |
+| מורל            | 9                                                            |
+| נטייה           | כאוטי                                                        |
+| נק"נ            | 2,300                                                        |
+| מספר מופיעים    | 1d2 (1d4)                                                    |
+| סוג אוצר        | F                                                            |
 
 ------
 
-- **Attack pattern:** Dragon head: 50% chance of breath attack, otherwise bites.
-- **Breath weapon:** Cone of fire: end 10’ wide, 50’ long. Can be used up to three times per day.
+- **דפוס התקפה:** ראש דרקון: 50% סיכוי להתקפת נשיפה, אחרת נושך.
+- **נשק נשיפה:** חרוט אש: רוחב 10’ בקצה, אורך 50’. ניתן לשימוש עד שלוש פעמים ביום.

@@ -1,21 +1,21 @@
-# Raise Dead (Finger of Death)
+# החייאת מתים (אצבע המוות)
 
-*5th Level Cleric Spell*
+*לחשים של כוהן ברמה 5*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** 120’
+**טווח:** 120’
 
-This spell has two usages:
+ללחשים אלו יש שני שימושים:
 
-1. **Restore life:** To a recently deceased human or demihuman. See below.
-2. **Destroy undead:** A single undead monster is destroyed, if it fails a **saving throw versus spells**.
+1. **החזרת חיים:** לאדם או חצי-אדם שנפטר לאחרונה. ראו למטה.
+2. **השמדת אל-מתים:** מפלצת אל-מת אחת מושמדת, אם היא נכשלת ב**הצלת לחשים**.
 
-**Restoring life:** When used to restore life, the following stipulations apply:
+**החזרת חיים:** כאשר משתמשים בלחש להחזרת חיים, חלים התנאים הבאים:
 
-- **Time limit:** The caster can raise a person who has been dead for no longer than four days per level of the caster above 7th. For example, a 10th-level caster can revive a character that has been dead for twelve days (three levels above 7th × four days).
-- **Weakness:** Returning from death is an ordeal. Until the subject gets two full weeks of bed rest, they have 1 hit point, move at half the normal rate, cannot carry heavy items, and cannot attack, cast spells, or use other class abilities. This period of weakness may not be shortened by any magical healing.
+- **מגבלת זמן:** המטיל יכול להחיות אדם שמת לא יותר מארבעה ימים לכל רמה של המטיל מעל 7. לדוגמה, מטיל ברמה 10 יכול להחיות דמות שמתה במשך שנים עשר ימים (שלוש רמות מעל 7 × ארבעה ימים).
+- **חולשה:** החזרה מהמוות היא חוויה קשה. עד שהנושא יקבל שבועיים מלאים של מנוחה במיטה, יש לו נקודת פגיעה אחת, נע במחצית מהקצב הרגיל, לא יכול לשאת חפצים כבדים, ולא יכול לתקוף, להטיל לחשים או להשתמש ביכולות אחרות של המקצוע. תקופת החולשה הזו לא יכולה להתקצר על ידי ריפוי קסום כלשהו.
 
-## Reversed: Finger of Death
+## הפוך: אצבע המוות
 
-Directs a ray of deadly magic at a single target. If the target fails a **saving throw versus death**, it dies instantly. Casting *finger of death* is a chaotic act; it will only be used by lawful casters in desperate situations.
+מכוון קרן קסם קטלנית לעבר מטרה אחת. אם המטרה נכשלת ב**הצלת מוות**, היא מתה מיידית. הטלת *אצבע המוות* היא פעולה כאוטית; היא תיעשה על ידי מטילים חוקיים רק במצבים נואשים.

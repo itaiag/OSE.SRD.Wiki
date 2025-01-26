@@ -1,18 +1,18 @@
-# Remove Curse (Curse) (MU)
+# הסרת קללה (קללה) (MU)
 
-*4th Level Magic-User Spell*
+*לחשים של דרגה 4 למשתמשי קסם*
 
-**Duration:** Instant / Permanent (curse)
+**משך:** מיידי / קבוע (קללה)
 
-**Range:** The caster or a creature touched
+**טווח:** המטיל או יצור שנגעו בו
 
-This spell removes a single curse from the subject. It may allow a character to discard a cursed magic item.
+לחיש זה מסיר קללה אחת מהנושא. הוא עשוי לאפשר לדמות להיפטר מחפץ קסום מקולל.
 
-## Reversed: Curse
+## הפוך: קללה
 
-Places a deleterious effect upon a creature, if it fails a **save versus spells**.
+מניח השפעה מזיקה על יצור, אם הוא נכשל ב**הצלה מול לחשים**.
 
-- **Effects:** The exact form and effects of the curse are determined by the caster.
-- **Maximum possible effects include:** A –2 saving throw penalty, a –4 attack roll penalty, reducing an ability score by 50%.
-- **Multiple curses:** May afflict a creature, as long as each has a different effect.
-- **Referee judgment:** The referee should judge the effects of this spell and may turn overly powerful curses back onto the caster!
+- **השפעות:** הצורה המדויקת וההשפעות של הקללה נקבעות על ידי המטיל.
+- **השפעות מקסימליות אפשריות כוללות:** עונש של –2 לגלגול הצלה, עונש של –4 לגלגול התקפה, הפחתת ערך יכולת ב-50%.
+- **קללות מרובות:** עשויות לפגוע ביצור, כל עוד לכל אחת יש השפעה שונה.
+- **שיפוט המנחה:** המנחה צריך לשפוט את ההשפעות של לחיש זה ויכול להחזיר קללות חזקות מדי על המטיל!

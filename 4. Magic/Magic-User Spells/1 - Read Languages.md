@@ -1,9 +1,9 @@
-# Read Languages
+# קריאת שפות
 
-*1st Level Magic-User Spell*
+*לחישת קוסם דרגה 1*
 
-**Duration:** 2 turns
+**משך:** 2 תורות
 
-**Range:** The caster
+**טווח:** המטיל
 
-The caster gains the ability to understand written information in any language, including coded messages or symbols (e.g. on treasure maps). No ability to *speak* unknown languages is conferred.
+המטיל מקבל את היכולת להבין מידע כתוב בכל שפה, כולל הודעות מקודדות או סמלים (למשל על מפות אוצר). לא מוענקת יכולת *לדבר* בשפות לא ידועות.

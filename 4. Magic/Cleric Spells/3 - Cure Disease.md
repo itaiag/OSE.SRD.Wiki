@@ -1,22 +1,22 @@
-# Cure Disease (Cause Disease)
+# ריפוי מחלה (גרימת מחלה)
 
-*3rd Level Cleric Spell*
+*לחישת כוהן דרגה 3*
 
-**Duration:** Instant
+**משך:** מיידי
 
-**Range:** 30’
+**טווח:** 30’
 
-This spell has two usages:
+ללחישה זו יש שני שימושים:
 
-1. **Cure a subject of any disease:** Including those of magical origin.
-2. **Kill green slime:** This monster is killed instantly.
+1. **ריפוי נושא מכל מחלה:** כולל מחלות ממקור קסום.
+2. **הרג רפש ירוק:** המפלצת הזו נהרגת מיידית.
 
-## Reversed: Cause Disease
+## הפוך: גרימת מחלה
 
-The victim must **save versus spells** or be afflicted with a horrid disease of withering:
+הקורבן חייב **להציל מול לחשים** או להיפגע ממחלה נוראית של כיווץ:
 
-- **Death:** Within 2d12 days.
-- **Attack penalty:** -2 to attack rolls.
-- **Natural healing:** Takes twice the usual amount of time.
-- **Magical healing:** Is utterly ineffective.
-- **Curing:** This disease can be cured with a casting of *cure disease*.
+- **מוות:** בתוך 2d12 ימים.
+- **עונש התקפה:** -2 לגלגולי התקפה.
+- **ריפוי טבעי:** לוקח פי שניים מהזמן הרגיל.
+- **ריפוי קסום:** אינו יעיל כלל.
+- **ריפוי:** ניתן לרפא מחלה זו עם לחישת *ריפוי מחלה*.

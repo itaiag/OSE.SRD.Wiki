@@ -1,26 +1,26 @@
-# Weasel, Giant
+# סמור, ענק
 
-8’ to 9’ long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups.
+8 עד 9 רגל אורך, יונקים טורפים ואכזריים עם פרווה עשירה בצבע חום, זהב או לבן. חיים במנהרות תת-קרקעיות, צדים לבד או בקבוצות קטנות.
 
 ------
 
-| Armor Class     | 7 [12]                         |
+| מחלקת שריון     | 7 [12]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 4+4 (22hp)                     |
-| Attacks          | 1 × bite (2d4 + bloodsucking) |
+| קוביות פגיעה     | 4+4 (22 נק"פ)                  |
+| התקפות          | 1 × נשיכה (2ק4 + מציצת דם)     |
 | THAC0            | 15 [+4]                        |
-| Movement         | 150’ (50’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)        |
-| Morale           | 8                              |
-| Alignment        | Neutral                        |
-| XP               | 125                            |
-| Number Appearing | 1d4 (1d6)                      |
-| Treasure Type    | V                              |
+| תנועה           | 150’ (50’)                     |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3)        |
+| מורל            | 8                              |
+| נטייה           | נייטרלי                        |
+| נק"נ            | 125                            |
+| מספר מופיעים    | 1ק4 (1ק6)                      |
+| סוג אוצר        | V                              |
 
 ------
 
-- **Infravision:** 30’.
-- **Blood sucking:** Upon a successful attack, locks onto the victim and drains its blood: 2d4 automatic damage per round.
-- **Detaching:** If the weasel or victim dies.
-- **Tracking:** By scent, favoring wounded prey.
-- **Treasure:** Found in a lair on the bodies of victims.
+- **ראיית לילה:** 30 רגל.
+- **מציצת דם:** לאחר התקפה מוצלחת, נצמד לקורבן ומנקז את דמו: 2ק4 נזק אוטומטי לכל סיבוב.
+- **ניתוק:** אם הסמור או הקורבן מתים.
+- **מעקב:** לפי ריח, מעדיף טרף פצוע.
+- **אוצר:** נמצא במאורה על גופות הקורבנות.

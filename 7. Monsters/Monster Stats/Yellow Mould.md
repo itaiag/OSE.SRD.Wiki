@@ -1,26 +1,26 @@
-# Yellow Mould
+# עובש צהוב
 
-Deadly fungus that covers walls, ceilings, and other surfaces.
+פטרייה קטלנית שמכסה קירות, תקרות ומשטחים אחרים.
 
 ------
 
-| Armor Class     | No hit roll required       |
+| מחלקת שריון     | אין צורך בגלגול פגיעה       |
 | ---------------- | -------------------------- |
-| Hit Dice         | 2* (9hp)                   |
-| Attacks          | 1 × spores (1d6 + choking) |
+| קוביות פגיעה     | 2* (9 נק"פ)                |
+| התקפות           | 1 × נבגים (1ק6 + חנק)      |
 | THAC0            | 18 [+1]                    |
-| Movement         | 0’ (0’)                    |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)    |
-| Morale           | 12                         |
-| Alignment        | Neutral                    |
-| XP               | 25                         |
-| Number Appearing | 1d8 (1d4)                  |
-| Treasure Type    | None                       |
+| תנועה            | 0’ (0’)                    |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)    |
+| מורל             | 12                         |
+| נטייה            | נייטרלי                    |
+| נק"נ             | 25                         |
+| מספר מופיעים     | 1ק8 (1ק4)                  |
+| סוג אוצר         | אין                        |
 
 ------
 
-- **Area:** Every 10 square feet (e.g., 2’ × 5’) covered in yellow mold is treated as one “individual”. (A 10’ × 10’ area would consist of 10 individual molds.)
-- **Immunity:** Unharmed by all attacks but fire (a burning torch does 1d4 damage).
-- **Spore cloud:** 50% chance of attacking if touched (or damaged): releases a cloud of spores affecting all within a 10’ cube area.
-- **Choking:** **Save versus death** or die within 6 rounds.
-- **Erosion:** Wood or leather in contact with the mold will be eaten away.
+- **שטח:** כל 10 רגל מרובע (למשל, 2’ × 5’) מכוסים בעובש צהוב נחשבים כ"יחיד" אחד. (שטח של 10’ × 10’ יכיל 10 עובשים יחידים.)
+- **חסינות:** לא ניזוק מכל התקפה מלבד אש (לפיד בוער עושה 1ק4 נזק).
+- **ענן נבגים:** 50% סיכוי לתקוף אם נגעו (או ניזוקו): משחרר ענן נבגים המשפיע על כל מי שנמצא בשטח של קוביה 10’.
+- **חנק:** **הצלה מול מוות** או מוות תוך 6 סיבובים.
+- **שחיקה:** עץ או עור שבאים במגע עם העובש יאכלו.

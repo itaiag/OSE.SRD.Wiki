@@ -1,58 +1,58 @@
-# Vampire
+# ערפד
 
-Greatly feared undead monsters that live by drinking the blood of mortals. Dwell in ruins, tombs, and deserted locales.
+מפלצות אל-מתות שמפחידות מאוד וחיות על ידי שתיית דם של בני תמותה. שוכנות בהריסות, קברים ומקומות נטושים.
 
 ------
 
-| Armor Class     | 2 [17]                                              |
+| מחלקת שריון     | 2 [17]                                              |
 | ---------------- | --------------------------------------------------- |
-| Hit Dice         | 7 to 9** (31 / 36 / 40hp)                           |
-| Attacks          | 1 × touch (1d10 + energy drain) or 1 × gaze (charm) |
+| קוביות פגיעה     | 7 עד 9** (31 / 36 / 40 נק"פ)                        |
+| התקפות           | 1 × מגע (1d10 + ניקוז אנרגיה) או 1 × מבט (קסם)      |
 | THAC0            | 13 [+6] / 12 [+7] / 12 [+7]                         |
-| Movement         | 120’ (40’)                                          |
-| Saving Throws    | D8 W9 P10 B10 S12 (7 to 9)                          |
-| Morale           | 11                                                  |
-| Alignment        | Chaotic                                             |
+| תנועה            | 120’ (40’)                                          |
+| הצלות            | D8 W9 P10 B10 S12 (7 עד 9)                          |
+| מורל             | 11                                                  |
+| נטייה            | כאוטי                                               |
 | XP               | 1,250 / 1,750 / 2,300                               |
-| Number Appearing | 1d4 (1d6)                                           |
-| Treasure Type    | F                                                   |
+| מספר מופיעים     | 1d4 (1d6)                                           |
+| סוג אוצר         | F                                                   |
 
 ------
 
-- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
+- **אל-מתים:** אינם משמיעים רעש עד שהם תוקפים. חסינים להשפעות שמשפיעות על יצורים חיים (למשל, רעל). חסינים לכישופים המשפיעים על המוח או קוראים מחשבות (למשל, *קסם*, *החזקה*, *שינה*).
 
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
+- **חסינות לנזק רגיל:** ניתן לפגוע בהם רק באמצעות התקפות קסומות.
 
-- **Energy drain:** A successfully touched target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g., spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a vampire in 3 days.
+- **ניקוז אנרגיה:** מטרה שנגעה בה בהצלחה מאבדת לצמיתות שתי רמות ניסיון (או קוביות פגיעה). זה גורם לאובדן של שתי קוביות פגיעה של נקודות פגיעה, כמו גם כל היתרונות האחרים הנובעים מהרמות שנוקזו (למשל, כישופים, הצלות וכו'). נקודות הניסיון של הדמות מופחתות לכמות הנמוכה ביותר עבור הרמה החדשה. אדם שנוקזו ממנו כל הרמות הופך לערפד תוך 3 ימים.
 
-- **Charming gaze:** **Save versus spells at -2** or be charmed: move towards the vampire (resisting those who try to prevent it); defend the vampire; obey the vampire’s commands (if understood); unable to cast spells or use magic items; unable to harm the vampire. Killing the vampire breaks the charm.
+- **מבט קסם:** **הצלה מול כישופים ב-2-** או להיות מוקסם: לנוע לעבר הערפד (להתנגד לאלו שמנסים למנוע זאת); להגן על הערפד; לציית לפקודות הערפד (אם מובנות); לא מסוגל להטיל כישופים או להשתמש בפריטים קסומים; לא מסוגל לפגוע בערפד. הריגת הערפד שוברת את הקסם.
 
-- **Regeneration:** A damaged vampire gains 3hp at the start of each round, as long as it is alive.
+- **התחדשות:** ערפד שנפגע מקבל 3 נקודות פגיעה בתחילת כל סיבוב, כל עוד הוא חי.
 
-- **At 0hp:** Change into gaseous form; flee to the coffin.
+- **ב-0 נק"פ:** משתנה לצורת גז; בורח לארון הקבורה.
 
-- **Change form:** At will; takes 1 round:
+- **שינוי צורה:** כרצונו; לוקח סיבוב אחד:
 
-  - **Humanoid:** Standard form.
-  - **Dire wolf:** **Att** 1 × bite (2d4), **MV** 150’ (50’). AC, HD, morale, saves as vampire.
-  - **Giant bat:** **Att** 1 × bite (1d4), **MV** 30’ (10’) / 180’ (60’) flying. AC, HD, morale, saves as vampire.
-  - **Gaseous cloud:** **MV** 180’ (60’) flying. Immune to all weapons. Cannot attack.
+  - **אנושי:** צורה סטנדרטית.
+  - **זאב אימתני:** **התקפה** 1 × נשיכה (2d4), **תנועה** 150’ (50’). מחלקת שריון, קוביות פגיעה, מורל, הצלות כערפד.
+  - **עטלף ענק:** **התקפה** 1 × נשיכה (1d4), **תנועה** 30’ (10’) / 180’ (60’) מעוף. מחלקת שריון, קוביות פגיעה, מורל, הצלות כערפד.
+  - **ענן גזי:** **תנועה** 180’ (60’) מעוף. חסין לכלי נשק. לא יכול לתקוף.
 
-- **Summon beasts:** In human form only. Creatures from the surrounding area: 1d10 × 10 rats, 5d4 giant rats, 1d10 × 10 bats, 3d6 giant bats, 3d6 wolves, or 2d4 dire wolves.
+- **זימון חיות:** רק בצורת אדם. יצורים מהאזור הסובב: 1d10 × 10 עכברים, 5d4 עכברים ענקיים, 1d10 × 10 עטלפים, 3d6 עטלפים ענקיים, 3d6 זאבים, או 2d4 זאבים אימתניים.
 
-- **Coffins:** Must rest in a coffin during the day or lose 2d6hp (only regenerated by resting a full day). Cannot rest in a blessed coffin. Always keep multiple coffins in hidden locations.
+- **ארונות קבורה:** חייב לנוח בארון קבורה במהלך היום או לאבד 2d6 נקודות פגיעה (רק מתחדשות על ידי מנוחה יום שלם). לא יכול לנוח בארון קבורה מבורך. תמיד שומר מספר ארונות קבורה במקומות מוסתרים.
 
-- **Vulnerabilities:**
+- **חולשות:**
 
-  - **Garlic:** Odour repels: save versus poison or unable to attack this round.
-  - **Holy symbols:** If presented, will keep a vampire at bay (10’). May attack wielder from another direction.
-  - **Running water:** Cannot cross (in any form), except by a bridge or carried inside a coffin.
-  - **Mirrors:** Avoid; do not cast a reflection.
-  - **Continual light:** Partly blinded by the light from this spell (-4 to attacks).
+  - **שום:** הריח דוחה: הצלה מול רעל או לא מסוגל לתקוף בסיבוב זה.
+  - **סמלים קדושים:** אם מוצגים, ישמרו ערפד במרחק (10’). עשוי לתקוף את המחזיק מכיוון אחר.
+  - **מים זורמים:** לא יכול לחצות (בכל צורה), אלא אם כן על גשר או נישא בתוך ארון קבורה.
+  - **מראות:** נמנע; לא מטיל השתקפות.
+  - **אור מתמיד:** מואפל חלקית על ידי האור מכישוף זה (-4 להתקפות).
 
-- **Destroying:**
+- **השמדה:**
 
-  - **Sunlight:** Save versus death each round or be disintegrated.
-  - **Stake through the heart:** Permanently kills.
-  - **Immersion in water:** For 1 turn permanently kills.
-  - **Destroying coffins:** Permanently killed if all hit points lost when unable to rest (see coffins).
+  - **אור שמש:** הצלה מול מוות כל סיבוב או להתפרק.
+  - **יתד דרך הלב:** הורג לצמיתות.
+  - **טבילה במים:** למשך סיבוב אחד הורג לצמיתות.
+  - **השמדת ארונות קבורה:** נהרג לצמיתות אם כל נקודות הפגיעה אבדו כאשר לא יכול לנוח (ראה ארונות קבורה).

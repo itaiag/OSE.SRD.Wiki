@@ -1,16 +1,16 @@
-# Elemental Summoning Device
+# מכשיר לזימון יסודות
 
-Ritual items enchanted with the power to summon beings from the elemental planes. Each elemental plane has a different type of device:
+חפצי טקס מכושפים בכוח לזמן ישויות ממישורי היסודות. לכל מישור יסוד יש סוג שונה של מכשיר:
 
-- **Air:** A censer.
-- **Earth:** A 6” diameter stone.
-- **Fire:** A brazier.
-- **Water:** A 3’ diameter bowl.
+- **אוויר:** קטורת.
+- **אדמה:** אבן בקוטר 6 אינץ'.
+- **אש:** מנגל.
+- **מים:** קערה בקוטר 3 רגל.
 
-**Usage:** The items may be used as follows:
+**שימוש:** ניתן להשתמש בחפצים כדלקמן:
 
-- **Frequency:** The summoning power may only be used once per day.
-- **Before use:** The device must be prepared. This takes one turn.
-- **Activation:** Once prepared, activating the device takes one round.
-- **Summoned elemental:** A 12 HD elemental (see ***Elemental***) is conjured to do the summoner’s bidding.
-- **Command over the elemental:** Works as described in the magic-user spell *conjure elemental* (see ***Conjure Elemental***).
+- **תדירות:** כוח הזימון ניתן לשימוש רק פעם ביום.
+- **לפני השימוש:** יש להכין את המכשיר. זה לוקח תור אחד.
+- **הפעלה:** לאחר ההכנה, הפעלת המכשיר לוקחת סיבוב אחד.
+- **יסוד מזומן:** יסוד של 12 HD (ראה ***יסוד***) מזומן לבצע את רצון המזמן.
+- **שליטה על היסוד:** פועלת כפי שמתואר בלחש הקוסם *זימון יסוד* (ראה ***זימון יסוד***).

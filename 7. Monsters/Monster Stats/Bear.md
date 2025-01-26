@@ -1,100 +1,100 @@
-# Bear
+# דוב
 
-- **Bear hug:** If a victim is hit by both paws in the same round, the bear hugs for an extra 2d8 automatic damage.
+- **חיבוק דוב:** אם הקורבן נפגע על ידי שתי הכפות באותו סיבוב, הדוב מחבק לנזק אוטומטי נוסף של 2d8.
 
-## Black Bear
+## דוב שחור
 
-6’ tall; favour eating berries and roots.
+גובה 6 רגל; מעדיפים לאכול פירות יער ושורשים.
 
 ------
 
-| Armor Class     | 6 [13]                         |
+| מחלקת שריון     | 6 [13]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 4 (18hp)                       |
-| Attacks          | 2 × claw (1d3), 1 × bite (1d6) |
+| קוביות פגיעה     | 4 (18 נק"פ)                   |
+| התקפות           | 2 × טפר (1d3), 1 × נשיכה (1d6) |
 | THAC0            | 16 [+3]                        |
-| Movement         | 120’ (40’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)        |
-| Morale           | 7                              |
-| Alignment        | Neutral                        |
-| XP               | 75                             |
-| Number Appearing | 1d4 (1d4)                      |
-| Treasure Type    | U                              |
+| תנועה            | 120’ (40’)                     |
+| הצלות            | D12 W13 P14 B15 S16 (2)        |
+| מורל             | 7                              |
+| נטייה            | נייטרלי                       |
+| נק"נ             | 75                             |
+| מספר מופיעים     | 1d4 (1d4)                      |
+| סוג אוצר         | U                              |
 
 ------
 
-- **Bear hug:** See main entry.
-- **Defensive:** Adults will protect their young with their lives, but otherwise only attack if cornered.
-- **Camp raids:** Sometimes raid camps, for food (especially fish and sweet treats).
+- **חיבוק דוב:** ראה ערך ראשי.
+- **הגנה:** מבוגרים יגנו על הצעירים שלהם בחייהם, אך אחרת יתקפו רק אם הם בפינה.
+- **פשיטות מחנה:** לפעמים פושטים על מחנות, למזון (במיוחד דגים וממתקים).
 
-## Cave Bear
+## דוב מערות
 
-Ferocious, 15’ tall grizzly bears found in caves and Lost World settings. Omnivorous, but prefer meat, including humans.
+דובים גריזלי פראיים בגובה 15 רגל שנמצאים במערות ובסביבות עולם אבוד. אוכלי כל, אך מעדיפים בשר, כולל בני אדם.
 
 ------
 
-| Armor Class     | 5 [14]                         |
+| מחלקת שריון     | 5 [14]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 7 (31hp)                       |
-| Attacks          | 2 × claw (1d8), 1 × bite (2d6) |
+| קוביות פגיעה     | 7 (31 נק"פ)                   |
+| התקפות           | 2 × טפר (1d8), 1 × נשיכה (2d6) |
 | THAC0            | 13 [+6]                        |
-| Movement         | 120’ (40’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)        |
-| Morale           | 9                              |
-| Alignment        | Neutral                        |
-| XP               | 450                            |
-| Number Appearing | 1d2 (1d2)                      |
-| Treasure Type    | V                              |
+| תנועה            | 120’ (40’)                     |
+| הצלות            | D12 W13 P14 B15 S16 (3)        |
+| מורל             | 9                              |
+| נטייה            | נייטרלי                       |
+| נק"נ             | 450                            |
+| מספר מופיעים     | 1d2 (1d2)                      |
+| סוג אוצר         | V                              |
 
 ------
 
-- **Bear hug:** See main entry.
-- **Sense of smell:** Poor eyesight, but keen sense of smell. When hungry, will follow a track of blood by scent.
+- **חיבוק דוב:** ראה ערך ראשי.
+- **חוש ריח:** ראייה גרועה, אך חוש ריח חד. כשרעבים, יעקבו אחרי עקבות דם לפי ריח.
 
-## Grizzly Bear
+## דוב גריזלי
 
-Aggressive, 9’ tall. Silver-tipped fur, brown or reddish brown in colour. Live in forests and mountains. Favour eating meat.
+אגרסיבי, גובה 9 רגל. פרווה עם קצוות כסופים, בצבע חום או חום אדמדם. חיים ביערות ובהרים. מעדיפים לאכול בשר.
 
 ------
 
-| Armor Class     | 6 [13]                         |
+| מחלקת שריון     | 6 [13]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 5 (22hp)                       |
-| Attacks          | 2 × claw (1d4), 1 × bite (1d8) |
+| קוביות פגיעה     | 5 (22 נק"פ)                   |
+| התקפות           | 2 × טפר (1d4), 1 × נשיכה (1d8) |
 | THAC0            | 15 [+4]                        |
-| Movement         | 120’ (40’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)        |
-| Morale           | 8                              |
-| Alignment        | Neutral                        |
-| XP               | 175                            |
-| Number Appearing | 1 (1d4)                        |
-| Treasure Type    | U                              |
+| תנועה            | 120’ (40’)                     |
+| הצלות            | D12 W13 P14 B15 S16 (2)        |
+| מורל             | 8                              |
+| נטייה            | נייטרלי                       |
+| נק"נ             | 175                            |
+| מספר מופיעים     | 1 (1d4)                        |
+| סוג אוצר         | U                              |
 
 ------
 
-- **Bear hug:** See main entry.
+- **חיבוק דוב:** ראה ערך ראשי.
 
-## Polar Bear
+## דוב קוטב
 
-Aggressive, white-furred bears that stand 11’ tall and live in cold regions. Favours eating fish.
+דובים אגרסיביים עם פרווה לבנה בגובה 11 רגל שחיים באזורים קרים. מעדיפים לאכול דגים.
 
 ------
 
-| Armor Class     | 6 [13]                          |
+| מחלקת שריון     | 6 [13]                          |
 | ---------------- | ------------------------------- |
-| Hit Dice         | 6 (27hp)                        |
-| Attacks          | 2 × claw (1d6), 1 × bite (1d10) |
+| קוביות פגיעה     | 6 (27 נק"פ)                    |
+| התקפות           | 2 × טפר (1d6), 1 × נשיכה (1d10) |
 | THAC0            | 14 [+5]                         |
-| Movement         | 120’ (40’)                      |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)         |
-| Morale           | 8                               |
-| Alignment        | Neutral                         |
-| XP               | 275                             |
-| Number Appearing | 1 (1d2)                         |
-| Treasure Type    | U                               |
+| תנועה            | 120’ (40’)                      |
+| הצלות            | D12 W13 P14 B15 S16 (3)         |
+| מורל             | 8                               |
+| נטייה            | נייטרלי                         |
+| נק"נ             | 275                             |
+| מספר מופיעים     | 1 (1d2)                         |
+| סוג אוצר         | U                               |
 
 ------
 
-- **Bear hug:** See main entry.
-- **Swimming:** Excellent swimmers.
-- **Snow walk:** Wide paws allow running on the surface of snow without sinking.
+- **חיבוק דוב:** ראה ערך ראשי.
+- **שחייה:** שחיינים מצוינים.
+- **הליכה על שלג:** כפות רחבות מאפשרות ריצה על פני השטח של שלג מבלי לשקוע.

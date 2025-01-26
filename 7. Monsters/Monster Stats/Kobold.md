@@ -1,26 +1,26 @@
-# Kobold
+# קובולד
 
-Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell underground.
+יצורים קטנים, מרושעים, חסרי שיער, דמויי כלב עם עור קשקשי בצבע חלודה. חיים מתחת לאדמה.
 
 ------
 
-| Armor Class     | 7 [12]                           |
+| מחלקת שריון     | 7 [12]                           |
 | ---------------- | -------------------------------- |
-| Hit Dice         | ½ (2hp)                          |
-| Attacks          | 1 × weapon (1d4 or by weapon -1) |
+| קוביות פגיעה    | ½ (2hp)                          |
+| התקפות          | 1 × נשק (1d4 או לפי נשק -1)      |
 | THAC0            | 19 [0]                           |
-| Movement         | 60’ (20’)                        |
-| Saving Throws    | D14 W15 P16 B17 S18 (NH)         |
-| Morale           | 6 (8 with chieftain)             |
-| Alignment        | Chaotic                          |
-| XP               | 5 (bodyguard: 15, chieftain: 20) |
-| Number Appearing | 4d4 (6d10)                       |
-| Treasure Type    | P (J)                            |
+| תנועה           | 60’ (20’)                        |
+| גלגולי הצלה     | D14 W15 P16 B17 S18 (NH)         |
+| מורל            | 6 (8 עם צ'יף)                    |
+| נטייה           | כאוטי                            |
+| XP               | 5 (שומר ראש: 15, צ'יף: 20)      |
+| מספר מופיעים    | 4d4 (6d10)                       |
+| סוג אוצר        | P (J)                            |
 
 ------
 
-- **Ambush:** Set up surprise attacks.
-- **Infravision:** 90’.
-- **Hate gnomes:** Attack on sight.
-- **Chieftain and bodyguards:** A 2HD (9hp) chieftain and 1d6 1+1HD (6hp) bodyguards live in the kobold lair.
-- **Hoard:** Only have treasure type J when encountered in the wilderness or in their lair.
+- **מארב:** מארגנים התקפות הפתעה.
+- **ראיית לילה:** 90’.
+- **שונאים גמדים:** תוקפים במראה.
+- **צ'יף ושומרי ראש:** צ'יף עם 2HD (9hp) ו-1d6 שומרי ראש עם 1+1HD (6hp) חיים במאורת הקובולדים.
+- **אוצר:** יש להם רק סוג אוצר J כאשר נתקלים בהם בטבע או במאורתם.

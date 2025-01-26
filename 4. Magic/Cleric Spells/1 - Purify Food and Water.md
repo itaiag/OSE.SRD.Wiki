@@ -1,13 +1,13 @@
-# Purify Food and Water
+# לטהר מזון ומים
 
-*1st Level Cleric Spell*
+*לחשים דרגה 1 לכוהן*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 10’
+**טווח:** 10’
 
-Poisoned, rotten, spoiled, or contaminated food and water are purified. One of the following may be affected:
+מזון ומים מורעלים, רקובים, מקולקלים או מזוהמים מטוהרים. אחד מהבאים עשוי להיות מושפע:
 
-- **Drink:** 6 quarts.
-- **Rations:** One ration (iron or standard).
-- **Unpreserved food:** A quantity sufficient for 12 people.
+- **שתייה:** 6 ליטרים.
+- **מנות:** מנה אחת (ברזל או סטנדרטית).
+- **מזון לא משומר:** כמות מספקת ל-12 אנשים.

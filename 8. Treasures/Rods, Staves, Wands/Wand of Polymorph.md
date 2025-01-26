@@ -1,5 +1,5 @@
-# Wand of Polymorph
+# שרביט שינוי צורה
 
-By expending a charge, the wielder of the wand or another creature within 60’ changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells *polymorph self* and *polymorph others*.
+על ידי הוצאת מטען, מחזיק השרביט או יצור אחר בטווח של 60 רגל משתנה לסוג אחר של יצור, כפי שנבחר על ידי המחזיק. זה עובד באותו אופן כמו לחשי הקוסם *שינוי צורה עצמי* ו-*שינוי צורה אחרים*.
 
-- **Resisting:** An unwilling subject may make a **saving throw versus wands** to negate the effect.
+- **התנגדות:** נושא שאינו מעוניין יכול לבצע **הצלת קובייה נגד שרביטים** כדי לבטל את ההשפעה.

@@ -1,17 +1,17 @@
-# Polymorph Self
+# שינוי עצמי
 
-*4th Level Magic-User Spell*
+*לחשים של רמה 4 למשתמשי קסם*
 
-**Duration:** 6 turns +1 per level
+**משך:** 6 סיבובים +1 לכל רמה
 
-**Range:** The caster
+**טווח:** המטיל
 
-The caster transforms themselves into another being:
+המטיל משנה את עצמו לישות אחרת:
 
-- **HD:** The new form may not have higher Hit Dice than the caster’s level.
-- **Stats:** The transformation does not alter the caster’s hit points, saving throws, attack probabilities, or intelligence.
-- **Physical capabilities:** Of the new form (e.g. strength, physical attack forms, modes of movement) are acquired.
-- **Non-physical special abilities:** (e.g. immunities, breath weapons, spell casting) are not acquired.
-- **Casting spells:** While polymorphed, the caster is unable to cast spells.
-- **Specific individuals:** The spell cannot be used to duplicate a specific individual.
-- **Reversion:** If the caster dies while polymorphed, they return to their original form.
+- **HD:** הצורה החדשה לא יכולה להיות עם קוביות פגיעה גבוהות יותר מרמת המטיל.
+- **סטטיסטיקות:** השינוי לא משנה את נקודות הפגיעה של המטיל, הצלות, הסתברויות התקפה או אינטליגנציה.
+- **יכולות פיזיות:** של הצורה החדשה (למשל כוח, צורות התקפה פיזיות, מצבי תנועה) נרכשות.
+- **יכולות מיוחדות לא פיזיות:** (למשל חסינויות, נשקי נשימה, הטלת לחשים) לא נרכשות.
+- **הטלת לחשים:** בזמן שינוי הצורה, המטיל לא יכול להטיל לחשים.
+- **אנשים ספציפיים:** הלחש לא יכול לשמש לשכפול אדם ספציפי.
+- **חזרה:** אם המטיל מת בזמן שינוי הצורה, הוא חוזר לצורתו המקורית.

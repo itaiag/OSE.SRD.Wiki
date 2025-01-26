@@ -1,12 +1,12 @@
-# Find Traps
+# מציאת מלכודות
 
-*2nd Level Cleric Spell*
+*לחישת כוהן דרגה 2*
 
-**Duration:** 2 turns
+**משך:** 2 תורות
 
-**Range:** 30’
+**טווח:** 30’
 
-Trapped areas are caused to magically glow with a faint blue light.
+אזורים ממולכדים יזהרו באור כחול חלש באופן קסום.
 
-- **Magical and mechanical traps:** Are both revealed.
-- **No knowledge:** About the nature of traps or how to deactivate them is gained.
+- **מלכודות קסומות ומכאניות:** שתיהן נחשפות.
+- **אין ידע:** על טבע המלכודות או כיצד לנטרל אותן נרכש.

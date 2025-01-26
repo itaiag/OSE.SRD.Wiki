@@ -1,102 +1,102 @@
-# Horse
+# סוס
 
-Herd animals that are often used for transportation. Many different domesticated breeds exist.
+בעלי חיים עדריים שמשמשים לעיתים קרובות לתחבורה. קיימים גזעים מבויתים רבים ושונים.
 
-## Draft Horse
+## סוס עבודה
 
-Bred for great strength and endurance. Used to pull vehicles and ploughs or as beasts of burden.
+גודלו לחוזק וסיבולת רבה. משמש למשיכת כלי רכב ומחרשות או כבהמות משא.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3 (13hp)                |
-| Attacks          | None                    |
+| קוביות פגיעה     | 3 (13hp)                |
+| התקפות           | אין                     |
 | THAC0            | 17 [+2]                 |
-| Movement         | 90’ (30’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 6                       |
-| Alignment        | Neutral                 |
+| תנועה            | 90’ (30’)               |
+| הצלות            | D12 W13 P14 B15 S16 (2) |
+| מורל             | 6                       |
+| נטייה            | ניטרלי                 |
 | XP               | 35                      |
-| Number Appearing | 0 (0)                   |
-| Treasure Type    | None                    |
+| מספר מופיעים     | 0 (0)                   |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Non-combatant:** Will flee if attacked.
-- **Domestic:** Not encountered in the wild.
-- **Carry loads:** Up to 4,500 coins unencumbered; up to 9,000 at half speed.
+- **לא לוחם:** יברח אם יותקף.
+- **מבוית:** לא נתקל בטבע.
+- **נשיאת משאות:** עד 4,500 מטבעות ללא עומס; עד 9,000 בחצי מהירות.
 
-## Riding Horse
+## סוס רכיבה
 
-Lightly built horses adapted to run at high speed. Can survive purely on grass, wherever available.
+סוסים בנויים קלות המותאמים לריצה במהירות גבוהה. יכולים לשרוד רק על עשב, בכל מקום שבו הוא זמין.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 2 (9hp)                 |
-| Attacks          | 2 × hoof (1d4)          |
+| קוביות פגיעה     | 2 (9hp)                 |
+| התקפות           | 2 × פרסה (1d4)          |
 | THAC0            | 18 [+1]                 |
-| Movement         | 240’ (80’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
+| תנועה            | 240’ (80’)              |
+| הצלות            | D12 W13 P14 B15 S16 (1) |
+| מורל             | 7                       |
+| נטייה            | ניטרלי                 |
 | XP               | 20                      |
-| Number Appearing | 0 (0)                   |
-| Treasure Type    | None                    |
+| מספר מופיעים     | 0 (0)                   |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Domestic:** Not encountered in the wild.
-- **Carry loads:** Up to 3,000 coins unencumbered; up to 6,000 at half speed.
+- **מבוית:** לא נתקל בטבע.
+- **נשיאת משאות:** עד 3,000 מטבעות ללא עומס; עד 6,000 בחצי מהירות.
 
-## War Horse
+## סוס מלחמה
 
-Bred for strength and courage in battle. Adapted to short bursts of speed; not suited to long-distance riding.
+גודלו לחוזק ואומץ בקרב. מותאם לפרצי מהירות קצרים; לא מתאים לרכיבה למרחקים ארוכים.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3 (13hp)                |
-| Attacks          | 2 × hoof (1d6)          |
+| קוביות פגיעה     | 3 (13hp)                |
+| התקפות           | 2 × פרסה (1d6)          |
 | THAC0            | 17 [+2]                 |
-| Movement         | 120’ (40’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 9                       |
-| Alignment        | Neutral                 |
+| תנועה            | 120’ (40’)              |
+| הצלות            | D12 W13 P14 B15 S16 (2) |
+| מורל             | 9                       |
+| נטייה            | ניטרלי                 |
 | XP               | 35                      |
-| Number Appearing | 0 (0)                   |
-| Treasure Type    | None                    |
+| מספר מופיעים     | 0 (0)                   |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Charge:** When not in melee. Requires a clear run of at least 20 yards. The rider’s lance inflicts double damage. The Horse cannot attack when charging.
-- **Melee:** When in melee, both rider and horse can attack.
-- **Domestic:** Not encountered in the wild.
-- **Carry loads:** Up to 4,000 coins unencumbered; up to 8,000 at half speed.
+- **הסתערות:** כאשר לא בקרב פנים אל פנים. דורש ריצה ברורה של לפחות 20 יארד. החנית של הרוכב גורמת לנזק כפול. הסוס לא יכול לתקוף בעת הסתערות.
+- **קרב פנים אל פנים:** כאשר בקרב פנים אל פנים, גם הרוכב וגם הסוס יכולים לתקוף.
+- **מבוית:** לא נתקל בטבע.
+- **נשיאת משאות:** עד 4,000 מטבעות ללא עומס; עד 8,000 בחצי מהירות.
 
-## Wild Horse
+## סוס פרא
 
-Lightly built horses adapted to run at high speed. Can survive purely on grass, wherever available.
+סוסים בנויים קלות המותאמים לריצה במהירות גבוהה. יכולים לשרוד רק על עשב, בכל מקום שבו הוא זמין.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 2 (9hp)                 |
-| Attacks          | 2 × hoof (1d4)          |
+| קוביות פגיעה     | 2 (9hp)                 |
+| התקפות           | 2 × פרסה (1d4)          |
 | THAC0            | 18 [+1]                 |
-| Movement         | 240’ (80’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
+| תנועה            | 240’ (80’)              |
+| הצלות            | D12 W13 P14 B15 S16 (1) |
+| מורל             | 7                       |
+| נטייה            | ניטרלי                 |
 | XP               | 20                      |
-| Number Appearing | 0 (1d10 × 10)           |
-| Treasure Type    | None                    |
+| מספר מופיעים     | 0 (1d10 × 10)           |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Stampede:** Herds of 20 or more can trample those in their path. 3-in-4 chance each round. +4 to-hit human-sized or smaller creatures. 1d20 damage.
-- **Taming:** Wild horses can be trained as mounts (riding horses).
+- **הסתערות:** עדרים של 20 או יותר יכולים לדרוס את אלו שבדרכם. סיכוי של 3 מתוך 4 בכל סיבוב. +4 לפגיעה ביצורים בגודל אדם או קטנים יותר. נזק של 1d20.
+- **אילוף:** סוסי פרא יכולים להיות מאולפים כרכבים (סוסי רכיבה).

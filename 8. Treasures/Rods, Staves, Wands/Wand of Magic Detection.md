@@ -1,6 +1,6 @@
-# Wand of Magic Detection
+# שרביט גילוי קסם
 
-Grants the power to detect magic nearby.
+מעניק את הכוח לזהות קסם בקרבת מקום.
 
-- **Expending a charge:** Causes magic items within 20’ to be haloed with light.
-- **Concealed items:** Also glow, but the light might not be seen.
+- **שימוש בטעינה:** גורם לפריטים קסומים בטווח של 20 רגל להיות מוקפים באור.
+- **פריטים מוסתרים:** גם הם זוהרים, אך ייתכן שהאור לא ייראה.

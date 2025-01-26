@@ -1,115 +1,115 @@
-# Fish, Giant
+# דגים, ענקיים
 
-## Giant Bass
+## בס ענק
 
-Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel close by.
+ביישן; תוקף רק כאשר רואה חטיף בגודל נגיסה (בגודל של חצי-אדם או קטן יותר) בקרבת מקום.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 2 (9hp)                 |
-| Attacks          | 1 × bite (1d6)          |
+| קוביות פגיעה     | 2 (9 נק"פ)              |
+| התקפות           | 1 × נשיכה (1ק6)         |
 | THAC0            | 18 [+1]                 |
-| Movement         | 120’ (40’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 8                       |
-| Alignment        | Neutral                 |
-| XP               | 20                      |
-| Number Appearing | 0 (2d4)                 |
-| Treasure Type    | None                    |
+| תנועה            | 120’ (40’)              |
+| הצלות            | D12 W13 P14 B15 S16 (1) |
+| מורל             | 8                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 20                      |
+| מספר מופיעים     | 0 (2ק4)                 |
+| סוג אוצר         | אין                     |
 
 ------
 
-## Giant Catfish
+## שפמנון ענק
 
-15’ long, pale white. Four feelers beside the mouth. Lurk in the mud at the bottom of rivers and lakes. Will attack creatures on the bottom or swimming above.
+אורך 15 רגל, לבן חיוור. ארבעה מחושים ליד הפה. מסתתרים בבוץ בתחתית נהרות ואגמים. יתקפו יצורים בתחתית או שוחים מעל.
 
 ------
 
-| Armor Class     | 4 [15]                               |
+| מחלקת שריון     | 4 [15]                               |
 | ---------------- | ------------------------------------ |
-| Hit Dice         | 8+3 (39hp)                           |
-| Attacks          | Att 1 × bite (2d8), 4 × feeler (1d4) |
+| קוביות פגיעה     | 8+3 (39 נק"פ)                        |
+| התקפות           | 1 × נשיכה (2ק8), 4 × מחוש (1ק4)     |
 | THAC0            | 12 [+7]                              |
-| Movement         | 90’ (30’)                            |
-| Saving Throws    | D10 W11 P12 B13 S14 (4)              |
-| Morale           | 8                                    |
-| Alignment        | Neutral                              |
-| XP               | 650                                  |
-| Number Appearing | 0 (1d2)                              |
-| Treasure Type    | None                                 |
+| תנועה            | 90’ (30’)                            |
+| הצלות            | D10 W11 P12 B13 S14 (4)              |
+| מורל             | 8                                    |
+| נטייה            | נייטרלי                             |
+| נק"נ             | 650                                  |
+| מספר מופיעים     | 0 (1ק2)                              |
+| סוג אוצר         | אין                                  |
 
 ------
 
-## Giant Piranha
+## פיראניה ענקית
 
-5’ long piranhas with black and green scales. Live in rivers (occasionally lakes) and attack anything in the water.
+פיראניות באורך 5 רגל עם קשקשים שחורים וירוקים. חיות בנהרות (לעיתים באגמים) ותוקפות כל דבר במים.
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3+3 (16hp)              |
-| Attacks          | 1 × bite (1d8)          |
+| קוביות פגיעה     | 3+3 (16 נק"פ)           |
+| התקפות           | 1 × נשיכה (1ק8)         |
 | THAC0            | 16 [+3]                 |
-| Movement         | 150’ (50’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 50                      |
-| Number Appearing | 0 (2d4)                 |
-| Treasure Type    | None                    |
+| תנועה            | 150’ (50’)              |
+| הצלות            | D12 W13 P14 B15 S16 (2) |
+| מורל             | 7                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 50                      |
+| מספר מופיעים     | 0 (2ק4)                 |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Surround opponents:** A target can be attacked by up to 8 giant piranhas.
-- **Morale:** When blood is in the water, do not check morale.
+- **מקיפים יריבים:** מטרה יכולה להיות מותקפת על ידי עד 8 פיראניות ענקיות.
+- **מורל:** כאשר יש דם במים, אין לבדוק מורל.
 
-## Giant Rockfish
+## דג סלע ענק
 
-Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally passive, but highly aggressive if disturbed.
+דג קוצני עם עור גבשושי דמוי סלע. חי במים רדודים מלוחים. בדרך כלל פסיבי, אך תוקפני מאוד אם מופרע.
 
 ------
 
-| Armor Class     | 7 [12]                   |
+| מחלקת שריון     | 7 [12]                   |
 | ---------------- | ------------------------ |
-| Hit Dice         | 5+5* (27hp)              |
-| Attacks          | 4 × spine (1d4 + poison) |
+| קוביות פגיעה     | 5+5* (27 נק"פ)           |
+| התקפות           | 4 × קוץ (1ק4 + רעל)      |
 | THAC0            | 14 [+5]                  |
-| Movement         | 180’ (60’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)  |
-| Morale           | 8                        |
-| Alignment        | Neutral                  |
-| XP               | 400                      |
-| Number Appearing | 0 (2d4)                  |
-| Treasure Type    | None                     |
+| תנועה            | 180’ (60’)               |
+| הצלות            | D12 W13 P14 B15 S16 (3)  |
+| מורל             | 8                        |
+| נטייה            | נייטרלי                 |
+| נק"נ             | 400                      |
+| מספר מופיעים     | 0 (2ק4)                  |
+| סוג אוצר         | אין                      |
 
 ------
 
-- **Camouflage:** 70% chance of being mistaken for a rock or coral formation.
-- **Grasping:** If mistaken for a rock and grasped, all 4 spines automatically hit.
-- **Poison:** Causes death (**save versus poison**).
+- **הסוואה:** 70% סיכוי להיחשב בטעות לסלע או תצורת אלמוגים.
+- **אחיזה:** אם נחשב בטעות לסלע ונאחז, כל 4 הקוצים פוגעים אוטומטית.
+- **רעל:** גורם למוות (**הצלה מול רעל**).
 
-## Giant Sturgeon
+## חדקן ענק
 
-Huge (nearly 30’ long), aggressive fish with armor plating.
+דג ענק (כמעט 30 רגל אורך), תוקפני עם שריון מגן.
 
 ------
 
-| Armor Class     | 0 [19]                  |
+| מחלקת שריון     | 0 [19]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 10+2* (47hp)            |
-| Attacks          | 1 × bite (2d10)         |
+| קוביות פגיעה     | 10+2* (47 נק"פ)         |
+| התקפות           | 1 × נשיכה (2ק10)        |
 | THAC0            | 11 [+8]                 |
-| Movement         | 180’ (60’)              |
-| Saving Throws    | D10 W11 P12 B13 S14 (5) |
-| Morale           | 9                       |
-| Alignment        | Neutral                 |
-| XP               | 1,600                   |
-| Number Appearing | 0 (1)                   |
-| Treasure Type    | None                    |
+| תנועה            | 180’ (60’)              |
+| הצלות            | D10 W11 P12 B13 S14 (5) |
+| מורל             | 9                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 1,600                   |
+| מספר מופיעים     | 0 (1)                   |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Swallow whole:** On a natural 18, 19, or 20 attack roll. Inside the fish’s belly: suffer 2d6 damage per round (until the fish dies); **save versus death** or be paralysed; may attack with sharp weapons at -4 to hit (inside belly has AC 7 [12]); body digested in 6 turns after death.
+- **בליעה שלמה:** בגלגול התקפה טבעי של 18, 19 או 20. בתוך הבטן של הדג: סובלים 2ק6 נזק לכל סיבוב (עד שהדג מת); **הצלה מול מוות** או להיות משותק; ניתן לתקוף עם נשקים חדים ב-4- לפגיעה (בתוך הבטן יש מחלקת שריון 7 [12]); הגוף מתעכל ב-6 סיבובים לאחר המוות.

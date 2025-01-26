@@ -1,24 +1,24 @@
-# Pegasus
+# פגסוס
 
-Semi-intelligent winged horses that are wilful and timid.
+סוסים מכונפים חצי-אינטליגנטיים שהם עקשנים וביישנים.
 
 ------
 
-| Armor Class     | 6 [13]                          |
+| מחלקת שריון     | 6 [13]                          |
 | ---------------- | ------------------------------- |
-| Hit Dice         | 2+2 (11hp)                      |
-| Attacks          | 2 × hoof (1d6)                  |
+| קוביות פגיעה     | 2+2 (11hp)                      |
+| התקפות           | 2 × פרסה (1d6)                  |
 | THAC0            | 17 [+2]                         |
-| Movement         | 240’ (80’) / 480’ (160’) flying |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)         |
-| Morale           | 8                               |
-| Alignment        | Lawful                          |
+| תנועה            | 240’ (80’) / 480’ (160’) מעופף  |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)         |
+| מורל             | 8                               |
+| נטייה            | חוקי                            |
 | XP               | 25                              |
-| Number Appearing | 0 (1d12)                        |
-| Treasure Type    | None                            |
+| מספר מופיעים     | 0 (1d12)                        |
+| סוג אוצר         | אין                             |
 
 ------
 
-- **Hate hippogriffs:** Natural enemies.
-- **Mount:** Can carry a human-sized rider.
-- **Training:** If captured when young, will serve Lawful characters.
+- **שונאים היפוגריפים:** אויבים טבעיים.
+- **רכיבה:** יכולים לשאת רוכב בגודל אדם.
+- **אילוף:** אם נתפסים כשהם צעירים, ישרתו דמויות חוקיות.

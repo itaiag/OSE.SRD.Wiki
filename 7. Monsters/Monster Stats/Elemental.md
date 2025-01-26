@@ -1,109 +1,109 @@
-# Elemental
+# יסודות
 
-Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user.
+ישויות שנוצרו מחומר יסודי טהור (אוויר, אדמה, אש או מים) שניתן לזמן ממישור המקור שלהן כדי לשרת משתמש קסם.
 
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Power level:** There are three power levels of elemental. Each is typically summoned by different means:
-- **Lesser:** **AC** 2 [17], **HD** 8*, **Att** 1 × blow (1d8), **SV** D8 W9 P10 B10 S12 (8). (Summoned by magic staff.)
-- **Intermediate:** **AC** 0 [19], **HD** 12*, **Att** 1 × blow (2d8), **SV** D6 W7 P8 B8 S10 (12). (Summoned by magic device.)
-- **Greater:** **AC** -2 [21], **HD** 16*, **Att** 1 × blow (3d8), **SV** D2 W3 P4 B3 S6 (16). (Summoned by spell.)
+- **חסינות לנזק רגיל:** ניתן לפגוע בהן רק באמצעות התקפות קסומות.
+- **רמת כוח:** ישנן שלוש רמות כוח של יסודות. כל אחת מהן מזומנת בדרך כלל באמצעים שונים:
+- **נחות:** **AC** 2 [17], **HD** 8*, **Att** 1 × מכה (1d8), **SV** D8 W9 P10 B10 S12 (8). (מזומן באמצעות מטה קסם.)
+- **בינוני:** **AC** 0 [19], **HD** 12*, **Att** 1 × מכה (2d8), **SV** D6 W7 P8 B8 S10 (12). (מזומן באמצעות מכשיר קסם.)
+- **עליון:** **AC** -2 [21], **HD** 16*, **Att** 1 × מכה (3d8), **SV** D2 W3 P4 B3 S6 (16). (מזומן באמצעות לחש.)
 
-## Air Elemental
+## יסוד אוויר
 
-Huge vortexes of whirling air.
+מערבולות ענק של אוויר מסתובב.
 
 ------
 
-| Armor Class     | 2 [17] / 0 [19] / -2 [21]     |
+| מחלקת שריון     | 2 [17] / 0 [19] / -2 [21]     |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 8 / 12 / 16* (36 / 54 / 72hp) |
-| Attacks          | 1 × blow (1d8 / 2d8 / 3d8)    |
+| קוביות פגיעה    | 8 / 12 / 16* (36 / 54 / 72hp) |
+| התקפות          | 1 × מכה (1d8 / 2d8 / 3d8)    |
 | THAC0            | 12 [+7] / 10 [+9] / 8 [+11]   |
-| Movement         | 360’ (120’) flying            |
-| Saving Throws    | See main entry (8 / 12 / 16)  |
-| Morale           | 10                            |
-| Alignment        | Neutral                       |
+| תנועה           | 360’ (120’) מעופף             |
+| הצלות           | ראה ערך ראשי (8 / 12 / 16)   |
+| מורל            | 10                            |
+| נטייה           | נייטרלי                      |
 | XP               | 1,200 / 1,900 / 2,300         |
-| Number Appearing | 1 (1)                         |
-| Treasure Type    | None                          |
+| מספר מופיעים    | 1 (1)                         |
+| סוג אוצר        | אין                           |
 
 ------
 
-- **Size:** 16’ tall, 4’ across / 24’ tall, 6’ across / 32’ tall, 8’ across.
-- **Whirlwind:** Creatures with less than 2HD swept aside (**save versus death**).
-- **Harm flying creatures:** Inflict extra 1d8 damage.
+- **גודל:** 16’ גובה, 4’ רוחב / 24’ גובה, 6’ רוחב / 32’ גובה, 8’ רוחב.
+- **מערבולת:** יצורים עם פחות מ-2HD נסחפים הצידה (**הצלה נגד מוות**).
+- **פגיעה ביצורים מעופפים:** גורם נזק נוסף של 1d8.
 
-## Earth Elemental
+## יסוד אדמה
 
-Huge, humanoid figures of earth or stone.
+דמויות ענקיות של אדמה או אבן.
 
 ------
 
-| Armor Class     | 2 [17] / 0 [19] / -2 [21]     |
+| מחלקת שריון     | 2 [17] / 0 [19] / -2 [21]     |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 8 / 12 / 16* (36 / 54 / 72hp) |
-| Attacks          | 1 × blow (1d8 / 2d8 / 3d8)    |
+| קוביות פגיעה    | 8 / 12 / 16* (36 / 54 / 72hp) |
+| התקפות          | 1 × מכה (1d8 / 2d8 / 3d8)    |
 | THAC0            | 12 [+7] / 10 [+9] / 8 [+11]   |
-| Movement         | 60’ (20’)                     |
-| Saving Throws    | See main entry (8 / 12 / 16)  |
-| Morale           | 10                            |
-| Alignment        | Neutral                       |
+| תנועה           | 60’ (20’)                     |
+| הצלות           | ראה ערך ראשי (8 / 12 / 16)   |
+| מורל            | 10                            |
+| נטייה           | נייטרלי                      |
 | XP               | 1,200 / 1,900 / 2,300         |
-| Number Appearing | 1 (1)                         |
-| Treasure Type    | None                          |
+| מספר מופיעים    | 1 (1)                         |
+| סוג אוצר        | אין                           |
 
 ------
 
-- **Size:** 8’ tall / 12’ tall / 16’ tall.
-- **Blocked by water:** Cannot cross a channel wider than own height.
-- **Harm creatures on the ground:** Inflict extra 1d8 damage.
+- **גודל:** 8’ גובה / 12’ גובה / 16’ גובה.
+- **חסום על ידי מים:** לא יכול לחצות ערוץ רחב יותר מגובהו.
+- **פגיעה ביצורים על הקרקע:** גורם נזק נוסף של 1d8.
 
-## Fire Elemental
+## יסוד אש
 
-Whirling columns of fire
+עמודי אש מסתובבים
 
 ------
 
-| Armor Class     | 2 [17] / 0 [19] / -2 [21]     |
+| מחלקת שריון     | 2 [17] / 0 [19] / -2 [21]     |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 8 / 12 / 16* (36 / 54 / 72hp) |
-| Attacks          | 1 × blow (1d8 / 2d8 / 3d8)    |
+| קוביות פגיעה    | 8 / 12 / 16* (36 / 54 / 72hp) |
+| התקפות          | 1 × מכה (1d8 / 2d8 / 3d8)    |
 | THAC0            | 12 [+7] / 10 [+9] / 8 [+11]   |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | See main entry (8 / 12 / 16)  |
-| Morale           | 10                            |
-| Alignment        | Neutral                       |
+| תנועה           | 120’ (40’)                    |
+| הצלות           | ראה ערך ראשי (8 / 12 / 16)   |
+| מורל            | 10                            |
+| נטייה           | נייטרלי                      |
 | XP               | 1,200 / 1,900 / 2,300         |
-| Number Appearing | 1 (1)                         |
-| Treasure Type    | None                          |
+| מספר מופיעים    | 1 (1)                         |
+| סוג אוצר        | אין                           |
 
 ------
 
-- **Size:** 8’ tall, 8’ across / 12’ tall, 12’ across / 16’ tall, 16’ across.
-- **Blocked by water:** Cannot cross a channel wider than own diameter.
-- **Harm cold-based creatures:** Inflict extra 1d8 damage.
+- **גודל:** 8’ גובה, 8’ רוחב / 12’ גובה, 12’ רוחב / 16’ גובה, 16’ רוחב.
+- **חסום על ידי מים:** לא יכול לחצות ערוץ רחב יותר מקוטרו.
+- **פגיעה ביצורים מבוססי קור:** גורם נזק נוסף של 1d8.
 
-## Water Elemental
+## יסוד מים
 
-Huge waves of water.
+גלים ענקיים של מים.
 
 ------
 
-| Armor Class     | 2 [17] / 0 [19] / -2 [21]       |
+| מחלקת שריון     | 2 [17] / 0 [19] / -2 [21]       |
 | ---------------- | ------------------------------- |
-| Hit Dice         | 8 / 12 / 16* (36 / 54 / 72hp)   |
-| Attacks          | 1 × blow (1d8 / 2d8 / 3d8)      |
+| קוביות פגיעה    | 8 / 12 / 16* (36 / 54 / 72hp)   |
+| התקפות          | 1 × מכה (1d8 / 2d8 / 3d8)      |
 | THAC0            | 12 [+7] / 10 [+9] / 8 [+11]     |
-| Movement         | 60’ (20’) / 180’ (60’) swimming |
-| Saving Throws    | See main entry (8 / 12 / 16)    |
-| Morale           | 10                              |
-| Alignment        | Neutral                         |
+| תנועה           | 60’ (20’) / 180’ (60’) שחייה   |
+| הצלות           | ראה ערך ראשי (8 / 12 / 16)     |
+| מורל            | 10                              |
+| נטייה           | נייטרלי                        |
 | XP               | 1,200 / 1,900 / 2,300           |
-| Number Appearing | 1 (1)                           |
-| Treasure Type    | None                            |
+| מספר מופיעים    | 1 (1)                           |
+| סוג אוצר        | אין                             |
 
 ------
 
-- **Size:** 4’ tall, 16’ across / 6’ tall, 24’ across / 8’ tall, 32’ across.
-- **Water-bound:** Must remain within 60’ of water.
-- **Harm creatures in water:** Inflict extra 1d8 damage.
+- **גודל:** 4’ גובה, 16’ רוחב / 6’ גובה, 24’ רוחב / 8’ גובה, 32’ רוחב.
+- **קשור למים:** חייב להישאר בתוך 60’ ממים.
+- **פגיעה ביצורים במים:** גורם נזק נוסף של 1d8.

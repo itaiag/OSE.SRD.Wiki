@@ -1,7 +1,7 @@
-# Rod of Cancellation
+# מטה הביטול
 
-Drains the enchantment from a magic item that is touched.
+מנקז את הכישוף מפריט קסום שנוגע בו.
 
-- **In combat:** Usage requires an attack roll against AC 9 [10] (adjusted by the referee, if the target item is being actively used).
-- **Effect:** The item that is touched becomes utterly non-magical.
-- **One use only:** The rod may only be used once: it has but a single charge.
+- **בקרב:** השימוש דורש גלגול התקפה נגד AC 9 [10] (מותאם על ידי השופט, אם הפריט המטרה נמצא בשימוש פעיל).
+- **השפעה:** הפריט שנוגע בו הופך ללא קסום לחלוטין.
+- **שימוש חד פעמי:** ניתן להשתמש במטה רק פעם אחת: יש לו רק טעינה אחת.

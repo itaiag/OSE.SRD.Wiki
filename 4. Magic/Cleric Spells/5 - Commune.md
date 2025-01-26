@@ -1,13 +1,13 @@
 # Commune
 
-*5th Level Cleric Spell*
+*לחשים לדרגה 5 לכוהן*
 
-**Duration:** 3 turns
+**משך:** 3 תורות
 
-**Range:** The caster
+**טווח:** המטיל
 
-This spell allows the caster to contact a divine power and ask questions.
+לחיש זה מאפשר למטיל ליצור קשר עם כוח אלוהי ולשאול שאלות.
 
-- **Questions:** The caster may ask three questions per casting. Once per year, the caster may instead ask six questions.
-- **Answers:** Each question receives a simple “yes” or “no” answer.
-- **Usage limit:** *Commune* may only be cast once per week. If the referee feels this spell is being overused, its usage may be limited to once per month.
+- **שאלות:** המטיל יכול לשאול שלוש שאלות בכל הטלה. פעם בשנה, המטיל יכול לשאול שש שאלות במקום.
+- **תשובות:** כל שאלה מקבלת תשובה פשוטה של "כן" או "לא".
+- **מגבלת שימוש:** *Commune* ניתן להטיל רק פעם בשבוע. אם השופט מרגיש שלחיש זה מנוצל יתר על המידה, ניתן להגביל את השימוש בו לפעם בחודש.

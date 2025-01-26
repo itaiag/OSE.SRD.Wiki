@@ -1,22 +1,22 @@
-# Hobgoblin
+# הובגובלין
 
-Larger and nastier relatives of goblins. Dwell underground but commonly seek prey above ground.
+קרובי משפחה גדולים ומרושעים יותר של גובלינים. חיים מתחת לאדמה אך לעיתים קרובות מחפשים טרף מעל הקרקע.
 
 ------
 
-| Armor Class     | 6 [13]                        |
+| מחלקת שריון     | 6 [13]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1+1 (5hp)                     |
-| Attacks          | 1 × weapon (1d8 or by weapon) |
+| קוביות פגיעה     | 1+1 (5 נק"פ)                  |
+| התקפות          | 1 × נשק (1d8 או לפי נשק)      |
 | THAC0            | 18 [+1]                       |
-| Movement         | 90’ (30’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 8 (10 with king)              |
-| Alignment        | Chaotic                       |
-| XP               | 15 (bodyguard: 75, king: 175) |
-| Number Appearing | 1d6 (4d6)                     |
-| Treasure Type    | D                             |
+| תנועה            | 90’ (30’)                     |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 8 (10 עם מלך)                 |
+| נטייה           | כאוטי                         |
+| נק"נ             | 15 (שומר ראש: 75, מלך: 175)  |
+| מספר מופיעים    | 1d6 (4d6)                     |
+| סוג אוצר        | D                             |
 
 ------
 
-- **Hobgoblin king and bodyguards:** A 5HD (22hp) king and 1d4 4HD (3d6hp) bodyguards live in the hobgoblin lair. The king gains a +2 bonus to damage rolls. A thoul may sometimes be found among the king’s bodyguards.
+- **מלך הובגובלין ושומרי ראש:** מלך עם 5HD (22 נק"פ) ו-1d4 שומרי ראש עם 4HD (3d6 נק"פ) חיים במאורת ההובגובלין. המלך מקבל בונוס של +2 לגלגולי נזק. לעיתים ניתן למצוא ת'ול בין שומרי הראש של המלך.

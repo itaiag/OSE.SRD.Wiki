@@ -1,8 +1,8 @@
-# Medallion of ESP 30’
+# מדליון ESP 30’
 
-A medallion on a chain, enchanted with the power of reading thoughts.
+מדליון על שרשרת, מכושף בכוח קריאת מחשבות.
 
-- **Focus:** By concentrating for 1 round, the wearer may target a creature within 30’.
-- **Resisting:** At the referee’s option, the target may **save versus spells** to resist.
-- **Concentration:** While reading thoughts, the wearer may move but cannot cast spells or attack.
-- **Misfires:** The medallion is not entirely reliable. Per usage, there is a 1-in-6 chance of it misfiring, instead sending the wearer’s thoughts to all within 30’.
+- **מיקוד:** על ידי ריכוז למשך סיבוב אחד, הלובש יכול למקד יצור בטווח של 30’.
+- **התנגדות:** לפי בחירת השופט, המטרה יכולה **להציל מול לחשים** כדי להתנגד.
+- **ריכוז:** בזמן קריאת מחשבות, הלובש יכול לזוז אך לא יכול להטיל לחשים או לתקוף.
+- **תקלות:** המדליון אינו אמין לחלוטין. בכל שימוש, יש סיכוי של 1 מתוך 6 לתקלה, במקום זאת שולח את מחשבות הלובש לכל מי שנמצא בטווח של 30’.

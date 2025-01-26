@@ -1,13 +1,13 @@
-# Silence 15’ Radius
+# שתיקה ברדיוס 15’
 
-*2nd Level Cleric Spell*
+*לחשים דרגה 2 לכוהן*
 
-**Duration:** 12 turns
+**משך זמן:** 12 תורות
 
-**Range:** 180’
+**טווח:** 180’
 
-A 15’ radius area is rendered utterly silent.
+אזור ברדיוס 15’ הופך לשקט מוחלט.
 
-- **Within the area:** All sound is prevented. Conversation and spellcasting are impossible.
-- **Noise from outside the area:** Can be heard by those within it.
-- **Casting upon a creature:** *Silence* may be cast upon a creature, which must **save versus spells**. If the save fails, the 15’ radius area of silence moves with the creature. If the save succeeds, the spell’s effect remains stationary—the targeted creature may move out of it.
+- **בתוך האזור:** כל הצלילים נמנעים. שיחה והטלת לחשים בלתי אפשריים.
+- **רעש מחוץ לאזור:** ניתן לשמוע על ידי אלו שבתוכו.
+- **הטלה על יצור:** ניתן להטיל *שתיקה* על יצור, אשר חייב **להציל מול לחשים**. אם ההצלה נכשלת, אזור השתיקה ברדיוס 15’ נע עם היצור. אם ההצלה מצליחה, השפעת הלחש נשארת במקום - היצור הממוקד יכול לצאת ממנו.

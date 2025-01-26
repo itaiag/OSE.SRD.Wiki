@@ -1,53 +1,53 @@
-# Hawk
+# נץ
 
-Birds of prey that drift on high currents of air and hunt prey on the ground.
+עופות דורסים שמרחפים על זרמי אוויר גבוהים וצדים טרף על הקרקע.
 
-- **Swoop:** Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
-- **Trainable:** Can be trained as guards or hunting animals.
+- **צלילה:** יכולים לצלול על קורבנות הנראים מלמעלה. אם הקורבן מופתע, ההתקפה גורמת לנזק כפול. בגלגול התקפה של 18 או יותר, הקורבן יכול להילקח (אם הוא בגודל מתאים).
+- **ניתן לאילוף:** ניתן לאלף אותם כשומרים או כחיות ציד.
 
-## Giant Hawk
+## נץ ענק
 
-As big as a great dog. If hungry, may attack humans or similar-sized creatures.
+גדול כמו כלב גדול. אם רעב, עשוי לתקוף בני אדם או יצורים בגודל דומה.
 
 ------
 
-| Armor Class     | 6 [13]                   |
+| מחלקת שריון     | 6 [13]                   |
 | ---------------- | ------------------------ |
-| Hit Dice         | 3+3 (16hp)               |
-| Attacks          | 1 × talons or beak (1d6) |
+| קוביות פגיעה    | 3+3 (16 נק"פ)            |
+| התקפות          | 1 × טפרים או מקור (1d6)  |
 | THAC0            | 16 [+3]                  |
-| Movement         | 450’ (150’) flying       |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)  |
-| Morale           | 8                        |
-| Alignment        | Neutral                  |
-| XP               | 50                       |
-| Number Appearing | 0 (1d3)                  |
-| Treasure Type    | None                     |
+| תנועה           | 450’ (150’) מעופף         |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (2)  |
+| מורל            | 8                        |
+| נטייה           | נייטרלי                  |
+| נק"נ            | 50                       |
+| מספר מופיעים    | 0 (1d3)                  |
+| סוג אוצר        | אין                      |
 
 ------
 
-- **Swoop:** See main entry.
-- **Carry prey:** Up to halfling-sized.
+- **צלילה:** ראה ערך ראשי.
+- **נשיאת טרף:** עד לגודל של חצי-אדם.
 
-## Normal Hawk
+## נץ רגיל
 
-Small birds of prey. Will only attack humans if they appear defenseless.
+עופות דורסים קטנים. יתקפו בני אדם רק אם הם נראים חסרי הגנה.
 
 ------
 
-| Armor Class     | 8 [11]                   |
+| מחלקת שריון     | 8 [11]                   |
 | ---------------- | ------------------------ |
-| Hit Dice         | ½ (2hp)                  |
-| Attacks          | 1 × talons or beak (1d2) |
+| קוביות פגיעה    | ½ (2 נק"פ)               |
+| התקפות          | 1 × טפרים או מקור (1d2)  |
 | THAC0            | 19 [0]                   |
-| Movement         | 480’ (160’) flying       |
-| Saving Throws    | D14 W15 P16 B17 S18 (NH) |
-| Morale           | 7                        |
-| Alignment        | Neutral                  |
-| XP               | 5                        |
-| Number Appearing | 0 (1d6)                  |
-| Treasure Type    | None                     |
+| תנועה           | 480’ (160’) מעופף         |
+| גלגולי הצלה     | D14 W15 P16 B17 S18 (NH) |
+| מורל            | 7                        |
+| נטייה           | נייטרלי                  |
+| נק"נ            | 5                        |
+| מספר מופיעים    | 0 (1d6)                  |
+| סוג אוצר        | אין                      |
 
 ------
 
-- **Swoop:** See main entry.
+- **צלילה:** ראה ערך ראשי.

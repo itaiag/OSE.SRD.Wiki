@@ -1,71 +1,71 @@
-# Whale
+# לוויתן
 
-## Killer Whale
+## לוויתן קטלן
 
-25’ long, carnivorous whales. Dwell in cold waters and hunt sea creatures (including other whales).
+לוויתנים באורך 25 רגל, טורפים. חיים במים קרים וצדים יצורי ים (כולל לוויתנים אחרים).
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 6 (27hp)                |
-| Attacks          | 1 × bite (1d20)         |
+| קוביות פגיעה    | 6 (27 נק"פ)             |
+| התקפות          | 1 × נשיכה (1d20)        |
 | THAC0            | 14 [+5]                 |
-| Movement         | 240’ (80’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (3) |
-| Morale           | 10                      |
-| Alignment        | Neutral                 |
-| XP               | 275                     |
-| Number Appearing | 0 (1d6)                 |
-| Treasure Type    | V                       |
+| תנועה           | 240’ (80’)              |
+| הצלות           | D12 W13 P14 B15 S16 (3) |
+| מורל            | 10                      |
+| נטייה           | נייטרלי                |
+| נק"נ            | 275                     |
+| מספר מופיעים    | 0 (1d6)                 |
+| סוג אוצר        | V                       |
 
 ------
 
-- **Swallow whole:** A natural 20 attack roll indicates a halfling-sized (or smaller) victim is swallowed. Inside the whale’s belly: suffer 1d6 damage per round (until the whale dies); may attack with sharp weapons at -4 to hit; drown after 10 rounds; body digested in 6 turns after death.
+- **בליעה שלמה:** גלגול התקפה טבעי של 20 מציין שקרבן בגודל חצי-אדם (או קטן יותר) נבלע. בתוך הבטן של הלוויתן: סובלים 1d6 נזק לכל סיבוב (עד שהלוויתן מת); ניתן לתקוף עם נשקים חדים ב-4- לפגיעה; טובעים לאחר 10 סיבובים; הגוף מתעכל ב-6 סיבובים לאחר המוות.
 
-## Narwhal
+## חדקרן
 
-15’ long, intelligent, magical whales with grey to white skin and an 8’ long, spiraling horn on their nose. Live independent and secretive lives in arctic waters.
+לוויתנים באורך 15 רגל, אינטליגנטיים ומאגיים עם עור אפור עד לבן וקרן מתפתלת באורך 8 רגל על אפם. חיים חיים עצמאיים וסודיים במים הארקטיים.
 
 ------
 
-| Armor Class     | 7 [12]                         |
+| מחלקת שריון     | 7 [12]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 12 (54hp)                      |
-| Attacks          | 1 × bite (1d8), 1 × horn (2d6) |
+| קוביות פגיעה    | 12 (54 נק"פ)                   |
+| התקפות          | 1 × נשיכה (1d8), 1 × קרן (2d6) |
 | THAC0            | 10 [+9]                        |
-| Movement         | 180’ (60’)                     |
-| Saving Throws    | D6 W7 P8 B8 S10 (12)           |
-| Morale           | 8                              |
-| Alignment        | Lawful                         |
-| XP               | 1,100                          |
-| Number Appearing | 0 (1d4)                        |
-| Treasure Type    | Horn                           |
+| תנועה           | 180’ (60’)                     |
+| הצלות           | D6 W7 P8 B8 S10 (12)           |
+| מורל            | 8                              |
+| נטייה           | חוקי                           |
+| נק"נ            | 1,100                          |
+| מספר מופיעים    | 0 (1d4)                        |
+| סוג אוצר        | קרן                            |
 
 ------
 
-- **Horn:** Is worth 1d6 × 1,000gp. Rumors say a narwhal’s horn vibrates when evil is near.
+- **קרן:** שווה 1d6 × 1,000 ג"פ. שמועות אומרות שקרן של חדקרן רוטטת כאשר רוע מתקרב.
 
-## Sperm Whale
+## לוויתן זרע
 
-Gargantuan whales are up to 60’ long. Dwell in open oceans and hunt deep sea monsters (e.g., giant squids.
+לוויתנים ענקיים באורך עד 60 רגל. חיים באוקיינוסים פתוחים וצדים מפלצות ים עמוקות (למשל, דיונונים ענקיים).
 
 ------
 
-| Armor Class     | 6 [13]                                       |
+| מחלקת שריון     | 6 [13]                                       |
 | ---------------- | -------------------------------------------- |
-| Hit Dice         | 36 (162hp)                                   |
-| Attacks          | 1 × bite (3d20) or 1 × ram (6d6 hull damage) |
+| קוביות פגיעה    | 36 (162 נק"פ)                                |
+| התקפות          | 1 × נשיכה (3d20) או 1 × נגיחה (6d6 נזק גוף) |
 | THAC0            | 5 [+14]                                      |
-| Movement         | 180’ (60’)                                   |
-| Saving Throws    | D4 W5 P6 B5 S8 (15)                          |
-| Morale           | 7                                            |
-| Alignment        | Neutral                                      |
-| XP               | 6,250                                        |
-| Number Appearing | 0 (1d3)                                      |
-| Treasure Type    | V                                            |
+| תנועה           | 180’ (60’)                                   |
+| הצלות           | D4 W5 P6 B5 S8 (15)                          |
+| מורל            | 7                                            |
+| נטייה           | נייטרלי                                      |
+| נק"נ            | 6,250                                        |
+| מספר מופיעים    | 0 (1d3)                                      |
+| סוג אוצר        | V                                            |
 
 ------
 
-- **Swallow whole:** An attack roll of 4 or more than the target number required indicates a human-sized (or smaller) victim is swallowed. Inside the whale’s belly: suffer 3d6 damage per round (until the whale dies); may attack with sharp weapons at -4 to hit; body digested in 6 turns after death.
-- **Ram ships:** 10% likely to attack vessels.
+- **בליעה שלמה:** גלגול התקפה של 4 או יותר מהמספר הנדרש מציין שקרבן בגודל אדם (או קטן יותר) נבלע. בתוך הבטן של הלוויתן: סובלים 3d6 נזק לכל סיבוב (עד שהלוויתן מת); ניתן לתקוף עם נשקים חדים ב-4- לפגיעה; הגוף מתעכל ב-6 סיבובים לאחר המוות.
+- **נגיחת ספינות:** 10% סיכוי לתקוף כלי שיט.

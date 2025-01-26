@@ -1,5 +1,5 @@
-# Ring of Spell Turning
+# טבעת החזרת לחשים
 
-Spells cast on the wearer of this ring are reflected onto the caster.
+לחשים המוטלים על הלובש של טבעת זו מוחזרים אל המטיל.
 
-- **Charges:** After 2d6 spells are reflected, the ring loses its power.
+- **מטענים:** לאחר ש-2d6 לחשים מוחזרים, הטבעת מאבדת את כוחה.

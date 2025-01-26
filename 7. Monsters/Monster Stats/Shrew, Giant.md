@@ -1,26 +1,26 @@
-# Shrew, Giant
+# חדף, ענק
 
-Brown-furred, mole-like insectivores with long snouts. Dwell underground; skilled burrowers.
+יונקים חומים דמויי חפרפרת עם חוטם ארוך. חיים מתחת לאדמה; חופרים מיומנים.
 
 ------
 
-| Armor Class     | 4 [15]                  |
+| מחלקת שריון     | 4 [15]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 1 (4hp)                 |
-| Attacks          | 2 × bite (1d6)          |
+| קוביות פגיעה     | 1 (4 נק"פ)              |
+| התקפות           | 2 × נשיכה (1ק6)         |
 | THAC0            | 19 [0]                  |
-| Movement         | 180’ (60’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 10                      |
-| Alignment        | Neutral                 |
-| XP               | 10                      |
-| Number Appearing | 1d4 (1d8)               |
-| Treasure Type    | None                    |
+| תנועה            | 180’ (60’)              |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1) |
+| מורל             | 10                      |
+| נטייה            | נייטרלי                |
+| נק"נ             | 10                      |
+| מספר מופיעים     | 1ק4 (1ק8)               |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Initiative:** Always win initiative in the round of their first attack. +1 to initiative in the round of their second attack.
-- **Ferocity:** Attack targets’ heads. Targets with 3 HD or less must **save versus death** or flee.
-- **Climbing:** Skilled climbers; can jump up to 5’.
-- **Territorial:** Ferociously defend their hunting area from all intruders.
-- **Echolocation:** Perceive their surroundings up to 60’. Unaffected by lack of light. If unable to hear (e.g. *silence, 15’ radius: AC reduced to 8 [11], -4 penalty to attacks.
+- **יוזמה:** תמיד מנצחים ביוזמה בסיבוב ההתקפה הראשון שלהם. +1 ליוזמה בסיבוב ההתקפה השני שלהם.
+- **פראיות:** תוקפים את ראשי המטרות. מטרות עם 3 קוביות פגיעה או פחות חייבות **להציל מול מוות** או לברוח.
+- **טיפוס:** מטפסים מיומנים; יכולים לקפוץ עד 5 רגל.
+- **טריטוריאליות:** מגנים בפראות על אזור הציד שלהם מכל פולש.
+- **אקולוקציה:** תופסים את סביבתם עד 60 רגל. לא מושפעים מחוסר אור. אם אינם יכולים לשמוע (למשל *שקט, רדיוס 15 רגל: מחלקת שריון מופחתת ל-8 [11], עונש של -4 להתקפות.

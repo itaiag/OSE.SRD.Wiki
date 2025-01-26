@@ -1,6 +1,6 @@
 # Gnoll
 
-Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. Legends say that gnolls were magically created by a wizard who crossbred gnomes and trolls.
+צבועים דמויי אדם עצלנים בעלי אינטליגנציה נמוכה שחיים באמצעות הפחדה וגניבה. אגדות מספרות שגנולים נוצרו באופן קסום על ידי קוסם שהכלא בין גמדים וטרולים.
 
 ------
 
@@ -19,4 +19,4 @@ Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. L
 
 ------
 
-- **Leader:** Groups of 20+ are led by a gnoll with 3HD (16hp).
+- **מנהיג:** קבוצות של 20+ מונהגות על ידי גנול עם 3HD (16hp).

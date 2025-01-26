@@ -1,12 +1,12 @@
-# Move Earth
+# הזזת אדמה
 
-*6th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 6*
 
-**Duration:** 6 turns
+**משך:** 6 תורות
 
-**Range:** 240’
+**טווח:** 240’
 
-Earth (but not stone) within range is rearranged as the caster wishes.
+אדמה (אך לא אבן) בטווח מסודרת מחדש כפי שהמטיל רוצה.
 
-- **Movement rate:** The caster can move earth in the area at up to 60’ per turn.
-- **Excavations:** The range of the spell also extends downwards, allowing excavations to be made.
+- **קצב תנועה:** המטיל יכול להזיז אדמה באזור בקצב של עד 60’ לתור.
+- **חפירות:** טווח הלחש מתרחב גם כלפי מטה, ומאפשר לבצע חפירות.

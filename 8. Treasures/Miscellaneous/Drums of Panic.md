@@ -1,7 +1,7 @@
-# Drums of Panic
+# תופי פאניקה
 
-Large war drums which induce panic in those who hear their sound.
+תופי מלחמה גדולים שגורמים לפאניקה באלה ששומעים את צלילם.
 
-- **Range:** Creatures up to 240’ away are affected when the drums are played. Those within 10’ of the drums are not affected.
-- **Affected creatures:** Are afflicted by the drums’ enchantment of fear; they must **save versus spells** or make a morale check with a -2 penalty (if the optional morale rules are being used—see ***Morale***.
-- **Effects:** Creatures that fail the saving throw or morale check flee from the sound of the drums at full running speed for 30 rounds.
+- **טווח:** יצורים עד 240 רגל מושפעים כאשר התופים מנוגנים. אלה שנמצאים בטווח של 10 רגל מהתופים אינם מושפעים.
+- **יצורים מושפעים:** מושפעים מכישוף הפחד של התופים; הם חייבים **להציל מול לחשים** או לבצע בדיקת מורל עם עונש של -2 (אם משתמשים בחוקי המורל האופציונליים—ראו ***מורל***.
+- **השפעות:** יצורים שנכשלים בהצלה או בבדיקת המורל בורחים מצליל התופים במהירות ריצה מלאה למשך 30 סיבובים.

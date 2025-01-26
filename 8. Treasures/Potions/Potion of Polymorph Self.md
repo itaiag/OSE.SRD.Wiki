@@ -1,3 +1,3 @@
-# Potion of Polymorph Self
+# שיקוי שינוי צורה עצמי
 
-Upon drinking this potion, the character transforms into another being (of their choice). This works in the same way as the magic-user spell *polymorph self*. The standard potion duration applies.
+בעת שתיית שיקוי זה, הדמות משתנה לישות אחרת (לבחירתה). זה פועל באותו אופן כמו הלחש של משתמש הקסם *שינוי צורה עצמי*. משך הזמן הסטנדרטי של השיקוי חל.

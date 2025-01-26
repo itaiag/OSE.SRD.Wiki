@@ -1,16 +1,16 @@
-# Insect Plague
+# מכת חרקים
 
-*5th Level Cleric Spell*
+*לחשים דרגה 5 לכוהן*
 
-**Duration:** Concentration (up to 1 day)
+**משך:** ריכוז (עד יום אחד)
 
-**Range:** 480’
+**טווח:** 480’
 
-Cast above ground, this spell conjures a 60’ diameter swarm of flying insects with the following properties:
+כאשר הלחש מוטל מעל הקרקע, הוא מזמן נחיל חרקים מעופפים בקוטר 60’ עם התכונות הבאות:
 
-- **Movement:** 20’ per round. While the swarm is within range, the caster is able to direct its movements.
-- **Vision:** Within the area of the swarm is obscured.
-- **Creatures of 2 HD or less:** Are driven away, if caught within the swarm.
-- **Concentration:** If the caster moves or loses concentration, the swarm dissipates, ending the spell.
+- **תנועה:** 20’ לכל סיבוב. כל עוד הנחיל נמצא בטווח, המטיל יכול לכוון את תנועותיו.
+- **ראייה:** בתוך אזור הנחיל הראייה מוסתרת.
+- **יצורים עם 2 HD או פחות:** נגרמים להתרחק, אם הם נתפסים בתוך הנחיל.
+- **ריכוז:** אם המטיל זז או מאבד ריכוז, הנחיל מתפזר והלחש מסתיים.
 
-**Restrictions:** The spell has no effect if cast underground.
+**מגבלות:** ללחש אין השפעה אם הוא מוטל מתחת לאדמה.

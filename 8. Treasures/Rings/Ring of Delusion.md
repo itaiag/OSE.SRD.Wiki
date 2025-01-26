@@ -1,6 +1,6 @@
-# Ring of Delusion
+# טבעת האשליה
 
-The wearer believes is under the effects of another type of magic ring.
+הלובש מאמין שהוא תחת השפעת טבעת קסם מסוג אחר.
 
-- **Type:** The other type of ring should be determined by the referee (e.g., a ring of protection or a ring of spell turning.
-- **Describing:** The referee should try to trick the player into believing that the character is under the effects of the other ring, only revealing the truth at some vital juncture.
+- **סוג:** סוג הטבעת האחר צריך להיקבע על ידי השופט (למשל, טבעת הגנה או טבעת הפיכת לחשים).
+- **תיאור:** השופט צריך לנסות להטעות את השחקן להאמין שהדמות נמצאת תחת השפעת הטבעת האחרת, ולחשוף את האמת רק ברגע קריטי.

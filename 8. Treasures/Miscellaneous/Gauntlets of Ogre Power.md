@@ -1,8 +1,8 @@
-# Gauntlets of Ogre Power
+# כפפות כוח האוגר
 
-A character who wears these gauntlets has a Strength score of 18. This grants all the usual bonuses, including:
+דמות שלובשת את הכפפות הללו מקבלת ציון כוח של 18. זה מעניק את כל הבונוסים הרגילים, כולל:
 
-- **Melee attacks:** +3 bonus to attack and damage rolls, in melee.
-- **Unarmed attacks:** Deal 1d2+3 damage.
-- **Encumbrance:** If using the optional rules for detailed encumbrance (see ***Time, Weight, Movement***).
-- **Extra weight:** The character’s ability to carry weight is increased by 1,000 coins. (i.e., the character can carry 1,400 coins without becoming encumbered.)
+- **התקפות קרב פנים אל פנים:** בונוס של +3 לגלגולי התקפה ונזק, בקרב פנים אל פנים.
+- **התקפות ללא נשק:** גורמות ל-1d2+3 נזק.
+- **נשיאת משקל:** אם משתמשים בחוקים האופציונליים לנשיאת משקל מפורטת (ראו ***זמן, משקל, תנועה***).
+- **משקל נוסף:** יכולת הדמות לשאת משקל מוגברת ב-1,000 מטבעות. (כלומר, הדמות יכולה לשאת 1,400 מטבעות מבלי להיות עמוסה.)

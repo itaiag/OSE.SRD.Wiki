@@ -1,25 +1,25 @@
-# Gargoyle
+# גרגויל
 
-Magical monsters that look like hideous, horned, winged statues. Semi-intelligent and possessed of a great cunning.
+מפלצות קסומות שנראות כמו פסלים מכוערים, בעלי קרניים וכנפיים. חצי אינטליגנטיות ובעלות ערמומיות רבה.
 
 ------
 
-| Armor Class     | 5 [14]                                         |
+| מחלקת שריון     | 5 [14]                                         |
 | ---------------- | ---------------------------------------------- |
-| Hit Dice         | 4 (18hp)                                       |
-| Attacks          | 2 × claw (1d3), 1 × bite (1d6), 1 × horn (1d4) |
+| קוביות פגיעה     | 4 (18 נק"פ)                                    |
+| התקפות           | 2 × טופר (1d3), 1 × נשיכה (1d6), 1 × קרן (1d4) |
 | THAC0            | 16 [+3]                                        |
-| Movement         | 90’ (30’) / 150’ (50’) flying                  |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)                          |
-| Morale           | 11                                             |
-| Alignment        | Chaotic                                        |
-| XP               | 75                                             |
-| Number Appearing | 1d6 (2d4)                                      |
-| Treasure Type    | C                                              |
+| תנועה            | 90’ (30’) / 150’ (50’) מעוף                    |
+| הצלות            | D8 W9 P10 B10 S12 (8)                          |
+| מורל             | 11                                             |
+| נטייה            | כאוטי                                          |
+| נק"נ             | 75                                             |
+| מספר מופיעים    | 1d6 (2d4)                                      |
+| סוג אוצר         | C                                              |
 
 ------
 
-- **Blend in with stone:** This may be overlooked or mistaken for inanimate statues.
-- **Guardians:** Almost always attack when approached.
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Spell immunity:** Unaffected by *sleep* or *charm* spells.
+- **השתלבות באבן:** עשוי להיעלם מעין או להיחשב בטעות כפסלים דוממים.
+- **שומרים:** כמעט תמיד תוקפים כשמתקרבים אליהם.
+- **חסינות לנזק רגיל:** ניתן לפגוע בהם רק באמצעות התקפות קסומות.
+- **חסינות לכישופים:** לא מושפעים מכישופי *שינה* או *קסם*.

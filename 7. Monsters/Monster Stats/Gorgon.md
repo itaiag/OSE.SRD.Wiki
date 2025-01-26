@@ -1,23 +1,23 @@
-# Gorgon
+# גורגון
 
-Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills.
+מפלצות קסומות הדומות לשוורים עם קשקשי ברזל. שוכנות במישורים או במורדות הרים.
 
 ------
 
-| Armor Class     | 2 [17]                                 |
+| מחלקת שריון     | 2 [17]                                 |
 | ---------------- | -------------------------------------- |
-| Hit Dice         | 8* (36hp)                              |
-| Attacks          | 1 × gore (2d6) or 1 × breath (petrify) |
+| קוביות פגיעה     | 8* (36 נק"פ)                           |
+| התקפות           | 1 × נגיחה (2ק6) או 1 × נשיפה (הפיכה לאבן) |
 | THAC0            | 12 [+7]                                |
-| Movement         | 120’ (40’)                             |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)                  |
-| Morale           | 8                                      |
-| Alignment        | Chaotic                                |
-| XP               | 1,200                                  |
-| Number Appearing | 1d2 (1d4)                              |
-| Treasure Type    | E                                      |
+| תנועה            | 120’ (40’)                             |
+| גלגולי הצלה      | D8 W9 P10 B10 S12 (8)                  |
+| מורל             | 8                                      |
+| נטייה            | כאוטי                                  |
+| נק"נ             | 1,200                                  |
+| מספר מופיעים     | 1ק2 (1ק4)                              |
+| סוג אוצר         | E                                      |
 
 ------
 
-- **Charge:** When not in melee. Requires a clear run of at least 20 yards. Gore inflicts double damage.
-- **Petrifying breath:** Cloud 60’ long, 10’ wide. All in the cloud are turned to stone (**save versus petrify** to avoid). Unharmed by own breath.
+- **הסתערות:** כאשר לא בקרב פנים אל פנים. דורש ריצה ברורה של לפחות 20 יארד. נגיחה גורמת לנזק כפול.
+- **נשיפה מאבנת:** ענן באורך 60’, רוחב 10’. כל הנמצאים בענן הופכים לאבן (**גלגול הצלה נגד הפיכה לאבן** כדי להימנע). לא נפגעים מנשיפתם שלהם.

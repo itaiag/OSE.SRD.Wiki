@@ -1,26 +1,26 @@
-# Basilisk
+# בזיליסק
 
-10’ long, serpentine lizards. Unintelligent, but highly magical. Dwell in caverns and twisted brambles.
+לטאות נחשיות באורך 10 רגל. לא אינטליגנטיות, אך מאוד קסומות. שוכנות במערות ובסבכים מעוותים.
 
 ------
 
-| Armor Class     | 4 [15]                                                    |
+| מחלקת שריון     | 4 [15]                                                    |
 | ---------------- | --------------------------------------------------------- |
-| Hit Dice         | 6+1** (28hp)                                              |
-| Attacks          | 1 × bite (1d10 + petrification), 1 × gaze (petrification) |
+| קוביות פגיעה     | 6+1** (28 נק"פ)                                           |
+| התקפות           | 1 × נשיכה (1ק10 + התאבנות), 1 × מבט (התאבנות)             |
 | THAC0            | 13 [+6]                                                   |
-| Movement         | 60’ (20’)                                                 |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)                                   |
-| Morale           | 9                                                         |
-| Alignment        | Neutral                                                   |
-| XP               | 950                                                       |
-| Number Appearing | 1d6 (1d6)                                                 |
-| Treasure Type    | F                                                         |
+| תנועה            | 60’ (20’)                                                 |
+| גלגולי הצלה      | D10 W11 P12 B13 S14 (6)                                   |
+| מורל             | 9                                                         |
+| נטייה            | ניטרלי                                                    |
+| נק"נ             | 950                                                       |
+| מספר מופיעים     | 1ק6 (1ק6)                                                 |
+| סוג אוצר         | F                                                         |
 
 ------
 
-- **Surprise:** Characters surprised by a basilisk meet its gaze.
-- **Petrifying touch:** Anyone touched by a basilisk is turned to stone (**save versus petrify**).
-- **Petrifying gaze:** Anyone meeting a basilisk’s gaze is turned to stone (**save versus petrify**). Unless averting their eyes or using a mirror, characters in melee are affected each round.
-- **Averting eyes:** -4 penalty to-hit; the basilisk gains a +2 bonus to attack.
-- **Mirrors:** The reflection of a basilisk is harmless. Fighting by looking in a mirror incurs a -1 penalty to attack. If a basilisk sees its own reflection (2-in-6 chance), it must save or be petrified.
+- **הפתעה:** דמויות שמופתעות על ידי בזיליסק פוגשות את מבטו.
+- **מגע מאבן:** כל מי שנוגע בבזיליסק הופך לאבן (**הצלה נגד התאבנות**).
+- **מבט מאבן:** כל מי שפוגש את מבטו של בזיליסק הופך לאבן (**הצלה נגד התאבנות**). אלא אם כן מסיטים את מבטם או משתמשים במראה, דמויות בקרב פנים מושפעות בכל סיבוב.
+- **הסטת מבט:** עונש של -4 לפגיעה; הבזיליסק מקבל בונוס של +2 להתקפה.
+- **מראות:** ההשתקפות של בזיליסק אינה מזיקה. לחימה על ידי הסתכלות במראה גורמת לעונש של -1 להתקפה. אם בזיליסק רואה את השתקפותו (סיכוי של 2 מתוך 6), עליו להציל או להתאבן.

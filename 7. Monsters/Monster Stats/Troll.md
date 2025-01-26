@@ -1,25 +1,25 @@
-# Troll
+# טרול
 
-Intelligent, wicked, 8’ tall humanoids with emaciated, rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in the barren wilderness, and in the ruined homes of former victims.
+יצורים אינטליגנטיים, מרושעים, בגובה 8 רגל, בעלי גוף אנושי רזה וגמיש. צורכים את בשרם של יצורים אנושיים אחרים. חיים מתחת לאדמה, במדבריות שוממות ובבתים הרוסים של קורבנות קודמים.
 
 ------
 
-| Armor Class     | 4 [15]                           |
+| מחלקת שריון     | 4 [15]                           |
 | ---------------- | -------------------------------- |
-| Hit Dice         | 6+3* (30hp)                      |
-| Attacks          | 2 × talon (1d6), 1 × bite (1d10) |
+| קוביות פגיעה     | 6+3* (30 נק"פ)                   |
+| התקפות           | 2 × טפר (1ק6), 1 × נשיכה (1ק10) |
 | THAC0            | 13 [+6]                          |
-| Movement         | 120’ (40’)                       |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)          |
-| Morale           | 10 (8 fear of fire)              |
-| Alignment        | Chaotic                          |
-| XP               | 650                              |
-| Number Appearing | 1d8 (1d8)                        |
-| Treasure Type    | D                                |
+| תנועה            | 120’ (40’)                       |
+| גלגולי הצלה      | ד10 ו11 פ12 ב13 ס14 (6)          |
+| מורל             | 10 (8 פחד מאש)                   |
+| נטייה            | כאוטי                            |
+| נק"נ             | 650                              |
+| מספר מופיעים     | 1ק8 (1ק8)                        |
+| סוג אוצר         | ד                                |
 
 ------
 
-- **Regeneration:** 3 rounds after being damaged, start regaining 3hp per round. Severed limbs reattach.
-- **Return from death:** If killed (0hp), will regenerate and fight again in 2d6 rounds.
-- **Fire and acid:** Cannot regenerate damage from these sources. The only way to permanently kill a troll.
-- **Fear of fire:** Morale 8 when attacked with fire or acid.
+- **התחדשות:** 3 סיבובים לאחר שנפגע, מתחיל להחזיר 3 נק"פ לסיבוב. גפיים כרותות מתחברות מחדש.
+- **חזרה מהמוות:** אם נהרג (0 נק"פ), יתחדש ויילחם שוב ב-2ק6 סיבובים.
+- **אש וחומצה:** לא יכול להתחדש מנזק ממקורות אלו. הדרך היחידה להרוג טרול לצמיתות.
+- **פחד מאש:** מורל 8 כאשר מותקף באש או חומצה.

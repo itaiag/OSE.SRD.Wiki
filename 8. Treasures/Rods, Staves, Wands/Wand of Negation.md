@@ -1,7 +1,7 @@
-# Wand of Negation
+# שרביט השלילה
 
-Has the power to negate the effects of other wands or staves.
+בעל הכוח לשלול את ההשפעות של שרביטים או מטות אחרים.
 
-- **Declare intent:** Before rolling initiative, the wand wielder must declare the intention to use it.
-- **Target:** Another wand or staff must be targeted.
-- **Effect:** The effects of the targeted item are negated for one round.
+- **הצהרת כוונה:** לפני גלגול יוזמה, על נושא השרביט להצהיר על הכוונה להשתמש בו.
+- **מטרה:** יש לכוון לשרביט או מטה אחר.
+- **השפעה:** ההשפעות של הפריט הממוקד נשללות למשך סיבוב אחד.

@@ -1,20 +1,19 @@
-# Animate Dead
+# להחיות מתים
 
-*5th Level Magic-User Spell*
+*לחשים של קוסם ברמה 5*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 60’
+**טווח:** 60’
 
+גורם לגופות או שלדים לקום כשלדים או זומבים מתים-חיים.
 
-Causes corpses or skeletons to rise as undead skeletons or zombies.
+- **צייתנים:** המתים-חיים שנוצרו מצייתים לפקודות המטיל.
+- **יכולות מיוחדות:** הם אינם יכולים להשתמש ביכולות מיוחדות כלשהן (כולל הטלת לחשים) שהיו להם בחיים.
+- **משך:** הקסם המחייה נשאר פעיל עד שהוא מבוטל או עד שהמתים-חיים נהרגים.
 
-- **Obedient:** Created undead obey the caster’s commands.
-- **Special abilities:** They are unable to use any special abilities (including spell casting) that they possessed in life.
-- **Duration:** The reanimating magic remains active until dispelled or until the undead are slain.
+**מספר:** הלחש מחייה עד 1 קוב פגיעה של זומבים או שלדים לכל רמה של המטיל:
 
-**Number:** The spell animates up to 1 Hit Die of zombies or skeletons per level of the caster:
-
-- **Skeletons:** Have AC 7 [12] and HD equal to those the creature had in life.
-- **Zombies:** Have AC 8 [11] and HD one greater than the creature had in life.
-- **Classed characters:** If a PC or NPC with levels in a class is reanimated by this spell, the levels are not counted as HD. For example, the reanimated corpse of a 5th-level fighter would have 2 HD (1 HD as a normal human, +1 for being reanimated as a zombie).
+- **שלדים:** יש להם AC 7 [12] ו-HD שווה לאלו שהיו ליצור בחיים.
+- **זומבים:** יש להם AC 8 [11] ו-HD אחד יותר ממה שהיה ליצור בחיים.
+- **דמויות עם דרגות:** אם דמות שחקן או דמות שאינה שחקן עם דרגות בכיתה מוחיית על ידי לחש זה, הדרגות אינן נספרות כ-HD. לדוגמה, גופה מוחיית של לוחם ברמה 5 תהיה עם 2 HD (1 HD כאדם רגיל, +1 על היותה מוחיית כזומבי).

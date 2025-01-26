@@ -1,27 +1,27 @@
-# Invisible Stalker (MU)
+# עוקב בלתי נראה (MU)
 
-*6th Level Magic-User Spell*
+*לחשים של דרגה 6 למשתמשי קסם*
 
-**Duration:** One mission
+**משך:** משימה אחת
 
-**Range:** Summoned to caster’s presence
+**טווח:** מזומן לנוכחות המטיל
 
-An invisible stalker (see below) is summoned to the caster’s presence and magically bound to perform a mission of the caster’s choosing.
+עוקב בלתי נראה (ראה למטה) מזומן לנוכחות המטיל ונקשר באופן קסום לביצוע משימה לפי בחירת המטיל.
 
-- **Wording:** The caster must be careful with the wording of the mission. Invisible stalkers are treacherous and, unless the assigned mission can be easily and quickly accomplished, will follow the letter of the command while twisting the intent.
-- **Duration:** The creature is bound to attempt the mission until it succeeds or is destroyed.
-- **Banishing:** The spell *dispel evil* will banish an invisible stalker, ending the spell.
+- **ניסוח:** המטיל חייב להיזהר בניסוח המשימה. עוקבים בלתי נראים הם בוגדניים, ואם המשימה שהוקצתה לא יכולה להתבצע בקלות ובמהירות, הם יעקבו אחר המילה של הפקודה תוך עיוות הכוונה.
+- **משך:** היצור מחויב לנסות את המשימה עד שיצליח או יושמד.
+- **גירוש:** הלחש *להסיר רוע* יגרש עוקב בלתי נראה, ויסיים את הלחש.
 
-#### Invisible Stalker
+#### עוקב בלתי נראה
 
-Highly intelligent, magical creatures are summoned from another plane of existence to perform tasks for powerful magic-users.
-
-------
-
-**AC** 3 [16], **HD** 8* (36hp), **Att** 1 × blow (4d4), **THAC0** 12 [+7], **MV** 120’ (40’), **SV** D8 W9 P10 B10 S12 (F8), **ML** 12, **AL** Neutral, **XP** 1,200
+יצורים קסומים בעלי אינטליגנציה גבוהה מזומנים ממישור קיום אחר כדי לבצע משימות עבור משתמשי קסם חזקים.
 
 ------
 
-- **Tracking:** Without fault.
-- **Surprise:** On a 1–5, unless the target can detect invisibility.
-- **If killed:** Returns to the plane of origin.
+**AC** 3 [16], **HD** 8* (36hp), **Att** 1 × מכה (4d4), **THAC0** 12 [+7], **MV** 120’ (40’), **SV** D8 W9 P10 B10 S12 (F8), **ML** 12, **AL** נייטרלי, **XP** 1,200
+
+------
+
+- **מעקב:** ללא טעות.
+- **הפתעה:** על 1–5, אלא אם המטרה יכולה לזהות בלתי נראות.
+- **אם נהרג:** חוזר למישור המקור.

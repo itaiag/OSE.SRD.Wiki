@@ -1,12 +1,12 @@
-# Anti-Magic Shell
+# מעטפת נגד קסם
 
-*6th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 6*
 
-**Duration:** 12 turns
+**משך:** 12 תורות
 
-**Range:** The caster
+**טווח:** המטיל
 
-Wreathes the caster in an anti-magic barrier.
+עוטף את המטיל במחסום נגד קסם.
 
-- **Blocks magic:** The barrier blocks all spells and spell effects in both directions, including spells cast by the caster.
-- **Dismissing:** At any time the caster wishes, they may dismiss the barrier, ending the spell.
+- **חוסם קסם:** המחסום חוסם את כל הלחשים וההשפעות הקסומות בשני הכיוונים, כולל לחשים שהוטלו על ידי המטיל.
+- **ביטול:** בכל עת שהמטיל רוצה, הוא יכול לבטל את המחסום, לסיים את הלחש.

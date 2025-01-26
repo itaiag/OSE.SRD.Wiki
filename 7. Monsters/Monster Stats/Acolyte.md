@@ -1,22 +1,22 @@
-# Acolyte
+# אקולייט
 
-1st level clerics on a quest for their deity.
+כוהנים ברמה 1 במסע עבור האלוהות שלהם.
 
 ------
 
-| Armor Class     | 2 [17]                         |
+| מחלקת שריון     | 2 [17]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 1 (4hp)                        |
-| Attacks          | 1 × mace (1d6)                 |
+| קוביות פגיעה     | 1 (4 נק"פ)                     |
+| התקפות          | 1 × אלה (1ק6)                  |
 | THAC0            | 19 [0]                         |
-| Movement         | 60’ (20’)                      |
-| Saving Throws    | D11 W12 P14 B16 S15 (Cleric 1) |
-| Morale           | 7                              |
-| Alignment        | Any                            |
-| XP               | 10                             |
-| Number Appearing | 1d8 (1d20)                     |
-| Treasure Type    | U                              |
+| תנועה            | 60’ (20’)                      |
+| גלגולי הצלה      | D11 W12 P14 B16 S15 (כוהן 1)  |
+| מורל             | 7                              |
+| נטייה           | כלשהי                          |
+| נק"נ             | 10                             |
+| מספר מופיעים    | 1ק8 (1ק20)                     |
+| סוג אוצר        | U                              |
 
 ------
 
-- **Leader:** Groups of 4+ are led by a higher level cleric (1d10: 1–4: 2nd level, 5–7: 3rd level, 8–9: 4th level, 10: 5th level). Choose or roll the leader’s spells.
+- **מנהיג:** קבוצות של 4+ מונהגות על ידי כוהן ברמה גבוהה יותר (1ק10: 1–4: רמה 2, 5–7: רמה 3, 8–9: רמה 4, 10: רמה 5). בחר או גלגל את הלחשים של המנהיג.

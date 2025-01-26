@@ -1,8 +1,8 @@
-# Ring of Controlling Plants
+# טבעת שליטה בצמחים
 
-Grants the power to control plants.
+מעניקה את הכוח לשלוט בצמחים.
 
-- **Affects:** All plants (including plant monsters) in a 10’ square area.
-- **Range:** The area may be up to 60’ distant.
-- **Commands:** Affected plants may be commanded to move around as the character wishes.
-- **Concentration:** The effect lasts as long as the ring's wearer concentrates.
+- **משפיע על:** כל הצמחים (כולל מפלצות צמחים) באזור של 10 רגל מרובע.
+- **טווח:** האזור יכול להיות במרחק של עד 60 רגל.
+- **פקודות:** ניתן לפקד על הצמחים המושפעים לנוע כפי שהדמות רוצה.
+- **ריכוז:** ההשפעה נמשכת כל עוד עונד הטבעת מרוכז.

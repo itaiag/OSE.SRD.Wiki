@@ -1,25 +1,25 @@
-# Shadow
+# צל
 
-Intelligent, incorporeal (but not undead monsters that look like shadows. Able to slightly change their shape.
+אינטליגנטי, חסר גוף (אבל לא מפלצות מתות) שנראות כמו צללים. מסוגלים לשנות מעט את צורתם.
 
 ------
 
-| Armor Class     | 7 [12]                           |
+| מחלקת שריון     | 7 [12]                           |
 | ---------------- | -------------------------------- |
-| Hit Dice         | 2+2* (11hp)                      |
-| Attacks          | 1 × touch (1d4 + strength drain) |
+| קוביות פגיעה     | 2+2* (11 נק"פ)                   |
+| התקפות           | 1 × מגע (1ק4 + ניקוז כוח)        |
 | THAC0            | 17 [+2]                          |
-| Movement         | 90’ (30’)                        |
-| Saving Throws    | D12 W13 P14 B15 S16 (2)          |
-| Morale           | 12                               |
-| Alignment        | Chaotic                          |
-| XP               | 35                               |
-| Number Appearing | 1d8 (1d12)                       |
-| Treasure Type    | F                                |
+| תנועה            | 90’ (30’)                        |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (2)          |
+| מורל             | 12                               |
+| נטייה            | כאוטי                            |
+| נק"נ             | 35                               |
+| מספר מופיעים     | 1ק8 (1ק12)                       |
+| סוג אוצר         | F                                |
 
 ------
 
-- **Surprise:** On a 1–5.
-- **Strength drain:** Victims lose 1 STR per hit. Recovers after 8 turns. If reduced to 0 STR, the victim becomes a shadow.
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Spell immunity:** Unaffected by *charm* and *sleep* spells.
+- **הפתעה:** ב-1–5.
+- **ניקוז כוח:** הקורבנות מאבדים 1 כוח לכל פגיעה. מתאוששים לאחר 8 סיבובים. אם הכוח יורד ל-0, הקורבן הופך לצל.
+- **חסינות לנזק רגיל:** ניתן לפגוע בהם רק באמצעות התקפות קסומות.
+- **חסינות לכישופים:** לא מושפעים מכישופי *קסם* ו*שינה*.

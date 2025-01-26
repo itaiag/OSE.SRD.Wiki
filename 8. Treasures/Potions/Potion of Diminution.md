@@ -1,7 +1,7 @@
-# Potion of Diminution
+# שיקוי הקטנה
 
-The character shrinks to 6” high.
+הדמות מתכווצת לגובה של 6 אינץ'.
 
-- **Combat effectiveness:** The character cannot harm creatures larger than 1’ tall while shrunk.
-- **Narrow spaces:** The character can slip through narrow spaces.
-- **Remaining motionless:** The character only has a 10% chance of being spotted.
+- **יעילות קרבית:** הדמות אינה יכולה לפגוע ביצורים שגובהם מעל 1 רגל בזמן שהיא מכווצת.
+- **מרווחים צרים:** הדמות יכולה להחליק דרך מרווחים צרים.
+- **להישאר ללא תנועה:** יש לדמות רק 10% סיכוי להתגלות.

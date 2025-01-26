@@ -1,6 +1,6 @@
-# Potion of Flying
+# שיקוי תעופה
 
-Grants the ability to fly through the air.
+מעניק את היכולת לעוף באוויר.
 
-- **Movement rate:** Up to 360’ (120’).
-- **Free movement:** Is possible in any direction, including the ability to levitate and to hover in mid-air.
+- **קצב תנועה:** עד 360’ (120’).
+- **תנועה חופשית:** אפשרית בכל כיוון, כולל היכולת לרחף ולהתעכב באוויר.

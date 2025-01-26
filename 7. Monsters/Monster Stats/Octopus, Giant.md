@@ -1,24 +1,24 @@
-# Octopus, Giant
+# תמנון, ענק
 
-Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements.
+תמנונים ענקיים בעלי שמונה זרועות. אורבים במים חופיים, קרוב להתיישבויות.
 
 ------
 
-| Armor Class     | 7 [12]                                            |
+| מחלקת שריון     | 7 [12]                                            |
 | ---------------- | ------------------------------------------------- |
-| Hit Dice         | 8 (36hp)                                          |
-| Attacks          | 8 × tentacle (1d3 + constriction), 1 × bite (1d6) |
+| קוביות פגיעה    | 8 (36hp)                                          |
+| התקפות          | 8 × זרוע (1d3 + חניקה), 1 × נשיכה (1d6)          |
 | THAC0            | 12 [+7]                                           |
-| Movement         | 90’ (30’)                                         |
-| Saving Throws    | D10 W11 P12 B13 S14 (4)                           |
-| Morale           | 7                                                 |
-| Alignment        | Neutral                                           |
+| תנועה           | 90’ (30’)                                         |
+| גלגולי הצלה     | D10 W11 P12 B13 S14 (4)                           |
+| מורל            | 7                                                 |
+| נטייה           | ניטרלי                                            |
 | XP               | 650                                               |
-| Number Appearing | 0 (1d2)                                           |
-| Treasure Type    | None                                              |
+| מספר מופיעים    | 0 (1d2)                                           |
+| סוג אוצר        | אין                                               |
 
 ------
 
-- **Constriction:** Tentacles grab and constrict after a hit. Each constricting tentacle inflicts 1d3 automatic damage per round, plus a -1 penalty to attacks.
-- **Severing tentacles:** Requires a hit with a cutting weapon inflicting 6 or more damage.
-- **Ink cloud:** When escaping, can emit a cloud of black ink (80’ diameter) and jet away at 3 times normal speed.
+- **חניקה:** הזרועות תופסות וחונקות לאחר פגיעה. כל זרוע חונקת גורמת 1d3 נזק אוטומטי לכל סיבוב, בנוסף לעונש של -1 להתקפות.
+- **חיתוך זרועות:** דורש פגיעה עם נשק חותך הגורם 6 נזק או יותר.
+- **ענן דיו:** בעת בריחה, יכול לפלוט ענן דיו שחור (קוטר 80’) ולברוח במהירות פי 3 מהרגיל.

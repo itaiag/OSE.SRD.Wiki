@@ -1,25 +1,25 @@
-# Mummy
+# מומיה
 
-Undead humanoids wrapped in funerary bandages. Haunt ruins and tombs.
+אנשים מתים-חיים עטופים בתחבושות קבורה. רודפים חורבות וקברים.
 
 ------
 
-| Armor Class     | 3 [16]                     |
+| מחלקת שריון     | 3 [16]                     |
 | ---------------- | -------------------------- |
-| Hit Dice         | 5+1* (23hp)                |
-| Attacks          | 1 × touch (1d12 + disease) |
+| קוביות פגיעה     | 5+1* (23 נק"פ)             |
+| התקפות           | 1 × מגע (1ק12 + מחלה)      |
 | THAC0            | 14 [+5]                    |
-| Movement         | 60’ (20’)                  |
-| Saving Throws    | D10 W11 P12 B13 S14 (5)    |
-| Morale           | 12                         |
-| Alignment        | Chaotic                    |
-| XP               | 400                        |
-| Number Appearing | 1d4 (1d12)                 |
-| Treasure Type    | D                          |
+| תנועה            | 60’ (20’)                  |
+| גלגולי הצלה      | D10 W11 P12 B13 S14 (5)    |
+| מורל             | 12                         |
+| נטייה            | כאוטי                      |
+| נק"נ             | 400                        |
+| מספר מופיעים     | 1ק4 (1ק12)                 |
+| סוג אוצר         | D                          |
 
 ------
 
-- **Paralyse with terror:** Anyone seeing a mummy must **save versus paralysis** or be paralyzed with terror. Paralysis is broken if the mummy attacks or goes out of sight.
-- **Disease:** Anyone hit contracts a horrible rotting disease. Magical healing is ineffective; natural healing is ten times slower. The disease can only be removed by magic.
-- **Damage immunity:** Only harmed by fire or magic; all damage is reduced by half.
-- **Undead:** Make no noise until they attack. Immune to effects that affect living creatures (e.g., poison). Immune to mind-affecting or mind-reading spells (e.g., *charm*, *hold*, *sleep*).
+- **משתקים עם אימה:** כל מי שרואה מומיה חייב **להציל מול שיתוק** או להיות משותק מאימה. השיתוק נשבר אם המומיה תוקפת או יוצאת מטווח הראייה.
+- **מחלה:** כל מי שנפגע נדבק במחלה נוראית של ריקבון. ריפוי קסום אינו יעיל; ריפוי טבעי איטי פי עשרה. המחלה ניתנת להסרה רק באמצעות קסם.
+- **חסינות לנזק:** נפגעים רק מאש או קסם; כל הנזק מופחת בחצי.
+- **מתים-חיים:** אינם משמיעים רעש עד שהם תוקפים. חסינים להשפעות המשפיעות על יצורים חיים (למשל, רעל). חסינים לכשפים המשפיעים על המוח או קוראים מחשבות (למשל, *קסם*, *החזקה*, *שינה*).

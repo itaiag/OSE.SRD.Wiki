@@ -1,12 +1,12 @@
-# Water Breathing
+# נשימת מים
 
-*3rd Level Magic-User Spell*
+*לחישת קוסם דרגה 3*
 
-**Duration:** 1 day
+**משך:** יום אחד
 
-**Range:** 30’
+**טווח:** 30’
 
-Bestows the ability to breathe water upon a single subject.
+מעניק את היכולת לנשום מים לנושא יחיד.
 
-- **Breathing air:** The spell does not affect the subject’s ability to breathe air.
-- **Underwater movement:** Is also not enhanced or affected.
+- **נשימת אוויר:** הלחישה אינה משפיעה על יכולת הנושא לנשום אוויר.
+- **תנועה מתחת למים:** גם אינה מוגברת או מושפעת.

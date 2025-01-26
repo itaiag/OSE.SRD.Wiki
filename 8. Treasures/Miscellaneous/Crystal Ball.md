@@ -1,20 +1,20 @@
-# Crystal Ball
+# כדור בדולח
 
-Allows an arcane spell caster to view any place or object that is brought to mind:
+מאפשר למטיל לחשים ארקני לראות כל מקום או חפץ שעולה על דעתו:
 
-- **Duration:** The vision lasts for one turn.
-- **Clarity** The clarity of the vision is dependent on the scryer’s familiarity with the subject.
-- **Usage frequency:** A crystal ball may be used at most 3 times a day.
-- **Casting spells:** It is not possible to cast spells through a crystal ball into the viewed scene.
+- **משך זמן:** החזון נמשך למשך סיבוב אחד.
+- **בהירות:** בהירות החזון תלויה בהיכרות של הצופה עם הנושא.
+- **תדירות שימוש:** ניתן להשתמש בכדור בדולח לכל היותר 3 פעמים ביום.
+- **הטלת לחשים:** לא ניתן להטיל לחשים דרך כדור בדולח אל תוך הסצנה הנצפית.
 
-## Crystal Ball With Clairaudience
+## כדור בדולח עם שמיעת על
 
-The scryer can hear, as well as see the desired scene.
+הצופה יכול לשמוע, כמו גם לראות את הסצנה הרצויה.
 
-## Crystal Ball With ESP
+## כדור בדולח עם ESP
 
-Allows the scryer to spy on the thoughts of creatures viewed in the crystal ball:
+מאפשר לצופה לרגל אחרי מחשבות של יצורים הנצפים בכדור הבדולח:
 
-- **Reading thoughts:** The thoughts of a single creature viewed through the crystal ball may be read.
-- **Meaning:** The scryer understands the meaning of all thoughts even if he or she does not share the creature’s language.
-- **Obstructions:** The ability to perceive thoughts is obstructed by a thin layer of lead or by rock of 2’ thick or greater.
+- **קריאת מחשבות:** ניתן לקרוא את מחשבותיו של יצור יחיד הנצפה דרך כדור הבדולח.
+- **משמעות:** הצופה מבין את משמעות כל המחשבות גם אם הוא או היא לא חולקים את שפת היצור.
+- **מכשולים:** היכולת לתפוס מחשבות נחסמת על ידי שכבה דקה של עופרת או על ידי סלע בעובי של 2 רגל או יותר.

@@ -1,12 +1,12 @@
-# Create Food
+# יצירת מזון
 
-*5th Level Cleric Spell*
+*לחשים לדרגה 5 לכוהן*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** Appears in the caster’s presence
+**טווח:** מופיע בנוכחות המטיל
 
-Conjures food from thin air.
+מזמן מזון מהאוויר הדק.
 
-- **Volume:** Food sufficient for twelve humans and twelve mounts for one day is conjured.
-- **Higher level casters:** If the caster is higher than 8th-level, food is sufficient for an additional 12 humans, and mounts are produced for each level beyond 8th.
+- **נפח:** מזון מספיק לשנים עשר בני אדם ושנים עשר רכבים ליום אחד מזומן.
+- **מטילים בדרגה גבוהה יותר:** אם המטיל בדרגה גבוהה מ-8, המזון מספיק לעוד 12 בני אדם, ורכבים מיוצרים לכל דרגה מעבר ל-8.

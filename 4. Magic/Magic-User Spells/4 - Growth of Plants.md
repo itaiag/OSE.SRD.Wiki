@@ -1,12 +1,12 @@
-# Growth of Plants
+# צמיחת צמחים
 
-*4th Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 4*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** 120’
+**טווח:** 120’
 
-A dense, thorny thicket of vines and brambles overwhelms an area of normal woodland or scrub within range.
+סבך צפוף וקוצני של גפנים ושיחים משתלט על אזור של יער רגיל או שיחים בטווח.
 
-- **Area:** An area of up to 3,000 square feet—selected by the caster—is affected (e.g. 150’ × 20’, 100’ × 30’, etc.).
-- **Passage:** Only very large creatures can force their way through.
+- **אזור:** אזור של עד 3,000 רגל מרובע—נבחר על ידי המטיל—מושפע (למשל 150’ × 20’, 100’ × 30’, וכו').
+- **מעבר:** רק יצורים גדולים מאוד יכולים לפרוץ דרכם.

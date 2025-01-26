@@ -1,156 +1,156 @@
-# Scrolls and Maps
+# מגילות ומפות
 
-| B: d8 | X: d% | Scroll                  |
+| ב: d8 | א: d% | מגילה                  |
 | :---: | :---: | :---------------------- |
-|   1   | 01–15 | 1 Spell                 |
-|   2   | 16–25 | 2 Spells                |
-|   3   | 26–31 | 3 Spells                |
-|       | 32–34 | 5 Spells                |
-|       |  35   | 7 Spells                |
-|   4   | 36–40 | Cursed Scroll           |
-|       | 41–50 | Prot. from Elementals   |
-|   5   | 51–60 | Prot. from Lycanthropes |
-|       | 61–65 | Prot. from Magic        |
-|   6   | 66–75 | Prot. from Undead       |
-|   7   | 76–78 | Treasure Map: I         |
-|       | 79–80 | Treasure Map: II        |
-|       | 81–82 | Treasure Map: III       |
-|       |  83   | Treasure Map: IV        |
-|       |  84   | Treasure Map: V         |
-|       |  85   | Treasure Map: VI        |
-|       |  86   | Treasure Map: VII       |
-|   8   | 87–90 | Treasure Map: VIII      |
-|       | 91–95 | Treasure Map: IX        |
-|       |  96   | Treasure Map: X         |
-|       | 97–98 | Treasure Map: XI        |
-|       | 99–00 | Treasure Map: XII       |
+|   1   | 01–15 | 1 לחש                 |
+|   2   | 16–25 | 2 לחשים                |
+|   3   | 26–31 | 3 לחשים                |
+|       | 32–34 | 5 לחשים                |
+|       |  35   | 7 לחשים                |
+|   4   | 36–40 | מגילה מקוללת           |
+|       | 41–50 | הגנה מיסודות          |
+|   5   | 51–60 | הגנה מליקנתרופים      |
+|       | 61–65 | הגנה מקסם             |
+|   6   | 66–75 | הגנה ממתים חיים       |
+|   7   | 76–78 | מפת אוצר: א           |
+|       | 79–80 | מפת אוצר: ב           |
+|       | 81–82 | מפת אוצר: ג           |
+|       |  83   | מפת אוצר: ד           |
+|       |  84   | מפת אוצר: ה           |
+|       |  85   | מפת אוצר: ו           |
+|       |  86   | מפת אוצר: ז           |
+|   8   | 87–90 | מפת אוצר: ח           |
+|       | 91–95 | מפת אוצר: ט           |
+|       |  96   | מפת אוצר: י           |
+|       | 97–98 | מפת אוצר: יא          |
+|       | 99–00 | מפת אוצר: יב          |
 
-**B:** Basic characters (levels 1–3)
-**X:** Expert characters (level 4+)
+**ב:** דמויות בסיסיות (רמות 1–3)
+**א:** דמויות מומחיות (רמה 4+)
 
-Scrolls are aged sheets of parchment or paper on which a high-level spell caster has written magical words.
+מגילות הן דפי קלף או נייר ישנים שעליהם כתב מטיל לחשים ברמה גבוהה מילים קסומות.
 
-**One use only:** When a scroll is read, the words disappear.
+**שימוש חד פעמי:** כאשר קוראים מגילה, המילים נעלמות.
 
-**Light:** A scroll can only be used if there is enough light to read.
+**אור:** ניתן להשתמש במגילה רק אם יש מספיק אור לקרוא.
 
-## Cursed Scroll
+## מגילה מקוללת
 
-**Usage:** All characters (unless noted).
+**שימוש:** כל הדמויות (אלא אם צוין אחרת).
 
-**Activation:** Merely looking at the baneful script on the scroll curses the character. The referee should determine the nature of the curse (see examples below).
+**הפעלה:** מבט בלבד בכתב המקולל על המגילה מקלל את הדמות. השופט צריך לקבוע את אופי הקללה (ראו דוגמאות למטה).
 
-**Removing:** A curse can be removed by magic or (at the referee’s option) by performing a special quest.
+**הסרה:** ניתן להסיר קללה באמצעות קסם או (לפי בחירת השופט) על ידי ביצוע משימה מיוחדת.
 
-### Example Curses
+### דוגמאות לקללות
 
-- **Transformation:** The reader changes into a harmless creature (e.g., a frog).
-- **Summoning:** A wandering monster appears next to the reader and attacks (gaining surprise). The monster is of equal level to the reader.
-- **Lost item:** A magic item in the reader’s possession vanishes. The referee may select the item or choose it at random.
-- **Energy drain:** The reader permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points and all other benefits due to the lost level (e.g., spells, saving throws, etc.). A character’s XP is reduced halfway between the former and new levels. A person who loses all levels dies.
-- **Ability score re-roll:** The player must re-roll the character’s prime requisite.
-- **Slow healing:** The reader’s healing capacity is reduced. Natural healing takes double the normal amount of time, and healing spells only cure half the normal number of hit points.
+- **השתנות:** הקורא משתנה ליצור בלתי מזיק (למשל, צפרדע).
+- **זימון:** מפלצת נודדת מופיעה ליד הקורא ותוקפת (בהפתעה). המפלצת היא ברמה שווה לקורא.
+- **אובדן חפץ:** חפץ קסם שבבעלות הקורא נעלם. השופט יכול לבחור את החפץ או לבחור אותו באקראי.
+- **ניקוז אנרגיה:** הקורא מאבד לצמיתות רמת ניסיון אחת (או קוביית פגיעה). זה גורם לאובדן קוביית פגיעה אחת של נקודות פגיעה וכל יתרונות אחרים הנובעים מהרמה האבודה (למשל, לחשים, הצלות וכו'). נקודות הניסיון של הדמות מופחתות לחצי בין הרמה הקודמת לחדשה. אדם שמאבד את כל הרמות מת.
+- **גלגול מחדש של תכונה:** השחקן חייב לגלגל מחדש את התכונה הראשית של הדמות.
+- **ריפוי איטי:** יכולת הריפוי של הקורא מופחתת. ריפוי טבעי לוקח פי שניים מהזמן הרגיל, ולחשי ריפוי מרפאים רק חצי ממספר נקודות הפגיעה הרגיל.
 
-## Protection Scroll
+## מגילת הגנה
 
-**Usage:** All characters (unless noted). (Written in non-magical languages—usually Common.)
+**שימוש:** כל הדמויות (אלא אם צוין אחרת). (נכתבת בשפות לא קסומות - בדרך כלל שפה משותפת).
 
-**Activation:** Reading the script aloud conjures a circle of protection against a specific type of monster or energy.
+**הפעלה:** קריאת הכתב בקול רם מזמנת מעגל הגנה נגד סוג מסוים של מפלצת או אנרגיה.
 
-**Area of protection:** When used, conjures a 10’ radius circle of protection around the reader.
+**אזור ההגנה:** כאשר משתמשים, מזמן מעגל הגנה ברדיוס 10 רגל סביב הקורא.
 
-**Moving:** If the reader moves, the circle of protection follows them.
+**תנועה:** אם הקורא זז, מעגל ההגנה עוקב אחריו.
 
-### Protection from Elementals
+### הגנה מיסודות
 
-No elemental may enter the circle of protection.
+שום יסוד לא יכול להיכנס למעגל ההגנה.
 
-- **Ranged attacks:** The circle does not prevent elementals from using magic or missile attacks against those within it.
-- **Breaking:** The circle is broken if anyone within the circle attacks an affected elemental in melee.
-- **Duration:** 2 turns unless broken.
+- **התקפות מרחוק:** המעגל לא מונע מיסודות להשתמש בקסם או התקפות טילים נגד אלו שבתוכו.
+- **שבירה:** המעגל נשבר אם מישהו בתוך המעגל תוקף יסוד מושפע בקרב פנים אל פנים.
+- **משך:** 2 סיבובים אלא אם נשבר.
 
-### Protection from Lycanthropes
+### הגנה מליקנתרופים
 
-A number of lycanthropes are barred from entering the circle of protection. The number depends on their Hit Dice: 1–3 HD: 1d10 lycanthropes affected, 4–5 HD: 1d8 affected, 6+ HD: 1d4 affected.
+מספר ליקנתרופים נמנעים מלהיכנס למעגל ההגנה. המספר תלוי בקוביות הפגיעה שלהם: 1–3 ק"פ: 1d10 ליקנתרופים מושפעים, 4–5 ק"פ: 1d8 מושפעים, 6+ ק"פ: 1d4 מושפעים.
 
-- **Ranged attacks:** The circle does not prevent lycanthropes from using magic or missile attacks against those within it.
-- **Breaking:** The circle is broken if anyone within the circle attacks an affected lycanthrope in melee.
-- **Duration:** 6 turns unless broken.
+- **התקפות מרחוק:** המעגל לא מונע מליקנתרופים להשתמש בקסם או התקפות טילים נגד אלו שבתוכו.
+- **שבירה:** המעגל נשבר אם מישהו בתוך המעגל תוקף ליקנתרופ מושפע בקרב פנים אל פנים.
+- **משך:** 6 סיבובים אלא אם נשבר.
 
-### Protection from Magic
+### הגנה מקסם
 
-Spells and spell-like effects (e.g., from magic items cannot cross the circle of protection. The barrier prevents magic from entering the circle and leaving it.
+לחשים ואפקטים דמויי לחשים (למשל, מחפצי קסם) לא יכולים לחצות את מעגל ההגנה. המחסום מונע מקסם להיכנס למעגל ולעזוב אותו.
 
-- **Duration:** 1d4 turns.
-- **Dispelling:** Only by a wish.
+- **משך:** 1d4 סיבובים.
+- **ביטול:** רק על ידי משאלה.
 
-### Protection from Undead
+### הגנה ממתים חיים
 
-A number of undead monsters are barred from entering the circle of protection. The number depends on their Hit Dice: 1–3 HD: 2d12 undead affected, 4–5 HD: 2d6 undead affected, 6+ HD: 1d6 undead affected.
+מספר מפלצות מתים חיים נמנעות מלהיכנס למעגל ההגנה. המספר תלוי בקוביות הפגיעה שלהם: 1–3 ק"פ: 2d12 מתים חיים מושפעים, 4–5 ק"פ: 2d6 מתים חיים מושפעים, 6+ ק"פ: 1d6 מתים חיים מושפעים.
 
-- **Ranged attacks:** The circle does not prevent undead from using magic or missile attacks against those within it.
-- **Breaking:** The circle is broken if anyone within the circle attacks an affected undead monster in melee.
-- **Duration:** 6 turns, unless broken.
+- **התקפות מרחוק:** המעגל לא מונע ממתים חיים להשתמש בקסם או התקפות טילים נגד אלו שבתוכו.
+- **שבירה:** המעגל נשבר אם מישהו בתוך המעגל תוקף מפלצת מתים חיים מושפעת בקרב פנים אל פנים.
+- **משך:** 6 סיבובים, אלא אם נשבר.
 
-## Spell Scroll
+## מגילת לחש
 
-**Usage:** Spell casters.
+**שימוש:** מטילי לחשים.
 
-**Type of magic:** 1-in-4 scrolls contain divine spells; the rest contain arcane spells.
+**סוג הקסם:** 1 מתוך 4 מגילות מכילות לחשים אלוהיים; השאר מכילות לחשים ארקניים.
 
-**Activation:** Reading the script aloud conjures the effect of a specific spell. Only arcane spell casters can use scrolls of arcane spells. Only divine spell casters can use scrolls of divine spells.
+**הפעלה:** קריאת הכתב בקול רם מזמנת את האפקט של לחש מסוים. רק מטילי לחשים ארקניים יכולים להשתמש במגילות של לחשים ארקניים. רק מטילי לחשים אלוהיים יכולים להשתמש במגילות של לחשים אלוהיים.
 
-**Arcane spell scrolls:** These are written in a magical script that can only be read by magic.
+**מגילות לחשים ארקניים:** אלו נכתבות בכתב קסום שניתן לקרוא רק באמצעות קסם.
 
-**Divine spell scrolls:** Are written in normal languages (usually Common) but can only be used by divine spell casters.
+**מגילות לחשים אלוהיים:** נכתבות בשפות רגילות (בדרך כלל שפה משותפת) אך יכולות לשמש רק על ידי מטילי לחשים אלוהיים.
 
-**Scrolls of multiple spells:** Only the spell cast disappears if a scroll contains multiple spells.
+**מגילות של לחשים מרובים:** רק הלחש שהוטל נעלם אם מגילה מכילה לחשים מרובים.
 
-### Spells on a Scroll
+### לחשים על מגילה
 
-The referee may choose the spells or may roll for them randomly. The table below may be used to select the level of each spell on a scroll. (The table lists separate probabilities for Basic and Expert level characters. See **Basic and Expert Magic Items.
+השופט יכול לבחור את הלחשים או לגלגל עבורם באקראי. ניתן להשתמש בטבלה למטה כדי לבחור את רמת כל לחש על מגילה. (הטבלה מפרטת הסתברויות נפרדות לדמויות ברמה בסיסית ומומחית. ראו **חפצי קסם בסיסיים ומומחים.
 
-|       |       | Spell Level |        |
+|       |       | רמת לחש |        |
 | :---: | :---: | :---------- | :----- |
-| B: d6 | X: d% | Arcane      | Divine |
-|  1–3  | 01–25 | 1st         | 1st    |
-|  4–5  | 26–50 | 2nd         | 2nd    |
-|   6   | 51–70 | 3rd         | 3rd    |
-|       | 71–85 | 4th         | 4th    |
-|       | 86–95 | 5th         | 5th    |
-|       | 96–00 | 6th         | 5th    |
+| ב: d6 | א: d% | ארקני      | אלוהי |
+|  1–3  | 01–25 | 1          | 1     |
+|  4–5  | 26–50 | 2          | 2     |
+|   6   | 51–70 | 3          | 3     |
+|       | 71–85 | 4          | 4     |
+|       | 86–95 | 5          | 5     |
+|       | 96–00 | 6          | 5     |
 
-## Treasure Map
+## מפת אוצר
 
-**Usage:** All characters (unless noted).
+**שימוש:** כל הדמויות (אלא אם צוין אחרת).
 
-A map that indicates the route to a valuable treasure located in a dungeon or wilderness.
+מפה שמציינת את הדרך לאוצר יקר ערך הממוקם במבוך או בטבע.
 
-**Interpreting:** Treasure maps may sometimes be challenging to interpret. A map may be incomplete, worded in riddles, or written in an obscure language.
+**פענוח:** מפות אוצר עשויות להיות מאתגרות לפענוח. מפה עשויה להיות לא שלמה, מנוסחת כחידות, או כתובה בשפה לא ברורה.
 
-**Preparing in advance:** The referee should prepare treasure maps in advance.
+**הכנה מראש:** השופט צריך להכין מפות אוצר מראש.
 
-### Treasures
+### אוצרות
 
-The following list of treasure map types may be used to determine the nature of the treasure that a map leads to.
+הרשימה הבאה של סוגי מפות אוצר עשויה לשמש לקביעת אופי האוצר שהמפה מובילה אליו.
 
-- **I:** 1 magic item.
-- **II:** 1d6 × 10 gems and 2d10 pieces of jewellery.
-- **III:** 2 magic items.
-- **IV:** 3 magic items (no swords).
-- **V:** 3 magic items and 1 potion.
-- **VI:** 3 magic items, 1 scroll, 1 potion.
-- **VII:** 5d6 gems and 2 magic items.
-- **VIII:** Hoard worth 1d4 × 1,000gp.
-- **IX:** Hoard worth 5d6 × 1,000gp.
-- **X:** Hoard worth 5d6 × 1,000gp and 1 magic item.
-- **XI:** Hoard worth 5d6 × 1,000gp and 5d6 gems.
-- **XII:** Hoard worth 6d6 × 1,000gp.
+- **א:** חפץ קסם אחד.
+- **ב:** 1d6 × 10 אבנים יקרות ו-2d10 תכשיטים.
+- **ג:** 2 חפצי קסם.
+- **ד:** 3 חפצי קסם (ללא חרבות).
+- **ה:** 3 חפצי קסם ושיקוי אחד.
+- **ו:** 3 חפצי קסם, מגילה אחת, שיקוי אחד.
+- **ז:** 5d6 אבנים יקרות ו-2 חפצי קסם.
+- **ח:** אוצר בשווי 1d4 × 1,000 זהובים.
+- **ט:** אוצר בשווי 5d6 × 1,000 זהובים.
+- **י:** אוצר בשווי 5d6 × 1,000 זהובים וחפץ קסם אחד.
+- **יא:** אוצר בשווי 5d6 × 1,000 זהובים ו-5d6 אבנים יקרות.
+- **יב:** אוצר בשווי 6d6 × 1,000 זהובים.
 
-### Hoard Value
+### ערך האוצר
 
-For treasure hoards with a listed gold piece value, the referee may choose what type of treasure is in the hoard. (For example, it may be coins, but could also consist of valuable art objects or jewels.)
+עבור אוצרות עם ערך במטבעות זהב, השופט יכול לבחור איזה סוג של אוצר נמצא באוצר. (לדוגמה, זה יכול להיות מטבעות, אבל יכול גם להיות מורכב מחפצי אמנות יקרי ערך או תכשיטים.)
 
-### Guardians
+### שומרים
 
-The treasure is normally guarded by enchantments, traps, or monsters (e.g., a monster from the dungeon encounter tables of levels 5–6 or higher).
+האוצר בדרך כלל מוגן על ידי כישופים, מלכודות או מפלצות (למשל, מפלצת מטבלאות המפגשים של מבוכים ברמות 5–6 או גבוהות יותר).

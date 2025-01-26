@@ -1,109 +1,109 @@
-# Golem
+# גולם
 
-Artificial beings constructed from different materials by mighty clerics or wizards.
+יצורים מלאכותיים שנבנו מחומרים שונים על ידי כוהנים או קוסמים רבי עוצמה.
 
-- **Mundane damage immunity:** Can only be harmed by magical attacks.
-- **Immunity:** Unharmed by gas; unaffected by *charm*, *hold*, and *sleep* spells.
-- **Other materials:** Golems formed of other materials are also possible.
-- **Constructing:** A very complex, expensive, and time-consuming process.
+- **חסינות לנזק רגיל:** ניתן לפגוע בהם רק באמצעות התקפות קסומות.
+- **חסינות:** אינם נפגעים מגז; אינם מושפעים מכישופי *קסם*, *החזקה* ו*שינה*.
+- **חומרים אחרים:** אפשרי גם ליצור גולמים מחומרים אחרים.
+- **בנייתם:** תהליך מורכב מאוד, יקר וגוזל זמן רב.
 
-## Amber Golem
+## גולם ענבר
 
-Constructed in the form of giant cats (e.g. lions or tigers).
+בנוי בצורת חתולים ענקיים (למשל אריות או נמרים).
 
 ------
 
-| Armor Class     | 6 [13]                          |
+| מחלקת שריון     | 6 [13]                          |
 | ---------------- | ------------------------------- |
-| Hit Dice         | 10** (45hp)                     |
-| Attacks          | 2 × claw (2d6), 1 × bite (2d10) |
+| קוביות פגיעה    | 10** (45 נק"פ)                  |
+| התקפות          | 2 × טפר (2ק6), 1 × נשיכה (2ק10) |
 | THAC0            | 11 [+8]                         |
-| Movement         | 180’ (60’)                      |
-| Saving Throws    | D10 W11 P12 B13 S14 (5)         |
-| Morale           | 12                              |
-| Alignment        | Neutral                         |
-| XP               | 2,300                           |
-| Number Appearing | 1 (1)                           |
-| Treasure Type    | None                            |
+| תנועה           | 180’ (60’)                      |
+| הצלות           | D10 W11 P12 B13 S14 (5)         |
+| מורל            | 12                              |
+| נטייה           | נייטרלי                         |
+| נק"נ            | 2,300                           |
+| מספר מופיעים    | 1 (1)                           |
+| סוג אוצר        | אין                             |
 
 ------
 
-- **Mundane damage immunity; Immunity:** See main entry.
-- **Tracking:** Without error.
-- **Detect invisible creatures:** Within 60’.
+- **חסינות לנזק רגיל; חסינות:** ראה ערך ראשי.
+- **מעקב:** ללא שגיאה.
+- **זיהוי יצורים בלתי נראים:** בטווח של 60’.
 
-## Bone Golem
+## גולם עצם
 
-6’ tall constructs of human bone, crafted into a humanoid shape. Have four arms, attached at different places on the torso.
+מבנים בגובה 6 רגל מעצמות אדם, מעוצבים לצורת אדם. יש להם ארבע זרועות, מחוברות במקומות שונים על הגוף.
 
 ------
 
-| Armor Class     | 2 [17]                             |
+| מחלקת שריון     | 2 [17]                             |
 | ---------------- | ---------------------------------- |
-| Hit Dice         | 8 (36hp)                           |
-| Attacks          | 2 or 4 × weapon (1d6 or by weapon) |
+| קוביות פגיעה    | 8 (36 נק"פ)                        |
+| התקפות          | 2 או 4 × נשק (1ק6 או לפי נשק)      |
 | THAC0            | 12 [+7]                            |
-| Movement         | 120’ (40’)                         |
-| Saving Throws    | D10 W11 P12 B13 S14 (4)            |
-| Morale           | 12                                 |
-| Alignment        | Neutral                            |
-| XP               | 650                                |
-| Number Appearing | 1 (1)                              |
-| Treasure Type    | None                               |
+| תנועה           | 120’ (40’)                         |
+| הצלות           | D10 W11 P12 B13 S14 (4)            |
+| מורל            | 12                                 |
+| נטייה           | נייטרלי                            |
+| נק"נ            | 650                                |
+| מספר מופיעים    | 1 (1)                              |
+| סוג אוצר        | אין                                |
 
 ------
 
-- **Mundane damage immunity; Immunity:** See main entry.
-- **Weapons:** 4×1-handed or 2×2-handed.
-- **Attack multiple opponents:** Up to 2 per round.
-- **Energy immunity:** Unharmed by fire, cold, and electricity.
+- **חסינות לנזק רגיל; חסינות:** ראה ערך ראשי.
+- **נשקים:** 4×1-יד או 2×2-יד.
+- **התקפה על מספר יריבים:** עד 2 בסיבוב.
+- **חסינות לאנרגיה:** אינם נפגעים מאש, קור וחשמל.
 
-## Bronze Golem
+## גולם ברונזה
 
-Bronze constructs that resemble fire giants, possessing a great internal heat.
+מבני ברונזה הדומים לענקי אש, בעלי חום פנימי רב.
 
 ------
 
-| Armor Class     | 0 [19]                      |
+| מחלקת שריון     | 0 [19]                      |
 | ---------------- | --------------------------- |
-| Hit Dice         | 20** (90hp)                 |
-| Attacks          | 1 × fist (3d10 + 1d10 heat) |
+| קוביות פגיעה    | 20** (90 נק"פ)              |
+| התקפות          | 1 × אגרוף (3ק10 + 1ק10 חום) |
 | THAC0            | 6 [+13]                     |
-| Movement         | 240’ (80’)                  |
-| Saving Throws    | D6 W7 P8 B8 S10 (10)        |
-| Morale           | 12                          |
-| Alignment        | Neutral                     |
-| XP               | 4,300                       |
-| Number Appearing | 1 (1)                       |
-| Treasure Type    | None                        |
+| תנועה           | 240’ (80’)                  |
+| הצלות           | D6 W7 P8 B8 S10 (10)        |
+| מורל            | 12                          |
+| נטייה           | נייטרלי                     |
+| נק"נ            | 4,300                       |
+| מספר מופיעים    | 1 (1)                       |
+| סוג אוצר        | אין                         |
 
 ------
 
-- **Mundane damage immunity; Immunity:** See main entry.
-- **Flaming blood:** If damaged by an edged weapon, emits a spurt of liquid fire: attacker suffers 2d6 damage (**save versus death** to avoid).
-- **Fire immunity:** Unharmed by fire.
+- **חסינות לנזק רגיל; חסינות:** ראה ערך ראשי.
+- **דם בוער:** אם נפגע על ידי נשק חד, פולט נוזל אש: התוקף סובל 2ק6 נזק (**הצלה נגד מוות** כדי להימנע).
+- **חסינות לאש:** אינם נפגעים מאש.
 
-## Wood Golem
+## גולם עץ
 
-3’ tall, roughly constructed, humanoid figures of wood.
+דמויות אנושיות בגובה 3 רגל, בנויים בצורה גסה מעץ.
 
 ------
 
-| Armor Class     | 7 [12]                  |
+| מחלקת שריון     | 7 [12]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 2+2 (11hp)              |
-| Attacks          | 1 × fist (1d8)          |
+| קוביות פגיעה    | 2+2 (11 נק"פ)           |
+| התקפות          | 1 × אגרוף (1ק8)         |
 | THAC0            | 17 [+2]                 |
-| Movement         | 120’ (40’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 12                      |
-| Alignment        | Neutral                 |
-| XP               | 25                      |
-| Number Appearing | 1 (1)                   |
-| Treasure Type    | None                    |
+| תנועה           | 120’ (40’)              |
+| הצלות           | D12 W13 P14 B15 S16 (1) |
+| מורל            | 12                      |
+| נטייה           | נייטרלי                 |
+| נק"נ            | 25                      |
+| מספר מופיעים    | 1 (1)                   |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Mundane damage immunity; Immunity:** See main entry.
-- **Initiative:** -1 penalty due to stiff movement.
-- **Flammable:** -2 to saves against fire attacks; suffers one extra point of damage per die.
+- **חסינות לנזק רגיל; חסינות:** ראה ערך ראשי.
+- **יוזמה:** עונש של -1 עקב תנועה נוקשה.
+- **דליק:** -2 להצלה נגד התקפות אש; סובל נקודת נזק נוספת לכל קוביה.

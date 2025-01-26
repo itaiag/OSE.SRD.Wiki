@@ -1,12 +1,12 @@
-# Fly
+# לעוף
 
-*3rd Level Magic-User Spell*
+*לחשים של מכשף ברמה 3*
 
-**Duration:** 1d6 turns +1 per level
+**משך:** 1d6 תורות +1 לכל רמה
 
-**Range:** The caster or a creature touched
+**טווח:** המטיל או יצור שנגע בו
 
-The subject gains the ability to fly through the air.
+הנושא מקבל את היכולת לעוף באוויר.
 
-- **Movement rate:** Up to 360’ (120’).
-- **Free movement:** Is possible in any direction, including the ability to levitate and to hover in mid-air.
+- **קצב תנועה:** עד 360’ (120’).
+- **תנועה חופשית:** אפשרית בכל כיוון, כולל היכולת לרחף ולהישאר באוויר.

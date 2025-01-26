@@ -1,27 +1,27 @@
-# Buccaneer
+# בוקניר
 
-Sailors who make a living by raiding coastal settlements and robbing other ships. Typically ply rivers, lakes, and coastal waters; occasionally oceans.
+מלחים שמתפרנסים מפשיטות על יישובים חופיים ושוד של ספינות אחרות. בדרך כלל פועלים בנהרות, אגמים ומים חופיים; לעיתים באוקיינוסים.
 
 ------
 
-| Armor Class     | 7 [12] or 5 [14]              |
+| מחלקת שריון     | 7 [12] או 5 [14]              |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות           | 1 × נשק (1d6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 6                             |
-| Alignment        | Neutral                       |
-| XP               | 10                            |
-| Number Appearing | 0 (see below)                 |
-| Treasure Type    | A                             |
+| תנועה            | 120’ (40’)                    |
+| הצלות            | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 6                             |
+| נטייה            | נייטרלי                       |
+| נק"נ             | 10                            |
+| מספר מופיעים     | 0 (ראה למטה)                 |
+| סוג אוצר         | A                             |
 
 ------
 
-- **Ships and crew:** Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 × 10 buccaneers each); coastal waters: 1d6 small galleys (1d3+1 × 10 buccaneers each); any: 1d4 longships (1d3+2 × 10 buccaneers each); ocean: 1d3 small warships (1d5+3 × 10 buccaneers each). (See Water Vessels for details on ships.)
-- **Arms:** 60% of the group have: leather armor, sword; 30% have: leather armor, sword, or crossbow; 10% have: chainmail, sword, or crossbow.
-- **Leaders and captains:** For every 30 buccaneers, there is a 4th-level fighter. Each ship has a captain (7th-level fighter).
-- **Fleet commander:** 9th level fighter. 30% chance of a magic-user (level 1d2 + 9); 25% chance of a cleric (8th-level).
-- **Treasure:** Divided between vessels. Instead of carrying aboard, may have a map of where it is buried.
-- **Havens:** Lawless, fortified, coastal towns may act as a haven for buccaneers and pirates.
+- **ספינות וצוות:** תלוי היכן נתקלים בהם. נהרות או אגמים: 1d8 סירות נהר (1d2 × 10 בוקנירים כל אחת); מים חופיים: 1d6 גליאות קטנות (1d3+1 × 10 בוקנירים כל אחת); כל מקום: 1d4 ספינות ארוכות (1d3+2 × 10 בוקנירים כל אחת); אוקיינוס: 1d3 ספינות מלחמה קטנות (1d5+3 × 10 בוקנירים כל אחת). (ראה כלי שיט לפרטים על ספינות.)
+- **נשק:** 60% מהקבוצה יש: שריון עור, חרב; 30% יש: שריון עור, חרב או קשת; 10% יש: שריון שרשראות, חרב או קשת.
+- **מנהיגים וקפטנים:** לכל 30 בוקנירים, יש לוחם בדרגה 4. לכל ספינה יש קפטן (לוחם בדרגה 7).
+- **מפקד צי:** לוחם בדרגה 9. 30% סיכוי למשתמש קסם (דרגה 1d2 + 9); 25% סיכוי לכוהן (דרגה 8).
+- **אוצר:** מחולק בין כלי השיט. במקום לשאת על הסיפון, ייתכן שיש להם מפה של היכן הוא קבור.
+- **מקומות מקלט:** עיירות חופיות, מבוצרות וללא חוק עשויות לשמש כמקלט לבוקנירים ופיראטים.

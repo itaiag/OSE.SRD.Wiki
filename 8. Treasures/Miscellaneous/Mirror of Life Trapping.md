@@ -1,9 +1,9 @@
-# Mirror of Life Trapping
+# מראה של לכידת חיים
 
-A mirror with the ability to magically trap living creatures behind its pane.
+מראה עם היכולת ללכוד באופן קסום יצורים חיים מאחורי הזכוכית שלה.
 
-- **Gazing into the mirror:** Any creature of human size or smaller who gazes into the mirror is sucked inside (**save versus spells** to resist) with all its belongings.
-- **Capacity**: Up to 20 creatures can be trapped in the mirror. When this number is reached, it becomes safe to look in the mirror.
-- **Inside the mirror:** A creature will live indefinitely, without the need for air or sustenance, and unaffected by aging.
-- **Communication:** Trapped creatures may converse with those outside, but are utterly powerless.
-- **Breaking the mirror:** Releases those trapped.
+- **להביט במראה:** כל יצור בגודל אדם או קטן יותר שמביט במראה נשאב פנימה (**הצלה מול לחשים** כדי להתנגד) עם כל חפציו.
+- **קיבולת**: עד 20 יצורים יכולים להילכד במראה. כאשר מספר זה מושג, זה הופך לבטוח להביט במראה.
+- **בתוך המראה:** יצור יחיה ללא הגבלת זמן, ללא צורך באוויר או מזון, ולא יושפע מהזדקנות.
+- **תקשורת:** יצורים לכודים יכולים לשוחח עם אלו שבחוץ, אך הם חסרי אונים לחלוטין.
+- **שבירת המראה:** משחררת את הלכודים.

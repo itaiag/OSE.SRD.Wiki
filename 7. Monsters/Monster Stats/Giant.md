@@ -1,155 +1,155 @@
-# Giant
+# ענק
 
-## Cloud Giant
+## ענק עננים
 
-Aggressive, 20’ tall humanoids with skin and hair ranging from grey to white. Dress in pale robes.
+דמויות אנושיות אגרסיביות בגובה 20 רגל עם עור ושיער הנעים בין אפור ללבן. לובשים גלימות חיוורות.
 
 ------
 
-| Armor Class     | 4 [15]                                |
+| מחלקת שריון     | 4 [15]                                |
 | ---------------- | ------------------------------------- |
-| Hit Dice         | 12+3 (57hp)                           |
-| Attacks          | 1 × weapon (6d6) or 1 × boulder (3d6) |
+| קוביות פגיעה     | 12+3 (57 נק"פ)                        |
+| התקפות           | 1 × נשק (6d6) או 1 × סלע (3d6)        |
 | THAC0            | 10 [+9]                               |
-| Movement         | 120’ (40’)                            |
-| Saving Throws    | D6 W7 P8 B8 S10 (12)                  |
-| Morale           | 10                                    |
-| Alignment        | Neutral                               |
-| XP               | 1,100                                 |
-| Number Appearing | 1d2 (1d3)                             |
-| Treasure Type    | E + 5,000gp                           |
+| תנועה            | 120’ (40’)                            |
+| הצלות            | D6 W7 P8 B8 S10 (12)                  |
+| מורל             | 10                                    |
+| נטייה            | נייטרלי                               |
+| נק"נ             | 1,100                                 |
+| מספר מופיעים     | 1d2 (1d3)                             |
+| סוג אוצר         | E + 5,000 זהב                         |
 
 ------
 
-- **Keen sight and smell:** Only surprised on a 1.
-- **Boulder throwing:** Up to 200’.
-- **Castle:** Built into mountainsides or floating on cloud banks.
-- **Guardians:** 3d6 giant hawks or (only in mountains) 6d6 dire wolves.
-- **Hate intruders:** May block mountain passes to ensure isolation.
+- **ראייה וריח חדים:** מופתעים רק ב-1.
+- **זריקת סלעים:** עד 200 רגל.
+- **טירה:** בנויה בצדי הרים או צפה על ענני עננים.
+- **שומרים:** 3d6 נצים ענקיים או (רק בהרים) 6d6 זאבים אימתניים.
+- **שונאים פולשים:** עשויים לחסום מעברי הרים כדי להבטיח בידוד.
 
-## Fire Giant
+## ענק אש
 
-16’ tall humanoids with black hair and red skin. Dress in armor fashioned from golden metals (brass, bronze, copper). Dwell in places of extreme heat (e.g., near volcanoes).
+דמויות אנושיות בגובה 16 רגל עם שיער שחור ועור אדום. לובשים שריון עשוי ממתכות זהביות (פליז, ברונזה, נחושת). מתגוררים במקומות של חום קיצוני (למשל, ליד הרי געש).
 
 ------
 
-| Armor Class     | 4 [15]                                |
+| מחלקת שריון     | 4 [15]                                |
 | ---------------- | ------------------------------------- |
-| Hit Dice         | 11+2 (51hp)                           |
-| Attacks          | 1 × weapon (5d6) or 1 × boulder (3d6) |
+| קוביות פגיעה     | 11+2 (51 נק"פ)                        |
+| התקפות           | 1 × נשק (5d6) או 1 × סלע (3d6)        |
 | THAC0            | 10 [+9]                               |
-| Movement         | 120’ (40’)                            |
-| Saving Throws    | D6 W7 P8 B8 S10 (11)                  |
-| Morale           | 9                                     |
-| Alignment        | Chaotic                               |
-| XP               | 1,100                                 |
-| Number Appearing | 1d2 (1d3)                             |
-| Treasure Type    | E + 5,000gp                           |
+| תנועה            | 120’ (40’)                            |
+| הצלות            | D6 W7 P8 B8 S10 (11)                  |
+| מורל             | 9                                     |
+| נטייה            | כאוטי                                 |
+| נק"נ             | 1,100                                 |
+| מספר מופיעים     | 1d2 (1d3)                             |
+| סוג אוצר         | E + 5,000 זהב                         |
 
 ------
 
-- **Boulder throwing:** Up to 200’.
-- **Fire immunity:** Unharmed by fire.
-- **Castle:** Black, low-walled. Made of baked mud and raw iron.
-- **Guardians:** 20% chance of 1d3 hydras, 3d6 hellhounds otherwise.
+- **זריקת סלעים:** עד 200 רגל.
+- **חסינות לאש:** לא נפגעים מאש.
+- **טירה:** שחורה, עם חומות נמוכות. עשויה מבוץ אפוי וברזל גולמי.
+- **שומרים:** 20% סיכוי ל-1d3 הידרות, אחרת 3d6 כלבי גיהנום.
 
-## Frost Giant
+## ענק כפור
 
-18’ tall humanoids with pale skin and pale, yellow or blue hair. Dress in furs or iron armor. Males have long beards.
+דמויות אנושיות בגובה 18 רגל עם עור חיוור ושיער צהוב או כחול חיוור. לובשים פרוות או שריון ברזל. לגברים יש זקנים ארוכים.
 
 ------
 
-| Armor Class     | 4 [15]                                |
+| מחלקת שריון     | 4 [15]                                |
 | ---------------- | ------------------------------------- |
-| Hit Dice         | 10+1 (46hp)                           |
-| Attacks          | 1 × weapon (4d6) or 1 × boulder (3d6) |
+| קוביות פגיעה     | 10+1 (46 נק"פ)                        |
+| התקפות           | 1 × נשק (4d6) או 1 × סלע (3d6)        |
 | THAC0            | 11 [+8]                               |
-| Movement         | 120’ (40’)                            |
-| Saving Throws    | D6 W7 P8 B8 S10 (10)                  |
-| Morale           | 9                                     |
-| Alignment        | Chaotic                               |
-| XP               | 900                                   |
-| Number Appearing | 1d2 (1d4)                             |
-| Treasure Type    | E + 5,000gp                           |
+| תנועה            | 120’ (40’)                            |
+| הצלות            | D6 W7 P8 B8 S10 (10)                  |
+| מורל             | 9                                     |
+| נטייה            | כאוטי                                 |
+| נק"נ             | 900                                   |
+| מספר מופיעים     | 1d2 (1d4)                             |
+| סוג אוצר         | E + 5,000 זהב                         |
 
 ------
 
-- **Boulder throwing:** Up to 200’.
-- **Cold immunity:** Unharmed by cold-based attacks.
-- **Castle:** High upon snowy mountains.
-- **Guardians:** 20% chance of 3d6 polar bears, 6d6 wolves otherwise.
+- **זריקת סלעים:** עד 200 רגל.
+- **חסינות לקור:** לא נפגעים מהתקפות מבוססות קור.
+- **טירה:** גבוה על הרים מושלגים.
+- **שומרים:** 20% סיכוי ל-3d6 דובי קוטב, אחרת 6d6 זאבים.
 
-## Hill Giant
+## ענק גבעות
 
-Hairy, brutish, 12’ tall humanoids of low intelligence. Dwell in foothills. Known to attack human settlements to steal food.
+דמויות אנושיות שעירות וברוטליות בגובה 12 רגל עם אינטליגנציה נמוכה. מתגוררים במורדות גבעות. ידועים בתקיפת יישובים אנושיים כדי לגנוב מזון.
 
 ------
 
-| Armor Class     | 4 [15]                |
+| מחלקת שריון     | 4 [15]                |
 | ---------------- | --------------------- |
-| Hit Dice         | 8 (36hp)              |
-| Attacks          | 1 × weapon (2d8)      |
+| קוביות פגיעה     | 8 (36 נק"פ)           |
+| התקפות           | 1 × נשק (2d8)         |
 | THAC0            | 12 [+7]               |
-| Movement         | 120’ (40’)            |
-| Saving Throws    | D8 W9 P10 B10 S12 (8) |
-| Morale           | 8                     |
-| Alignment        | Chaotic               |
-| XP               | 650                   |
-| Number Appearing | 1d4 (2d4)             |
-| Treasure Type    | E + 5,000gp           |
+| תנועה            | 120’ (40’)            |
+| הצלות            | D8 W9 P10 B10 S12 (8) |
+| מורל             | 8                     |
+| נטייה            | כאוטי                 |
+| נק"נ             | 650                   |
+| מספר מופיעים     | 1d4 (2d4)             |
+| סוג אוצר         | E + 5,000 זהב         |
 
 ------
 
-- **Weapons:** Wield giant clubs and spears.
+- **נשקים:** משתמשים באלות ענקיות וחניתות.
 
-## Stone Giant
+## ענק אבן
 
-14’ tall humanoids with stone-like, grey skin. Dwell in natural caverns or primitive huts built of stone.
+דמויות אנושיות בגובה 14 רגל עם עור אפור דמוי אבן. מתגוררים במערות טבעיות או בבקתות פרימיטיביות עשויות אבן.
 
 ------
 
-| Armor Class     | 4 [15]                                |
+| מחלקת שריון     | 4 [15]                                |
 | ---------------- | ------------------------------------- |
-| Hit Dice         | 9 (40hp)                              |
-| Attacks          | 1 × weapon (3d6) or 1 × boulder (3d6) |
+| קוביות פגיעה     | 9 (40 נק"פ)                           |
+| התקפות           | 1 × נשק (3d6) או 1 × סלע (3d6)        |
 | THAC0            | 12 [+7]                               |
-| Movement         | 120’ (40’)                            |
-| Saving Throws    | D8 W9 P10 B10 S12 (9)                 |
-| Morale           | 9                                     |
-| Alignment        | Neutral                               |
-| XP               | 900                                   |
-| Number Appearing | 1d2 (1d6)                             |
-| Treasure Type    | E + 5,000gp                           |
+| תנועה            | 120’ (40’)                            |
+| הצלות            | D8 W9 P10 B10 S12 (9)                 |
+| מורל             | 9                                     |
+| נטייה            | נייטרלי                               |
+| נק"נ             | 900                                   |
+| מספר מופיעים     | 1d2 (1d6)                             |
+| סוג אוצר         | E + 5,000 זהב                         |
 
 ------
 
-- **Weapons:** Stone clubs made from huge stalactites.
-- **Boulder throwing:** Up to 300’.
-- **Guardians:** 50% chance of 1d4 cave bears.
+- **נשקים:** אלות אבן עשויות מסטלקטיטים ענקיים.
+- **זריקת סלעים:** עד 300 רגל.
+- **שומרים:** 50% סיכוי ל-1d4 דובי מערה.
 
-## Storm Giant
+## ענק סערה
 
-22’ tall humanoids with bronze-hued skin and garish hair (red or yellow).
+דמויות אנושיות בגובה 22 רגל עם עור בגוון ברונזה ושיער בוהק (אדום או צהוב).
 
 ------
 
-| Armor Class     | 2 [17]                               |
+| מחלקת שריון     | 2 [17]                               |
 | ---------------- | ------------------------------------ |
-| Hit Dice         | 15 (67hp)                            |
-| Attacks          | 1 × weapon (8d6), 1 × lightning bolt |
+| קוביות פגיעה     | 15 (67 נק"פ)                         |
+| התקפות           | 1 × נשק (8d6), 1 × ברק               |
 | THAC0            | 9 [+10]                              |
-| Movement         | 150’ (50’)                           |
-| Saving Throws    | D4 W5 P6 B5 S8 (15)                  |
-| Morale           | 10                                   |
-| Alignment        | Lawful                               |
-| XP               | 1,350                                |
-| Number Appearing | 1 (1d3)                              |
-| Treasure Type    | E + 5,000gp                          |
+| תנועה            | 150’ (50’)                           |
+| הצלות            | D4 W5 P6 B5 S8 (15)                  |
+| מורל             | 10                                   |
+| נטייה            | חוקי                                 |
+| נק"נ             | 1,350                                |
+| מספר מופיעים     | 1 (1d3)                              |
+| סוג אוצר         | E + 5,000 זהב                        |
 
 ------
 
-- **Summon storm:** Takes 1 turn.
-- **Lightning bolts:** In a storm, may throw lightning every 5 rounds: 60’ long, 5’ wide; inflicts damage equal to the giant’s current hit point total (**save versus spells** for half damage); will bounce off of hard surfaces in the path.
-- **Lightning immunity:** Unharmed by lightning. Enjoy basking in storms.
-- **Castle:** High among mountain peaks, atop banks of clouds, or in deep waters.
-- **Guardians:** 2d4 griffons. Underwater: 3d6 giant crabs.
+- **זימון סערה:** לוקח 1 תור.
+- **ברקים:** בסערה, עשויים לזרוק ברק כל 5 סיבובים: 60 רגל אורך, 5 רגל רוחב; גורם נזק השווה לסך נקודות הפגיעה הנוכחיות של הענק (**הצלה מול לחשים** לחצי נזק); יקפוץ ממשטחים קשים בדרך.
+- **חסינות לברקים:** לא נפגעים מברקים. נהנים להשתזף בסערות.
+- **טירה:** גבוה בין פסגות הרים, על ענני עננים, או במים עמוקים.
+- **שומרים:** 2d4 גריפונים. מתחת למים: 3d6 סרטנים ענקיים.

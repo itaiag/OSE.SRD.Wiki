@@ -1,63 +1,63 @@
-# Reincarnation
+# גלגול נשמות
 
-*6th Level Magic-User Spell*
+*כישוף משתמש-קסם ברמה 6*
 
-**Duration:** Permanent
+**משך:** קבוע
 
-**Range:** Appears in the caster’s presence
+**טווח:** מופיע בנוכחות המטיל
 
-A dead character is returned to life in a new physical form that manifests in the presence of the caster. The character’s new body is not necessarily the same as the original; it is determined by rolling on the ***Reincarnated Class*** table below.
+דמות מתה מוחזרת לחיים בצורת פיזית חדשה שמתגלה בנוכחות המטיל. הגוף החדש של הדמות לא בהכרח זהה למקור; הוא נקבע על ידי גלגול בטבלה ***מחלקת גלגול נשמות*** למטה.
 
-The roll indicates either a character class or a monster:
+הגלגול מציין או מחלקת דמות או מפלצת:
 
-- **Character class:** The character is of experience level 1d6 (or at most the same level as the character achieved before death). The reincarnated character can continue to gain experience and advance as normal, in the new class.
-- **Monster:** The type should be determined by the referee. The monster should be at least partially intelligent, have Hit Dice no greater than the level of the character being reincarnated (at most 6 HD), and be of the same alignment. The tables below may be used, or the referee may create their own tables. Monsters cannot gain experience or advance in level.
+- **מחלקת דמות:** הדמות היא ברמת ניסיון 1d6 (או לכל היותר באותה רמה שהדמות הגיעה אליה לפני המוות). הדמות הגלגולית יכולה להמשיך לצבור ניסיון ולהתקדם כרגיל, במחלקה החדשה.
+- **מפלצת:** הסוג צריך להיקבע על ידי השופט. המפלצת צריכה להיות לפחות חלקית אינטליגנטית, עם קוביות פגיעה שלא יעלו על רמת הדמות המגלגלת (לכל היותר 6 קוביות פגיעה), ולהיות באותו יישור. ניתן להשתמש בטבלאות למטה, או שהשופט יכול ליצור טבלאות משלו. מפלצות לא יכולות לצבור ניסיון או להתקדם ברמה.
 
-| d10  | Reincarnation                                                |
+| d10  | גלגול נשמות                                                |
 | :--: | :----------------------------------------------------------- |
-|  1   | Cleric |
-|  2   | Dwarf |
-|  3   | Elf |
-|  4   | Fighter |
-|  5   | Halfling |
-|  6   | Magic-user |
-|  7   | Thief |
-|  8   | Monster (roll on alignment table)                            |
-| 9–10 | Same class                                                   |
+|  1   | כוהן |
+|  2   | גמד |
+|  3   | אלף |
+|  4   | לוחם |
+|  5   | חצי-אדם |
+|  6   | משתמש-קסם |
+|  7   | גנב |
+|  8   | מפלצת (גלגל בטבלת יישור)                            |
+| 9–10 | אותה מחלקה                                                   |
 
-|  d6  | Reincarnation                                                |  HD  |
+|  d6  | גלגול נשמות                                                |  קוביות פגיעה  |
 | :--: | :----------------------------------------------------------- | :--: |
-|  1   | Gnome |  1   |
-|  2   | Neanderthal |  2   |
-|  3   | Pegasus |  2   |
-|  4   | Blink dog |  4   |
-|  5   | Unicorn |  4   |
-|  6   | Roc, small |  6   |
+|  1   | גמדון |  1   |
+|  2   | ניאנדרטל |  2   |
+|  3   | פגסוס |  2   |
+|  4   | כלב מהבהב |  4   |
+|  5   | חד-קרן |  4   |
+|  6   | רוק, קטן |  6   |
 
-|  d6  | Reincarnation                                                |  HD  |
+|  d6  | גלגול נשמות                                                |  קוביות פגיעה  |
 | :--: | :----------------------------------------------------------- | :--: |
-|  1   | Pixie or sprite |  1   |
-|  2   | Lizard man |  2   |
-|  3   | Rock baboon |  2   |
-|  4   | Ape, white |  4   |
-|  5   | Centaur |  4   |
-|  6   | Werebear |  6   |
+|  1   | פיקסי או שדון |  1   |
+|  2   | איש לטאה |  2   |
+|  3   | בבון סלע |  2   |
+|  4   | קוף לבן |  4   |
+|  5   | קנטאור |  4   |
+|  6   | דוב-אדם |  6   |
 
-| d10  | Reincarnation                                                |  HD  |
+| d10  | גלגול נשמות                                                |  קוביות פגיעה  |
 | :--: | :----------------------------------------------------------- | :--: |
-|  1   | Goblin |  1   |
-|  2   | Hobgoblin |  1   |
-|  3   | Kobold |  1   |
-|  4   | Orc |  1   |
-|  5   | Gnoll |  2   |
-|  6   | Bugbear |  3   |
-|  7   | Wererat |  3   |
-|  8   | Ogre |  4   |
-|  9   | Werewolf |  4   |
-|  10  | Minotaur |  6   |
+|  1   | גובלין |  1   |
+|  2   | הובגובלין |  1   |
+|  3   | קובולד |  1   |
+|  4   | אורק |  1   |
+|  5   | גנול |  2   |
+|  6   | באגבר |  3   |
+|  7   | עכברוש-אדם |  3   |
+|  8   | עוג |  4   |
+|  9   | זאב-אדם |  4   |
+|  10  | מינוטאור |  6   |
 
-## Alternative Reincarnation Tables
+## טבלאות גלגול נשמות חלופיות
 
-The classes and monsters listed in the tables are drawn from *Old-School Essentials Classic Fantasy*.
+המחלקות והמפלצות המופיעות בטבלאות נלקחו מ-*Old-School Essentials Classic Fantasy*.
 
-If other classes or monsters are in use, the referee may wish to create alternative reincarnation tables.
+אם משתמשים במחלקות או מפלצות אחרות, השופט עשוי לרצות ליצור טבלאות גלגול נשמות חלופיות.

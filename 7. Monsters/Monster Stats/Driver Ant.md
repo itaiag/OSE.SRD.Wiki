@@ -1,24 +1,24 @@
-# Driver Ant
+# נמלת נהג
 
-Giant (6’ long), omnivorous, black ants.
+נמלים ענקיות (אורך 6 רגל), אוכלי כל, שחורות.
 
 ------
 
-| Armor Class     | 3 [16]                  |
+| מחלקת שריון     | 3 [16]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 4* (18hp)               |
-| Attacks          | 1 × bite (2d6)          |
+| קוביות פגיעה     | 4* (18 נק"פ)            |
+| התקפות          | 1 × נשיכה (2ק6)         |
 | THAC0            | 16 [+3]                 |
-| Movement         | 180’ (60’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 7 (12 in melee)         |
-| Alignment        | Neutral                 |
-| XP               | 125                     |
-| Number Appearing | 2d4 (4d6)               |
-| Treasure Type    | U (see below)           |
+| תנועה           | 180’ (60’)              |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (2) |
+| מורל            | 7 (12 בקרב פנים אל פנים)|
+| נטייה           | ניטרלי                  |
+| נק"נ            | 125                     |
+| מספר מופיעים    | 2ק4 (4ק6)               |
+| סוג אוצר        | U (ראה למטה)            |
 
 ------
 
-- **Rapacious:** Consume everything in their path, when hungry.
-- **Morale:** Attack relentlessly, once they are engaged in melee (morale 12). Will even pursue through flames.
-- **Lair treasure:** 30% chance of 1d10 × 1,000gp worth of gold nuggets, mined by the ants.
+- **רעבתניות:** צורכות כל דבר בדרכן, כשהן רעבות.
+- **מורל:** תוקפות ללא רחם, ברגע שהן מעורבות בקרב פנים אל פנים (מורל 12). ימשיכו לרדוף אפילו דרך להבות.
+- **אוצר מאורה:** סיכוי של 30% ל-1ק10 × 1,000 מטבעות זהב בערך של גושי זהב, שנכרו על ידי הנמלים.

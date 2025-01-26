@@ -1,6 +1,6 @@
-# Wand of Enemy Detection
+# שרביט זיהוי אויבים
 
-Grants the power to detect nearby enemies.
+מעניק את הכוח לזהות אויבים בקרבת מקום.
 
-- **Expending a charge:** Causes enemies within 60’ to be haloed in a fiery glow.
-- **Hidden enemies:** Even enemies that are concealed or invisible are affected.
+- **שימוש בטעינה:** גורם לאויבים בטווח של 60’ להיות מוקפים בהילה זוהרת.
+- **אויבים מוסתרים:** גם אויבים שמוסתרים או בלתי נראים מושפעים.

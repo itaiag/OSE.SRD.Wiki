@@ -1,24 +1,24 @@
-# Centaur
+# קנטאור
 
-Fantastic creatures with the legs and body of a horse, and the upper body and head of a human. Live in small family or tribal groups, in wild meadows and isolated forests.
+יצורים מופלאים עם רגליים וגוף של סוס, וחלק עליון וראש של אדם. חיים בקבוצות משפחתיות או שבטיות קטנות, במרעות פרא וביערות מבודדים.
 
 ------
 
-| Armor Class     | 5 [14]                                         |
+| מחלקת שריון     | 5 [14]                                         |
 | ---------------- | ---------------------------------------------- |
-| Hit Dice         | 4 (18hp)                                       |
-| Attacks          | 2 × hoof (1d6), 1 × weapon (1d6 or by weapon), |
+| קוביות פגיעה     | 4 (18 נק"פ)                                    |
+| התקפות           | 2 × פרסה (1ק6), 1 × נשק (1ק6 או לפי נשק),      |
 | THAC0            | 16 [+3]                                        |
-| Movement         | 180’ (60’)                                     |
-| Saving Throws    | D10 W11 P12 B13 S14 (4)                        |
-| Morale           | 8                                              |
-| Alignment        | Neutral                                        |
-| XP               | 75                                             |
-| Number Appearing | 0 (2d10)                                       |
-| Treasure Type    | A                                              |
+| תנועה            | 180’ (60’)                                     |
+| גלגולי הצלה      | D10 W11 P12 B13 S14 (4)                        |
+| מורל             | 8                                              |
+| נטייה            | ניטרלי                                         |
+| נק"נ             | 75                                             |
+| מספר מופיעים     | 0 (2ק10)                                       |
+| סוג אוצר         | A                                              |
 
 ------
 
-- **Weapons:** Bows, clubs, lances.
-- **Lair:** Hidden in dense woods, along twisting, guarded paths.
-- **Females and young:** Normally remain in the lair. Flee if attacked. Young has 2HD and makes 2 hoof attacks (1d2) and 1 weapon attack (1d4 or by weapon).
+- **נשקים:** קשתות, אלות, חניתות.
+- **מאורה:** מוסתרת ביערות צפופים, לאורך שבילים מפותלים ומוגנים.
+- **נקבות וצעירים:** בדרך כלל נשארים במאורה. בורחים אם מותקפים. לצעירים יש 2 קוביות פגיעה ומבצעים 2 התקפות פרסה (1ק2) והתקפת נשק אחת (1ק4 או לפי נשק).

@@ -1,9 +1,9 @@
-# Know Alignment
+# ידיעת יישור
 
-*2nd Level Cleric Spell*
+*לחישת כוהן דרגה 2*
 
-**Duration:** 1 round
+**משך:** סיבוב אחד
 
-**Range:** 10’
+**טווח:** 10’
 
-Reveals the alignment of one character, monster, object, or area within range. (Most objects or areas do not have an alignment, but magic items or holy places may.)
+מגלה את היישור של דמות, מפלצת, חפץ או אזור אחד בטווח. (לרוב החפצים או האזורים אין יישור, אך לחפצי קסם או מקומות קדושים ייתכן שיש.)

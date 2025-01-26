@@ -1,7 +1,7 @@
-# Wand of Fire Balls
+# שרביט כדורי אש
 
-Conjures fire balls:
+מזמן כדורי אש:
 
-- **Range:** A streak of flame shoots towards an area up to 240’ distant.
-- **Area:** The flame detonates in a 40’ diameter sphere of fire.
-- **Creatures caught in the fire ball:** Suffer 6d6 damage, with a successful **save versus wands** indicating half damage.
+- **טווח:** להבת אש נורית לעבר אזור במרחק של עד 240 רגל.
+- **אזור:** הלהבה מתפוצצת בכדור אש בקוטר 40 רגל.
+- **יצורים שנתפסים בכדור האש:** סובלים מנזק של 6d6, כאשר **הצלה מוצלחת נגד שרביטים** מצביעה על חצי נזק.

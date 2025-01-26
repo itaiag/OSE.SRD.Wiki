@@ -1,29 +1,29 @@
-# Merchant
+# סוחר
 
-Organized traders who travel between settlements in well-armed caravans, buying and selling trade goods (e.g., gold, jewels, silk, spices, wine, etc.).
+סוחרים מאורגנים שנוסעים בין יישובים בשיירות חמושות היטב, קונים ומוכרים סחורות מסחר (למשל, זהב, תכשיטים, משי, תבלינים, יין וכו').
 
 ------
 
-| Armor Class     | 5 [14]                        |
+| מחלקת שריון     | 5 [14]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות           | 1 × נשק (1ק6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 90’ (30’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | Varies                        |
-| Alignment        | Neutral                       |
-| XP               | 10                            |
-| Number Appearing | 0 (1d20)                      |
-| Treasure Type    | A                             |
+| תנועה            | 90’ (30’)                     |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)       |
+| מורל             | משתנה                         |
+| נטייה            | ניטרלי                        |
+| נק"נ             | 10                            |
+| מספר מופיעים     | 0 (1ק20)                      |
+| סוג אוצר         | A                             |
 
 ------
 
-- **Weapons:** Sword and dagger.
-- **Mounted:** On horse, camel, or mule (by terrain).
-- **Wagons:** 2 per merchant. Pulled by horses, mules, or camels (by terrain).
-- **Caravan guards:** For every merchant, 4 guards are present (1st level fighters). AC 4 [15], with crossbows, swords, and daggers.
-- **Guard lieutenants:** For every 5 merchants, 2 lieutenants are present (2nd–3rd level fighters). AC 4 [15]. Equipped as guards.
-- **Guard captain:** Guards are led by a 5th-level fighter. AC 4 [15]. Equipped as guards.
-- **Pack animals:** 1d12 extra horses, mules, or camels.
-- **Treasure:** Should be reduced, if less than 10 merchants are in the group.
+- **נשקים:** חרב ופגיון.
+- **רכובים:** על סוס, גמל או פרד (לפי שטח).
+- **עגלות:** 2 לכל סוחר. נמשכות על ידי סוסים, פרדים או גמלים (לפי שטח).
+- **שומרי שיירה:** לכל סוחר יש 4 שומרים (לוחמים ברמה 1). מחלקת שריון 4 [15], עם קשתות, חרבות ופגיונות.
+- **סגני שומרים:** לכל 5 סוחרים יש 2 סגנים (לוחמים ברמה 2–3). מחלקת שריון 4 [15]. מצוידים כמו השומרים.
+- **קפטן שומרים:** השומרים מונהגים על ידי לוחם ברמה 5. מחלקת שריון 4 [15]. מצויד כמו השומרים.
+- **חיות משא:** 1ק12 סוסים, פרדים או גמלים נוספים.
+- **אוצר:** יש להפחית, אם יש פחות מ-10 סוחרים בקבוצה.

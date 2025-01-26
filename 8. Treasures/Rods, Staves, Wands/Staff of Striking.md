@@ -1,6 +1,6 @@
-# Staff of Striking
+# מטה ההכאה
 
-Used as a magical melee weapon.
+משמש כנשק קסום לקרב פנים אל פנים.
 
-- **Expending one charge:** Inflicts 2d6 damage on a successful hit.
-- **Usage frequency:** Only one charge may be spent per strike.
+- **הוצאת מטען אחד:** גורם ל-2d6 נזק בפגיעה מוצלחת.
+- **תדירות שימוש:** ניתן להוציא רק מטען אחד לכל מכה.

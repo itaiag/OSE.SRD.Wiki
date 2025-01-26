@@ -1,22 +1,22 @@
-# Veteran
+# ותיק
 
-Low-level fighters, often on their way to or from war.
+לוחמים ברמה נמוכה, לעיתים קרובות בדרכם אל או מהמלחמה.
 
 ------
 
-| Armor Class     | 2 [17]                         |
+| מחלקת שריון     | 2 [17]                         |
 | ---------------- | ------------------------------ |
-| Hit Dice         | 1 to 3 (4 / 9 / 13hp)          |
-| Attacks          | 1 × weapon (1d8 or by weapon)  |
+| קוביות פגיעה     | 1 עד 3 (4 / 9 / 13 נק"פ)       |
+| התקפות          | 1 × נשק (1d8 או לפי נשק)       |
 | THAC0            | 19 [0]                         |
-| Movement         | 60’ (20’)                      |
-| Saving Throws    | D12 W13 P14 B15 S16 (F1 to F3) |
-| Morale           | 9                              |
-| Alignment        | Any                            |
+| תנועה            | 60’ (20’)                      |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (F1 to F3) |
+| מורל             | 9                              |
+| נטייה            | כלשהי                          |
 | XP               | 10 / 20 / 35                   |
-| Number Appearing | 2d4 (2d6)                      |
-| Treasure Type    | V                              |
+| מספר מופיעים    | 2d4 (2d6)                      |
+| סוג אוצר         | V                              |
 
 ------
 
-- **Level and alignment:** A group may all be of the same level and alignment, or these may be determined randomly per individual.
+- **רמה ונטייה:** קבוצה עשויה להיות כולה באותה רמה ונטייה, או שאלו ייקבעו באופן אקראי לכל פרט.

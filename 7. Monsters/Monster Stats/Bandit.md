@@ -1,6 +1,6 @@
 # Bandit
 
-NPC thieves who live by robbery.
+גנבים NPC שחיים משוד.
 
 ------
 
@@ -12,13 +12,13 @@ NPC thieves who live by robbery.
 | Movement         | 120’ (40’)                    |
 | Saving Throws    | D13 W14 P13 B16 S15 (Thief 1) |
 | Morale           | 8                             |
-| Alignment        | Neutral or Chaotic            |
+| Alignment        | ניטרלי או כאוטי              |
 | XP               | 10                            |
 | Number Appearing | 1d8 (3d10)                    |
 | Treasure Type    | U (A)                         |
 
 ------
 
-- **Trickery:** Use disguise or trickery to surprise victims.
-- **Leader:** May have a leader of 2nd level or higher (any human class).
-- **Hoard:** Only have treasure type A when encountered in their wilderness lair.
+- **תחבולה:** שימוש בתחפושת או תחבולה כדי להפתיע קורבנות.
+- **מנהיג:** עשוי להיות להם מנהיג בדרגה 2 או גבוהה יותר (כל סוג של דמות אנושית).
+- **אוצר:** יש להם רק סוג אוצר A כאשר נתקלים בהם במאורתם בטבע.

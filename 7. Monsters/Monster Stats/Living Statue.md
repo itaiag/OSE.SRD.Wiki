@@ -1,76 +1,76 @@
-# Living Statue
+# פסל חי
 
-Animated statues of any size and material (three types described below; others may be invented by the referee.
+פסלים מונפשים בכל גודל וחומר (שלושה סוגים מתוארים למטה; אחרים עשויים להיות מומצאים על ידי השופט).
 
-- **Immunity:** Unaffected by *sleep* spells.
-- **Magical origins:** Created by powerful wizards.
+- **חסינות:** לא מושפעים מכישופי *שינה*.
+- **מקורות קסומים:** נוצרו על ידי קוסמים רבי עוצמה.
 
-## Crystal Living Statue
+## פסל חי מקריסטל
 
-Formed of crystals. Often human in form.
+נוצר מקריסטלים. לעיתים קרובות בצורת אדם.
 
 ------
 
-| Armor Class     | 4 [15]                  |
+| מחלקת שריון     | 4 [15]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3 (13hp)                |
-| Attacks          | 2 × blow (1d6)          |
+| קוביות פגיעה    | 3 (13 נק"פ)             |
+| התקפות          | 2 × מכה (1ק6)           |
 | THAC0            | 17 [+2]                 |
-| Movement         | 90’ (30’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (3) |
-| Morale           | 11                      |
-| Alignment        | Lawful                  |
-| XP               | 35                      |
-| Number Appearing | 1d6 (1d6)               |
-| Treasure Type    | None                    |
+| תנועה           | 90’ (30’)               |
+| גלגולי הצלה     | D12 W13 P14 B15 S16 (3) |
+| מורל            | 11                      |
+| נטייה           | חוקי                    |
+| נק"נ            | 35                      |
+| מספר מופיעים    | 1ק6 (1ק6)               |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Immunity:** See main entry.
-- **Attacks:** Depend on the form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+- **חסינות:** ראה ערך ראשי.
+- **התקפות:** תלויות בצורת הפסל (פסלים דמויי אדם עשויים להשתמש בנשק, פסלים דמויי חיות משתמשים בטפרים, וכו').
 
-## Iron Living Statue
+## פסל חי מברזל
 
 ------
 
-| Armor Class     | 2 [17]                  |
+| מחלקת שריון     | 2 [17]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 4 (18hp)                |
-| Attacks          | 2 × blow (1d8)          |
+| קוביות פגיעה    | 4 (18 נק"פ)             |
+| התקפות          | 2 × מכה (1ק8)           |
 | THAC0            | 16 [+3]                 |
-| Movement         | 30’ (10’)               |
-| Saving Throws    | D10 W11 P12 B13 S14 (4) |
-| Morale           | 11                      |
-| Alignment        | Neutral                 |
-| XP               | 75                      |
-| Number Appearing | 1d4 (1d4)               |
-| Treasure Type    | None                    |
+| תנועה           | 30’ (10’)               |
+| גלגולי הצלה     | D10 W11 P12 B13 S14 (4) |
+| מורל            | 11                      |
+| נטייה           | נייטרלי                |
+| נק"נ            | 75                      |
+| מספר מופיעים    | 1ק4 (1ק4)               |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Immunity:** See main entry.
-- **Absorb metals:** Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (**save versus spells**). Stuck weapons can be removed if the statue is killed.
-- **Attacks:** Depend on the form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+- **חסינות:** ראה ערך ראשי.
+- **ספיגת מתכות:** פגיעות עם נשקים מתכתיים לא קסומים גורמות נזק, אך הנשק עשוי להיתקע בפסל (**הצלה מול לחשים**). נשקים תקועים יכולים להיות מוסרים אם הפסל נהרג.
+- **התקפות:** תלויות בצורת הפסל (פסלים דמויי אדם עשויים להשתמש בנשק, פסלים דמויי חיות משתמשים בטפרים, וכו').
 
-## Rock Living Statue
+## פסל חי מסלע
 
-Stony crust filled with magma which they shoot from their fingertips.
+קליפה סלעית מלאה במאגמה שהם יורים מקצות אצבעותיהם.
 
 ------
 
-| Armor Class     | 4 [15]                  |
+| מחלקת שריון     | 4 [15]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 5** (22hp)              |
-| Attacks          | 2 × magma jet (2d6)     |
+| קוביות פגיעה    | 5** (22 נק"פ)           |
+| התקפות          | 2 × סילון מאגמה (2ק6)   |
 | THAC0            | 15 [+4]                 |
-| Movement         | 60’ (20’)               |
-| Saving Throws    | D10 W11 P12 B13 S14 (5) |
-| Morale           | 11                      |
-| Alignment        | Chaotic                 |
-| XP               | 425                     |
-| Number Appearing | 1d3 (1d3)               |
-| Treasure Type    | None                    |
+| תנועה           | 60’ (20’)               |
+| גלגולי הצלה     | D10 W11 P12 B13 S14 (5) |
+| מורל            | 11                      |
+| נטייה           | כאוטי                   |
+| נק"נ            | 425                     |
+| מספר מופיעים    | 1ק3 (1ק3)               |
+| סוג אוצר        | אין                     |
 
 ------
 
-- **Immunity:** See main entry.
+- **חסינות:** ראה ערך ראשי.

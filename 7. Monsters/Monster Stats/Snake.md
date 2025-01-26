@@ -1,125 +1,125 @@
-# Snake
+# נחש
 
-Dwell in all but the most extreme climes. Will usually only attack if cornered or surprised.
+שוכן בכל האקלימים פרט לקיצוניים ביותר. בדרך כלל יתקוף רק אם נלכד או הופתע.
 
-## Giant Rattler
+## עכסן ענק
 
-10’ long snakes with brown and white diamond patterns on their scales, and a rattle of rasping scales on their tails.
+נחשים באורך 10 רגל עם דפוסי יהלום חומים ולבנים על קשקשיהם, ורעשן של קשקשים חורקים על זנבותיהם.
 
 ------
 
-| Armor Class     | 5 [14]                  |
+| מחלקת שריון     | 5 [14]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 4* (18hp)               |
-| Attacks          | 2 × bite (1d4 + poison) |
+| קוביות פגיעה     | 4* (18 נק"פ)            |
+| התקפות           | 2 × נשיכה (1ק4 + רעל)   |
 | THAC0            | 16 [+3]                 |
-| Movement         | 120’ (40’)              |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 8                       |
-| Alignment        | Neutral                 |
-| XP               | 125                     |
-| Number Appearing | 1d4 (1d4)               |
-| Treasure Type    | U                       |
+| תנועה            | 120’ (40’)              |
+| הצלות            | D12 W13 P14 B15 S16 (2) |
+| מורל             | 8                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 125                     |
+| מספר מופיעים     | 1ק4 (1ק4)               |
+| סוג אוצר         | U                       |
 
 ------
 
-- **Rattle:** Shaken to warn off creatures the snake does not wish to attack.
-- **Poison:** Causes death in 1d6 turns (**save versus poison**).
-- **Speed:** Attack twice per round. Second attack at the end of each round.
+- **רעשן:** מנוער כדי להזהיר יצורים שהנחש לא מעוניין לתקוף.
+- **רעל:** גורם למוות ב-1ק6 סיבובים (**הצלה מול רעל**).
+- **מהירות:** תוקף פעמיים בכל סיבוב. התקפה שנייה בסוף כל סיבוב.
 
-## Pit Viper
+## צפע בור
 
-5’ long snakes with grey/green scales.
+נחשים באורך 5 רגל עם קשקשים אפורים/ירוקים.
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 2* (9hp)                |
-| Attacks          | 1 × bite (1d4 + poison) |
+| קוביות פגיעה     | 2* (9 נק"פ)             |
+| התקפות           | 1 × נשיכה (1ק4 + רעל)   |
 | THAC0            | 18 [+1]                 |
-| Movement         | 90’ (30’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (1) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 25                      |
-| Number Appearing | 1d8 (1d8)               |
-| Treasure Type    | None                    |
+| תנועה            | 90’ (30’)               |
+| הצלות            | D12 W13 P14 B15 S16 (1) |
+| מורל             | 7                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 25                      |
+| מספר מופיעים     | 1ק8 (1ק8)               |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Infravision:** 60’. (Pits in the head allow heat sense.)
-- **Initiative:** Always gains initiative (no roll), due to special senses.
-- **Poison:** Causes death (**save versus poison**).
+- **אינפרה-ראייה:** 60’. (בורות בראש מאפשרים חישת חום.)
+- **יוזמה:** תמיד זוכה ביוזמה (ללא גלגול), בשל חושים מיוחדים.
+- **רעל:** גורם למוות (**הצלה מול רעל**).
 
-## Rock Python
+## פיתון סלעים
 
-20’ long snakes with spiralling brown and yellow patterns on their scales.
+נחשים באורך 20 רגל עם דפוסים חומים וצהובים מתפתלים על קשקשיהם.
 
 ------
 
-| Armor Class     | 6 [13]                        |
+| מחלקת שריון     | 6 [13]                        |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 5* (22hp)                     |
-| Attacks          | 1 × bite (1d4 + constriction) |
+| קוביות פגיעה     | 5* (22 נק"פ)                  |
+| התקפות           | 1 × נשיכה (1ק4 + חניקה)      |
 | THAC0            | 15 [+4]                       |
-| Movement         | 90’ (30’)                     |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)       |
-| Morale           | 8                             |
-| Alignment        | Neutral                       |
-| XP               | 300                           |
-| Number Appearing | 1d3 (1d3)                     |
-| Treasure Type    | U                             |
+| תנועה            | 90’ (30’)                     |
+| הצלות            | D12 W13 P14 B15 S16 (3)       |
+| מורל             | 8                             |
+| נטייה            | נייטרלי                      |
+| נק"נ             | 300                           |
+| מספר מופיעים     | 1ק3 (1ק3)                     |
+| סוג אוצר         | U                             |
 
 ------
 
-- **Constriction:** When a bite attack is successful, the python wraps around the victim and begins to squeeze, inflicting 2d4 automatic damage immediately and on each subsequent round.
+- **חניקה:** כאשר התקפת נשיכה מצליחה, הפיתון מתלפף סביב הקורבן ומתחיל ללחוץ, גורם ל-2ק4 נזק אוטומטי מיד ובכל סיבוב עוקב.
 
-## Sea Snake
+## נחש ים
 
-6’ long snakes that live underwater, coming up for breath only once per hour. Will prey on humans.
+נחשים באורך 6 רגל שחיים מתחת למים, עולים לנשום רק פעם בשעה. יטרפו בני אדם.
 
 ------
 
-| Armor Class     | 6 [13]                  |
+| מחלקת שריון     | 6 [13]                  |
 | ---------------- | ----------------------- |
-| Hit Dice         | 3* (13hp)               |
-| Attacks          | 1 × bite (1hp + poison) |
+| קוביות פגיעה     | 3* (13 נק"פ)            |
+| התקפות           | 1 × נשיכה (1 נק"פ + רעל)|
 | THAC0            | 17 [+2]                 |
-| Movement         | 90’ (30’)               |
-| Saving Throws    | D12 W13 P14 B15 S16 (2) |
-| Morale           | 7                       |
-| Alignment        | Neutral                 |
-| XP               | 50                      |
-| Number Appearing | 1d8 (1d8)               |
-| Treasure Type    | None                    |
+| תנועה            | 90’ (30’)               |
+| הצלות            | D12 W13 P14 B15 S16 (2) |
+| מורל             | 7                       |
+| נטייה            | נייטרלי                |
+| נק"נ             | 50                      |
+| מספר מופיעים     | 1ק8 (1ק8)               |
+| סוג אוצר         | אין                     |
 
 ------
 
-- **Pinprick bite:** 50% chance of going unnoticed.
-- **Poison:** Slow acting: effects felt after 1d4+2 turns. **Save versus poison** or die 1 turn later. At this point, the *neutralize poison* spell has a 25% chance of not working.
-- **Larger individuals:** Sea snakes with more than 3 HD may be encountered. They are 6’ long for every 3 HD.
+- **נשיכה דקירה:** 50% סיכוי שלא תורגש.
+- **רעל:** פועל באיטיות: השפעות מורגשות לאחר 1ק4+2 סיבובים. **הצלה מול רעל** או מוות סיבוב אחד לאחר מכן. בשלב זה, יש 25% סיכוי שהלחשים *נטרול רעל* לא יפעלו.
+- **פרטים גדולים יותר:** ניתן להיתקל בנחשי ים עם יותר מ-3 קוביות פגיעה. הם באורך 6 רגל לכל 3 קוביות פגיעה.
 
-## Spitting Cobra
+## קוברה יורקת
 
-3’ long snakes with grey/white scales. Prefer to attack from a distance with spit.
+נחשים באורך 3 רגל עם קשקשים אפורים/לבנים. מעדיפים לתקוף מרחוק עם יריקה.
 
 ------
 
-| Armor Class     | 7 [12]                                          |
+| מחלקת שריון     | 7 [12]                                          |
 | ---------------- | ----------------------------------------------- |
-| Hit Dice         | 1* (4hp)                                        |
-| Attacks          | 1 × spit (blindness) or 1 × bite (1d3 + poison) |
+| קוביות פגיעה     | 1* (4 נק"פ)                                     |
+| התקפות           | 1 × יריקה (עיוורון) או 1 × נשיכה (1ק3 + רעל)   |
 | THAC0            | 19 [0]                                          |
-| Movement         | 90’ (30’)                                       |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)                         |
-| Morale           | 7                                               |
-| Alignment        | Neutral                                         |
-| XP               | 13                                              |
-| Number Appearing | 1d6 (1d6)                                       |
-| Treasure Type    | None                                            |
+| תנועה            | 90’ (30’)                                       |
+| הצלות            | D12 W13 P14 B15 S16 (1)                         |
+| מורל             | 7                                               |
+| נטייה            | נייטרלי                                        |
+| נק"נ             | 13                                              |
+| מספר מופיעים     | 1ק6 (1ק6)                                       |
+| סוג אוצר         | אין                                             |
 
 ------
 
-- **Blinding spit:** Range: 6’. A hit causes permanent blindness (**save versus poison**).
-- **Poison:** Causes death in 1d10 turns (**save versus poison**).
+- **יריקה מעוורת:** טווח: 6’. פגיעה גורמת לעיוורון קבוע (**הצלה מול רעל**).
+- **רעל:** גורם למוות ב-1ק10 סיבובים (**הצלה מול רעל**).

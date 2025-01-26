@@ -1,50 +1,50 @@
-# Rhinoceros
+# קרנף
 
-Dim, armored, herbivorous mammals.
+יונקים עמומים, משוריינים וצמחוניים.
 
-- **Charge:** If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.
-- **Trample:** 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
+- **הסתערות:** אם מופרעים או מאוימים, יסתערו בכיוון אקראי. דורש ריצה ברורה של לפחות 20 יארד. מבצע התקפת קרן על כל מה שבדרך: גורם לנזק כפול.
+- **רמיסה:** סיכוי של 3 מתוך 4 לרמוס בכל סיבוב. +4 לפגיעה ביצורים בגודל אדם או קטנים יותר.
 
-## Normal Rhinoceros
+## קרנף רגיל
 
 ------
 
-| Armor Class     | 5 [14]                              |
+| מחלקת שריון     | 5 [14]                              |
 | ---------------- | ----------------------------------- |
-| Hit Dice         | 6 (27hp)                            |
-| Attacks          | 1 × horn (2d4) or 1 × trample (2d8) |
+| קוביות פגיעה    | 6 (27 נק"פ)                         |
+| התקפות          | 1 × קרן (2ק4) או 1 × רמיסה (2ק8)    |
 | THAC0            | 14 [+5]                             |
-| Movement         | 120’ (40’)                          |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)             |
-| Morale           | 6                                   |
-| Alignment        | Neutral                             |
-| XP               | 275                                 |
-| Number Appearing | 0 (1d12)                            |
-| Treasure Type    | None                                |
+| תנועה           | 120’ (40’)                          |
+| הצלות           | D12 W13 P14 B15 S16 (3)             |
+| מורל            | 6                                   |
+| נטייה           | ניטרלי                              |
+| נק"נ            | 275                                 |
+| מספר מופיעים    | 0 (1ק12)                            |
+| סוג אוצר        | אין                                  |
 
 ------
 
-- **Charge; Trample:** See main entry.
+- **הסתערות; רמיסה:** ראו ערך ראשי.
 
-## Woolly Rhinoceros
+## קרנף צמרי
 
-Giant rhinoceroses adapted for cold climates: their bodies are covered with shaggy, white fur. Live in herds, in cold Lost World areas.
+קרנפים ענקיים המותאמים לאקלים קר: גופם מכוסה בפרווה שעירה ולבנה. חיים בעדרים, באזורים קרים של עולם אבוד.
 
 ------
 
-| Armor Class     | 4 [15]                               |
+| מחלקת שריון     | 4 [15]                               |
 | ---------------- | ------------------------------------ |
-| Hit Dice         | 8 (36hp)                             |
-| Attacks          | 1 × horn (2d6) or 1 × trample (2d12) |
+| קוביות פגיעה    | 8 (36 נק"פ)                          |
+| התקפות          | 1 × קרן (2ק6) או 1 × רמיסה (2ק12)   |
 | THAC0            | 12 [+7]                              |
-| Movement         | 120’ (40’)                           |
-| Saving Throws    | D10 W11 P12 B13 S14 (4)              |
-| Morale           | 6                                    |
-| Alignment        | Neutral                              |
-| XP               | 650                                  |
-| Number Appearing | 0 (1d8)                              |
-| Treasure Type    | None                                 |
+| תנועה           | 120’ (40’)                           |
+| הצלות           | D10 W11 P12 B13 S14 (4)              |
+| מורל            | 6                                    |
+| נטייה           | ניטרלי                               |
+| נק"נ            | 650                                  |
+| מספר מופיעים    | 0 (1ק8)                              |
+| סוג אוצר        | אין                                   |
 
 ------
 
-- **Charge; Trample:** See main entry.
+- **הסתערות; רמיסה:** ראו ערך ראשי.

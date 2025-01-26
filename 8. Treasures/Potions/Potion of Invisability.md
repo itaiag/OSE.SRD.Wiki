@@ -1,5 +1,5 @@
-# Potion of Invisibility
+# שיקוי היעלמות
 
-Drinking this potion, the character becomes invisible. This works the same as the magic-user spell invisibility. The standard potion duration applies.
+שתיית שיקוי זה גורמת לדמות להפוך לבלתי נראית. זה עובד באותו אופן כמו לחש היעלמות של משתמשי קסם. משך הזמן הסטנדרטי של השיקוי חל.
 
-- **Small doses:** At the referee’s discretion, a *potion of invisibility* may be consumed in six smaller doses, each with a reduced duration.
+- **מינונים קטנים:** לפי שיקול דעתו של השופט, ניתן לצרוך *שיקוי היעלמות* בשישה מינונים קטנים יותר, כל אחד עם משך זמן מופחת.

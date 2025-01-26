@@ -1,7 +1,7 @@
-# Potion of Speed
+# שיקוי מהירות
 
-The character’s movements and actions are magically accelerated.
+תנועות ודמויות הדמות מואצות באופן קסום.
 
-- **Movement:** Movement rate is doubled.
-- **Attacks:** The number of attacks per round the character can make is doubled.
-- **Other actions:** May be performed at double speed.
+- **תנועה:** קצב התנועה מוכפל.
+- **התקפות:** מספר ההתקפות לסיבוב שהדמות יכולה לבצע מוכפל.
+- **פעולות אחרות:** ניתן לבצע במהירות כפולה.

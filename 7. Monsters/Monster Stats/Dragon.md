@@ -1,204 +1,204 @@
-# Dragon
+# דרקון
 
-A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragons, many of which are distinguished by the color of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilization.
+גזע גאה ועתיק של זוחלים ענקיים, טורפים ומעופפים. ישנם תתי-מינים רבים של דרקונים, רבים מהם נבדלים בצבע הקשקשים שלהם. כל הדרקונים מטילים ביצים ואוגרים אוצרות במאורותיהם, הרחק מאזורים של ציוויליזציה אנושית.
 
-- **Behavior:** Chaotic dragons usually try to eat humans but may sometimes capture them. Neutral dragons may attack or ignore humans. Lawful dragons may aid parties worthy of the honor.
+- **התנהגות:** דרקונים כאוטיים בדרך כלל מנסים לאכול בני אדם אך לפעמים עשויים ללכוד אותם. דרקונים נייטרליים עשויים לתקוף או להתעלם מבני אדם. דרקונים חוקיים עשויים לסייע לקבוצות הראויות לכבוד.
 
-- **Pride:** Dragons are immensely proud creatures and will always listen to flattery.
+- **גאווה:** דרקונים הם יצורים גאים מאוד ותמיד יקשיבו למחמאות.
 
-- **Attack pattern:** A dragon always attacks first with its breath weapon, then either breathes again or makes melee attacks (equal chance of either).
+- **דפוס התקפה:** דרקון תמיד תוקף תחילה עם נשק הנשימה שלו, ואז או נושף שוב או מבצע התקפות קרב פנים אל פנים (סיכוי שווה לכל אחד).
 
-- **Breath weapon:** It can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (**save versus breath** for half). Shapes of breath weapon:
+- **נשק נשימה:** ניתן להשתמש בו עד שלוש פעמים ביום. כל מי שנתפס באזור סובל נזק השווה לנקודות הפגיעה הנוכחיות של הדרקון (**הצלה מול נשימה** לחצי נזק). צורות של נשק נשימה:
 
-  - **Cloud:** 50’ long, 40’ wide, 20’ high.
-  - **Cone:** 2’ wide at the mouth, 30’ wide at the far end.
-  - **Line:** 5’ wide along the whole length.
+  - **ענן:** 50 רגל אורך, 40 רגל רוחב, 20 רגל גובה.
+  - **קונוס:** 2 רגל רוחב בפה, 30 רגל רוחב בקצה הרחוק.
+  - **קו:** 5 רגל רוחב לאורך כל האורך.
 
-- **Energy immunity:** Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from *fire ball* spells.)
+- **חסינות אנרגיה:** אינם נפגעים מנשק הנשימה שלהם או מגרסאות חלשות יותר שלו. מצילים אוטומטית מול צורות התקפה דומות. (לדוגמה, דרקון אדום חסין לשמן בוער וסובל חצי נזק מלחשים מסוג *כדור אש*).
 
-- **Language and spells:** Some dragons are able to speak (their tongue plus Common). The chance is listed by subspecies. Those who can speak can also cast randomly selected magic-user spells(the listed number and level of spells).
+- **שפה ולחשים:** חלק מהדרקונים מסוגלים לדבר (שפתם בתוספת שפה כללית). הסיכוי מצוין לפי תת-מין. אלו שיכולים לדבר יכולים גם להטיל לחשים של משתמשי קסם שנבחרו באקראי (מספר ורמת הלחשים המצוינים).
 
-- **Sleeping:** The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
+- **שינה:** הסיכוי שדרקון ישן כאשר נתקלים בו על הקרקע מצוין לפי תת-מין. ניתן לתקוף דרקון ישן למשך סיבוב אחד עם בונוס של +2 לפגיעה. לפעמים דרקונים עשויים להעמיד פנים שהם ישנים!
 
-- **Subduing:** Will surrender if reduced to 0hp by non-lethal attacks (see ***Subduing***), admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for up to 1,000gp per hp.
+- **הכנעה:** ייכנע אם יופחת ל-0 נקודות פגיעה על ידי התקפות לא קטלניות (ראה ***הכנעה***), מודה שהובס. (נזק הכנעה אינו מפחית את הנזק שנגרם על ידי נשק הנשימה.) דרקון שהוכנע ינסה לברוח או לתקוף את שוביו, אם תינתן לו ההזדמנות או אם יינתן לו פקודה התאבדותית. ניתן למכור דרקון שהוכנע עד 1,000 מטבעות זהב לכל נקודת פגיעה.
 
-- **Age:** The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
+- **גיל:** הסטטיסטיקות הבאות מתארות דרקונים בגודל ממוצע. דרקונים צעירים יותר עשויים להיות בעלי עד 3 קוביות פגיעה פחות ורבע או חצי מהאוצר. דרקונים מבוגרים עשויים להיות בעלי עד 3 קוביות פגיעה יותר וכפול מהאוצר.
 
-- **Lairs:** A dragon’s treasure is always kept in its well-hidden lair and is seldom unguarded.
+- **מאורות:** אוצר הדרקון תמיד נשמר במאורתו המוסתרת היטב ולעיתים רחוקות אינו מוגן.
 
-## Black Dragon
+## דרקון שחור
 
-Dwell in swamps and marshes.
+שוכן בביצות ובאזורים לחים.
 
 ------
 
-| Armor Class     | 2 [17]                                          |
+| מחלקת שריון     | 2 [17]                                          |
 | ---------------- | ----------------------------------------------- |
-| Hit Dice         | 7** (31hp)                                      |
-| Attacks          | [2 × claw (1d4 + 1), 1 × bite (2d10)] or breath |
+| קוביות פגיעה    | 7** (31 נקודות פגיעה)                          |
+| התקפות          | [2 × טופר (1d4 + 1), 1 × נשיכה (2d10)] או נשימה |
 | THAC0            | 13 [+6]                                         |
-| Movement         | 90’ (30’) / 240’ (80’) flying                   |
-| Saving Throws    | D8 W9 P10 B10 S12 (7)                           |
-| Morale           | 8                                               |
-| Alignment        | Chaotic                                         |
-| XP               | 1,250                                           |
-| Number Appearing | 1d4 (1d4)                                       |
-| Treasure Type    | H                                               |
+| תנועה           | 90’ (30’) / 240’ (80’) מעופף                    |
+| הצלות           | D8 W9 P10 B10 S12 (7)                           |
+| מורל            | 8                                               |
+| נטייה           | כאוטי                                           |
+| נקודות ניסיון   | 1,250                                           |
+| מספר מופיעים    | 1d4 (1d4)                                       |
+| סוג אוצר        | H                                               |
 
 ------
 
-- **Breath weapon:** 60’ long line of acid.
-- **Language and spells:** 20%; 4 × 1st level.
-- **Sleeping:** 40%.
+- **נשק נשימה:** קו של חומצה באורך 60 רגל.
+- **שפה ולחשים:** 20%; 4 × רמה 1.
+- **שינה:** 40%.
 
-## Blue Dragon
+## דרקון כחול
 
-Favour open plains and deserts.
+מעדיף מישורים פתוחים ומדבריות.
 
 ------
 
-| Armor Class     | 0 [19]                                          |
+| מחלקת שריון     | 0 [19]                                          |
 | ---------------- | ----------------------------------------------- |
-| Hit Dice         | 9** (40hp)                                      |
-| Attacks          | [2 × claw (1d6 + 1), 1 × bite (3d10)] or breath |
+| קוביות פגיעה    | 9** (40 נקודות פגיעה)                          |
+| התקפות          | [2 × טופר (1d6 + 1), 1 × נשיכה (3d10)] או נשימה |
 | THAC0            | 12 [+7]                                         |
-| Movement         | 90’ (30’) / 240’ (80’) flying                   |
-| Saving Throws    | D8 W9 P10 B10 S12 (9)                           |
-| Morale           | 9                                               |
-| Alignment        | Neutral                                         |
-| XP               | 2,300                                           |
-| Number Appearing | 1d4 (1d4)                                       |
-| Treasure Type    | H                                               |
+| תנועה           | 90’ (30’) / 240’ (80’) מעופף                    |
+| הצלות           | D8 W9 P10 B10 S12 (9)                           |
+| מורל            | 9                                               |
+| נטייה           | נייטרלי                                         |
+| נקודות ניסיון   | 2,300                                           |
+| מספר מופיעים    | 1d4 (1d4)                                       |
+| סוג אוצר        | H                                               |
 
 ------
 
-- **Breath weapon:** 100’ long line of lightning.
-- **Language and spells:** 40%; 4 × 1st level, 4 × 2nd level.
-- **Sleeping:** 20%.
+- **נשק נשימה:** קו של ברק באורך 100 רגל.
+- **שפה ולחשים:** 40%; 4 × רמה 1, 4 × רמה 2.
+- **שינה:** 20%.
 
-## Gold Dragon
+## דרקון זהב
 
-May be encountered in any terrain, often in the guise of a person or animal.
+עשוי להיתקל בכל סוג של שטח, לעיתים קרובות בדמות אדם או חיה.
 
 ------
 
-| Armor Class     | -2 [21]                                    |
+| מחלקת שריון     | -2 [21]                                    |
 | ---------------- | ------------------------------------------ |
-| Hit Dice         | 11** (49hp)                                |
-| Attacks          | [2 × claw (2d4), 1 × bite (6d6)] or breath |
+| קוביות פגיעה    | 11** (49 נקודות פגיעה)                    |
+| התקפות          | [2 × טופר (2d4), 1 × נשיכה (6d6)] או נשימה |
 | THAC0            | 11 [+8]                                    |
-| Movement         | 90’ (30’) / 240’ (80’) flying              |
-| Saving Throws    | D6 W7 P8 B8 S10 (11)                       |
-| Morale           | 10                                         |
-| Alignment        | Lawful                                     |
-| XP               | 2,700                                      |
-| Number Appearing | 1d4 (1d4)                                  |
-| Treasure Type    | H                                          |
+| תנועה           | 90’ (30’) / 240’ (80’) מעופף               |
+| הצלות           | D6 W7 P8 B8 S10 (11)                       |
+| מורל            | 10                                         |
+| נטייה           | חוקי                                       |
+| נקודות ניסיון   | 2,700                                      |
+| מספר מופיעים    | 1d4 (1d4)                                  |
+| סוג אוצר        | H                                          |
 
 ------
 
-- **Breath weapon:** 90’ long cone of fire or cloud of chlorine gas.
-- **Language and spells:** 100%; 4 × 1st level, 4 × 2nd level, 4 × 3rd level.
-- **Sleeping:** 5%.
-- **Shape changing:** May take on the form of a person or animal.
+- **נשק נשימה:** קונוס של אש באורך 90 רגל או ענן של גז כלור.
+- **שפה ולחשים:** 100%; 4 × רמה 1, 4 × רמה 2, 4 × רמה 3.
+- **שינה:** 5%.
+- **שינוי צורה:** עשוי לקחת את צורת אדם או חיה.
 
-## Green Dragon
+## דרקון ירוק
 
-Lair in jungles and forests.
+שוכן בג'ונגלים ויערות.
 
 ------
 
-| Armor Class     | 1 [18]                                     |
+| מחלקת שריון     | 1 [18]                                     |
 | ---------------- | ------------------------------------------ |
-| Hit Dice         | 8** (36hp)                                 |
-| Attacks          | [2 × claw (1d6), 1 × bite (3d8)] or breath |
+| קוביות פגיעה    | 8** (36 נקודות פגיעה)                     |
+| התקפות          | [2 × טופר (1d6), 1 × נשיכה (3d8)] או נשימה |
 | THAC0            | 12 [+7]                                    |
-| Movement         | 90’ (30’) / 240’ (80’) flying              |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)                      |
-| Morale           | 9                                          |
-| Alignment        | Chaotic                                    |
-| XP               | 1,750                                      |
-| Number Appearing | 1d4 (1d4)                                  |
-| Treasure Type    | H                                          |
+| תנועה           | 90’ (30’) / 240’ (80’) מעופף               |
+| הצלות           | D8 W9 P10 B10 S12 (8)                      |
+| מורל            | 9                                          |
+| נטייה           | כאוטי                                      |
+| נקודות ניסיון   | 1,750                                      |
+| מספר מופיעים    | 1d4 (1d4)                                  |
+| סוג אוצר        | H                                          |
 
 ------
 
-- **Breath weapon:** Cloud of chlorine gas.
-- **Language and spells:** 30%; 3 × 1st level, 3 × 2nd level.
-- **Sleeping:** 30%.
+- **נשק נשימה:** ענן של גז כלור.
+- **שפה ולחשים:** 30%; 3 × רמה 1, 3 × רמה 2.
+- **שינה:** 30%.
 
-## Red Dragon
+## דרקון אדום
 
-Dwell in hills and mountains.
+שוכן בגבעות ובהרים.
 
 ------
 
-| Armor Class     | -1 [20]                                    |
+| מחלקת שריון     | -1 [20]                                    |
 | ---------------- | ------------------------------------------ |
-| Hit Dice         | 10** (45hp)                                |
-| Attacks          | [2 × claw (1d8), 1 × bite (4d8)] or breath |
+| קוביות פגיעה    | 10** (45 נקודות פגיעה)                    |
+| התקפות          | [2 × טופר (1d8), 1 × נשיכה (4d8)] או נשימה |
 | THAC0            | 11 [+8]                                    |
-| Movement         | 90’ (30’) / 240’ (80’) flying              |
-| Saving Throws    | D6 W7 P8 B8 S10 (10)                       |
-| Morale           | 10                                         |
-| Alignment        | Chaotic                                    |
-| XP               | 2,300                                      |
-| Number Appearing | 1d4 (1d4)                                  |
-| Treasure Type    | H                                          |
+| תנועה           | 90’ (30’) / 240’ (80’) מעופף               |
+| הצלות           | D6 W7 P8 B8 S10 (10)                       |
+| מורל            | 10                                         |
+| נטייה           | כאוטי                                      |
+| נקודות ניסיון   | 2,300                                      |
+| מספר מופיעים    | 1d4 (1d4)                                  |
+| סוג אוצר        | H                                          |
 
 ------
 
-- **Breath weapon:** 90’ long cone of fire.
-- **Language and spells:** 50%; 3 × 1st level, 3 × 2nd level, 3 × 3rd level.
-- **Sleeping:** 10%.
+- **נשק נשימה:** קונוס של אש באורך 90 רגל.
+- **שפה ולחשים:** 50%; 3 × רמה 1, 3 × רמה 2, 3 × רמה 3.
+- **שינה:** 10%.
 
-## Sea Dragon
+## דרקון ים
 
-Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew.
+דרקונים אינטליגנטיים, מימיים עם קשקשים ירוקים, כנפיים דמויות סנפיר, וציצה צהבהבה. שוכנים בעומקי האוקיינוס, מאכלסים מערות או שרידי ספינות. לפעמים תוקפים כלי שיט כדי לגנוב את אוצרותיהם ולאכול את הצוות.
 
 ------
 
-| Armor Class     | 1 [18]                                   |
+| מחלקת שריון     | 1 [18]                                   |
 | ---------------- | ---------------------------------------- |
-| Hit Dice         | 8** (36hp)                               |
-| Attacks          | 1 × bite (3d8) or breath                 |
+| קוביות פגיעה    | 8** (36 נקודות פגיעה)                   |
+| התקפות          | 1 × נשיכה (3d8) או נשימה                 |
 | THAC0            | 12 [+7]                                  |
-| Movement         | 180’ (60’) swimming / 180’ (60’) gliding |
-| Saving Throws    | D8 W9 P10 B10 S12 (8)                    |
-| Morale           | 9                                        |
-| Alignment        | Neutral                                  |
-| XP               | 1,750                                    |
-| Number Appearing | 0 (1d4)                                  |
-| Treasure Type    | H                                        |
+| תנועה           | 180’ (60’) שחייה / 180’ (60’) גלישה     |
+| הצלות           | D8 W9 P10 B10 S12 (8)                    |
+| מורל            | 9                                        |
+| נטייה           | נייטרלי                                  |
+| נקודות ניסיון   | 1,750                                    |
+| מספר מופיעים    | 0 (1d4)                                  |
+| סוג אוצר        | H                                        |
 
 ------
 
-- **Breath weapon:** Poison spittle, 100’ range, 20’ diameter. **Save versus breath** or die. (Poison is harmless after 1 round.)
-- **Language and spells:** 20%; 3 × 1st level, 3 × 2nd level.
-- **Sleeping:** 30%.
-- **Gliding:** Leap out of the water and glide for up to 6 rounds.
+- **נשק נשימה:** יריקה רעילה, טווח 100 רגל, קוטר 20 רגל. **הצלה מול נשימה** או מוות. (הרעל אינו מזיק לאחר סיבוב אחד.)
+- **שפה ולחשים:** 20%; 3 × רמה 1, 3 × רמה 2.
+- **שינה:** 30%.
+- **גלישה:** קפיצה מהמים וגלישה עד 6 סיבובים.
 
-## White Dragon
+## דרקון לבן
 
-Found in cold regions.
+נמצא באזורים קרים.
 
 ------
 
-| Armor Class     | 3 [16]                                     |
+| מחלקת שריון     | 3 [16]                                     |
 | ---------------- | ------------------------------------------ |
-| Hit Dice         | 6** (27hp)                                 |
-| Attacks          | [2 × claw (1d4), 1 × bite (2d8)] or breath |
+| קוביות פגיעה    | 6** (27 נקודות פגיעה)                     |
+| התקפות          | [2 × טופר (1d4), 1 × נשיכה (2d8)] או נשימה |
 | THAC0            | 14 [+5]                                    |
-| Movement         | 90’ (30’) / 240’ (80’) flying              |
-| Saving Throws    | D10 W11 P12 B13 S14 (6)                    |
-| Morale           | 8                                          |
-| Alignment        | Neutral                                    |
-| XP               | 725                                        |
-| Number Appearing | 1d4 (1d4)                                  |
-| Treasure Type    | H                                          |
+| תנועה           | 90’ (30’) / 240’ (80’) מעופף               |
+| הצלות           | D10 W11 P12 B13 S14 (6)                    |
+| מורל            | 8                                          |
+| נטייה           | נייטרלי                                    |
+| נקודות ניסיון   | 725                                        |
+| מספר מופיעים    | 1d4 (1d4)                                  |
+| סוג אוצר        | H                                          |
 
 ------
 
-- **Breath weapon:** 80’ long cone of cold.
-- **Language and spells:** 10%; 3 × 1st level.
-- **Sleeping:** 50%.
+- **נשק נשימה:** קונוס של קור באורך 80 רגל.
+- **שפה ולחשים:** 10%; 3 × רמה 1.
+- **שינה:** 50%.

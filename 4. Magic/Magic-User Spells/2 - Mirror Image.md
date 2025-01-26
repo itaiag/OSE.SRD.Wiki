@@ -1,12 +1,12 @@
-# Mirror Image
+# תמונת מראה
 
-*2nd Level Magic-User Spell*
+*לחשים למשתמשי קסם ברמה 2*
 
-**Duration:** 6 turns
+**משך:** 6 תורות
 
-**Range:** The caster
+**טווח:** המטיל
 
-1d4 illusory images of the caster appear.
+מופיעות 1d4 תמונות אשליה של המטיל.
 
-- **Behavior:** The mirror images look and behave exactly as the caster.
-- **Attacks on the caster:** Destroy one of the mirror images (even if the attack misses).
+- **התנהגות:** תמונות המראה נראות ומתנהגות בדיוק כמו המטיל.
+- **התקפות על המטיל:** משמידות אחת מתמונות המראה (גם אם ההתקפה מחטיאה).

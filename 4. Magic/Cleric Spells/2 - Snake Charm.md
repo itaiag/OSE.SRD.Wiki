@@ -1,12 +1,12 @@
-# Snake Charm
+# קסם נחשים
 
-*2nd Level Cleric Spell*
+*לחשים לדרגה 2 לכוהן*
 
-**Duration:** 1d4+1 rounds or turns
+**משך:** 1d4+1 סיבובים או תורות
 
-**Range:** 60’
+**טווח:** 60’
 
-One or more snakes are rendered non-hostile, rearing up and swaying to and fro but not attacking.
+נחש אחד או יותר הופכים ללא עוינים, מתרוממים ומתנודדים קדימה ואחורה אך לא תוקפים.
 
-- **HD affected:** The spell affects up to 1 HD of snakes per level of the caster. For example, a 6th-level caster could affect three 2 HD snakes, two 3 HD snakes, etc.
-- **Duration:** When cast on snakes that are already attacking, the spell lasts for 1d4+1 rounds. Otherwise, it lasts for 1d4+1 turns.
+- **HD מושפעים:** הלחש משפיע על עד 1 HD של נחשים לכל דרגה של המטיל. לדוגמה, מטיל בדרגה 6 יכול להשפיע על שלושה נחשים של 2 HD, שני נחשים של 3 HD, וכו'.
+- **משך:** כאשר מטילים על נחשים שכבר תוקפים, הלחש נמשך 1d4+1 סיבובים. אחרת, הוא נמשך 1d4+1 תורות.

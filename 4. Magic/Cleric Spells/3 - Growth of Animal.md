@@ -1,13 +1,13 @@
-# Growth of Animal
+# צמיחת חיה
 
-*3rd Level Cleric Spell*
+*לחשים של כוהן דרגה 3*
 
-**Duration:** 12 turns
+**משך:** 12 תורות
 
-**Range:** 120’
+**טווח:** 120’
 
-This spell doubles the size and strength of a single animal.
+לחש זה מכפיל את הגודל והכוח של חיה בודדת.
 
-- **Damage:** The damage inflicted by the animal’s attacks is doubled.
-- **Load:** The amount of weight the animal can carry is doubled.
-- **Restrictions:** This spell may be used on normal or giant animals, but intelligent animals, magical animals, and fantastic monsters are unaffected.
+- **נזק:** הנזק שנגרם על ידי התקפות החיה מוכפל.
+- **משקל:** כמות המשקל שהחיה יכולה לשאת מוכפלת.
+- **מגבלות:** לחש זה יכול לשמש על חיות רגילות או ענקיות, אך חיות אינטליגנטיות, חיות קסומות ומפלצות פנטסטיות אינן מושפעות.

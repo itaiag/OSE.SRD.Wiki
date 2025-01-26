@@ -1,6 +1,6 @@
 # Grey Ooze
 
-Slimy horrors that lurk on stone surfaces or among boulders.
+זוועות ריריות שמסתתרות על משטחים מאבן או בין סלעים.
 
 ------
 
@@ -19,6 +19,6 @@ Slimy horrors that lurk on stone surfaces or among boulders.
 
 ------
 
-- **Blend in with stone:** Difficult to tell apart from wet stone.
-- **Acid:** After a successful attack, sticks to the victim and exudes acid. The acid destroys normal armor immediately and inflicts 2d8 damage per round. (Magic armor is dissolved in one turn.)
-- **Energy immunity:** Unharmed by cold or fire.
+- **מתמזג עם אבן:** קשה להבחין בינו לבין אבן רטובה.
+- **חומצה:** לאחר התקפה מוצלחת, נדבק לקורבן ומפריש חומצה. החומצה הורסת שריון רגיל מיד וגורמת ל-2d8 נזק בכל סיבוב. (שריון קסום מתמוסס תוך סיבוב אחד.)
+- **חסינות לאנרגיה:** אינו נפגע מקור או מאש.

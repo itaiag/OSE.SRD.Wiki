@@ -1,23 +1,23 @@
-# Thoul
+# ת'ול
 
-Magical monstrosities that look like hobgoblins (except on close inspection) but combine the powers of ghouls and trolls. Sometimes, they live among hobgoblins.
+מפלצות קסומות שנראות כמו הובגובלינים (למעט בבדיקה מקרוב) אך משלבות את כוחות הגולים והטרולים. לפעמים, הם חיים בין הובגובלינים.
 
 ------
 
-| Armor Class     | 6 [13]                                                      |
+| מחלקת שריון     | 6 [13]                                                      |
 | ---------------- | ----------------------------------------------------------- |
-| Hit Dice         | 3** (13hp)                                                  |
-| Attacks          | 2 × claw (1d3 + paralysis) or 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה    | 3** (13hp)                                                  |
+| התקפות          | 2 × טפר (1d3 + שיתוק) או 1 × נשק (1d6 או לפי נשק)          |
 | THAC0            | 17 [+2]                                                     |
-| Movement         | 120’ (40’)                                                  |
-| Saving Throws    | D12 W13 P14 B15 S16 (3)                                     |
-| Morale           | 10                                                          |
-| Alignment        | Chaotic                                                     |
+| תנועה           | 120’ (40’)                                                  |
+| הצלות           | D12 W13 P14 B15 S16 (3)                                     |
+| מורל            | 10                                                          |
+| נטייה           | כאוטי                                                       |
 | XP               | 65                                                          |
-| Number Appearing | 1d6 (1d10)                                                  |
-| Treasure Type    | C                                                           |
+| מספר מופיעים    | 1d6 (1d10)                                                  |
+| סוג אוצר        | C                                                           |
 
 ------
 
-- **Paralysis:** Successful attacks cause paralysis for 2d4 turns (**save versus paralysis** negates). Elves and creatures larger than ogres are unaffected. After paralysing a target, thouls will attack others.
-- **Regeneration:** A damaged thoul gains 1 hit point at the start of each round, as long as it is alive.
+- **שיתוק:** התקפות מוצלחות גורמות לשיתוק למשך 2d4 סיבובים (**הצלה נגד שיתוק** מבטלת). אלפים ויצורים גדולים מאוגרים אינם מושפעים. לאחר שיתוק מטרה, הת'ולים יתקפו אחרים.
+- **התחדשות:** ת'ול פגוע מקבל נקודת פגיעה אחת בתחילת כל סיבוב, כל עוד הוא חי.

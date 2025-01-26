@@ -1,26 +1,26 @@
-# Brigand
+# שודד
 
-Outlaws and mercenaries who make a living by raiding settlements and attacking travellers.
+פורעי חוק ושכירי חרב שמתפרנסים מפשיטות על יישובים ותקיפת נוסעים.
 
 ------
 
-| Armor Class     | 6 [13], 4 [15], or 3 [16]     |
+| מחלקת שריון     | 6 [13], 4 [15], או 3 [16]     |
 | ---------------- | ----------------------------- |
-| Hit Dice         | 1 (4hp)                       |
-| Attacks          | 1 × weapon (1d6 or by weapon) |
+| קוביות פגיעה     | 1 (4 נק"פ)                    |
+| התקפות           | 1 × נשק (1ק6 או לפי נשק)      |
 | THAC0            | 19 [0]                        |
-| Movement         | 120’ (40’)                    |
-| Saving Throws    | D12 W13 P14 B15 S16 (1)       |
-| Morale           | 8                             |
-| Alignment        | Chaotic                       |
-| XP               | 10                            |
-| Number Appearing | 0 (1d4 × 10)                  |
-| Treasure Type    | A                             |
+| תנועה            | 120’ (40’)                    |
+| גלגולי הצלה      | D12 W13 P14 B15 S16 (1)       |
+| מורל             | 8                             |
+| נטייה            | כאוטי                         |
+| נק"נ             | 10                            |
+| מספר מופיעים     | 0 (1ק4 × 10)                  |
+| סוג אוצר         | A                             |
 
 ------
 
-- **Footmen:** Half the group has: leather armor, shield, sword, shortbow.
-- **Cavalry:** The other half is mounted on riding horses and has: chainmail, shield, and sword.
-- **Leaders and commanders:** For every 20 brigands, there is a leader (2nd-level fighter). For every 40 brigands, there is a commander (4th-level fighter). Leaders ride war horses (with barding) and have plate mail, sword, and lance.
-- **Fortified camps:** Bands commonly combine and live in a camp of 5d6 × 10 brigands.
-- **Camp leaders:** Combined camps are led by a 9th-level fighter, plus a 5th-level fighter for every 50 brigands. Also 50% chance of a magic-user (level 1d3 + 8); 30% chance of a cleric (8th level).
+- **חיילי רגלים:** חצי מהקבוצה מצוידים בשריון עור, מגן, חרב וקשת קצרה.
+- **פרשים:** החצי השני רכוב על סוסי רכיבה ומצויד בשריון שרשראות, מגן וחרב.
+- **מנהיגים ומפקדים:** עבור כל 20 שודדים, יש מנהיג (לוחם בדרגה 2). עבור כל 40 שודדים, יש מפקד (לוחם בדרגה 4). מנהיגים רוכבים על סוסי מלחמה (עם שריון) ומצוידים בשריון לוחות, חרב וחנית.
+- **מחנות מבוצרים:** קבוצות נוהגות להתאגד ולחיות במחנה של 5ק6 × 10 שודדים.
+- **מנהיגי מחנה:** מחנות משולבים מונהגים על ידי לוחם בדרגה 9, בנוסף ללוחם בדרגה 5 עבור כל 50 שודדים. גם יש סיכוי של 50% לקוסם (דרגה 1ק3 + 8); סיכוי של 30% לכוהן (דרגה 8).
